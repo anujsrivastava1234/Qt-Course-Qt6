@@ -1,0 +1,4 @@
+module 11-OverlayExample
+typeinfo app11-OverlayExample.qmltypes
+prefer :/11-OverlayExample/
+

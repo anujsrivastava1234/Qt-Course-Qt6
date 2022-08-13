@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-12a585cfec4a4356b7fe.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "5-InsertMySql",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "5-InsertMySql::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-5-InsertMySql-Debug-82a1d878125f198eba3a.json",
+					"name" : "5-InsertMySql",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "5-InsertMySql_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-5-InsertMySql_autogen-Debug-5ea0d2e07f9203c2cf35.json",
+					"name" : "5-InsertMySql_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "5-InsertMySql_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-5-InsertMySql_autogen_timestamp_deps-Debug-e3ba5a783122f35bbf54.json",
+					"name" : "5-InsertMySql_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/Works/Qt Course/Qt Databases/build-5-InsertMySql-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
+		"source" : "E:/Works/Qt Course/Qt Databases/5-InsertMySql"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

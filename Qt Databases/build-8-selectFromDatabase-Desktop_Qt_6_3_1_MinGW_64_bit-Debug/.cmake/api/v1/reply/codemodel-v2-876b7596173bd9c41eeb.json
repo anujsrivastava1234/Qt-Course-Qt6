@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-a6ac723550e916f99903.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "8-selectFromDatabase",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "8-selectFromDatabase::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-8-selectFromDatabase-Debug-2a2e514cdadc07da46f5.json",
+					"name" : "8-selectFromDatabase",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "8-selectFromDatabase_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-8-selectFromDatabase_autogen-Debug-69fd865478c9c8886bf2.json",
+					"name" : "8-selectFromDatabase_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "8-selectFromDatabase_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-8-selectFromDatabase_autogen_timestamp_deps-Debug-eaa8f21254f7ba68462d.json",
+					"name" : "8-selectFromDatabase_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/Works/Qt Course/Qt Databases/build-8-selectFromDatabase-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
+		"source" : "E:/Works/Qt Course/Qt Databases/8-selectFromDatabase"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

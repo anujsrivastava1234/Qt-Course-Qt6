@@ -1,0 +1,70 @@
+# ninja log v5
+8	38	6811564581556914	1-IntroQtQuick/main.qml	ad94c3539fd0ddba
+8	38	6811564581556914	E:/Works/Qt Course/Qt Quick/build-1-IntroQtQuick-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/1-IntroQtQuick/main.qml	ad94c3539fd0ddba
+4	72	6811564581897713	.qt_plugins/Qt6_QmlPlugins_Imports_app1-IntroQtQuick.cmake	1769265bf9aae5db
+4	72	6811564581897713	E:/Works/Qt Course/Qt Quick/build-1-IntroQtQuick-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app1-IntroQtQuick.cmake	1769265bf9aae5db
+1	73	6811564581877716	.rcc/qmlcache/app1-IntroQtQuick_qmlcache_loader.cpp	a918a9e7fc8b79e0
+1	73	6811564581877716	E:/Works/Qt Course/Qt Quick/build-1-IntroQtQuick-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app1-IntroQtQuick_qmlcache_loader.cpp	a918a9e7fc8b79e0
+74	253	6811564583090459	app1-IntroQtQuick_autogen/timestamp	4f21b86ceb8f3240
+74	253	6811564583090459	app1-IntroQtQuick_autogen/mocs_compilation.cpp	4f21b86ceb8f3240
+74	253	6811564583090459	E:/Works/Qt Course/Qt Quick/build-1-IntroQtQuick-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app1-IntroQtQuick_autogen/timestamp	4f21b86ceb8f3240
+74	253	6811564583090459	E:/Works/Qt Course/Qt Quick/build-1-IntroQtQuick-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app1-IntroQtQuick_autogen/mocs_compilation.cpp	4f21b86ceb8f3240
+258	302	6811564584200596	.rcc/qrc_app1-IntroQtQuick_raw_qml_0.cpp	dfc42e5c889b207e
+258	302	6811564584200596	E:/Works/Qt Course/Qt Quick/build-1-IntroQtQuick-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app1-IntroQtQuick_raw_qml_0.cpp	dfc42e5c889b207e
+255	302	6811564584200596	.rcc/qrc_qmake_1-IntroQtQuick.cpp	7ab082b54959ec1e
+255	302	6811564584200596	E:/Works/Qt Course/Qt Quick/build-1-IntroQtQuick-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_qmake_1-IntroQtQuick.cpp	7ab082b54959ec1e
+253	308	6811564584272344	meta_types/app1-IntroQtQuick_json_file_list.txt	9ef648426eea4c4a
+253	308	6811564584272344	meta_types/app1-IntroQtQuick_json_file_list.txt.timestamp	9ef648426eea4c4a
+253	308	6811564584272344	E:/Works/Qt Course/Qt Quick/build-1-IntroQtQuick-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/app1-IntroQtQuick_json_file_list.txt	9ef648426eea4c4a
+253	308	6811564584272344	E:/Works/Qt Course/Qt Quick/build-1-IntroQtQuick-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/app1-IntroQtQuick_json_file_list.txt.timestamp	9ef648426eea4c4a
+309	348	6811564584671796	meta_types/qt6app1-introqtquick_debug_metatypes.json.gen	1d4d8ea193a5ac6f
+309	348	6811564584671796	meta_types/qt6app1-introqtquick_debug_metatypes.json	1d4d8ea193a5ac6f
+309	348	6811564584671796	E:/Works/Qt Course/Qt Quick/build-1-IntroQtQuick-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6app1-introqtquick_debug_metatypes.json.gen	1d4d8ea193a5ac6f
+309	348	6811564584671796	E:/Works/Qt Course/Qt Quick/build-1-IntroQtQuick-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6app1-introqtquick_debug_metatypes.json	1d4d8ea193a5ac6f
+349	490	6811564585504044	app1-introqtquick_qmltyperegistrations.cpp	1c249d7c7c8b43b4
+349	490	6811564585504044	1-IntroQtQuick/app1-IntroQtQuick.qmltypes	1c249d7c7c8b43b4
+349	490	6811564585504044	E:/Works/Qt Course/Qt Quick/build-1-IntroQtQuick-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app1-introqtquick_qmltyperegistrations.cpp	1c249d7c7c8b43b4
+349	490	6811564585504044	E:/Works/Qt Course/Qt Quick/build-1-IntroQtQuick-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/1-IntroQtQuick/app1-IntroQtQuick.qmltypes	1c249d7c7c8b43b4
+490	583	6811564586960325	.rcc/qmlcache/app1-IntroQtQuick_main_qml.cpp	b2cae182b8a8852d
+490	583	6811564586960325	E:/Works/Qt Course/Qt Quick/build-1-IntroQtQuick-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app1-IntroQtQuick_main_qml.cpp	b2cae182b8a8852d
+591	723	6811564588392196	CMakeFiles/app1-IntroQtQuick.dir/.rcc/qrc_qmake_1-IntroQtQuick.cpp.obj	b0d56ab8bbd7d3f2
+596	724	6811564588410993	CMakeFiles/app1-IntroQtQuick.dir/.rcc/qrc_app1-IntroQtQuick_raw_qml_0.cpp.obj	29ee77252faab7c1
+583	731	6811564588485863	CMakeFiles/app1-IntroQtQuick.dir/app1-IntroQtQuick_autogen/mocs_compilation.cpp.obj	fb7553b9b090c0f6
+586	2818	6811564609325678	CMakeFiles/app1-IntroQtQuick.dir/app1-introqtquick_qmltyperegistrations.cpp.obj	85cad0a7048ae32d
+588	3028	6811564611447132	CMakeFiles/app1-IntroQtQuick.dir/main.cpp.obj	44ca7c8960a76f9b
+599	3157	6811564612744451	CMakeFiles/app1-IntroQtQuick.dir/.rcc/qmlcache/app1-IntroQtQuick_main_qml.cpp.obj	aa7911f4740f2141
+593	3365	6811564614830986	CMakeFiles/app1-IntroQtQuick.dir/.rcc/qmlcache/app1-IntroQtQuick_qmlcache_loader.cpp.obj	645809c1e40acb6d
+3365	3597	6811564617127314	app1-IntroQtQuick.exe	156b2977f22fed1c
+17	47	6811568965904544	1-IntroQtQuick/main.qml	ad94c3539fd0ddba
+17	47	6811568965904544	E:/Works/Qt Course/Qt Quick/build-1-IntroQtQuick-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/1-IntroQtQuick/main.qml	ad94c3539fd0ddba
+21	54	6811568965974848	.qt_plugins/Qt6_QmlPlugins_Imports_app1-IntroQtQuick.cmake	1769265bf9aae5db
+21	54	6811568965974848	E:/Works/Qt Course/Qt Quick/build-1-IntroQtQuick-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app1-IntroQtQuick.cmake	1769265bf9aae5db
+54	80	6811568966231333	.rcc/qrc_app1-IntroQtQuick_raw_qml_0.cpp	dfc42e5c889b207e
+54	80	6811568966231333	E:/Works/Qt Course/Qt Quick/build-1-IntroQtQuick-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app1-IntroQtQuick_raw_qml_0.cpp	dfc42e5c889b207e
+57	151	6811568966886920	.rcc/qmlcache/app1-IntroQtQuick_main_qml.cpp	b2cae182b8a8852d
+57	151	6811568966886920	E:/Works/Qt Course/Qt Quick/build-1-IntroQtQuick-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app1-IntroQtQuick_main_qml.cpp	b2cae182b8a8852d
+151	222	6811568967663918	CMakeFiles/app1-IntroQtQuick.dir/.rcc/qrc_app1-IntroQtQuick_raw_qml_0.cpp.obj	29ee77252faab7c1
+154	1753	6811568982957683	CMakeFiles/app1-IntroQtQuick.dir/.rcc/qmlcache/app1-IntroQtQuick_main_qml.cpp.obj	aa7911f4740f2141
+1753	1970	6811568985106679	app1-IntroQtQuick.exe	156b2977f22fed1c
+8	40	6811574081709124	1-IntroQtQuick/main.qml	ad94c3539fd0ddba
+8	40	6811574081709124	E:/Works/Qt Course/Qt Quick/build-1-IntroQtQuick-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/1-IntroQtQuick/main.qml	ad94c3539fd0ddba
+5	40	6811574081698494	.qt_plugins/Qt6_QmlPlugins_Imports_app1-IntroQtQuick.cmake	1769265bf9aae5db
+5	40	6811574081698494	E:/Works/Qt Course/Qt Quick/build-1-IntroQtQuick-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app1-IntroQtQuick.cmake	1769265bf9aae5db
+43	72	6811574082026268	.rcc/qrc_app1-IntroQtQuick_raw_qml_0.cpp	dfc42e5c889b207e
+43	72	6811574082026268	E:/Works/Qt Course/Qt Quick/build-1-IntroQtQuick-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app1-IntroQtQuick_raw_qml_0.cpp	dfc42e5c889b207e
+40	134	6811574082595475	.rcc/qmlcache/app1-IntroQtQuick_main_qml.cpp	b2cae182b8a8852d
+40	134	6811574082595475	E:/Works/Qt Course/Qt Quick/build-1-IntroQtQuick-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app1-IntroQtQuick_main_qml.cpp	b2cae182b8a8852d
+138	206	6811574083378904	CMakeFiles/app1-IntroQtQuick.dir/.rcc/qrc_app1-IntroQtQuick_raw_qml_0.cpp.obj	29ee77252faab7c1
+135	1739	6811574098703918	CMakeFiles/app1-IntroQtQuick.dir/.rcc/qmlcache/app1-IntroQtQuick_main_qml.cpp.obj	aa7911f4740f2141
+1739	1962	6811574100858426	app1-IntroQtQuick.exe	156b2977f22fed1c
+5	34	6811574209213389	1-IntroQtQuick/main.qml	ad94c3539fd0ddba
+5	34	6811574209213389	E:/Works/Qt Course/Qt Quick/build-1-IntroQtQuick-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/1-IntroQtQuick/main.qml	ad94c3539fd0ddba
+8	40	6811574209266770	.qt_plugins/Qt6_QmlPlugins_Imports_app1-IntroQtQuick.cmake	1769265bf9aae5db
+8	40	6811574209266770	E:/Works/Qt Course/Qt Quick/build-1-IntroQtQuick-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app1-IntroQtQuick.cmake	1769265bf9aae5db
+43	68	6811574209545809	.rcc/qrc_app1-IntroQtQuick_raw_qml_0.cpp	dfc42e5c889b207e
+43	68	6811574209545809	E:/Works/Qt Course/Qt Quick/build-1-IntroQtQuick-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app1-IntroQtQuick_raw_qml_0.cpp	dfc42e5c889b207e
+40	132	6811574210158021	.rcc/qmlcache/app1-IntroQtQuick_main_qml.cpp	b2cae182b8a8852d
+40	132	6811574210158021	E:/Works/Qt Course/Qt Quick/build-1-IntroQtQuick-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app1-IntroQtQuick_main_qml.cpp	b2cae182b8a8852d
+134	202	6811574210898042	CMakeFiles/app1-IntroQtQuick.dir/.rcc/qrc_app1-IntroQtQuick_raw_qml_0.cpp.obj	29ee77252faab7c1
+132	1743	6811574226297364	CMakeFiles/app1-IntroQtQuick.dir/.rcc/qmlcache/app1-IntroQtQuick_main_qml.cpp.obj	aa7911f4740f2141
+1743	1957	6811574228362729	app1-IntroQtQuick.exe	156b2977f22fed1c

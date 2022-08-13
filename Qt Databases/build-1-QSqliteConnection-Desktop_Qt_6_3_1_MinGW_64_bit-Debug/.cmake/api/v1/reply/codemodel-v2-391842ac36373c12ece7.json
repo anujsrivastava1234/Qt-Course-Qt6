@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-c8490a686019644cda38.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "1-QSqliteConnection",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "1-QSqliteConnection::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1-QSqliteConnection-Debug-d457d8974f456ac2da5f.json",
+					"name" : "1-QSqliteConnection",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "1-QSqliteConnection_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1-QSqliteConnection_autogen-Debug-a2b37861cb0a339f967d.json",
+					"name" : "1-QSqliteConnection_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "1-QSqliteConnection_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1-QSqliteConnection_autogen_timestamp_deps-Debug-aade2ef2d56d9fda8f71.json",
+					"name" : "1-QSqliteConnection_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/Works/Qt Course/Qt Databases/build-1-QSqliteConnection-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
+		"source" : "E:/Works/Qt Course/Qt Databases/1-QSqliteConnection"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

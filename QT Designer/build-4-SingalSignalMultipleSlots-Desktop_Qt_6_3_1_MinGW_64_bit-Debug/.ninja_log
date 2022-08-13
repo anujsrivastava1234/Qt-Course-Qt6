@@ -1,0 +1,9 @@
+# ninja log v5
+1	1206	6805458951204062	4-SingalSignalMultipleSlots_autogen/timestamp	b8c5890f2a102725
+1	1206	6805458951204062	4-SingalSignalMultipleSlots_autogen/mocs_compilation.cpp	b8c5890f2a102725
+1	1206	6805458951204062	E:/Works/Qt Course/Qt Widgets/build-4-SingalSignalMultipleSlots-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/4-SingalSignalMultipleSlots_autogen/timestamp	b8c5890f2a102725
+1	1206	6805458951204062	E:/Works/Qt Course/Qt Widgets/build-4-SingalSignalMultipleSlots-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/4-SingalSignalMultipleSlots_autogen/mocs_compilation.cpp	b8c5890f2a102725
+1209	3814	6805458979717988	CMakeFiles/4-SingalSignalMultipleSlots.dir/4-SingalSignalMultipleSlots_autogen/mocs_compilation.cpp.obj	2b6a8af4c7f4449c
+1216	3820	6805458979779490	CMakeFiles/4-SingalSignalMultipleSlots.dir/main.cpp.obj	5dc7a00d99b07206
+1222	3884	6805458980418369	CMakeFiles/4-SingalSignalMultipleSlots.dir/widget.cpp.obj	e9f73cbede04f7e1
+3885	4243	6805458983954544	4-SingalSignalMultipleSlots.exe	da0493345ce7761f

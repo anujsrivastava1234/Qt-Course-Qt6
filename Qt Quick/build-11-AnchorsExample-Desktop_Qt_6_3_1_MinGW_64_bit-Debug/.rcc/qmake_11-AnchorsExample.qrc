@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/11-AnchorsExample">
+    <file alias="qmldir">E:/Works/Qt Course/Qt Quick/build-11-AnchorsExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/11-AnchorsExample/qmldir</file>
+  </qresource>
+</RCC>
+

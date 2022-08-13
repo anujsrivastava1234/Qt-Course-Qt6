@@ -1,0 +1,49 @@
+# ninja log v5
+2	1172	6804776282291807	19-QDialogBox_autogen/timestamp	4842d50f4befe4e5
+2	1172	6804776282291807	19-QDialogBox_autogen/mocs_compilation.cpp	4842d50f4befe4e5
+2	1172	6804776282291807	E:/Works/Qt Course/Qt Widgets/build-19-QDialogBox-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/19-QDialogBox_autogen/timestamp	4842d50f4befe4e5
+2	1172	6804776282291807	E:/Works/Qt Course/Qt Widgets/build-19-QDialogBox-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/19-QDialogBox_autogen/mocs_compilation.cpp	4842d50f4befe4e5
+1182	4295	6804776315476701	CMakeFiles/19-QDialogBox.dir/widget.cpp.obj	196c7ccc094acbe
+1179	4361	6804776316153771	CMakeFiles/19-QDialogBox.dir/main.cpp.obj	2700cbfe097fe07d
+1175	4391	6804776316448190	CMakeFiles/19-QDialogBox.dir/19-QDialogBox_autogen/mocs_compilation.cpp.obj	c4cfaf5fbfb5a499
+4393	4656	6804776319052388	19-QDialogBox.exe	1ca98f82ebc011c6
+11	211	6804776494862259	19-QDialogBox_autogen/timestamp	4842d50f4befe4e5
+11	211	6804776494862259	19-QDialogBox_autogen/mocs_compilation.cpp	4842d50f4befe4e5
+11	211	6804776494862259	E:/Works/Qt Course/Qt Widgets/build-19-QDialogBox-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/19-QDialogBox_autogen/timestamp	4842d50f4befe4e5
+11	211	6804776494862259	E:/Works/Qt Course/Qt Widgets/build-19-QDialogBox-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/19-QDialogBox_autogen/mocs_compilation.cpp	4842d50f4befe4e5
+226	1874	6804776511505078	CMakeFiles/19-QDialogBox.dir/widget.cpp.obj	196c7ccc094acbe
+1874	2096	6804776513684986	19-QDialogBox.exe	1ca98f82ebc011c6
+16	261	6804777137166226	19-QDialogBox_autogen/timestamp	4842d50f4befe4e5
+16	261	6804777137166226	19-QDialogBox_autogen/mocs_compilation.cpp	4842d50f4befe4e5
+16	261	6804777137166226	E:/Works/Qt Course/Qt Widgets/build-19-QDialogBox-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/19-QDialogBox_autogen/timestamp	4842d50f4befe4e5
+16	261	6804777137166226	E:/Works/Qt Course/Qt Widgets/build-19-QDialogBox-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/19-QDialogBox_autogen/mocs_compilation.cpp	4842d50f4befe4e5
+274	1975	6804777154312826	CMakeFiles/19-QDialogBox.dir/widget.cpp.obj	196c7ccc094acbe
+1975	2169	6804777156211254	19-QDialogBox.exe	1ca98f82ebc011c6
+17	1045	6804779718812306	19-QDialogBox_autogen/timestamp	4842d50f4befe4e5
+17	1045	6804779718812306	19-QDialogBox_autogen/mocs_compilation.cpp	4842d50f4befe4e5
+17	1045	6804779718812306	E:/Works/Qt Course/Qt Widgets/build-19-QDialogBox-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/19-QDialogBox_autogen/timestamp	4842d50f4befe4e5
+17	1045	6804779718812306	E:/Works/Qt Course/Qt Widgets/build-19-QDialogBox-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/19-QDialogBox_autogen/mocs_compilation.cpp	4842d50f4befe4e5
+1052	4056	6804779750796369	CMakeFiles/19-QDialogBox.dir/widget.cpp.obj	196c7ccc094acbe
+1048	4065	6804779750894779	CMakeFiles/19-QDialogBox.dir/main.cpp.obj	2700cbfe097fe07d
+1045	4115	6804779751397351	CMakeFiles/19-QDialogBox.dir/19-QDialogBox_autogen/mocs_compilation.cpp.obj	c4cfaf5fbfb5a499
+4116	4368	6804779753875877	19-QDialogBox.exe	1ca98f82ebc011c6
+12	256	6804780214667348	19-QDialogBox_autogen/timestamp	4842d50f4befe4e5
+12	256	6804780214667348	19-QDialogBox_autogen/mocs_compilation.cpp	4842d50f4befe4e5
+12	256	6804780214667348	E:/Works/Qt Course/Qt Widgets/build-19-QDialogBox-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/19-QDialogBox_autogen/timestamp	4842d50f4befe4e5
+12	256	6804780214667348	E:/Works/Qt Course/Qt Widgets/build-19-QDialogBox-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/19-QDialogBox_autogen/mocs_compilation.cpp	4842d50f4befe4e5
+267	2107	6804780233191914	CMakeFiles/19-QDialogBox.dir/widget.cpp.obj	196c7ccc094acbe
+2108	2337	6804780235448451	19-QDialogBox.exe	1ca98f82ebc011c6
+12	739	6804780401903958	19-QDialogBox_autogen/timestamp	4842d50f4befe4e5
+12	739	6804780401903958	19-QDialogBox_autogen/mocs_compilation.cpp	4842d50f4befe4e5
+12	739	6804780401903958	E:/Works/Qt Course/Qt Widgets/build-19-QDialogBox-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/19-QDialogBox_autogen/timestamp	4842d50f4befe4e5
+12	739	6804780401903958	E:/Works/Qt Course/Qt Widgets/build-19-QDialogBox-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/19-QDialogBox_autogen/mocs_compilation.cpp	4842d50f4befe4e5
+742	3229	6804780428262173	CMakeFiles/19-QDialogBox.dir/widget.cpp.obj	196c7ccc094acbe
+739	3247	6804780428433888	CMakeFiles/19-QDialogBox.dir/19-QDialogBox_autogen/mocs_compilation.cpp.obj	c4cfaf5fbfb5a499
+745	3270	6804780428677624	CMakeFiles/19-QDialogBox.dir/main.cpp.obj	2700cbfe097fe07d
+3270	3584	6804780431766025	19-QDialogBox.exe	1ca98f82ebc011c6
+17	319	6804783166840317	19-QDialogBox_autogen/timestamp	4842d50f4befe4e5
+17	319	6804783166840317	19-QDialogBox_autogen/mocs_compilation.cpp	4842d50f4befe4e5
+17	319	6804783166840317	E:/Works/Qt Course/Qt Widgets/build-19-QDialogBox-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/19-QDialogBox_autogen/timestamp	4842d50f4befe4e5
+17	319	6804783166840317	E:/Works/Qt Course/Qt Widgets/build-19-QDialogBox-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/19-QDialogBox_autogen/mocs_compilation.cpp	4842d50f4befe4e5
+339	2581	6804783189474935	CMakeFiles/19-QDialogBox.dir/widget.cpp.obj	196c7ccc094acbe
+2581	2829	6804783191893190	19-QDialogBox.exe	1ca98f82ebc011c6

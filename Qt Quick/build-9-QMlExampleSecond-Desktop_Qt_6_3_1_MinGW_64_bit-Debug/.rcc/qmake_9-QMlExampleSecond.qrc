@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/9-QMlExampleSecond">
+    <file alias="qmldir">E:/Works/Qt Course/Qt Quick/build-9-QMlExampleSecond-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/9-QMlExampleSecond/qmldir</file>
+  </qresource>
+</RCC>
+

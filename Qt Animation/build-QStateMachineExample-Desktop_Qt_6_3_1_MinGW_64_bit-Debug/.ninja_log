@@ -1,0 +1,43 @@
+# ninja log v5
+2	820	6811507934872440	QStateMachineExample_autogen/timestamp	f94f7bc716f425d9
+2	820	6811507934872440	QStateMachineExample_autogen/mocs_compilation.cpp	f94f7bc716f425d9
+2	820	6811507934872440	E:/Works/Qt Course/Qt Animation/build-QStateMachineExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/QStateMachineExample_autogen/timestamp	f94f7bc716f425d9
+2	820	6811507934872440	E:/Works/Qt Course/Qt Animation/build-QStateMachineExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/QStateMachineExample_autogen/mocs_compilation.cpp	f94f7bc716f425d9
+820	2949	6811507957436491	CMakeFiles/QStateMachineExample.dir/QStateMachineExample_autogen/mocs_compilation.cpp.obj	e2ada1b09f9e10b9
+825	3046	6811507958402058	CMakeFiles/QStateMachineExample.dir/widget.cpp.obj	646b2c155f7163f3
+823	3083	6811507958795333	CMakeFiles/QStateMachineExample.dir/main.cpp.obj	73da70cdd78b0dd9
+3084	3283	6811507960743201	QStateMachineExample.exe	26dcadc7f147b9c6
+13	284	6811510264734551	QStateMachineExample_autogen/timestamp	f94f7bc716f425d9
+13	284	6811510264734551	QStateMachineExample_autogen/mocs_compilation.cpp	f94f7bc716f425d9
+13	284	6811510264734551	E:/Works/Qt Course/Qt Animation/build-QStateMachineExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/QStateMachineExample_autogen/timestamp	f94f7bc716f425d9
+13	284	6811510264734551	E:/Works/Qt Course/Qt Animation/build-QStateMachineExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/QStateMachineExample_autogen/mocs_compilation.cpp	f94f7bc716f425d9
+294	2216	6811510284048078	CMakeFiles/QStateMachineExample.dir/widget.cpp.obj	646b2c155f7163f3
+2216	2423	6811510286089365	QStateMachineExample.exe	26dcadc7f147b9c6
+13	252	6811510750335992	QStateMachineExample_autogen/timestamp	f94f7bc716f425d9
+13	252	6811510750335992	QStateMachineExample_autogen/mocs_compilation.cpp	f94f7bc716f425d9
+13	252	6811510750335992	E:/Works/Qt Course/Qt Animation/build-QStateMachineExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/QStateMachineExample_autogen/timestamp	f94f7bc716f425d9
+13	252	6811510750335992	E:/Works/Qt Course/Qt Animation/build-QStateMachineExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/QStateMachineExample_autogen/mocs_compilation.cpp	f94f7bc716f425d9
+15	215	6811510835021952	QStateMachineExample_autogen/timestamp	f94f7bc716f425d9
+15	215	6811510835021952	QStateMachineExample_autogen/mocs_compilation.cpp	f94f7bc716f425d9
+15	215	6811510835021952	E:/Works/Qt Course/Qt Animation/build-QStateMachineExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/QStateMachineExample_autogen/timestamp	f94f7bc716f425d9
+15	215	6811510835021952	E:/Works/Qt Course/Qt Animation/build-QStateMachineExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/QStateMachineExample_autogen/mocs_compilation.cpp	f94f7bc716f425d9
+227	2155	6811510854429973	CMakeFiles/QStateMachineExample.dir/widget.cpp.obj	646b2c155f7163f3
+2155	2365	6811510856485888	QStateMachineExample.exe	26dcadc7f147b9c6
+13	277	6811513335146744	QStateMachineExample_autogen/timestamp	f94f7bc716f425d9
+13	277	6811513335146744	QStateMachineExample_autogen/mocs_compilation.cpp	f94f7bc716f425d9
+13	277	6811513335146744	E:/Works/Qt Course/Qt Animation/build-QStateMachineExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/QStateMachineExample_autogen/timestamp	f94f7bc716f425d9
+13	277	6811513335146744	E:/Works/Qt Course/Qt Animation/build-QStateMachineExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/QStateMachineExample_autogen/mocs_compilation.cpp	f94f7bc716f425d9
+290	2826	6811513360629242	CMakeFiles/QStateMachineExample.dir/widget.cpp.obj	646b2c155f7163f3
+2826	3065	6811513362965295	QStateMachineExample.exe	26dcadc7f147b9c6
+5	229	6811513724356850	QStateMachineExample_autogen/timestamp	f94f7bc716f425d9
+5	229	6811513724356850	QStateMachineExample_autogen/mocs_compilation.cpp	f94f7bc716f425d9
+5	229	6811513724356850	E:/Works/Qt Course/Qt Animation/build-QStateMachineExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/QStateMachineExample_autogen/timestamp	f94f7bc716f425d9
+5	229	6811513724356850	E:/Works/Qt Course/Qt Animation/build-QStateMachineExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/QStateMachineExample_autogen/mocs_compilation.cpp	f94f7bc716f425d9
+237	2219	6811513744255449	CMakeFiles/QStateMachineExample.dir/widget.cpp.obj	646b2c155f7163f3
+2219	2440	6811513746442551	QStateMachineExample.exe	26dcadc7f147b9c6
+17	229	6811513899819282	QStateMachineExample_autogen/timestamp	f94f7bc716f425d9
+17	229	6811513899819282	QStateMachineExample_autogen/mocs_compilation.cpp	f94f7bc716f425d9
+17	229	6811513899819282	E:/Works/Qt Course/Qt Animation/build-QStateMachineExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/QStateMachineExample_autogen/timestamp	f94f7bc716f425d9
+17	229	6811513899819282	E:/Works/Qt Course/Qt Animation/build-QStateMachineExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/QStateMachineExample_autogen/mocs_compilation.cpp	f94f7bc716f425d9
+239	2190	6811513919429268	CMakeFiles/QStateMachineExample.dir/widget.cpp.obj	646b2c155f7163f3
+2190	2410	6811513921581508	QStateMachineExample.exe	26dcadc7f147b9c6

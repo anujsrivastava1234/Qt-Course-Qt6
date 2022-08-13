@@ -1,0 +1,45 @@
+# ninja log v5
+0	653	6808050094829301	3-InsertValues_autogen/timestamp	d6247670621dc26
+0	653	6808050094829301	3-InsertValues_autogen/mocs_compilation.cpp	d6247670621dc26
+0	653	6808050094829301	E:/Works/Qt Course/Qt Databases/build-3-InsertValues-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-InsertValues_autogen/timestamp	d6247670621dc26
+2459	2634	6808050115794126	3-InsertValues.exe	319ab0f5543ae3ac
+0	653	6808050094829301	E:/Works/Qt Course/Qt Databases/build-3-InsertValues-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-InsertValues_autogen/mocs_compilation.cpp	d6247670621dc26
+656	2297	6808050112450152	CMakeFiles/3-InsertValues.dir/main.cpp.obj	655a136f1aab6c7a
+653	2322	6808050112697374	CMakeFiles/3-InsertValues.dir/3-InsertValues_autogen/mocs_compilation.cpp.obj	1431108084d35a6f
+659	2456	6808050114029623	CMakeFiles/3-InsertValues.dir/widget.cpp.obj	f0e459e04ccc6474
+25	1075	6808051046715205	3-InsertValues_autogen/timestamp	d6247670621dc26
+25	1075	6808051046715205	3-InsertValues_autogen/mocs_compilation.cpp	d6247670621dc26
+25	1075	6808051046715205	E:/Works/Qt Course/Qt Databases/build-3-InsertValues-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-InsertValues_autogen/timestamp	d6247670621dc26
+25	1075	6808051046715205	E:/Works/Qt Course/Qt Databases/build-3-InsertValues-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-InsertValues_autogen/mocs_compilation.cpp	d6247670621dc26
+11	638	6808052440269931	3-InsertValues_autogen/timestamp	d6247670621dc26
+11	638	6808052440269931	3-InsertValues_autogen/mocs_compilation.cpp	d6247670621dc26
+11	638	6808052440269931	E:/Works/Qt Course/Qt Databases/build-3-InsertValues-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-InsertValues_autogen/timestamp	d6247670621dc26
+11	638	6808052440269931	E:/Works/Qt Course/Qt Databases/build-3-InsertValues-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-InsertValues_autogen/mocs_compilation.cpp	d6247670621dc26
+639	2497	6808052459998065	CMakeFiles/3-InsertValues.dir/3-InsertValues_autogen/mocs_compilation.cpp.obj	33ce3e6a52aefca7
+643	2506	6808052460090619	CMakeFiles/3-InsertValues.dir/main.cpp.obj	4298ac5da64ffda3
+641	2665	6808052461677020	CMakeFiles/3-InsertValues.dir/widget.cpp.obj	d3a1c28b7a778db3
+2665	2852	6808052463495698	3-InsertValues.exe	4e6cfe12c3eaca11
+12	213	6808058887114993	3-InsertValues_autogen/timestamp	d6247670621dc26
+12	213	6808058887114993	3-InsertValues_autogen/mocs_compilation.cpp	d6247670621dc26
+12	213	6808058887114993	E:/Works/Qt Course/Qt Databases/build-3-InsertValues-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-InsertValues_autogen/timestamp	d6247670621dc26
+12	213	6808058887114993	E:/Works/Qt Course/Qt Databases/build-3-InsertValues-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-InsertValues_autogen/mocs_compilation.cpp	d6247670621dc26
+223	2045	6808058905431329	CMakeFiles/3-InsertValues.dir/widget.cpp.obj	d3a1c28b7a778db3
+2046	2247	6808058907418336	3-InsertValues.exe	4e6cfe12c3eaca11
+5	192	6808061483347394	3-InsertValues_autogen/timestamp	d6247670621dc26
+5	192	6808061483347394	3-InsertValues_autogen/mocs_compilation.cpp	d6247670621dc26
+5	192	6808061483347394	E:/Works/Qt Course/Qt Databases/build-3-InsertValues-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-InsertValues_autogen/timestamp	d6247670621dc26
+5	192	6808061483347394	E:/Works/Qt Course/Qt Databases/build-3-InsertValues-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-InsertValues_autogen/mocs_compilation.cpp	d6247670621dc26
+201	2065	6808061502073795	CMakeFiles/3-InsertValues.dir/widget.cpp.obj	d3a1c28b7a778db3
+2066	2257	6808061503939427	3-InsertValues.exe	4e6cfe12c3eaca11
+7	194	6808062600213525	3-InsertValues_autogen/timestamp	d6247670621dc26
+7	194	6808062600213525	3-InsertValues_autogen/mocs_compilation.cpp	d6247670621dc26
+7	194	6808062600213525	E:/Works/Qt Course/Qt Databases/build-3-InsertValues-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-InsertValues_autogen/timestamp	d6247670621dc26
+7	194	6808062600213525	E:/Works/Qt Course/Qt Databases/build-3-InsertValues-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-InsertValues_autogen/mocs_compilation.cpp	d6247670621dc26
+203	1932	6808062617590100	CMakeFiles/3-InsertValues.dir/widget.cpp.obj	d3a1c28b7a778db3
+1933	2124	6808062619480760	3-InsertValues.exe	4e6cfe12c3eaca11
+16	227	6808064142200467	3-InsertValues_autogen/timestamp	d6247670621dc26
+16	227	6808064142200467	3-InsertValues_autogen/mocs_compilation.cpp	d6247670621dc26
+16	227	6808064142200467	E:/Works/Qt Course/Qt Databases/build-3-InsertValues-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-InsertValues_autogen/timestamp	d6247670621dc26
+16	227	6808064142200467	E:/Works/Qt Course/Qt Databases/build-3-InsertValues-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-InsertValues_autogen/mocs_compilation.cpp	d6247670621dc26
+236	2036	6808064160268731	CMakeFiles/3-InsertValues.dir/widget.cpp.obj	d3a1c28b7a778db3
+2036	2237	6808064162242731	3-InsertValues.exe	4e6cfe12c3eaca11

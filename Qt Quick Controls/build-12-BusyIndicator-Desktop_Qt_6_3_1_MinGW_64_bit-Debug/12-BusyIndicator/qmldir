@@ -1,0 +1,4 @@
+module 12-BusyIndicator
+typeinfo app12-BusyIndicator.qmltypes
+prefer :/12-BusyIndicator/
+

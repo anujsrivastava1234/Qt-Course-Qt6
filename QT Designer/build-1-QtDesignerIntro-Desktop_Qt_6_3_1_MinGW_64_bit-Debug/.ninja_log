@@ -1,0 +1,15 @@
+# ninja log v5
+15	216	6805415805432446	1-QtDesignerIntro_autogen/timestamp	21883cb3d1f66439
+15	216	6805415805432446	1-QtDesignerIntro_autogen/mocs_compilation.cpp	21883cb3d1f66439
+225	1672	6805415819986806	CMakeFiles/1-QtDesignerIntro.dir/widget.cpp.obj	d844866dd4d987ef
+15	216	6805415805432446	E:/Works/Qt Course/QT Designer/build-1-QtDesignerIntro-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/1-QtDesignerIntro_autogen/timestamp	21883cb3d1f66439
+703	2473	6805414442502424	CMakeFiles/1-QtDesignerIntro.dir/1-QtDesignerIntro_autogen/mocs_compilation.cpp.obj	3927d938b8d08e2
+15	216	6805415805432446	E:/Works/Qt Course/QT Designer/build-1-QtDesignerIntro-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/1-QtDesignerIntro_autogen/mocs_compilation.cpp	21883cb3d1f66439
+1673	1857	6805415821809604	1-QtDesignerIntro.exe	ea567d4139dd7a6d
+705	2525	6805414443015566	CMakeFiles/1-QtDesignerIntro.dir/main.cpp.obj	f42ee5da9080ebf4
+2	552	6805420838919105	build.ninja	2a3ac0f959f2c09b
+652	703	6805414424769876	1-QtDesignerIntro_autogen/EWIEGA46WW/qrc_res.cpp	83f1d7fc5534403c
+652	703	6805414424769876	E:/Works/Qt Course/QT Designer/build-1-QtDesignerIntro-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/1-QtDesignerIntro_autogen/EWIEGA46WW/qrc_res.cpp	83f1d7fc5534403c
+707	794	6805414425715072	CMakeFiles/1-QtDesignerIntro.dir/1-QtDesignerIntro_autogen/EWIEGA46WW/qrc_res.cpp.obj	de8da62edcb3f88a
+0	18	0	CMakeFiles/clean.additional	baedbe210acaa455
+18	25	0	clean	577b940aee94fbd7

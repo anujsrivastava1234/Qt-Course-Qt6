@@ -1,0 +1,4 @@
+module 14-TextFieldExample
+typeinfo app14-TextFieldExample.qmltypes
+prefer :/14-TextFieldExample/
+

@@ -1,0 +1,27 @@
+{
+	"BUILD_DIR" : "E:/Works/Qt Course/Qt Multimedia/build-2-VedioPLayerExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-VedioPLayerExample_autogen",
+	"CMAKE_BINARY_DIR" : "E:/Works/Qt Course/Qt Multimedia/build-2-VedioPLayerExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "E:/Works/Qt Course/Qt Multimedia/build-2-VedioPLayerExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "E:/Works/Qt Course/Qt Multimedia/2-VedioPLayerExample",
+	"CMAKE_SOURCE_DIR" : "E:/Works/Qt Course/Qt Multimedia/2-VedioPLayerExample",
+	"INCLUDE_DIR" : "E:/Works/Qt Course/Qt Multimedia/build-2-VedioPLayerExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-VedioPLayerExample_autogen/include",
+	"INPUTS" : 
+	[
+		"E:/Works/Qt Course/Qt Multimedia/2-VedioPLayerExample/stop.png",
+		"E:/Works/Qt Course/Qt Multimedia/2-VedioPLayerExample/mute.png",
+		"E:/Works/Qt Course/Qt Multimedia/2-VedioPLayerExample/vedioPlayer.png",
+		"E:/Works/Qt Course/Qt Multimedia/2-VedioPLayerExample/play.png",
+		"E:/Works/Qt Course/Qt Multimedia/2-VedioPLayerExample/pause.png",
+		"E:/Works/Qt Course/Qt Multimedia/2-VedioPLayerExample/volume.png"
+	],
+	"LOCK_FILE" : "E:/Works/Qt Course/Qt Multimedia/build-2-VedioPLayerExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/2-VedioPLayerExample_autogen.dir/AutoRcc_res_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "res" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_res.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.3.1/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "E:/Works/Qt Course/Qt Multimedia/build-2-VedioPLayerExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/2-VedioPLayerExample_autogen.dir/AutoRcc_res_EWIEGA46WW_Used.txt",
+	"SOURCE" : "E:/Works/Qt Course/Qt Multimedia/2-VedioPLayerExample/res.qrc",
+	"VERBOSITY" : 0
+}

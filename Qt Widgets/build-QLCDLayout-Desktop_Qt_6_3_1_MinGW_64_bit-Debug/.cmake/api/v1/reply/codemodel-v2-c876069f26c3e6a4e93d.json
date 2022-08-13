@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "QLCDLayout",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "QLCDLayout::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QLCDLayout-Debug-458fcd25663269459343.json",
+					"name" : "QLCDLayout",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QLCDLayout_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QLCDLayout_autogen-Debug-107ae0bc4d222dde67b7.json",
+					"name" : "QLCDLayout_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QLCDLayout_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QLCDLayout_autogen_timestamp_deps-Debug-15eac4e3adacbbbea2e4.json",
+					"name" : "QLCDLayout_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/Works/Qt Course/Qt Widgets/build-QLCDLayout-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
+		"source" : "E:/Works/Qt Course/Qt Widgets/QLCDLayout"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

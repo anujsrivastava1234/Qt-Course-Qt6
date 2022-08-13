@@ -1,0 +1,4 @@
+module 13-QmlComponents
+typeinfo app13-QmlComponents.qmltypes
+prefer :/13-QmlComponents/
+

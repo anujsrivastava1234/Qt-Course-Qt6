@@ -1,0 +1,9 @@
+# ninja log v5
+2	1196	6804753052550432	17-QTableWidget_autogen/timestamp	dbf7c4abb2cb54b8
+2	1196	6804753052550432	17-QTableWidget_autogen/mocs_compilation.cpp	dbf7c4abb2cb54b8
+2	1196	6804753052550432	E:/Works/Qt Course/Qt Widgets/build-17-QTableWidget-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/17-QTableWidget_autogen/timestamp	dbf7c4abb2cb54b8
+2	1196	6804753052550432	E:/Works/Qt Course/Qt Widgets/build-17-QTableWidget-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/17-QTableWidget_autogen/mocs_compilation.cpp	dbf7c4abb2cb54b8
+1201	4369	6804753086397211	CMakeFiles/17-QTableWidget.dir/widget.cpp.obj	8688c8d9ceae25f6
+1197	4414	6804753086884283	CMakeFiles/17-QTableWidget.dir/17-QTableWidget_autogen/mocs_compilation.cpp.obj	91b94a1d83a1a6c3
+1205	4461	6804753087359670	CMakeFiles/17-QTableWidget.dir/main.cpp.obj	22a00d21f1dd2341
+4462	4717	6804753089873160	17-QTableWidget.exe	ba1ea7772ebe3579

@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/TabBarButton/">
+    <file alias="main.qml">E:/Works/Qt Course/Qt Quick Controls/TabBarButton/main.qml</file>
+  </qresource>
+</RCC>
+

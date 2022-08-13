@@ -1,0 +1,142 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-d042ab54411c0bcf9ca8.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "2-RectangleExample",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-8438f72cef851b7f7b90.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-8a3b308a149442f5c9bd.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app2-RectangleExample::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app2-RectangleExample-Debug-b95778b242975409248b.json",
+					"name" : "app2-RectangleExample",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app2-RectangleExample_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app2-RectangleExample_autogen-Debug-3ea09334c56cc828e613.json",
+					"name" : "app2-RectangleExample_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app2-RectangleExample_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app2-RectangleExample_autogen_timestamp_deps-Debug-b8fdfaeb3ca85aed69e2.json",
+					"name" : "app2-RectangleExample_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app2-RectangleExample_other_files::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app2-RectangleExample_other_files-Debug-c7ee75e7d8034db7ef4f.json",
+					"name" : "app2-RectangleExample_other_files",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app2-RectangleExample_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app2-RectangleExample_qmlimportscan-Debug-7c725e58669d785e504b.json",
+					"name" : "app2-RectangleExample_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app2-RectangleExample_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app2-RectangleExample_qmllint-Debug-d6ef18e1d8e2dff39e6a.json",
+					"name" : "app2-RectangleExample_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app2-RectangleExample_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app2-RectangleExample_qmltyperegistration-Debug-7309c4e4f70b21801177.json",
+					"name" : "app2-RectangleExample_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app2-RectangleExample_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app2-RectangleExample_tooling-Debug-1e0f42dcb4b70bcc4c4a.json",
+					"name" : "app2-RectangleExample_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/Works/Qt Course/Qt Quick/build-2-RectangleExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
+		"source" : "E:/Works/Qt Course/Qt Quick/2-RectangleExample"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

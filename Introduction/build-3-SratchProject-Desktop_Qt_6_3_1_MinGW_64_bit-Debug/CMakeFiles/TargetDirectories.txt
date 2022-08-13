@@ -1,0 +1,5 @@
+E:/Works/Qt Course/build-3-SratchProject-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/3-SratchProject.dir
+E:/Works/Qt Course/build-3-SratchProject-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+E:/Works/Qt Course/build-3-SratchProject-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+E:/Works/Qt Course/build-3-SratchProject-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/3-SratchProject_autogen_timestamp_deps.dir
+E:/Works/Qt Course/build-3-SratchProject-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/3-SratchProject_autogen.dir

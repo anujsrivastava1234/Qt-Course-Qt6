@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/13-QmlComponents/">
+    <file alias="main.qml">E:/Works/Qt Course/Qt Quick/13-QmlComponents/main.qml</file>
+  </qresource>
+</RCC>
+

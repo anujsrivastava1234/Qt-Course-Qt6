@@ -1,0 +1,58 @@
+# ninja log v5
+2	847	6807193720827091	2-PaintApp_autogen/timestamp	d0566a448967ed6d
+848	3110	6807193744961594	CMakeFiles/2-PaintApp.dir/2-PaintApp_autogen/mocs_compilation.cpp.obj	f254b2112559c288
+2	847	6807193720827091	2-PaintApp_autogen/mocs_compilation.cpp	d0566a448967ed6d
+851	3172	6807193745592828	CMakeFiles/2-PaintApp.dir/mainwindow.cpp.obj	c9b8425e8b3ac46f
+2	847	6807193720827091	E:/Works/Qt Course/Graphics and Painting/build-2-PaintApp-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-PaintApp_autogen/timestamp	d0566a448967ed6d
+3175	3398	6807193747814102	2-PaintApp.exe	ca8401acb0fbb50
+2	847	6807193720827091	E:/Works/Qt Course/Graphics and Painting/build-2-PaintApp-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-PaintApp_autogen/mocs_compilation.cpp	d0566a448967ed6d
+854	3084	6807193744718598	CMakeFiles/2-PaintApp.dir/main.cpp.obj	8830bdb12d15104f
+19	241	6807204662025235	2-PaintApp_autogen/timestamp	d0566a448967ed6d
+19	241	6807204662025235	2-PaintApp_autogen/mocs_compilation.cpp	d0566a448967ed6d
+19	241	6807204662025235	E:/Works/Qt Course/Graphics and Painting/build-2-PaintApp-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-PaintApp_autogen/timestamp	d0566a448967ed6d
+19	241	6807204662025235	E:/Works/Qt Course/Graphics and Painting/build-2-PaintApp-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-PaintApp_autogen/mocs_compilation.cpp	d0566a448967ed6d
+250	311	6807204662702067	2-PaintApp_autogen/EWIEGA46WW/qrc_res.cpp	2eef95c2f30f1493
+250	311	6807204662702067	E:/Works/Qt Course/Graphics and Painting/build-2-PaintApp-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-PaintApp_autogen/EWIEGA46WW/qrc_res.cpp	2eef95c2f30f1493
+311	422	6807204663868178	CMakeFiles/2-PaintApp.dir/2-PaintApp_autogen/EWIEGA46WW/qrc_res.cpp.obj	655697fd749332f0
+314	1967	6807204679310700	CMakeFiles/2-PaintApp.dir/mainwindow.cpp.obj	c9b8425e8b3ac46f
+1968	2173	6807204681321758	2-PaintApp.exe	4285e7d762c8b66d
+17	797	6807212911770225	2-PaintApp_autogen/timestamp	d0566a448967ed6d
+17	797	6807212911770225	2-PaintApp_autogen/mocs_compilation.cpp	d0566a448967ed6d
+17	797	6807212911770225	E:/Works/Qt Course/Graphics and Painting/build-2-PaintApp-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-PaintApp_autogen/timestamp	d0566a448967ed6d
+17	797	6807212911770225	E:/Works/Qt Course/Graphics and Painting/build-2-PaintApp-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-PaintApp_autogen/mocs_compilation.cpp	d0566a448967ed6d
+797	3400	6807212939197315	CMakeFiles/2-PaintApp.dir/main.cpp.obj	8830bdb12d15104f
+800	3417	6807212939372745	CMakeFiles/2-PaintApp.dir/2-PaintApp_autogen/mocs_compilation.cpp.obj	f254b2112559c288
+803	3505	6807212940252857	CMakeFiles/2-PaintApp.dir/mainwindow.cpp.obj	c9b8425e8b3ac46f
+3505	3731	6807212942491395	2-PaintApp.exe	4285e7d762c8b66d
+16	762	6807310878937736	2-PaintApp_autogen/timestamp	d0566a448967ed6d
+16	762	6807310878937736	2-PaintApp_autogen/mocs_compilation.cpp	d0566a448967ed6d
+16	762	6807310878937736	E:/Works/Qt Course/Graphics and Painting/build-2-PaintApp-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-PaintApp_autogen/timestamp	d0566a448967ed6d
+16	762	6807310878937736	E:/Works/Qt Course/Graphics and Painting/build-2-PaintApp-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-PaintApp_autogen/mocs_compilation.cpp	d0566a448967ed6d
+766	3281	6807310905586062	CMakeFiles/2-PaintApp.dir/main.cpp.obj	8830bdb12d15104f
+762	3357	6807310906331770	CMakeFiles/2-PaintApp.dir/2-PaintApp_autogen/mocs_compilation.cpp.obj	f254b2112559c288
+768	3433	6807310907106457	CMakeFiles/2-PaintApp.dir/mainwindow.cpp.obj	c9b8425e8b3ac46f
+3434	3698	6807310909703251	2-PaintApp.exe	4285e7d762c8b66d
+8	222	6807311514227940	2-PaintApp_autogen/timestamp	d0566a448967ed6d
+8	222	6807311514227940	2-PaintApp_autogen/mocs_compilation.cpp	d0566a448967ed6d
+8	222	6807311514227940	E:/Works/Qt Course/Graphics and Painting/build-2-PaintApp-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-PaintApp_autogen/timestamp	d0566a448967ed6d
+8	222	6807311514227940	E:/Works/Qt Course/Graphics and Painting/build-2-PaintApp-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-PaintApp_autogen/mocs_compilation.cpp	d0566a448967ed6d
+232	2360	6807311535600505	CMakeFiles/2-PaintApp.dir/mainwindow.cpp.obj	c9b8425e8b3ac46f
+2361	2609	6807311538042993	2-PaintApp.exe	4285e7d762c8b66d
+5	219	6807315113539505	2-PaintApp_autogen/timestamp	d0566a448967ed6d
+5	219	6807315113539505	2-PaintApp_autogen/mocs_compilation.cpp	d0566a448967ed6d
+5	219	6807315113539505	E:/Works/Qt Course/Graphics and Painting/build-2-PaintApp-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-PaintApp_autogen/timestamp	d0566a448967ed6d
+5	219	6807315113539505	E:/Works/Qt Course/Graphics and Painting/build-2-PaintApp-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-PaintApp_autogen/mocs_compilation.cpp	d0566a448967ed6d
+228	2503	6807315136367038	CMakeFiles/2-PaintApp.dir/mainwindow.cpp.obj	c9b8425e8b3ac46f
+2504	2749	6807315138798872	2-PaintApp.exe	4285e7d762c8b66d
+11	232	6807315463052779	2-PaintApp_autogen/timestamp	d0566a448967ed6d
+11	232	6807315463052779	2-PaintApp_autogen/mocs_compilation.cpp	d0566a448967ed6d
+11	232	6807315463052779	E:/Works/Qt Course/Graphics and Painting/build-2-PaintApp-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-PaintApp_autogen/timestamp	d0566a448967ed6d
+11	232	6807315463052779	E:/Works/Qt Course/Graphics and Painting/build-2-PaintApp-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-PaintApp_autogen/mocs_compilation.cpp	d0566a448967ed6d
+245	2233	6807315483066680	CMakeFiles/2-PaintApp.dir/mainwindow.cpp.obj	c9b8425e8b3ac46f
+2233	2457	6807315485268826	2-PaintApp.exe	4285e7d762c8b66d
+12	263	6807317976485426	2-PaintApp_autogen/timestamp	d0566a448967ed6d
+12	263	6807317976485426	2-PaintApp_autogen/mocs_compilation.cpp	d0566a448967ed6d
+12	263	6807317976485426	E:/Works/Qt Course/Graphics and Painting/build-2-PaintApp-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-PaintApp_autogen/timestamp	d0566a448967ed6d
+12	263	6807317976485426	E:/Works/Qt Course/Graphics and Painting/build-2-PaintApp-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-PaintApp_autogen/mocs_compilation.cpp	d0566a448967ed6d
+272	2335	6807317997209888	CMakeFiles/2-PaintApp.dir/mainwindow.cpp.obj	c9b8425e8b3ac46f
+2335	2566	6807317999463069	2-PaintApp.exe	4285e7d762c8b66d

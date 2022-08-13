@@ -1,0 +1,4 @@
+module 6-textInput
+typeinfo app6-textInput.qmltypes
+prefer :/6-textInput/
+

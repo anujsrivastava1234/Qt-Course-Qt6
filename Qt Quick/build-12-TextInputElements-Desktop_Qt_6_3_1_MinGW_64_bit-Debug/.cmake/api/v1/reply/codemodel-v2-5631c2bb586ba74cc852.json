@@ -1,0 +1,142 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-f1249e767132e2ad6df6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "12-TextInputElements",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-8a4fc603d411747883d8.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-57d95f60e0797d1c5e21.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app12-TextInputElements::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app12-TextInputElements-Debug-2a70a611dd3925494cee.json",
+					"name" : "app12-TextInputElements",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app12-TextInputElements_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app12-TextInputElements_autogen-Debug-cc4a181be5743d980f20.json",
+					"name" : "app12-TextInputElements_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app12-TextInputElements_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app12-TextInputElements_autogen_timestamp_deps-Debug-0db54289a6d4569b95e8.json",
+					"name" : "app12-TextInputElements_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app12-TextInputElements_other_files::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app12-TextInputElements_other_files-Debug-18f70aec25651ebd4818.json",
+					"name" : "app12-TextInputElements_other_files",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app12-TextInputElements_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app12-TextInputElements_qmlimportscan-Debug-3e048aad78ded39c8b0d.json",
+					"name" : "app12-TextInputElements_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app12-TextInputElements_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app12-TextInputElements_qmllint-Debug-173babbfd6126f970ffb.json",
+					"name" : "app12-TextInputElements_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app12-TextInputElements_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app12-TextInputElements_qmltyperegistration-Debug-2949ba1b5445aaf50ee3.json",
+					"name" : "app12-TextInputElements_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app12-TextInputElements_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app12-TextInputElements_tooling-Debug-521dbc925b0d574a7393.json",
+					"name" : "app12-TextInputElements_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/Works/Qt Course/Qt Quick/build-12-TextInputElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
+		"source" : "E:/Works/Qt Course/Qt Quick/12-TextInputElements"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

@@ -1,0 +1,12 @@
+-rootPath
+E:/Works/Qt Course/Qt Quick/1-IntroQtQuick
+-cmake-output
+-output-file
+E:/Works/Qt Course/Qt Quick/build-1-IntroQtQuick-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app1-IntroQtQuick.cmake
+-importPath
+C:/Qt/6.3.1/mingw_64/./qml
+E:/Works/Qt Course/Qt Quick/build-1-IntroQtQuick-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/1-IntroQtQuick
+E:/Works/Qt Course/Qt Quick/build-1-IntroQtQuick-Desktop_Qt_6_3_1_MinGW_64_bit-Debug
+-qrcFiles
+E:/Works/Qt Course/Qt Quick/build-1-IntroQtQuick-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmake_1-IntroQtQuick.qrc
+E:/Works/Qt Course/Qt Quick/build-1-IntroQtQuick-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/app1-IntroQtQuick_raw_qml_0.qrc

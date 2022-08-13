@@ -1,0 +1,24 @@
+{
+	"BUILD_DIR" : "E:/Works/Qt Course/Qt Widgets/build-8-QRadioButton-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/8-QRadioButton_autogen",
+	"CMAKE_BINARY_DIR" : "E:/Works/Qt Course/Qt Widgets/build-8-QRadioButton-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "E:/Works/Qt Course/Qt Widgets/build-8-QRadioButton-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "E:/Works/Qt Course/Qt Widgets/8-QRadioButton",
+	"CMAKE_SOURCE_DIR" : "E:/Works/Qt Course/Qt Widgets/8-QRadioButton",
+	"INCLUDE_DIR" : "E:/Works/Qt Course/Qt Widgets/build-8-QRadioButton-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/8-QRadioButton_autogen/include",
+	"INPUTS" : 
+	[
+		"E:/Works/Qt Course/Qt Widgets/8-QRadioButton/cpp.png",
+		"E:/Works/Qt Course/Qt Widgets/8-QRadioButton/java.png",
+		"E:/Works/Qt Course/Qt Widgets/8-QRadioButton/python.png"
+	],
+	"LOCK_FILE" : "E:/Works/Qt Course/Qt Widgets/build-8-QRadioButton-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/8-QRadioButton_autogen.dir/AutoRcc_res_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "res" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_res.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.3.1/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "E:/Works/Qt Course/Qt Widgets/build-8-QRadioButton-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/8-QRadioButton_autogen.dir/AutoRcc_res_EWIEGA46WW_Used.txt",
+	"SOURCE" : "E:/Works/Qt Course/Qt Widgets/8-QRadioButton/res.qrc",
+	"VERBOSITY" : 0
+}

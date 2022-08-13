@@ -1,0 +1,4 @@
+module 9-ProgressBarExample
+typeinfo app9-ProgressBarExample.qmltypes
+prefer :/9-ProgressBarExample/
+

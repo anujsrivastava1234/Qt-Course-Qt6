@@ -1,0 +1,81 @@
+# ninja log v5
+2	37	6813322154137880	.rcc/qmlcache/app11-AnchorsExample_qmlcache_loader.cpp	a993ba74bbd57207
+2	37	6813322154137880	E:/Works/Qt Course/Qt Quick/build-11-AnchorsExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app11-AnchorsExample_qmlcache_loader.cpp	a993ba74bbd57207
+5	41	6813322154148345	11-AnchorsExample/main.qml	7e3efd845a434c3a
+5	41	6813322154148345	E:/Works/Qt Course/Qt Quick/build-11-AnchorsExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/11-AnchorsExample/main.qml	7e3efd845a434c3a
+8	44	6813322154216779	.qt_plugins/Qt6_QmlPlugins_Imports_app11-AnchorsExample.cmake	e2a8df373009d0e6
+8	44	6813322154216779	E:/Works/Qt Course/Qt Quick/build-11-AnchorsExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app11-AnchorsExample.cmake	e2a8df373009d0e6
+37	224	6813322155426678	app11-AnchorsExample_autogen/timestamp	f0f438dc17836906
+37	224	6813322155426678	app11-AnchorsExample_autogen/mocs_compilation.cpp	f0f438dc17836906
+37	224	6813322155426678	E:/Works/Qt Course/Qt Quick/build-11-AnchorsExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app11-AnchorsExample_autogen/timestamp	f0f438dc17836906
+37	224	6813322155426678	E:/Works/Qt Course/Qt Quick/build-11-AnchorsExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app11-AnchorsExample_autogen/mocs_compilation.cpp	f0f438dc17836906
+227	255	6813322156322619	.rcc/qrc_qmake_11-AnchorsExample.cpp	41e8554331b43a
+227	255	6813322156322619	E:/Works/Qt Course/Qt Quick/build-11-AnchorsExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_qmake_11-AnchorsExample.cpp	41e8554331b43a
+224	256	6813322156335111	meta_types/app11-AnchorsExample_json_file_list.txt	7d28b9ddc1040fda
+224	256	6813322156335111	meta_types/app11-AnchorsExample_json_file_list.txt.timestamp	7d28b9ddc1040fda
+224	256	6813322156335111	E:/Works/Qt Course/Qt Quick/build-11-AnchorsExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/app11-AnchorsExample_json_file_list.txt	7d28b9ddc1040fda
+224	256	6813322156335111	E:/Works/Qt Course/Qt Quick/build-11-AnchorsExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/app11-AnchorsExample_json_file_list.txt.timestamp	7d28b9ddc1040fda
+230	259	6813322156358635	.rcc/qrc_app11-AnchorsExample_raw_qml_0.cpp	dd35a2d3e52b22b9
+230	259	6813322156358635	E:/Works/Qt Course/Qt Quick/build-11-AnchorsExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app11-AnchorsExample_raw_qml_0.cpp	dd35a2d3e52b22b9
+256	290	6813322156697492	meta_types/qt6app11-anchorsexample_debug_metatypes.json.gen	10ba1ec779b161cc
+256	290	6813322156697492	meta_types/qt6app11-anchorsexample_debug_metatypes.json	10ba1ec779b161cc
+256	290	6813322156697492	E:/Works/Qt Course/Qt Quick/build-11-AnchorsExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6app11-anchorsexample_debug_metatypes.json.gen	10ba1ec779b161cc
+256	290	6813322156697492	E:/Works/Qt Course/Qt Quick/build-11-AnchorsExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6app11-anchorsexample_debug_metatypes.json	10ba1ec779b161cc
+291	395	6813322157154776	app11-anchorsexample_qmltyperegistrations.cpp	2eb781ee35d0d1d0
+291	395	6813322157154776	11-AnchorsExample/app11-AnchorsExample.qmltypes	2eb781ee35d0d1d0
+291	395	6813322157154776	E:/Works/Qt Course/Qt Quick/build-11-AnchorsExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app11-anchorsexample_qmltyperegistrations.cpp	2eb781ee35d0d1d0
+291	395	6813322157154776	E:/Works/Qt Course/Qt Quick/build-11-AnchorsExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/11-AnchorsExample/app11-AnchorsExample.qmltypes	2eb781ee35d0d1d0
+395	484	6813322158591018	.rcc/qmlcache/app11-AnchorsExample_main_qml.cpp	1ae2f07d8ab63af7
+395	484	6813322158591018	E:/Works/Qt Course/Qt Quick/build-11-AnchorsExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app11-AnchorsExample_main_qml.cpp	1ae2f07d8ab63af7
+487	605	6813322159822953	CMakeFiles/app11-AnchorsExample.dir/app11-AnchorsExample_autogen/mocs_compilation.cpp.obj	16365c8a9c0156f6
+490	607	6813322159832935	CMakeFiles/app11-AnchorsExample.dir/.rcc/qrc_qmake_11-AnchorsExample.cpp.obj	4f53e2ff0a9701fe
+497	609	6813322159866504	CMakeFiles/app11-AnchorsExample.dir/.rcc/qrc_app11-AnchorsExample_raw_qml_0.cpp.obj	9de191e194035f69
+503	2039	6813322174156305	CMakeFiles/app11-AnchorsExample.dir/app11-anchorsexample_qmltyperegistrations.cpp.obj	bb5df3bd72d249a8
+485	2201	6813322175792529	CMakeFiles/app11-AnchorsExample.dir/main.cpp.obj	24152a0fed300516
+500	2428	6813322178062146	CMakeFiles/app11-AnchorsExample.dir/.rcc/qmlcache/app11-AnchorsExample_main_qml.cpp.obj	482e3a509a51e681
+494	2552	6813322179303831	CMakeFiles/app11-AnchorsExample.dir/.rcc/qmlcache/app11-AnchorsExample_qmlcache_loader.cpp.obj	f85b12a65b30d422
+2553	2772	6813322181466652	app11-AnchorsExample.exe	5424d211ef69e80c
+19	48	6813322644317843	11-AnchorsExample/main.qml	7e3efd845a434c3a
+19	48	6813322644317843	E:/Works/Qt Course/Qt Quick/build-11-AnchorsExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/11-AnchorsExample/main.qml	7e3efd845a434c3a
+22	51	6813322644347833	.qt_plugins/Qt6_QmlPlugins_Imports_app11-AnchorsExample.cmake	e2a8df373009d0e6
+22	51	6813322644347833	E:/Works/Qt Course/Qt Quick/build-11-AnchorsExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app11-AnchorsExample.cmake	e2a8df373009d0e6
+54	79	6813322644625710	.rcc/qrc_app11-AnchorsExample_raw_qml_0.cpp	dd35a2d3e52b22b9
+54	79	6813322644625710	E:/Works/Qt Course/Qt Quick/build-11-AnchorsExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app11-AnchorsExample_raw_qml_0.cpp	dd35a2d3e52b22b9
+51	139	6813322645161690	.rcc/qmlcache/app11-AnchorsExample_main_qml.cpp	1ae2f07d8ab63af7
+51	139	6813322645161690	E:/Works/Qt Course/Qt Quick/build-11-AnchorsExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app11-AnchorsExample_main_qml.cpp	1ae2f07d8ab63af7
+141	206	6813322645904694	CMakeFiles/app11-AnchorsExample.dir/.rcc/qrc_app11-AnchorsExample_raw_qml_0.cpp.obj	9de191e194035f69
+139	1664	6813322660460197	CMakeFiles/app11-AnchorsExample.dir/.rcc/qmlcache/app11-AnchorsExample_main_qml.cpp.obj	482e3a509a51e681
+1664	1871	6813322662514155	app11-AnchorsExample.exe	5424d211ef69e80c
+4	34	6813322917376088	.qt_plugins/Qt6_QmlPlugins_Imports_app11-AnchorsExample.cmake	e2a8df373009d0e6
+4	34	6813322917376088	E:/Works/Qt Course/Qt Quick/build-11-AnchorsExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app11-AnchorsExample.cmake	e2a8df373009d0e6
+7	34	6813322917388019	11-AnchorsExample/main.qml	7e3efd845a434c3a
+7	34	6813322917388019	E:/Works/Qt Course/Qt Quick/build-11-AnchorsExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/11-AnchorsExample/main.qml	7e3efd845a434c3a
+34	59	6813322917631449	.rcc/qrc_app11-AnchorsExample_raw_qml_0.cpp	dd35a2d3e52b22b9
+34	59	6813322917631449	E:/Works/Qt Course/Qt Quick/build-11-AnchorsExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app11-AnchorsExample_raw_qml_0.cpp	dd35a2d3e52b22b9
+37	126	6813322918231253	.rcc/qmlcache/app11-AnchorsExample_main_qml.cpp	1ae2f07d8ab63af7
+37	126	6813322918231253	E:/Works/Qt Course/Qt Quick/build-11-AnchorsExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app11-AnchorsExample_main_qml.cpp	1ae2f07d8ab63af7
+126	189	6813322918945168	CMakeFiles/app11-AnchorsExample.dir/.rcc/qrc_app11-AnchorsExample_raw_qml_0.cpp.obj	9de191e194035f69
+129	1672	6813322933758599	CMakeFiles/app11-AnchorsExample.dir/.rcc/qmlcache/app11-AnchorsExample_main_qml.cpp.obj	482e3a509a51e681
+1672	1890	6813322935900804	app11-AnchorsExample.exe	5424d211ef69e80c
+5	33	6813323147993008	.qt_plugins/Qt6_QmlPlugins_Imports_app11-AnchorsExample.cmake	e2a8df373009d0e6
+5	33	6813323147993008	E:/Works/Qt Course/Qt Quick/build-11-AnchorsExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app11-AnchorsExample.cmake	e2a8df373009d0e6
+8	35	6813323148013449	11-AnchorsExample/main.qml	7e3efd845a434c3a
+8	35	6813323148013449	E:/Works/Qt Course/Qt Quick/build-11-AnchorsExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/11-AnchorsExample/main.qml	7e3efd845a434c3a
+35	60	6813323148277680	.rcc/qrc_app11-AnchorsExample_raw_qml_0.cpp	dd35a2d3e52b22b9
+35	60	6813323148277680	E:/Works/Qt Course/Qt Quick/build-11-AnchorsExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app11-AnchorsExample_raw_qml_0.cpp	dd35a2d3e52b22b9
+37	125	6813323148862809	.rcc/qmlcache/app11-AnchorsExample_main_qml.cpp	1ae2f07d8ab63af7
+37	125	6813323148862809	E:/Works/Qt Course/Qt Quick/build-11-AnchorsExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app11-AnchorsExample_main_qml.cpp	1ae2f07d8ab63af7
+125	192	6813323149605487	CMakeFiles/app11-AnchorsExample.dir/.rcc/qrc_app11-AnchorsExample_raw_qml_0.cpp.obj	9de191e194035f69
+127	1602	6813323163697466	CMakeFiles/app11-AnchorsExample.dir/.rcc/qmlcache/app11-AnchorsExample_main_qml.cpp.obj	482e3a509a51e681
+1603	1809	6813323165712999	app11-AnchorsExample.exe	5424d211ef69e80c
+5	33	6813323377058585	11-AnchorsExample/main.qml	7e3efd845a434c3a
+5	33	6813323377058585	E:/Works/Qt Course/Qt Quick/build-11-AnchorsExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/11-AnchorsExample/main.qml	7e3efd845a434c3a
+8	37	6813323377088185	.qt_plugins/Qt6_QmlPlugins_Imports_app11-AnchorsExample.cmake	e2a8df373009d0e6
+8	37	6813323377088185	E:/Works/Qt Course/Qt Quick/build-11-AnchorsExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app11-AnchorsExample.cmake	e2a8df373009d0e6
+37	64	6813323377361253	.rcc/qrc_app11-AnchorsExample_raw_qml_0.cpp	dd35a2d3e52b22b9
+37	64	6813323377361253	E:/Works/Qt Course/Qt Quick/build-11-AnchorsExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app11-AnchorsExample_raw_qml_0.cpp	dd35a2d3e52b22b9
+39	133	6813323377991445	.rcc/qmlcache/app11-AnchorsExample_main_qml.cpp	1ae2f07d8ab63af7
+39	133	6813323377991445	E:/Works/Qt Course/Qt Quick/build-11-AnchorsExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app11-AnchorsExample_main_qml.cpp	1ae2f07d8ab63af7
+136	202	6813323378752323	CMakeFiles/app11-AnchorsExample.dir/.rcc/qrc_app11-AnchorsExample_raw_qml_0.cpp.obj	9de191e194035f69
+134	1709	6813323393814520	CMakeFiles/app11-AnchorsExample.dir/.rcc/qmlcache/app11-AnchorsExample_main_qml.cpp.obj	482e3a509a51e681
+1710	1916	6813323395842516	app11-AnchorsExample.exe	5424d211ef69e80c

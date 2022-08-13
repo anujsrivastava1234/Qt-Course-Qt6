@@ -1,0 +1,12 @@
+-rootPath
+E:/Works/Qt Course/Qt Quick/11-AnchorsExample
+-cmake-output
+-output-file
+E:/Works/Qt Course/Qt Quick/build-11-AnchorsExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app11-AnchorsExample.cmake
+-importPath
+C:/Qt/6.3.1/mingw_64/./qml
+E:/Works/Qt Course/Qt Quick/build-11-AnchorsExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/11-AnchorsExample
+E:/Works/Qt Course/Qt Quick/build-11-AnchorsExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug
+-qrcFiles
+E:/Works/Qt Course/Qt Quick/build-11-AnchorsExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmake_11-AnchorsExample.qrc
+E:/Works/Qt Course/Qt Quick/build-11-AnchorsExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/app11-AnchorsExample_raw_qml_0.qrc

@@ -1,0 +1,48 @@
+# ninja log v5
+5	41	6817499343938571	10-SpinBoxExample/main.qml	f633ff64f996e7f6
+5	41	6817499343938571	E:/Works/Qt Course/Qt Quick Controls/build-10-SpinBoxExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/10-SpinBoxExample/main.qml	f633ff64f996e7f6
+2	43	6817499343923692	.rcc/qmlcache/app10-SpinBoxExample_qmlcache_loader.cpp	f5325a7e864f58ca
+2	43	6817499343923692	E:/Works/Qt Course/Qt Quick Controls/build-10-SpinBoxExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app10-SpinBoxExample_qmlcache_loader.cpp	f5325a7e864f58ca
+43	222	6817499345081763	app10-SpinBoxExample_autogen/timestamp	e32c0fb935c77eb8
+43	222	6817499345081763	app10-SpinBoxExample_autogen/mocs_compilation.cpp	e32c0fb935c77eb8
+43	222	6817499345081763	E:/Works/Qt Course/Qt Quick Controls/build-10-SpinBoxExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app10-SpinBoxExample_autogen/timestamp	e32c0fb935c77eb8
+43	222	6817499345081763	E:/Works/Qt Course/Qt Quick Controls/build-10-SpinBoxExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app10-SpinBoxExample_autogen/mocs_compilation.cpp	e32c0fb935c77eb8
+225	251	6817499346051364	meta_types/app10-SpinBoxExample_json_file_list.txt	c97cd03f2b52df6d
+225	251	6817499346051364	meta_types/app10-SpinBoxExample_json_file_list.txt.timestamp	c97cd03f2b52df6d
+225	251	6817499346051364	E:/Works/Qt Course/Qt Quick Controls/build-10-SpinBoxExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/app10-SpinBoxExample_json_file_list.txt	c97cd03f2b52df6d
+225	251	6817499346051364	E:/Works/Qt Course/Qt Quick Controls/build-10-SpinBoxExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/app10-SpinBoxExample_json_file_list.txt.timestamp	c97cd03f2b52df6d
+251	286	6817499346400435	meta_types/qt6app10-spinboxexample_debug_metatypes.json.gen	ec05540c3ee3db4a
+251	286	6817499346400435	meta_types/qt6app10-spinboxexample_debug_metatypes.json	ec05540c3ee3db4a
+251	286	6817499346400435	E:/Works/Qt Course/Qt Quick Controls/build-10-SpinBoxExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6app10-spinboxexample_debug_metatypes.json.gen	ec05540c3ee3db4a
+251	286	6817499346400435	E:/Works/Qt Course/Qt Quick Controls/build-10-SpinBoxExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6app10-spinboxexample_debug_metatypes.json	ec05540c3ee3db4a
+7	399	6817499347518360	.qt_plugins/Qt6_QmlPlugins_Imports_app10-SpinBoxExample.cmake	2df55e1809f99802
+7	399	6817499347518360	E:/Works/Qt Course/Qt Quick Controls/build-10-SpinBoxExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app10-SpinBoxExample.cmake	2df55e1809f99802
+286	411	6817499347023329	app10-spinboxexample_qmltyperegistrations.cpp	ccfbf53aac6a11b4
+286	411	6817499347023329	10-SpinBoxExample/app10-SpinBoxExample.qmltypes	ccfbf53aac6a11b4
+286	411	6817499347023329	E:/Works/Qt Course/Qt Quick Controls/build-10-SpinBoxExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app10-spinboxexample_qmltyperegistrations.cpp	ccfbf53aac6a11b4
+286	411	6817499347023329	E:/Works/Qt Course/Qt Quick Controls/build-10-SpinBoxExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/10-SpinBoxExample/app10-SpinBoxExample.qmltypes	ccfbf53aac6a11b4
+399	430	6817499347835431	.rcc/qrc_qmake_10-SpinBoxExample.cpp	d1283c6e0406a819
+399	430	6817499347835431	E:/Works/Qt Course/Qt Quick Controls/build-10-SpinBoxExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_qmake_10-SpinBoxExample.cpp	d1283c6e0406a819
+402	435	6817499347891496	.rcc/qrc_app10-SpinBoxExample_raw_qml_0.cpp	b17d329d7a8ad856
+402	435	6817499347891496	E:/Works/Qt Course/Qt Quick Controls/build-10-SpinBoxExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app10-SpinBoxExample_raw_qml_0.cpp	b17d329d7a8ad856
+412	548	6817499348945399	.rcc/qmlcache/app10-SpinBoxExample_main_qml.cpp	7b13311b582cfe76
+412	548	6817499348945399	E:/Works/Qt Course/Qt Quick Controls/build-10-SpinBoxExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app10-SpinBoxExample_main_qml.cpp	7b13311b582cfe76
+548	678	6817499350189122	CMakeFiles/app10-SpinBoxExample.dir/app10-SpinBoxExample_autogen/mocs_compilation.cpp.obj	587ec0af628912aa
+561	698	6817499350515285	CMakeFiles/app10-SpinBoxExample.dir/.rcc/qrc_qmake_10-SpinBoxExample.cpp.obj	a3fb09f266bd3b91
+564	712	6817499350590539	CMakeFiles/app10-SpinBoxExample.dir/.rcc/qrc_app10-SpinBoxExample_raw_qml_0.cpp.obj	8c178973f2f27f4d
+550	2544	6817499368979225	CMakeFiles/app10-SpinBoxExample.dir/app10-spinboxexample_qmltyperegistrations.cpp.obj	68aeb2e34875ce80
+553	2705	6817499370593518	CMakeFiles/app10-SpinBoxExample.dir/main.cpp.obj	788a56c4c3fe1650
+558	2854	6817499372072976	CMakeFiles/app10-SpinBoxExample.dir/.rcc/qmlcache/app10-SpinBoxExample_main_qml.cpp.obj	cc3f87b1d561a1f0
+556	3041	6817499373945257	CMakeFiles/app10-SpinBoxExample.dir/.rcc/qmlcache/app10-SpinBoxExample_qmlcache_loader.cpp.obj	79f49efe6c90ab99
+3042	3249	6817499375994339	app10-SpinBoxExample.exe	a610077e4a67dfed
+19	49	6817499795683380	10-SpinBoxExample/main.qml	f633ff64f996e7f6
+19	49	6817499795683380	E:/Works/Qt Course/Qt Quick Controls/build-10-SpinBoxExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/10-SpinBoxExample/main.qml	f633ff64f996e7f6
+23	330	6817499798484018	.qt_plugins/Qt6_QmlPlugins_Imports_app10-SpinBoxExample.cmake	2df55e1809f99802
+23	330	6817499798484018	E:/Works/Qt Course/Qt Quick Controls/build-10-SpinBoxExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app10-SpinBoxExample.cmake	2df55e1809f99802
+333	360	6817499798793168	.rcc/qrc_app10-SpinBoxExample_raw_qml_0.cpp	b17d329d7a8ad856
+333	360	6817499798793168	E:/Works/Qt Course/Qt Quick Controls/build-10-SpinBoxExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app10-SpinBoxExample_raw_qml_0.cpp	b17d329d7a8ad856
+330	467	6817499799793883	.rcc/qmlcache/app10-SpinBoxExample_main_qml.cpp	7b13311b582cfe76
+330	467	6817499799793883	E:/Works/Qt Course/Qt Quick Controls/build-10-SpinBoxExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app10-SpinBoxExample_main_qml.cpp	7b13311b582cfe76
+469	536	6817499800560734	CMakeFiles/app10-SpinBoxExample.dir/.rcc/qrc_app10-SpinBoxExample_raw_qml_0.cpp.obj	8c178973f2f27f4d
+467	2182	6817499817019314	CMakeFiles/app10-SpinBoxExample.dir/.rcc/qmlcache/app10-SpinBoxExample_main_qml.cpp.obj	cc3f87b1d561a1f0
+2182	2402	6817499819185143	app10-SpinBoxExample.exe	a610077e4a67dfed

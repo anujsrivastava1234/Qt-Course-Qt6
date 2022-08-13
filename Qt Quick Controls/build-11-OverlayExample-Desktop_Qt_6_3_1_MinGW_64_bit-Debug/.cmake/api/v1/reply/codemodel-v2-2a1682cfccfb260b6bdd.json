@@ -1,0 +1,142 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-f4cbe5bdf16bcc71e0f4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "11-OverlayExample",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-04e16601ee55631d0ae5.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-78fba0ba73aabc6b5f1a.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app11-OverlayExample::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app11-OverlayExample-Debug-44fe01732de2f96ff5b9.json",
+					"name" : "app11-OverlayExample",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app11-OverlayExample_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app11-OverlayExample_autogen-Debug-9db6adab0baab353e75c.json",
+					"name" : "app11-OverlayExample_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app11-OverlayExample_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app11-OverlayExample_autogen_timestamp_deps-Debug-eade1fc768fa83307877.json",
+					"name" : "app11-OverlayExample_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app11-OverlayExample_other_files::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app11-OverlayExample_other_files-Debug-b5dd3f94ad30fd798469.json",
+					"name" : "app11-OverlayExample_other_files",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app11-OverlayExample_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app11-OverlayExample_qmlimportscan-Debug-4ac5d9647bc56070580d.json",
+					"name" : "app11-OverlayExample_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app11-OverlayExample_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app11-OverlayExample_qmllint-Debug-1b9c5a22bfe435a7b3f1.json",
+					"name" : "app11-OverlayExample_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app11-OverlayExample_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app11-OverlayExample_qmltyperegistration-Debug-7587bf81f5179f1925da.json",
+					"name" : "app11-OverlayExample_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app11-OverlayExample_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app11-OverlayExample_tooling-Debug-6008f06c97f0dc23fc79.json",
+					"name" : "app11-OverlayExample_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/Works/Qt Course/Qt Quick Controls/build-11-OverlayExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
+		"source" : "E:/Works/Qt Course/Qt Quick Controls/11-OverlayExample"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

@@ -1,0 +1,142 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-547155b5f33264c0e793.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "13-DialogButtonExample",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-accbaed446592923ccfe.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-c764405f0319e92dcfae.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app13-DialogButtonExample::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app13-DialogButtonExample-Debug-c1ff2f1f0d526b9ebdc2.json",
+					"name" : "app13-DialogButtonExample",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app13-DialogButtonExample_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app13-DialogButtonExample_autogen-Debug-fc70c173a9d052ce214f.json",
+					"name" : "app13-DialogButtonExample_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app13-DialogButtonExample_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app13-DialogButtonExample_autogen_timestamp_deps-Debug-7f8e932e5ae0b457f5fc.json",
+					"name" : "app13-DialogButtonExample_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app13-DialogButtonExample_other_files::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app13-DialogButtonExample_other_files-Debug-450adf8aea4b8e347cfd.json",
+					"name" : "app13-DialogButtonExample_other_files",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app13-DialogButtonExample_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app13-DialogButtonExample_qmlimportscan-Debug-08e90d7a7d604bab7b67.json",
+					"name" : "app13-DialogButtonExample_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app13-DialogButtonExample_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app13-DialogButtonExample_qmllint-Debug-3aa42c9faa369561b407.json",
+					"name" : "app13-DialogButtonExample_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app13-DialogButtonExample_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app13-DialogButtonExample_qmltyperegistration-Debug-003f9bfa78188ff64337.json",
+					"name" : "app13-DialogButtonExample_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app13-DialogButtonExample_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app13-DialogButtonExample_tooling-Debug-6e6ff8a27413a2ca2d57.json",
+					"name" : "app13-DialogButtonExample_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/Works/Qt Course/Qt Quick Controls/build-13-DialogButtonExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
+		"source" : "E:/Works/Qt Course/Qt Quick Controls/13-DialogButtonExample"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

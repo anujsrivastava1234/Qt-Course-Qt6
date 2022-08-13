@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-f84bafc4350fa3c64a66.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "DrawingPAinterPath",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "DrawingPAinterPath::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DrawingPAinterPath-Debug-0d77051de0fd46fb41fe.json",
+					"name" : "DrawingPAinterPath",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DrawingPAinterPath_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DrawingPAinterPath_autogen-Debug-0e59f6a130c9160bc2f5.json",
+					"name" : "DrawingPAinterPath_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DrawingPAinterPath_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DrawingPAinterPath_autogen_timestamp_deps-Debug-e7ca94511d78d7ae21e5.json",
+					"name" : "DrawingPAinterPath_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/Works/Qt Course/Graphics and Painting/build-DrawingPAinterPath-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
+		"source" : "E:/Works/Qt Course/Graphics and Painting/DrawingPAinterPath"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

@@ -1,0 +1,12 @@
+-rootPath
+E:/Works/Qt Course/Qt Quick/14-TransformationExample
+-cmake-output
+-output-file
+E:/Works/Qt Course/Qt Quick/build-14-TransformationExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app14-TransformationExample.cmake
+-importPath
+C:/Qt/6.3.1/mingw_64/./qml
+E:/Works/Qt Course/Qt Quick/build-14-TransformationExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/14-TransformationExample
+E:/Works/Qt Course/Qt Quick/build-14-TransformationExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug
+-qrcFiles
+E:/Works/Qt Course/Qt Quick/build-14-TransformationExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmake_14-TransformationExample.qrc
+E:/Works/Qt Course/Qt Quick/build-14-TransformationExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/app14-TransformationExample_raw_qml_0.qrc

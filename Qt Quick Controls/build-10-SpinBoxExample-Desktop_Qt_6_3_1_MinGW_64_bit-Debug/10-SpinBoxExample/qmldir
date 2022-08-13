@@ -1,0 +1,4 @@
+module 10-SpinBoxExample
+typeinfo app10-SpinBoxExample.qmltypes
+prefer :/10-SpinBoxExample/
+

@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/13-DialogButtonExample">
+    <file alias="qmldir">E:/Works/Qt Course/Qt Quick Controls/build-13-DialogButtonExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/13-DialogButtonExample/qmldir</file>
+  </qresource>
+</RCC>
+

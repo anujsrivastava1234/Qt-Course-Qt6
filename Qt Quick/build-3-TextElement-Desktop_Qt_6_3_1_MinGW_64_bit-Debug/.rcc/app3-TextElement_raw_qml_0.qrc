@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/3-TextElement/">
+    <file alias="main.qml">E:/Works/Qt Course/Qt Quick/3-TextElement/main.qml</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "4-WindowDifference",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "4-WindowDifference::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-4-WindowDifference-Debug-1bd7136fe52706d5a25b.json",
+					"name" : "4-WindowDifference",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "4-WindowDifference_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-4-WindowDifference_autogen-Debug-cc8af0457b0ef3ef6f7c.json",
+					"name" : "4-WindowDifference_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "4-WindowDifference_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-4-WindowDifference_autogen_timestamp_deps-Debug-65275f3cfc8c9db8c798.json",
+					"name" : "4-WindowDifference_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/Works/Qt Course/build-4-WindowDifference-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
+		"source" : "E:/Works/Qt Course/4-WindowDifference"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

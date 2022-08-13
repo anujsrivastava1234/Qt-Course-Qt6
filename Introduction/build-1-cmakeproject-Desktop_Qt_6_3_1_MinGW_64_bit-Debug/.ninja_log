@@ -1,0 +1,9 @@
+# ninja log v5
+1	756	6801644557115410	1-cmakeproject_autogen/timestamp	e1b802b467412fc1
+1	756	6801644557115410	1-cmakeproject_autogen/mocs_compilation.cpp	e1b802b467412fc1
+1	756	6801644557115410	E:/Works/Qt Course/build-1-cmakeproject-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/1-cmakeproject_autogen/timestamp	e1b802b467412fc1
+1	756	6801644557115410	E:/Works/Qt Course/build-1-cmakeproject-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/1-cmakeproject_autogen/mocs_compilation.cpp	e1b802b467412fc1
+758	2575	6801644576536726	CMakeFiles/1-cmakeproject.dir/1-cmakeproject_autogen/mocs_compilation.cpp.obj	a5249ed5394dbd28
+763	2615	6801644576930937	CMakeFiles/1-cmakeproject.dir/widget.cpp.obj	1d9a9aef2ea749de
+761	2642	6801644577216684	CMakeFiles/1-cmakeproject.dir/main.cpp.obj	19f1ab1a889ecba1
+2643	2898	6801644579738718	1-cmakeproject.exe	ab4787e950f2f353

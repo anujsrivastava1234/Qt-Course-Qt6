@@ -1,0 +1,4 @@
+module 3-TextElement
+typeinfo app3-TextElement.qmltypes
+prefer :/3-TextElement/
+

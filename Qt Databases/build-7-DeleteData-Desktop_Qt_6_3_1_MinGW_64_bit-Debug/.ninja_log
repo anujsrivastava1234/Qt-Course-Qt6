@@ -1,0 +1,27 @@
+# ninja log v5
+2	1092	6808577399598326	7-DeleteData_autogen/timestamp	35148564463020eb
+2	1092	6808577399598326	7-DeleteData_autogen/mocs_compilation.cpp	35148564463020eb
+2	1092	6808577399598326	E:/Works/Qt Course/Qt Databases/build-7-DeleteData-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/7-DeleteData_autogen/timestamp	35148564463020eb
+2	1092	6808577399598326	E:/Works/Qt Course/Qt Databases/build-7-DeleteData-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/7-DeleteData_autogen/mocs_compilation.cpp	35148564463020eb
+1104	3841	6808577429540107	CMakeFiles/7-DeleteData.dir/widget.cpp.obj	fe4fc49778788187
+1093	3495	6808577426106758	CMakeFiles/7-DeleteData.dir/7-DeleteData_autogen/mocs_compilation.cpp.obj	94a8bedeeae39380
+1098	3533	6808577426495823	CMakeFiles/7-DeleteData.dir/main.cpp.obj	dc481ec94699a40b
+3844	4188	6808577433004597	7-DeleteData.exe	b6897566da750e53
+23	1111	6808579865663752	7-DeleteData_autogen/timestamp	35148564463020eb
+23	1111	6808579865663752	7-DeleteData_autogen/mocs_compilation.cpp	35148564463020eb
+23	1111	6808579865663752	E:/Works/Qt Course/Qt Databases/build-7-DeleteData-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/7-DeleteData_autogen/timestamp	35148564463020eb
+23	1111	6808579865663752	E:/Works/Qt Course/Qt Databases/build-7-DeleteData-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/7-DeleteData_autogen/mocs_compilation.cpp	35148564463020eb
+1114	3939	6808579895926968	CMakeFiles/7-DeleteData.dir/main.cpp.obj	2bf1808fb1eef047
+1111	3945	6808579895989028	CMakeFiles/7-DeleteData.dir/7-DeleteData_autogen/mocs_compilation.cpp.obj	627977ff3e472cdc
+32	483	6808583410561880	7-DeleteData_autogen/timestamp	35148564463020eb
+32	483	6808583410561880	7-DeleteData_autogen/mocs_compilation.cpp	35148564463020eb
+32	483	6808583410561880	E:/Works/Qt Course/Qt Databases/build-7-DeleteData-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/7-DeleteData_autogen/timestamp	35148564463020eb
+32	483	6808583410561880	E:/Works/Qt Course/Qt Databases/build-7-DeleteData-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/7-DeleteData_autogen/mocs_compilation.cpp	35148564463020eb
+500	2713	6808583432860543	CMakeFiles/7-DeleteData.dir/widget.cpp.obj	57bb42a4b9ee4ef6
+2714	3129	6808583436958581	7-DeleteData.exe	c377426174acac87
+22	266	6808583760539111	7-DeleteData_autogen/timestamp	35148564463020eb
+22	266	6808583760539111	7-DeleteData_autogen/mocs_compilation.cpp	35148564463020eb
+22	266	6808583760539111	E:/Works/Qt Course/Qt Databases/build-7-DeleteData-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/7-DeleteData_autogen/timestamp	35148564463020eb
+22	266	6808583760539111	E:/Works/Qt Course/Qt Databases/build-7-DeleteData-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/7-DeleteData_autogen/mocs_compilation.cpp	35148564463020eb
+278	3007	6808583787947901	CMakeFiles/7-DeleteData.dir/widget.cpp.obj	57bb42a4b9ee4ef6
+3008	3344	6808583791199311	7-DeleteData.exe	c377426174acac87

@@ -1,0 +1,32 @@
+{
+	"BUILD_DIR" : "E:/Works/Qt Course/Graphics and Painting/build-2-PaintApp-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-PaintApp_autogen",
+	"CMAKE_BINARY_DIR" : "E:/Works/Qt Course/Graphics and Painting/build-2-PaintApp-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "E:/Works/Qt Course/Graphics and Painting/build-2-PaintApp-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "E:/Works/Qt Course/Graphics and Painting/2-PaintApp",
+	"CMAKE_SOURCE_DIR" : "E:/Works/Qt Course/Graphics and Painting/2-PaintApp",
+	"INCLUDE_DIR" : "E:/Works/Qt Course/Graphics and Painting/build-2-PaintApp-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-PaintApp_autogen/include",
+	"INPUTS" : 
+	[
+		"E:/Works/Qt Course/Graphics and Painting/2-PaintApp/9px.png",
+		"E:/Works/Qt Course/Graphics and Painting/2-PaintApp/white.png",
+		"E:/Works/Qt Course/Graphics and Painting/2-PaintApp/clear.png",
+		"E:/Works/Qt Course/Graphics and Painting/2-PaintApp/red.png",
+		"E:/Works/Qt Course/Graphics and Painting/2-PaintApp/green.png",
+		"E:/Works/Qt Course/Graphics and Painting/2-PaintApp/5px.png",
+		"E:/Works/Qt Course/Graphics and Painting/2-PaintApp/yellow.png",
+		"E:/Works/Qt Course/Graphics and Painting/2-PaintApp/7px.png",
+		"E:/Works/Qt Course/Graphics and Painting/2-PaintApp/black.png",
+		"E:/Works/Qt Course/Graphics and Painting/2-PaintApp/images.png",
+		"E:/Works/Qt Course/Graphics and Painting/2-PaintApp/3px.png"
+	],
+	"LOCK_FILE" : "E:/Works/Qt Course/Graphics and Painting/build-2-PaintApp-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/2-PaintApp_autogen.dir/AutoRcc_res_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "res" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_res.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.3.1/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "E:/Works/Qt Course/Graphics and Painting/build-2-PaintApp-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/2-PaintApp_autogen.dir/AutoRcc_res_EWIEGA46WW_Used.txt",
+	"SOURCE" : "E:/Works/Qt Course/Graphics and Painting/2-PaintApp/res.qrc",
+	"VERBOSITY" : 0
+}

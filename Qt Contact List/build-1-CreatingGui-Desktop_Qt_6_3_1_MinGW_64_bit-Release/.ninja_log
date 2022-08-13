@@ -1,0 +1,12 @@
+# ninja log v5
+1	836	6805605997446393	1-CreatingGui_autogen/timestamp	dfc2ed7d08ce065
+1	836	6805605997446393	1-CreatingGui_autogen/mocs_compilation.cpp	dfc2ed7d08ce065
+1	836	6805605997446393	E:/Works/Qt Course/Qt Contact List/build-1-CreatingGui-Desktop_Qt_6_3_1_MinGW_64_bit-Release/1-CreatingGui_autogen/timestamp	dfc2ed7d08ce065
+1	836	6805605997446393	E:/Works/Qt Course/Qt Contact List/build-1-CreatingGui-Desktop_Qt_6_3_1_MinGW_64_bit-Release/1-CreatingGui_autogen/mocs_compilation.cpp	dfc2ed7d08ce065
+837	901	6805605999608692	1-CreatingGui_autogen/EWIEGA46WW/qrc_res.cpp	de3a1bd8d14c0e03
+837	901	6805605999608692	E:/Works/Qt Course/Qt Contact List/build-1-CreatingGui-Desktop_Qt_6_3_1_MinGW_64_bit-Release/1-CreatingGui_autogen/EWIEGA46WW/qrc_res.cpp	de3a1bd8d14c0e03
+907	1124	6805606001866312	CMakeFiles/1-CreatingGui.dir/1-CreatingGui_autogen/EWIEGA46WW/qrc_res.cpp.obj	a15e2f847fed6c8a
+910	3307	6805606023699739	CMakeFiles/1-CreatingGui.dir/main.cpp.obj	feb53ed659574740
+902	3368	6805606024311016	CMakeFiles/1-CreatingGui.dir/1-CreatingGui_autogen/mocs_compilation.cpp.obj	5c6e14a59abd748a
+905	3786	6805606028491106	CMakeFiles/1-CreatingGui.dir/mainwindow.cpp.obj	1008be3e795aa6f5
+3787	3974	6805606030337014	1-CreatingGui.exe	5cb997e02bd09daa

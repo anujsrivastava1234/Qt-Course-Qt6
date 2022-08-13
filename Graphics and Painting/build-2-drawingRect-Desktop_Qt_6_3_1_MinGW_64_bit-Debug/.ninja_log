@@ -1,0 +1,45 @@
+# ninja log v5
+1	975	6806351273718403	2-drawingRect_autogen/timestamp	d64fde8e0665102f
+1	975	6806351273718403	2-drawingRect_autogen/mocs_compilation.cpp	d64fde8e0665102f
+1	975	6806351273718403	E:/Works/Qt Course/Graphics and Painting/build-2-drawingRect-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-drawingRect_autogen/timestamp	d64fde8e0665102f
+1	975	6806351273718403	E:/Works/Qt Course/Graphics and Painting/build-2-drawingRect-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-drawingRect_autogen/mocs_compilation.cpp	d64fde8e0665102f
+981	3354	6806351299203980	CMakeFiles/2-drawingRect.dir/main.cpp.obj	97db198bdcebc97d
+975	3439	6806351300070563	CMakeFiles/2-drawingRect.dir/2-drawingRect_autogen/mocs_compilation.cpp.obj	6724c97d70c520be
+979	3491	6806351300588707	CMakeFiles/2-drawingRect.dir/widget.cpp.obj	bdb877db07e82ca
+3493	3699	6806351302621307	2-drawingRect.exe	2045577a5975fcff
+17	265	6806351686048577	2-drawingRect_autogen/timestamp	d64fde8e0665102f
+17	265	6806351686048577	2-drawingRect_autogen/mocs_compilation.cpp	d64fde8e0665102f
+17	265	6806351686048577	E:/Works/Qt Course/Graphics and Painting/build-2-drawingRect-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-drawingRect_autogen/timestamp	d64fde8e0665102f
+17	265	6806351686048577	E:/Works/Qt Course/Graphics and Painting/build-2-drawingRect-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-drawingRect_autogen/mocs_compilation.cpp	d64fde8e0665102f
+280	2475	6806351708148994	CMakeFiles/2-drawingRect.dir/widget.cpp.obj	bdb877db07e82ca
+2475	2690	6806351710264097	2-drawingRect.exe	2045577a5975fcff
+16	265	6806352038045881	2-drawingRect_autogen/timestamp	d64fde8e0665102f
+16	265	6806352038045881	2-drawingRect_autogen/mocs_compilation.cpp	d64fde8e0665102f
+16	265	6806352038045881	E:/Works/Qt Course/Graphics and Painting/build-2-drawingRect-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-drawingRect_autogen/timestamp	d64fde8e0665102f
+16	265	6806352038045881	E:/Works/Qt Course/Graphics and Painting/build-2-drawingRect-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-drawingRect_autogen/mocs_compilation.cpp	d64fde8e0665102f
+280	2428	6806352059674686	CMakeFiles/2-drawingRect.dir/widget.cpp.obj	bdb877db07e82ca
+2428	2648	6806352061823547	2-drawingRect.exe	2045577a5975fcff
+14	250	6806353303758969	2-drawingRect_autogen/timestamp	d64fde8e0665102f
+14	250	6806353303758969	2-drawingRect_autogen/mocs_compilation.cpp	d64fde8e0665102f
+14	250	6806353303758969	E:/Works/Qt Course/Graphics and Painting/build-2-drawingRect-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-drawingRect_autogen/timestamp	d64fde8e0665102f
+14	250	6806353303758969	E:/Works/Qt Course/Graphics and Painting/build-2-drawingRect-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-drawingRect_autogen/mocs_compilation.cpp	d64fde8e0665102f
+264	2464	6806353325899405	CMakeFiles/2-drawingRect.dir/widget.cpp.obj	bdb877db07e82ca
+2464	2673	6806353327966595	2-drawingRect.exe	2045577a5975fcff
+21	366	6806354442124685	2-drawingRect_autogen/timestamp	d64fde8e0665102f
+21	366	6806354442124685	2-drawingRect_autogen/mocs_compilation.cpp	d64fde8e0665102f
+21	366	6806354442124685	E:/Works/Qt Course/Graphics and Painting/build-2-drawingRect-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-drawingRect_autogen/timestamp	d64fde8e0665102f
+21	366	6806354442124685	E:/Works/Qt Course/Graphics and Painting/build-2-drawingRect-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-drawingRect_autogen/mocs_compilation.cpp	d64fde8e0665102f
+382	3240	6806354470879596	CMakeFiles/2-drawingRect.dir/widget.cpp.obj	bdb877db07e82ca
+3240	3524	6806354473682240	2-drawingRect.exe	2045577a5975fcff
+29	637	6806354923205975	2-drawingRect_autogen/timestamp	d64fde8e0665102f
+29	637	6806354923205975	2-drawingRect_autogen/mocs_compilation.cpp	d64fde8e0665102f
+29	637	6806354923205975	E:/Works/Qt Course/Graphics and Painting/build-2-drawingRect-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-drawingRect_autogen/timestamp	d64fde8e0665102f
+29	637	6806354923205975	E:/Works/Qt Course/Graphics and Painting/build-2-drawingRect-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-drawingRect_autogen/mocs_compilation.cpp	d64fde8e0665102f
+659	5537	6806354972407342	CMakeFiles/2-drawingRect.dir/widget.cpp.obj	bdb877db07e82ca
+5538	5949	6806354976492237	2-drawingRect.exe	2045577a5975fcff
+7	215	6806485733545097	2-drawingRect_autogen/timestamp	d64fde8e0665102f
+7	215	6806485733545097	2-drawingRect_autogen/mocs_compilation.cpp	d64fde8e0665102f
+7	215	6806485733545097	E:/Works/Qt Course/Graphics and Painting/build-2-drawingRect-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-drawingRect_autogen/timestamp	d64fde8e0665102f
+7	215	6806485733545097	E:/Works/Qt Course/Graphics and Painting/build-2-drawingRect-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-drawingRect_autogen/mocs_compilation.cpp	d64fde8e0665102f
+227	1980	6806485751171444	CMakeFiles/2-drawingRect.dir/widget.cpp.obj	bdb877db07e82ca
+1981	2219	6806485753515152	2-drawingRect.exe	2045577a5975fcff

@@ -1,0 +1,4 @@
+module 12-TextInputElements
+typeinfo app12-TextInputElements.qmltypes
+prefer :/12-TextInputElements/
+

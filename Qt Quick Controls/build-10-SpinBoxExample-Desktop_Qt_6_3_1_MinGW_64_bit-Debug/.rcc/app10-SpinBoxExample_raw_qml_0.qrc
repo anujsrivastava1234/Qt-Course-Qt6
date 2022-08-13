@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/10-SpinBoxExample/">
+    <file alias="main.qml">E:/Works/Qt Course/Qt Quick Controls/10-SpinBoxExample/main.qml</file>
+  </qresource>
+</RCC>
+

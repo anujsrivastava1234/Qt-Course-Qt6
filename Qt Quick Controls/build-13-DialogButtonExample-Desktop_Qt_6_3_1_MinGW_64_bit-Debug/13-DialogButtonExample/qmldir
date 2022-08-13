@@ -1,0 +1,4 @@
+module 13-DialogButtonExample
+typeinfo app13-DialogButtonExample.qmltypes
+prefer :/13-DialogButtonExample/
+

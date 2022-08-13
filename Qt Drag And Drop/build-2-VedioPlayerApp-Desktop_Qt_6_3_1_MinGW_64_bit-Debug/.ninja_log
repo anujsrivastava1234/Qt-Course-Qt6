@@ -1,0 +1,32 @@
+# ninja log v5
+18	879	6810334140699692	2-VedioPlayerApp_autogen/timestamp	5c180c0b99d71f
+883	3625	6810334169714291	CMakeFiles/2-VedioPlayerApp.dir/mainwindow.cpp.obj	84c59cbb3782c33d
+18	879	6810334140699692	2-VedioPlayerApp_autogen/mocs_compilation.cpp	5c180c0b99d71f
+18	879	6810334140699692	E:/Works/Qt Course/Qt Drag And Drop/build-2-VedioPlayerApp-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-VedioPlayerApp_autogen/timestamp	5c180c0b99d71f
+880	3410	6810334167562374	CMakeFiles/2-VedioPlayerApp.dir/2-VedioPlayerApp_autogen/mocs_compilation.cpp.obj	7a95fe529888ca68
+18	879	6810334140699692	E:/Works/Qt Course/Qt Drag And Drop/build-2-VedioPlayerApp-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-VedioPlayerApp_autogen/mocs_compilation.cpp	5c180c0b99d71f
+659	709	6809754038770067	2-VedioPlayerApp_autogen/EWIEGA46WW/qrc_res.cpp	ec2e5d5f21600668
+659	709	6809754038770067	E:/Works/Qt Course/Qt Drag And Drop/build-2-VedioPlayerApp-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-VedioPlayerApp_autogen/EWIEGA46WW/qrc_res.cpp	ec2e5d5f21600668
+1019	1624	6810329903668751	CMakeFiles/2-VedioPlayerApp.dir/2-VedioPlayerApp_autogen/EWIEGA46WW/qrc_res.cpp.obj	74667a3d073e8131
+886	3508	6810334168551253	CMakeFiles/2-VedioPlayerApp.dir/main.cpp.obj	d3a7face5d6b1961
+3625	3868	6810334172079578	2-VedioPlayerApp.exe	75c7893928d19427
+19	271	6810335451612360	2-VedioPlayerApp_autogen/timestamp	5c180c0b99d71f
+19	271	6810335451612360	2-VedioPlayerApp_autogen/mocs_compilation.cpp	5c180c0b99d71f
+19	271	6810335451612360	E:/Works/Qt Course/Qt Drag And Drop/build-2-VedioPlayerApp-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-VedioPlayerApp_autogen/timestamp	5c180c0b99d71f
+19	271	6810335451612360	E:/Works/Qt Course/Qt Drag And Drop/build-2-VedioPlayerApp-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-VedioPlayerApp_autogen/mocs_compilation.cpp	5c180c0b99d71f
+284	365	6810335452532184	2-VedioPlayerApp_autogen/EWIEGA46WW/qrc_res.cpp	ec2e5d5f21600668
+284	365	6810335452532184	E:/Works/Qt Course/Qt Drag And Drop/build-2-VedioPlayerApp-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-VedioPlayerApp_autogen/EWIEGA46WW/qrc_res.cpp	ec2e5d5f21600668
+369	552	6810335454444127	CMakeFiles/2-VedioPlayerApp.dir/2-VedioPlayerApp_autogen/EWIEGA46WW/qrc_res.cpp.obj	74667a3d073e8131
+365	2436	6810335473266848	CMakeFiles/2-VedioPlayerApp.dir/mainwindow.cpp.obj	84c59cbb3782c33d
+2436	2702	6810335475859662	2-VedioPlayerApp.exe	75c7893928d19427
+0	42	0	CMakeFiles/clean.additional	baedbe210acaa455
+43	56	0	clean	577b940aee94fbd7
+6	1201	6810402269573675	2-VedioPlayerApp_autogen/timestamp	5c180c0b99d71f
+6	1201	6810402269573675	2-VedioPlayerApp_autogen/mocs_compilation.cpp	5c180c0b99d71f
+6	1201	6810402269573675	E:/Works/Qt Course/Qt Drag And Drop/build-2-VedioPlayerApp-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-VedioPlayerApp_autogen/timestamp	5c180c0b99d71f
+6	1201	6810402269573675	E:/Works/Qt Course/Qt Drag And Drop/build-2-VedioPlayerApp-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-VedioPlayerApp_autogen/mocs_compilation.cpp	5c180c0b99d71f
+1202	1284	6810402272486770	2-VedioPlayerApp_autogen/EWIEGA46WW/qrc_res.cpp	ec2e5d5f21600668
+1202	1284	6810402272486770	E:/Works/Qt Course/Qt Drag And Drop/build-2-VedioPlayerApp-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-VedioPlayerApp_autogen/EWIEGA46WW/qrc_res.cpp	ec2e5d5f21600668
+1296	1619	6810402275859517	CMakeFiles/2-VedioPlayerApp.dir/2-VedioPlayerApp_autogen/EWIEGA46WW/qrc_res.cpp.obj	74667a3d073e8131
+1285	4862	6810402308310642	CMakeFiles/2-VedioPlayerApp.dir/2-VedioPlayerApp_autogen/mocs_compilation.cpp.obj	7a95fe529888ca68
+1288	4949	6810402309172436	CMakeFiles/2-VedioPlayerApp.dir/main.cpp.obj	d3a7face5d6b1961

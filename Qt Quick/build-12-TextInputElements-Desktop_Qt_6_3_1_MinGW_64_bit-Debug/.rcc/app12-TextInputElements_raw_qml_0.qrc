@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/12-TextInputElements/">
+    <file alias="main.qml">E:/Works/Qt Course/Qt Quick/12-TextInputElements/main.qml</file>
+  </qresource>
+</RCC>
+

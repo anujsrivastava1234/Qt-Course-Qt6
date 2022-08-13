@@ -1,0 +1,26 @@
+# ninja log v5
+4	650	6801991050439814	2-PushButtonExamples_autogen/timestamp	1c4d5b45b423457c
+651	702	6801991052053067	2-PushButtonExamples_autogen/EWIEGA46WW/qrc_res.cpp	5aedcd26857cd6e4
+4	650	6801991050439814	E:/Works/Qt Course/Qt Widgets/build-2-PushButtonExamples-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-PushButtonExamples_autogen/timestamp	1c4d5b45b423457c
+4	650	6801991050439814	2-PushButtonExamples_autogen/mocs_compilation.cpp	1c4d5b45b423457c
+4	650	6801991050439814	E:/Works/Qt Course/Qt Widgets/build-2-PushButtonExamples-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-PushButtonExamples_autogen/mocs_compilation.cpp	1c4d5b45b423457c
+708	2402	6801991069054323	CMakeFiles/2-PushButtonExamples.dir/widget.cpp.obj	c3b63629df6be609
+702	2389	6801991068932708	CMakeFiles/2-PushButtonExamples.dir/2-PushButtonExamples_autogen/mocs_compilation.cpp.obj	af038268a7673157
+705	2483	6801991069864337	CMakeFiles/2-PushButtonExamples.dir/main.cpp.obj	fd291b07019e672f
+2483	2673	6801991071742848	2-PushButtonExamples.exe	839e1db576df09aa
+2	548	6801992103926343	build.ninja	fbdff0bd8f9ee5a8
+651	702	6801991052053067	E:/Works/Qt Course/Qt Widgets/build-2-PushButtonExamples-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-PushButtonExamples_autogen/EWIEGA46WW/qrc_res.cpp	5aedcd26857cd6e4
+711	794	6801991053000411	CMakeFiles/2-PushButtonExamples.dir/2-PushButtonExamples_autogen/EWIEGA46WW/qrc_res.cpp.obj	fe88b4f09aa013f0
+24	31	0	clean	577b940aee94fbd7
+0	24	0	CMakeFiles/clean.additional	baedbe210acaa455
+4	667	6801992174455663	2-PushButtonExamples_autogen/timestamp	1c4d5b45b423457c
+4	667	6801992174455663	2-PushButtonExamples_autogen/mocs_compilation.cpp	1c4d5b45b423457c
+4	667	6801992174455663	E:/Works/Qt Course/Qt Widgets/build-2-PushButtonExamples-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-PushButtonExamples_autogen/timestamp	1c4d5b45b423457c
+4	667	6801992174455663	E:/Works/Qt Course/Qt Widgets/build-2-PushButtonExamples-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-PushButtonExamples_autogen/mocs_compilation.cpp	1c4d5b45b423457c
+668	725	6801992176179894	2-PushButtonExamples_autogen/EWIEGA46WW/qrc_res.cpp	5aedcd26857cd6e4
+668	725	6801992176179894	E:/Works/Qt Course/Qt Widgets/build-2-PushButtonExamples-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-PushButtonExamples_autogen/EWIEGA46WW/qrc_res.cpp	5aedcd26857cd6e4
+730	810	6801992177094352	CMakeFiles/2-PushButtonExamples.dir/2-PushButtonExamples_autogen/EWIEGA46WW/qrc_res.cpp.obj	fe88b4f09aa013f0
+725	2424	6801992193220337	CMakeFiles/2-PushButtonExamples.dir/2-PushButtonExamples_autogen/mocs_compilation.cpp.obj	af038268a7673157
+733	2470	6801992193686059	CMakeFiles/2-PushButtonExamples.dir/widget.cpp.obj	c3b63629df6be609
+727	2522	6801992194206329	CMakeFiles/2-PushButtonExamples.dir/main.cpp.obj	fd291b07019e672f
+2523	2713	6801992196081825	2-PushButtonExamples.exe	839e1db576df09aa

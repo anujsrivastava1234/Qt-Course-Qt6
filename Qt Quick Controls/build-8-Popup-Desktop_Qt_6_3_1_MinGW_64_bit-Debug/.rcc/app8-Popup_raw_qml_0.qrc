@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/8-Popup/">
+    <file alias="main.qml">E:/Works/Qt Course/Qt Quick Controls/8-Popup/main.qml</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/8-Popup">
+    <file alias="qmldir">E:/Works/Qt Course/Qt Quick Controls/build-8-Popup-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/8-Popup/qmldir</file>
+  </qresource>
+</RCC>
+

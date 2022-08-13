@@ -1,0 +1,39 @@
+# ninja log v5
+2	1132	6807158364909659	TimerClockExample_autogen/timestamp	95bf0e72eb1e238a
+2	1132	6807158364909659	TimerClockExample_autogen/mocs_compilation.cpp	95bf0e72eb1e238a
+2	1132	6807158364909659	E:/Works/Qt Course/Graphics and Painting/build-TimerClockExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/TimerClockExample_autogen/timestamp	95bf0e72eb1e238a
+2	1132	6807158364909659	E:/Works/Qt Course/Graphics and Painting/build-TimerClockExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/TimerClockExample_autogen/mocs_compilation.cpp	95bf0e72eb1e238a
+1139	3745	6807158392811726	CMakeFiles/TimerClockExample.dir/widget.cpp.obj	651989d7a5416458
+1133	3751	6807158392886025	CMakeFiles/TimerClockExample.dir/TimerClockExample_autogen/mocs_compilation.cpp.obj	3eaf0e3608c57b12
+1136	3766	6807158393027507	CMakeFiles/TimerClockExample.dir/main.cpp.obj	c19383756091b3be
+3766	4011	6807158395435482	TimerClockExample.exe	fccd7b10bfa047cd
+14	275	6807159111663939	TimerClockExample_autogen/timestamp	95bf0e72eb1e238a
+14	275	6807159111663939	TimerClockExample_autogen/mocs_compilation.cpp	95bf0e72eb1e238a
+14	275	6807159111663939	E:/Works/Qt Course/Graphics and Painting/build-TimerClockExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/TimerClockExample_autogen/timestamp	95bf0e72eb1e238a
+14	275	6807159111663939	E:/Works/Qt Course/Graphics and Painting/build-TimerClockExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/TimerClockExample_autogen/mocs_compilation.cpp	95bf0e72eb1e238a
+285	2429	6807159133228699	CMakeFiles/TimerClockExample.dir/widget.cpp.obj	651989d7a5416458
+2429	2646	6807159135335581	TimerClockExample.exe	fccd7b10bfa047cd
+16	240	6807161766677091	TimerClockExample_autogen/timestamp	95bf0e72eb1e238a
+16	240	6807161766677091	TimerClockExample_autogen/mocs_compilation.cpp	95bf0e72eb1e238a
+16	240	6807161766677091	E:/Works/Qt Course/Graphics and Painting/build-TimerClockExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/TimerClockExample_autogen/timestamp	95bf0e72eb1e238a
+16	240	6807161766677091	E:/Works/Qt Course/Graphics and Painting/build-TimerClockExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/TimerClockExample_autogen/mocs_compilation.cpp	95bf0e72eb1e238a
+252	2216	6807161786466393	CMakeFiles/TimerClockExample.dir/widget.cpp.obj	651989d7a5416458
+2216	2427	6807161788526279	TimerClockExample.exe	fccd7b10bfa047cd
+14	258	6807162933896652	TimerClockExample_autogen/timestamp	95bf0e72eb1e238a
+14	258	6807162933896652	TimerClockExample_autogen/mocs_compilation.cpp	95bf0e72eb1e238a
+14	258	6807162933896652	E:/Works/Qt Course/Graphics and Painting/build-TimerClockExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/TimerClockExample_autogen/timestamp	95bf0e72eb1e238a
+14	258	6807162933896652	E:/Works/Qt Course/Graphics and Painting/build-TimerClockExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/TimerClockExample_autogen/mocs_compilation.cpp	95bf0e72eb1e238a
+273	2338	6807162954681561	CMakeFiles/TimerClockExample.dir/widget.cpp.obj	651989d7a5416458
+2338	2542	6807162956699108	TimerClockExample.exe	fccd7b10bfa047cd
+16	302	6807163688132161	TimerClockExample_autogen/timestamp	95bf0e72eb1e238a
+16	302	6807163688132161	TimerClockExample_autogen/mocs_compilation.cpp	95bf0e72eb1e238a
+16	302	6807163688132161	E:/Works/Qt Course/Graphics and Painting/build-TimerClockExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/TimerClockExample_autogen/timestamp	95bf0e72eb1e238a
+16	302	6807163688132161	E:/Works/Qt Course/Graphics and Painting/build-TimerClockExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/TimerClockExample_autogen/mocs_compilation.cpp	95bf0e72eb1e238a
+316	2604	6807163711157383	CMakeFiles/TimerClockExample.dir/widget.cpp.obj	651989d7a5416458
+2605	2844	6807163713516065	TimerClockExample.exe	fccd7b10bfa047cd
+9	192	6807164713315091	TimerClockExample_autogen/timestamp	95bf0e72eb1e238a
+9	192	6807164713315091	TimerClockExample_autogen/mocs_compilation.cpp	95bf0e72eb1e238a
+9	192	6807164713315091	E:/Works/Qt Course/Graphics and Painting/build-TimerClockExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/TimerClockExample_autogen/timestamp	95bf0e72eb1e238a
+9	192	6807164713315091	E:/Works/Qt Course/Graphics and Painting/build-TimerClockExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/TimerClockExample_autogen/mocs_compilation.cpp	95bf0e72eb1e238a
+202	1855	6807164729946045	CMakeFiles/TimerClockExample.dir/widget.cpp.obj	651989d7a5416458
+1855	2052	6807164731881175	TimerClockExample.exe	fccd7b10bfa047cd

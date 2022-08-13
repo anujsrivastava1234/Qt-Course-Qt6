@@ -1,0 +1,9 @@
+# ninja log v5
+1	822	6808832432856404	10-QSQLTableModel_autogen/timestamp	96b782396cc4d1d6
+1	822	6808832432856404	10-QSQLTableModel_autogen/mocs_compilation.cpp	96b782396cc4d1d6
+1	822	6808832432856404	E:/Works/Qt Course/Qt Databases/build-10-QSQLTableModel-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/10-QSQLTableModel_autogen/timestamp	96b782396cc4d1d6
+1	822	6808832432856404	E:/Works/Qt Course/Qt Databases/build-10-QSQLTableModel-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/10-QSQLTableModel_autogen/mocs_compilation.cpp	96b782396cc4d1d6
+827	3026	6808832456202465	CMakeFiles/10-QSQLTableModel.dir/main.cpp.obj	c032d9c39a4a3427
+829	3038	6808832456331613	CMakeFiles/10-QSQLTableModel.dir/10-QSQLTableModel_autogen/mocs_compilation.cpp.obj	b0b9f928bdd090fd
+825	3222	6808832458155611	CMakeFiles/10-QSQLTableModel.dir/widget.cpp.obj	edeeca89bed494be
+3222	3435	6808832460261730	10-QSQLTableModel.exe	dd514fb0d414daaa

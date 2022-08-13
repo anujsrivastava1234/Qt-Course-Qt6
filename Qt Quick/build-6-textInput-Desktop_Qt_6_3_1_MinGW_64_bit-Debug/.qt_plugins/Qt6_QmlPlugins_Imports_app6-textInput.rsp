@@ -1,0 +1,12 @@
+-rootPath
+E:/Works/Qt Course/Qt Quick/6-textInput
+-cmake-output
+-output-file
+E:/Works/Qt Course/Qt Quick/build-6-textInput-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app6-textInput.cmake
+-importPath
+C:/Qt/6.3.1/mingw_64/./qml
+E:/Works/Qt Course/Qt Quick/build-6-textInput-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/6-textInput
+E:/Works/Qt Course/Qt Quick/build-6-textInput-Desktop_Qt_6_3_1_MinGW_64_bit-Debug
+-qrcFiles
+E:/Works/Qt Course/Qt Quick/build-6-textInput-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmake_6-textInput.qrc
+E:/Works/Qt Course/Qt Quick/build-6-textInput-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/app6-textInput_raw_qml_0.qrc

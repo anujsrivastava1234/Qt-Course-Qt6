@@ -1,0 +1,29 @@
+# ninja log v5
+2	1290	6804762043945495	18-QCalenderWidget_autogen/timestamp	1391c38d956b8124
+2	1290	6804762043945495	18-QCalenderWidget_autogen/mocs_compilation.cpp	1391c38d956b8124
+2	1290	6804762043945495	E:/Works/Qt Course/Qt Widgets/build-18-QCalenderWidget-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/18-QCalenderWidget_autogen/timestamp	1391c38d956b8124
+2	1290	6804762043945495	E:/Works/Qt Course/Qt Widgets/build-18-QCalenderWidget-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/18-QCalenderWidget_autogen/mocs_compilation.cpp	1391c38d956b8124
+1299	4276	6804762076173602	CMakeFiles/18-QCalenderWidget.dir/widget.cpp.obj	12d141c1886b4a3c
+1295	4324	6804762076672734	CMakeFiles/18-QCalenderWidget.dir/main.cpp.obj	d552050777e08b77
+1291	4436	6804762077785284	CMakeFiles/18-QCalenderWidget.dir/18-QCalenderWidget_autogen/mocs_compilation.cpp.obj	35d5c6ba4222b33c
+4436	4678	6804762080163457	18-QCalenderWidget.exe	53acd54ee7837bd1
+17	375	6804762950662829	18-QCalenderWidget_autogen/timestamp	1391c38d956b8124
+17	375	6804762950662829	18-QCalenderWidget_autogen/mocs_compilation.cpp	1391c38d956b8124
+17	375	6804762950662829	E:/Works/Qt Course/Qt Widgets/build-18-QCalenderWidget-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/18-QCalenderWidget_autogen/timestamp	1391c38d956b8124
+17	375	6804762950662829	E:/Works/Qt Course/Qt Widgets/build-18-QCalenderWidget-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/18-QCalenderWidget_autogen/mocs_compilation.cpp	1391c38d956b8124
+388	2864	6804762975567919	CMakeFiles/18-QCalenderWidget.dir/widget.cpp.obj	12d141c1886b4a3c
+2864	3098	6804762977860956	18-QCalenderWidget.exe	53acd54ee7837bd1
+22	329	6804763194802403	18-QCalenderWidget_autogen/timestamp	1391c38d956b8124
+22	329	6804763194802403	18-QCalenderWidget_autogen/mocs_compilation.cpp	1391c38d956b8124
+22	329	6804763194802403	E:/Works/Qt Course/Qt Widgets/build-18-QCalenderWidget-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/18-QCalenderWidget_autogen/timestamp	1391c38d956b8124
+22	329	6804763194802403	E:/Works/Qt Course/Qt Widgets/build-18-QCalenderWidget-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/18-QCalenderWidget_autogen/mocs_compilation.cpp	1391c38d956b8124
+344	2737	6804763218904267	CMakeFiles/18-QCalenderWidget.dir/widget.cpp.obj	12d141c1886b4a3c
+2737	2949	6804763220977237	18-QCalenderWidget.exe	53acd54ee7837bd1
+14	859	6804765197934493	18-QCalenderWidget_autogen/timestamp	1391c38d956b8124
+14	859	6804765197934493	18-QCalenderWidget_autogen/mocs_compilation.cpp	1391c38d956b8124
+14	859	6804765197934493	E:/Works/Qt Course/Qt Widgets/build-18-QCalenderWidget-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/18-QCalenderWidget_autogen/timestamp	1391c38d956b8124
+14	859	6804765197934493	E:/Works/Qt Course/Qt Widgets/build-18-QCalenderWidget-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/18-QCalenderWidget_autogen/mocs_compilation.cpp	1391c38d956b8124
+866	4578	6804765236671034	CMakeFiles/18-QCalenderWidget.dir/widget.cpp.obj	12d141c1886b4a3c
+863	4643	6804765237474422	CMakeFiles/18-QCalenderWidget.dir/main.cpp.obj	d552050777e08b77
+860	4705	6804765238101346	CMakeFiles/18-QCalenderWidget.dir/18-QCalenderWidget_autogen/mocs_compilation.cpp.obj	35d5c6ba4222b33c
+4706	5032	6804765241332200	18-QCalenderWidget.exe	53acd54ee7837bd1

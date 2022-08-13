@@ -1,0 +1,22 @@
+{
+	"BUILD_DIR" : "E:/Works/Qt Course/Graphics and Painting/build-6-QLabelExampleShadows-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/6-QLabelExampleShadows_autogen",
+	"CMAKE_BINARY_DIR" : "E:/Works/Qt Course/Graphics and Painting/build-6-QLabelExampleShadows-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "E:/Works/Qt Course/Graphics and Painting/build-6-QLabelExampleShadows-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "E:/Works/Qt Course/Graphics and Painting/6-QLabelExampleShadows",
+	"CMAKE_SOURCE_DIR" : "E:/Works/Qt Course/Graphics and Painting/6-QLabelExampleShadows",
+	"INCLUDE_DIR" : "E:/Works/Qt Course/Graphics and Painting/build-6-QLabelExampleShadows-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/6-QLabelExampleShadows_autogen/include",
+	"INPUTS" : 
+	[
+		"E:/Works/Qt Course/Graphics and Painting/6-QLabelExampleShadows/ww.png"
+	],
+	"LOCK_FILE" : "E:/Works/Qt Course/Graphics and Painting/build-6-QLabelExampleShadows-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/6-QLabelExampleShadows_autogen.dir/AutoRcc_res_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "res" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_res.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.3.1/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "E:/Works/Qt Course/Graphics and Painting/build-6-QLabelExampleShadows-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/6-QLabelExampleShadows_autogen.dir/AutoRcc_res_EWIEGA46WW_Used.txt",
+	"SOURCE" : "E:/Works/Qt Course/Graphics and Painting/6-QLabelExampleShadows/res.qrc",
+	"VERBOSITY" : 0
+}

@@ -1,0 +1,57 @@
+# ninja log v5
+1	922	6809670001759136	1-MusicPlayerApp_autogen/timestamp	b612fae5e943646a
+1	922	6809670001759136	1-MusicPlayerApp_autogen/mocs_compilation.cpp	b612fae5e943646a
+1	922	6809670001759136	E:/Works/Qt Course/Qt Multimedia/build-1-MusicPlayerApp-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/1-MusicPlayerApp_autogen/timestamp	b612fae5e943646a
+1	922	6809670001759136	E:/Works/Qt Course/Qt Multimedia/build-1-MusicPlayerApp-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/1-MusicPlayerApp_autogen/mocs_compilation.cpp	b612fae5e943646a
+927	3887	6809670032913905	CMakeFiles/1-MusicPlayerApp.dir/main.cpp.obj	d2ffb3b4f53c781a
+922	3967	6809670033718751	CMakeFiles/1-MusicPlayerApp.dir/1-MusicPlayerApp_autogen/mocs_compilation.cpp.obj	944acd9952f92e83
+4263	4579	6809670039789176	1-MusicPlayerApp.exe	cb83cda475ec25c7
+924	4263	6809670036681309	CMakeFiles/1-MusicPlayerApp.dir/mainwindow.cpp.obj	837b217d3958c6a
+11	224	6809672175567704	1-MusicPlayerApp_autogen/timestamp	b612fae5e943646a
+11	224	6809672175567704	1-MusicPlayerApp_autogen/mocs_compilation.cpp	b612fae5e943646a
+11	224	6809672175567704	E:/Works/Qt Course/Qt Multimedia/build-1-MusicPlayerApp-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/1-MusicPlayerApp_autogen/timestamp	b612fae5e943646a
+11	224	6809672175567704	E:/Works/Qt Course/Qt Multimedia/build-1-MusicPlayerApp-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/1-MusicPlayerApp_autogen/mocs_compilation.cpp	b612fae5e943646a
+233	278	6809672176086827	1-MusicPlayerApp_autogen/EWIEGA46WW/qrc_res.cpp	2033d174627179ce
+233	278	6809672176086827	E:/Works/Qt Course/Qt Multimedia/build-1-MusicPlayerApp-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/1-MusicPlayerApp_autogen/EWIEGA46WW/qrc_res.cpp	2033d174627179ce
+278	403	6809672177372390	CMakeFiles/1-MusicPlayerApp.dir/1-MusicPlayerApp_autogen/EWIEGA46WW/qrc_res.cpp.obj	34a393ab620034f6
+281	2103	6809672194362103	CMakeFiles/1-MusicPlayerApp.dir/mainwindow.cpp.obj	837b217d3958c6a
+2103	2313	6809672196422088	1-MusicPlayerApp.exe	6c213a9b5440069
+9	208	6809672301550654	1-MusicPlayerApp_autogen/timestamp	b612fae5e943646a
+9	208	6809672301550654	1-MusicPlayerApp_autogen/mocs_compilation.cpp	b612fae5e943646a
+9	208	6809672301550654	E:/Works/Qt Course/Qt Multimedia/build-1-MusicPlayerApp-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/1-MusicPlayerApp_autogen/timestamp	b612fae5e943646a
+9	208	6809672301550654	E:/Works/Qt Course/Qt Multimedia/build-1-MusicPlayerApp-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/1-MusicPlayerApp_autogen/mocs_compilation.cpp	b612fae5e943646a
+217	1980	6809672319265904	CMakeFiles/1-MusicPlayerApp.dir/mainwindow.cpp.obj	837b217d3958c6a
+1981	2194	6809672321350472	1-MusicPlayerApp.exe	6c213a9b5440069
+10	208	6809672370661906	1-MusicPlayerApp_autogen/timestamp	b612fae5e943646a
+10	208	6809672370661906	1-MusicPlayerApp_autogen/mocs_compilation.cpp	b612fae5e943646a
+10	208	6809672370661906	E:/Works/Qt Course/Qt Multimedia/build-1-MusicPlayerApp-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/1-MusicPlayerApp_autogen/timestamp	b612fae5e943646a
+10	208	6809672370661906	E:/Works/Qt Course/Qt Multimedia/build-1-MusicPlayerApp-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/1-MusicPlayerApp_autogen/mocs_compilation.cpp	b612fae5e943646a
+218	1960	6809672388167363	CMakeFiles/1-MusicPlayerApp.dir/mainwindow.cpp.obj	837b217d3958c6a
+1960	2168	6809672390210853	1-MusicPlayerApp.exe	6c213a9b5440069
+22	1177	6809677056459579	1-MusicPlayerApp_autogen/timestamp	b612fae5e943646a
+22	1177	6809677056459579	1-MusicPlayerApp_autogen/mocs_compilation.cpp	b612fae5e943646a
+22	1177	6809677056459579	E:/Works/Qt Course/Qt Multimedia/build-1-MusicPlayerApp-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/1-MusicPlayerApp_autogen/timestamp	b612fae5e943646a
+22	1177	6809677056459579	E:/Works/Qt Course/Qt Multimedia/build-1-MusicPlayerApp-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/1-MusicPlayerApp_autogen/mocs_compilation.cpp	b612fae5e943646a
+1184	5217	6809677098603477	CMakeFiles/1-MusicPlayerApp.dir/main.cpp.obj	d2ffb3b4f53c781a
+1178	5351	6809677100114139	CMakeFiles/1-MusicPlayerApp.dir/1-MusicPlayerApp_autogen/mocs_compilation.cpp.obj	944acd9952f92e83
+1181	5633	6809677102927351	CMakeFiles/1-MusicPlayerApp.dir/mainwindow.cpp.obj	837b217d3958c6a
+15	2218	6809677342696387	CMakeFiles/1-MusicPlayerApp.dir/1-MusicPlayerApp_autogen/mocs_compilation.cpp.obj	944acd9952f92e83
+2218	2439	6809677344871160	1-MusicPlayerApp.exe	6c213a9b5440069
+6	1113	6809681946690225	1-MusicPlayerApp_autogen/timestamp	b612fae5e943646a
+6	1113	6809681946690225	1-MusicPlayerApp_autogen/mocs_compilation.cpp	b612fae5e943646a
+6	1113	6809681946690225	E:/Works/Qt Course/Qt Multimedia/build-1-MusicPlayerApp-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/1-MusicPlayerApp_autogen/timestamp	b612fae5e943646a
+6	1113	6809681946690225	E:/Works/Qt Course/Qt Multimedia/build-1-MusicPlayerApp-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/1-MusicPlayerApp_autogen/mocs_compilation.cpp	b612fae5e943646a
+1116	3988	6809681977467954	CMakeFiles/1-MusicPlayerApp.dir/main.cpp.obj	d2ffb3b4f53c781a
+1113	4154	6809681979133811	CMakeFiles/1-MusicPlayerApp.dir/1-MusicPlayerApp_autogen/mocs_compilation.cpp.obj	944acd9952f92e83
+1119	4286	6809681980442952	CMakeFiles/1-MusicPlayerApp.dir/mainwindow.cpp.obj	837b217d3958c6a
+12	2078	6809741857079466	CMakeFiles/1-MusicPlayerApp.dir/1-MusicPlayerApp_autogen/mocs_compilation.cpp.obj	944acd9952f92e83
+2078	2359	6809741859852991	1-MusicPlayerApp.exe	6c213a9b5440069
+5	783	6809742795475128	1-MusicPlayerApp_autogen/timestamp	b612fae5e943646a
+5	783	6809742795475128	1-MusicPlayerApp_autogen/mocs_compilation.cpp	b612fae5e943646a
+5	783	6809742795475128	E:/Works/Qt Course/Qt Multimedia/build-1-MusicPlayerApp-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/1-MusicPlayerApp_autogen/timestamp	b612fae5e943646a
+5	783	6809742795475128	E:/Works/Qt Course/Qt Multimedia/build-1-MusicPlayerApp-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/1-MusicPlayerApp_autogen/mocs_compilation.cpp	b612fae5e943646a
+785	3653	6809742825674174	CMakeFiles/1-MusicPlayerApp.dir/main.cpp.obj	d2ffb3b4f53c781a
+783	3811	6809742827249070	CMakeFiles/1-MusicPlayerApp.dir/1-MusicPlayerApp_autogen/mocs_compilation.cpp.obj	944acd9952f92e83
+788	3915	6809742828287814	CMakeFiles/1-MusicPlayerApp.dir/mainwindow.cpp.obj	837b217d3958c6a
+13	2155	6809742953865597	CMakeFiles/1-MusicPlayerApp.dir/1-MusicPlayerApp_autogen/mocs_compilation.cpp.obj	944acd9952f92e83
+2156	2380	6809742956078474	1-MusicPlayerApp.exe	6c213a9b5440069

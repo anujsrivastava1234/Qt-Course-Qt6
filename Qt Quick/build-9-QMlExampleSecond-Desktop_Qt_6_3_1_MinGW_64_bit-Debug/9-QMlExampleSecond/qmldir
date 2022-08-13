@@ -1,0 +1,4 @@
+module 9-QMlExampleSecond
+typeinfo app9-QMlExampleSecond.qmltypes
+prefer :/9-QMlExampleSecond/
+

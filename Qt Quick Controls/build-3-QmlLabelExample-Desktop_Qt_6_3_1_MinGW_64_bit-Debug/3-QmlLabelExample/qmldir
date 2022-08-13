@@ -1,0 +1,4 @@
+module 3-QmlLabelExample
+typeinfo app3-QmlLabelExample.qmltypes
+prefer :/3-QmlLabelExample/
+

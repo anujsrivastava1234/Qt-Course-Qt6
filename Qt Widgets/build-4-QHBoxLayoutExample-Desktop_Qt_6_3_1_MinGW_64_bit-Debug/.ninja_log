@@ -1,0 +1,15 @@
+# ninja log v5
+3	560	6803872517845261	build.ninja	e135177f08d22f09
+5	977	6803872309065350	4-QHBoxLayoutExample_autogen/timestamp	667be7cd944c4473
+5	977	6803872309065350	4-QHBoxLayoutExample_autogen/mocs_compilation.cpp	667be7cd944c4473
+5	977	6803872309065350	E:/Works/Qt Course/Qt Widgets/build-4-QHBoxLayoutExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/4-QHBoxLayoutExample_autogen/mocs_compilation.cpp	667be7cd944c4473
+25	36	0	clean	577b940aee94fbd7
+5	977	6803872309065350	E:/Works/Qt Course/Qt Widgets/build-4-QHBoxLayoutExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/4-QHBoxLayoutExample_autogen/timestamp	667be7cd944c4473
+978	1094	6803872311495324	4-QHBoxLayoutExample_autogen/EWIEGA46WW/qrc_res.cpp	fa1ac8c8c5d98df1
+1098	1583	6803872316430975	CMakeFiles/4-QHBoxLayoutExample.dir/4-QHBoxLayoutExample_autogen/EWIEGA46WW/qrc_res.cpp.obj	ca25d0d70706a6f7
+1101	3217	6803872332766254	CMakeFiles/4-QHBoxLayoutExample.dir/widget.cpp.obj	c6713d98aa0ab844
+0	25	0	CMakeFiles/clean.additional	baedbe210acaa455
+978	1094	6803872311495324	E:/Works/Qt Course/Qt Widgets/build-4-QHBoxLayoutExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/4-QHBoxLayoutExample_autogen/EWIEGA46WW/qrc_res.cpp	fa1ac8c8c5d98df1
+1094	3202	6803872332626250	CMakeFiles/4-QHBoxLayoutExample.dir/4-QHBoxLayoutExample_autogen/mocs_compilation.cpp.obj	1eddd8536fe5a362
+1105	3254	6803872333136244	CMakeFiles/4-QHBoxLayoutExample.dir/main.cpp.obj	80508190aa8c0b5b
+3255	3606	6803872336603188	4-QHBoxLayoutExample.exe	21cd2aaad79cfc98

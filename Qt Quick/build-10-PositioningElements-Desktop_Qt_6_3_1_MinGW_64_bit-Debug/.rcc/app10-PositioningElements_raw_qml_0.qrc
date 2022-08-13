@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/10-PositioningElements/">
+    <file alias="main.qml">E:/Works/Qt Course/Qt Quick/10-PositioningElements/main.qml</file>
+  </qresource>
+</RCC>
+

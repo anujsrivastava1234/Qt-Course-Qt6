@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/11-OverlayExample/">
+    <file alias="main.qml">E:/Works/Qt Course/Qt Quick Controls/11-OverlayExample/main.qml</file>
+  </qresource>
+</RCC>
+

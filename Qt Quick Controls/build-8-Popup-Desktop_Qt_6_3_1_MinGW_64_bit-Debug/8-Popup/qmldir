@@ -1,0 +1,4 @@
+module 8-Popup
+typeinfo app8-Popup.qmltypes
+prefer :/8-Popup/
+

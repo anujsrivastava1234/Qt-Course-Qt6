@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/7-QmlDesigner/">
+    <file alias="main.qml">E:/Works/Qt Course/Qt Quick/7-QmlDesigner/main.qml</file>
+  </qresource>
+</RCC>
+

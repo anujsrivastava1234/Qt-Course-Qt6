@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/3-QmlLabelExample/">
+    <file alias="main.qml">E:/Works/Qt Course/Qt Quick Controls/3-QmlLabelExample/main.qml</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,9 @@
+# ninja log v5
+1	2051	6804500410885024	6-QGridLayoutExample_autogen/timestamp	6367e27ea435e069
+1	2051	6804500410885024	6-QGridLayoutExample_autogen/mocs_compilation.cpp	6367e27ea435e069
+1	2051	6804500410885024	E:/Works/Qt Course/Qt Widgets/build-6-QGridLayoutExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/6-QGridLayoutExample_autogen/timestamp	6367e27ea435e069
+1	2051	6804500410885024	E:/Works/Qt Course/Qt Widgets/build-6-QGridLayoutExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/6-QGridLayoutExample_autogen/mocs_compilation.cpp	6367e27ea435e069
+2054	5566	6804500449699311	CMakeFiles/6-QGridLayoutExample.dir/6-QGridLayoutExample_autogen/mocs_compilation.cpp.obj	65e3619e37d8a628
+2058	5575	6804500449807527	CMakeFiles/6-QGridLayoutExample.dir/widget.cpp.obj	c3d5c5b9d633b997
+2063	5615	6804500450199487	CMakeFiles/6-QGridLayoutExample.dir/main.cpp.obj	25afd4a120bbddf5
+5615	5856	6804500452475301	6-QGridLayoutExample.exe	befbdaa546016865

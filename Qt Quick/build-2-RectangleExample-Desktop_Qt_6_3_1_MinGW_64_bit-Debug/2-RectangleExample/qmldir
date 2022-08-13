@@ -1,0 +1,4 @@
+module 2-RectangleExample
+typeinfo app2-RectangleExample.qmltypes
+prefer :/2-RectangleExample/
+

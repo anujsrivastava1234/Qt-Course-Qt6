@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/7-QmlDesigner">
+    <file alias="qmldir">E:/Works/Qt Course/Qt Quick/build-7-QmlDesigner-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/7-QmlDesigner/qmldir</file>
+  </qresource>
+</RCC>
+

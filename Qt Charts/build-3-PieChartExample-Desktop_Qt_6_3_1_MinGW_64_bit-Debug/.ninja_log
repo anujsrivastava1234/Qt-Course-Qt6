@@ -1,0 +1,59 @@
+# ninja log v5
+0	692	6808891074316710	3-PieChartExample_autogen/timestamp	6e79bd3dc41378cb
+2554	2733	6808891095954527	3-PieChartExample.exe	caa8b2194b7df127
+0	692	6808891074316710	3-PieChartExample_autogen/mocs_compilation.cpp	6e79bd3dc41378cb
+0	692	6808891074316710	E:/Works/Qt Course/Qt Charts/build-3-PieChartExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-PieChartExample_autogen/timestamp	6e79bd3dc41378cb
+0	692	6808891074316710	E:/Works/Qt Course/Qt Charts/build-3-PieChartExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-PieChartExample_autogen/mocs_compilation.cpp	6e79bd3dc41378cb
+693	2528	6808891093938108	CMakeFiles/3-PieChartExample.dir/widget.cpp.obj	2876d1945ef35575
+698	2532	6808891093977486	CMakeFiles/3-PieChartExample.dir/3-PieChartExample_autogen/mocs_compilation.cpp.obj	f441e002bcd994e4
+695	2554	6808891094203910	CMakeFiles/3-PieChartExample.dir/main.cpp.obj	b402f5d1cd4051cd
+24	1118	6808894439598545	3-PieChartExample_autogen/timestamp	6e79bd3dc41378cb
+24	1118	6808894439598545	3-PieChartExample_autogen/mocs_compilation.cpp	6e79bd3dc41378cb
+24	1118	6808894439598545	E:/Works/Qt Course/Qt Charts/build-3-PieChartExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-PieChartExample_autogen/timestamp	6e79bd3dc41378cb
+24	1118	6808894439598545	E:/Works/Qt Course/Qt Charts/build-3-PieChartExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-PieChartExample_autogen/mocs_compilation.cpp	6e79bd3dc41378cb
+1125	4088	6808894471222690	CMakeFiles/3-PieChartExample.dir/main.cpp.obj	a372448ab4154a9e
+1118	4095	6808894471293537	CMakeFiles/3-PieChartExample.dir/3-PieChartExample_autogen/mocs_compilation.cpp.obj	7543e7a873b677ba
+1121	4182	6808894472158243	CMakeFiles/3-PieChartExample.dir/widget.cpp.obj	ac1eefe9c79ea60f
+4183	4450	6808894474766495	3-PieChartExample.exe	de7745a22e3a29a8
+17	283	6808894902489683	3-PieChartExample_autogen/timestamp	6e79bd3dc41378cb
+17	283	6808894902489683	3-PieChartExample_autogen/mocs_compilation.cpp	6e79bd3dc41378cb
+17	283	6808894902489683	E:/Works/Qt Course/Qt Charts/build-3-PieChartExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-PieChartExample_autogen/timestamp	6e79bd3dc41378cb
+17	283	6808894902489683	E:/Works/Qt Course/Qt Charts/build-3-PieChartExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-PieChartExample_autogen/mocs_compilation.cpp	6e79bd3dc41378cb
+300	2752	6808894927182787	CMakeFiles/3-PieChartExample.dir/widget.cpp.obj	ac1eefe9c79ea60f
+2752	2994	6808894929555216	3-PieChartExample.exe	de7745a22e3a29a8
+17	262	6808896554249456	3-PieChartExample_autogen/timestamp	6e79bd3dc41378cb
+17	262	6808896554249456	3-PieChartExample_autogen/mocs_compilation.cpp	6e79bd3dc41378cb
+17	262	6808896554249456	E:/Works/Qt Course/Qt Charts/build-3-PieChartExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-PieChartExample_autogen/timestamp	6e79bd3dc41378cb
+17	262	6808896554249456	E:/Works/Qt Course/Qt Charts/build-3-PieChartExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-PieChartExample_autogen/mocs_compilation.cpp	6e79bd3dc41378cb
+274	2673	6808896578367776	CMakeFiles/3-PieChartExample.dir/widget.cpp.obj	ac1eefe9c79ea60f
+2674	2957	6808896581140261	3-PieChartExample.exe	de7745a22e3a29a8
+20	283	6808896681850674	3-PieChartExample_autogen/timestamp	6e79bd3dc41378cb
+20	283	6808896681850674	3-PieChartExample_autogen/mocs_compilation.cpp	6e79bd3dc41378cb
+20	283	6808896681850674	E:/Works/Qt Course/Qt Charts/build-3-PieChartExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-PieChartExample_autogen/timestamp	6e79bd3dc41378cb
+20	283	6808896681850674	E:/Works/Qt Course/Qt Charts/build-3-PieChartExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-PieChartExample_autogen/mocs_compilation.cpp	6e79bd3dc41378cb
+293	2897	6808896707989850	CMakeFiles/3-PieChartExample.dir/widget.cpp.obj	ac1eefe9c79ea60f
+2897	3159	6808896710565094	3-PieChartExample.exe	de7745a22e3a29a8
+21	276	6808897205053313	3-PieChartExample_autogen/timestamp	6e79bd3dc41378cb
+21	276	6808897205053313	3-PieChartExample_autogen/mocs_compilation.cpp	6e79bd3dc41378cb
+21	276	6808897205053313	E:/Works/Qt Course/Qt Charts/build-3-PieChartExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-PieChartExample_autogen/timestamp	6e79bd3dc41378cb
+21	276	6808897205053313	E:/Works/Qt Course/Qt Charts/build-3-PieChartExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-PieChartExample_autogen/mocs_compilation.cpp	6e79bd3dc41378cb
+289	2728	6808897229588820	CMakeFiles/3-PieChartExample.dir/widget.cpp.obj	ac1eefe9c79ea60f
+2729	3002	6808897232264868	3-PieChartExample.exe	de7745a22e3a29a8
+21	297	6808900711562217	3-PieChartExample_autogen/timestamp	6e79bd3dc41378cb
+21	297	6808900711562217	3-PieChartExample_autogen/mocs_compilation.cpp	6e79bd3dc41378cb
+21	297	6808900711562217	E:/Works/Qt Course/Qt Charts/build-3-PieChartExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-PieChartExample_autogen/timestamp	6e79bd3dc41378cb
+21	297	6808900711562217	E:/Works/Qt Course/Qt Charts/build-3-PieChartExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-PieChartExample_autogen/mocs_compilation.cpp	6e79bd3dc41378cb
+309	2544	6808900734031880	CMakeFiles/3-PieChartExample.dir/widget.cpp.obj	ac1eefe9c79ea60f
+2545	2819	6808900736710094	3-PieChartExample.exe	de7745a22e3a29a8
+20	279	6808902630255223	3-PieChartExample_autogen/timestamp	6e79bd3dc41378cb
+20	279	6808902630255223	3-PieChartExample_autogen/mocs_compilation.cpp	6e79bd3dc41378cb
+20	279	6808902630255223	E:/Works/Qt Course/Qt Charts/build-3-PieChartExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-PieChartExample_autogen/timestamp	6e79bd3dc41378cb
+20	279	6808902630255223	E:/Works/Qt Course/Qt Charts/build-3-PieChartExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-PieChartExample_autogen/mocs_compilation.cpp	6e79bd3dc41378cb
+293	2710	6808902654562138	CMakeFiles/3-PieChartExample.dir/widget.cpp.obj	ac1eefe9c79ea60f
+2710	3000	6808902657420719	3-PieChartExample.exe	de7745a22e3a29a8
+16	294	6808902796577113	3-PieChartExample_autogen/timestamp	6e79bd3dc41378cb
+16	294	6808902796577113	3-PieChartExample_autogen/mocs_compilation.cpp	6e79bd3dc41378cb
+16	294	6808902796577113	E:/Works/Qt Course/Qt Charts/build-3-PieChartExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-PieChartExample_autogen/timestamp	6e79bd3dc41378cb
+16	294	6808902796577113	E:/Works/Qt Course/Qt Charts/build-3-PieChartExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-PieChartExample_autogen/mocs_compilation.cpp	6e79bd3dc41378cb
+307	2702	6808902820658737	CMakeFiles/3-PieChartExample.dir/widget.cpp.obj	ac1eefe9c79ea60f
+2703	2984	6808902823436171	3-PieChartExample.exe	de7745a22e3a29a8

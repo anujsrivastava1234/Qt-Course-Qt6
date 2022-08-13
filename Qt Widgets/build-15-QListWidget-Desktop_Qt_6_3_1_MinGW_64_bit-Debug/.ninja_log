@@ -1,0 +1,9 @@
+# ninja log v5
+1	1284	6804715759825469	15-QListWidget_autogen/timestamp	84bb854cceae229f
+1	1284	6804715759825469	15-QListWidget_autogen/mocs_compilation.cpp	84bb854cceae229f
+1	1284	6804715759825469	E:/Works/Qt Course/Qt Widgets/build-15-QListWidget-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/15-QListWidget_autogen/timestamp	84bb854cceae229f
+1	1284	6804715759825469	E:/Works/Qt Course/Qt Widgets/build-15-QListWidget-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/15-QListWidget_autogen/mocs_compilation.cpp	84bb854cceae229f
+1288	4465	6804715793769352	CMakeFiles/15-QListWidget.dir/widget.cpp.obj	5b7ca5035f37fc77
+1284	4471	6804715793835089	CMakeFiles/15-QListWidget.dir/15-QListWidget_autogen/mocs_compilation.cpp.obj	ea2764805c84402a
+1291	4480	6804715793956108	CMakeFiles/15-QListWidget.dir/main.cpp.obj	17aa560dad874011
+4481	4730	6804715796407862	15-QListWidget.exe	c3dab1be225f7e0b

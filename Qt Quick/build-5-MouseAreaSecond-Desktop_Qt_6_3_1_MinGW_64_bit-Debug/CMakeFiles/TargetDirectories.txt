@@ -1,0 +1,16 @@
+E:/Works/Qt Course/Qt Quick/build-5-MouseAreaSecond-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/app5-MouseAreaSecond.dir
+E:/Works/Qt Course/Qt Quick/build-5-MouseAreaSecond-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/app5-MouseAreaSecond_qmltyperegistration.dir
+E:/Works/Qt Course/Qt Quick/build-5-MouseAreaSecond-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/all_qmltyperegistrations.dir
+E:/Works/Qt Course/Qt Quick/build-5-MouseAreaSecond-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/app5-MouseAreaSecond_other_files.dir
+E:/Works/Qt Course/Qt Quick/build-5-MouseAreaSecond-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/app5-MouseAreaSecond_qmllint.dir
+E:/Works/Qt Course/Qt Quick/build-5-MouseAreaSecond-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/all_qmllint.dir
+E:/Works/Qt Course/Qt Quick/build-5-MouseAreaSecond-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/app5-MouseAreaSecond_tooling.dir
+E:/Works/Qt Course/Qt Quick/build-5-MouseAreaSecond-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/app5-MouseAreaSecond_qmlimportscan.dir
+E:/Works/Qt Course/Qt Quick/build-5-MouseAreaSecond-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+E:/Works/Qt Course/Qt Quick/build-5-MouseAreaSecond-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+E:/Works/Qt Course/Qt Quick/build-5-MouseAreaSecond-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+E:/Works/Qt Course/Qt Quick/build-5-MouseAreaSecond-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/install.dir
+E:/Works/Qt Course/Qt Quick/build-5-MouseAreaSecond-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+E:/Works/Qt Course/Qt Quick/build-5-MouseAreaSecond-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+E:/Works/Qt Course/Qt Quick/build-5-MouseAreaSecond-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/app5-MouseAreaSecond_autogen_timestamp_deps.dir
+E:/Works/Qt Course/Qt Quick/build-5-MouseAreaSecond-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/app5-MouseAreaSecond_autogen.dir

@@ -1,0 +1,29 @@
+# ninja log v5
+852	4264	6801687980575060	CMakeFiles/3-SratchProject.dir/main.cpp.obj	ea14b412a991a047
+22	790	6801687944631468	3-SratchProject_autogen/timestamp	6dccef42a94144b4
+22	790	6801687944631468	3-SratchProject_autogen/mocs_compilation.cpp	6dccef42a94144b4
+22	790	6801687944631468	E:/Works/Qt Course/build-3-SratchProject-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-SratchProject_autogen/timestamp	6dccef42a94144b4
+4264	4608	6801687984074214	3-SratchProject.exe	15511c1368c512bc
+842	4257	6801687980514233	CMakeFiles/3-SratchProject.dir/3-SratchProject_autogen/mocs_compilation.cpp.obj	5cf88f16ed927a04
+22	790	6801687944631468	E:/Works/Qt Course/build-3-SratchProject-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-SratchProject_autogen/mocs_compilation.cpp	6dccef42a94144b4
+845	4188	6801687979792739	CMakeFiles/3-SratchProject.dir/widget.cpp.obj	46503486d990f26c
+2	648	6801688202415236	build.ninja	8ec0060900fd2e7
+790	842	6801687946437355	3-SratchProject_autogen/EWIEGA46WW/qrc_res.cpp	abd4afe454452ca0
+790	842	6801687946437355	E:/Works/Qt Course/build-3-SratchProject-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-SratchProject_autogen/EWIEGA46WW/qrc_res.cpp	abd4afe454452ca0
+848	1003	6801687947916799	CMakeFiles/3-SratchProject.dir/3-SratchProject_autogen/EWIEGA46WW/qrc_res.cpp.obj	ef14017495f952f3
+23	189	6801688235676719	3-SratchProject_autogen/timestamp	6dccef42a94144b4
+23	189	6801688235676719	3-SratchProject_autogen/mocs_compilation.cpp	6dccef42a94144b4
+23	189	6801688235676719	E:/Works/Qt Course/build-3-SratchProject-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-SratchProject_autogen/timestamp	6dccef42a94144b4
+23	189	6801688235676719	E:/Works/Qt Course/build-3-SratchProject-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-SratchProject_autogen/mocs_compilation.cpp	6dccef42a94144b4
+7	239	6801688747006272	3-SratchProject_autogen/timestamp	6dccef42a94144b4
+7	239	6801688747006272	3-SratchProject_autogen/mocs_compilation.cpp	6dccef42a94144b4
+7	239	6801688747006272	E:/Works/Qt Course/build-3-SratchProject-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-SratchProject_autogen/timestamp	6dccef42a94144b4
+7	239	6801688747006272	E:/Works/Qt Course/build-3-SratchProject-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-SratchProject_autogen/mocs_compilation.cpp	6dccef42a94144b4
+250	2064	6801688765274708	CMakeFiles/3-SratchProject.dir/widget.cpp.obj	46503486d990f26c
+2065	2256	6801688767133891	3-SratchProject.exe	15511c1368c512bc
+17	235	6801690835947219	3-SratchProject_autogen/timestamp	6dccef42a94144b4
+17	235	6801690835947219	3-SratchProject_autogen/mocs_compilation.cpp	6dccef42a94144b4
+17	235	6801690835947219	E:/Works/Qt Course/build-3-SratchProject-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-SratchProject_autogen/timestamp	6dccef42a94144b4
+17	235	6801690835947219	E:/Works/Qt Course/build-3-SratchProject-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-SratchProject_autogen/mocs_compilation.cpp	6dccef42a94144b4
+244	2029	6801690853894879	CMakeFiles/3-SratchProject.dir/widget.cpp.obj	46503486d990f26c
+2030	2239	6801690855949540	3-SratchProject.exe	15511c1368c512bc

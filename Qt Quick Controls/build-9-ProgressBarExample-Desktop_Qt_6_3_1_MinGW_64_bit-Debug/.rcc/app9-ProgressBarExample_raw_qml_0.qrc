@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/9-ProgressBarExample/">
+    <file alias="main.qml">E:/Works/Qt Course/Qt Quick Controls/9-ProgressBarExample/main.qml</file>
+  </qresource>
+</RCC>
+

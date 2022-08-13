@@ -1,0 +1,70 @@
+# ninja log v5
+4	40	6817505218235167	11-OverlayExample/main.qml	e54c16db51c4b56d
+4	40	6817505218235167	E:/Works/Qt Course/Qt Quick Controls/build-11-OverlayExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/11-OverlayExample/main.qml	e54c16db51c4b56d
+1	40	6817505218210794	.rcc/qmlcache/app11-OverlayExample_qmlcache_loader.cpp	26324aa8f0750a58
+1	40	6817505218210794	E:/Works/Qt Course/Qt Quick Controls/build-11-OverlayExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app11-OverlayExample_qmlcache_loader.cpp	26324aa8f0750a58
+41	222	6817505219348598	app11-OverlayExample_autogen/timestamp	d6e17799a932839f
+41	222	6817505219348598	app11-OverlayExample_autogen/mocs_compilation.cpp	d6e17799a932839f
+41	222	6817505219348598	E:/Works/Qt Course/Qt Quick Controls/build-11-OverlayExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app11-OverlayExample_autogen/timestamp	d6e17799a932839f
+41	222	6817505219348598	E:/Works/Qt Course/Qt Quick Controls/build-11-OverlayExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app11-OverlayExample_autogen/mocs_compilation.cpp	d6e17799a932839f
+224	251	6817505220356179	meta_types/app11-OverlayExample_json_file_list.txt	70794598a2cce2cf
+224	251	6817505220356179	meta_types/app11-OverlayExample_json_file_list.txt.timestamp	70794598a2cce2cf
+224	251	6817505220356179	E:/Works/Qt Course/Qt Quick Controls/build-11-OverlayExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/app11-OverlayExample_json_file_list.txt	70794598a2cce2cf
+224	251	6817505220356179	E:/Works/Qt Course/Qt Quick Controls/build-11-OverlayExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/app11-OverlayExample_json_file_list.txt.timestamp	70794598a2cce2cf
+252	289	6817505220737476	meta_types/qt6app11-overlayexample_debug_metatypes.json.gen	3b862925fb740289
+252	289	6817505220737476	meta_types/qt6app11-overlayexample_debug_metatypes.json	3b862925fb740289
+252	289	6817505220737476	E:/Works/Qt Course/Qt Quick Controls/build-11-OverlayExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6app11-overlayexample_debug_metatypes.json.gen	3b862925fb740289
+252	289	6817505220737476	E:/Works/Qt Course/Qt Quick Controls/build-11-OverlayExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6app11-overlayexample_debug_metatypes.json	3b862925fb740289
+289	409	6817505221357043	app11-overlayexample_qmltyperegistrations.cpp	452da1428a882b1c
+289	409	6817505221357043	11-OverlayExample/app11-OverlayExample.qmltypes	452da1428a882b1c
+289	409	6817505221357043	E:/Works/Qt Course/Qt Quick Controls/build-11-OverlayExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app11-overlayexample_qmltyperegistrations.cpp	452da1428a882b1c
+289	409	6817505221357043	E:/Works/Qt Course/Qt Quick Controls/build-11-OverlayExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/11-OverlayExample/app11-OverlayExample.qmltypes	452da1428a882b1c
+7	410	6817505221948073	.qt_plugins/Qt6_QmlPlugins_Imports_app11-OverlayExample.cmake	b278e3dd80eaae1a
+7	410	6817505221948073	E:/Works/Qt Course/Qt Quick Controls/build-11-OverlayExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app11-OverlayExample.cmake	b278e3dd80eaae1a
+410	441	6817505222246233	.rcc/qrc_qmake_11-OverlayExample.cpp	c3e184360799cdac
+410	441	6817505222246233	E:/Works/Qt Course/Qt Quick Controls/build-11-OverlayExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_qmake_11-OverlayExample.cpp	c3e184360799cdac
+413	445	6817505222294128	.rcc/qrc_app11-OverlayExample_raw_qml_0.cpp	edc8c2d2a53efa07
+413	445	6817505222294128	E:/Works/Qt Course/Qt Quick Controls/build-11-OverlayExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app11-OverlayExample_raw_qml_0.cpp	edc8c2d2a53efa07
+416	552	6817505223296586	.rcc/qmlcache/app11-OverlayExample_main_qml.cpp	befca78410cbeca2
+416	552	6817505223296586	E:/Works/Qt Course/Qt Quick Controls/build-11-OverlayExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app11-OverlayExample_main_qml.cpp	befca78410cbeca2
+566	688	6817505224723870	CMakeFiles/app11-OverlayExample.dir/.rcc/qrc_qmake_11-OverlayExample.cpp.obj	ddf821a157d89da9
+553	702	6817505224695305	CMakeFiles/app11-OverlayExample.dir/app11-OverlayExample_autogen/mocs_compilation.cpp.obj	4ca52853d4fe8ddc
+568	714	6817505224968056	CMakeFiles/app11-OverlayExample.dir/.rcc/qrc_app11-OverlayExample_raw_qml_0.cpp.obj	f7a3b58a1b5a6f94
+558	2639	6817505244235204	CMakeFiles/app11-OverlayExample.dir/app11-overlayexample_qmltyperegistrations.cpp.obj	de3a2a4d3fcfdd69
+555	2748	6817505245317490	CMakeFiles/app11-OverlayExample.dir/main.cpp.obj	6bdfb15121a3a487
+563	2841	6817505246243800	CMakeFiles/app11-OverlayExample.dir/.rcc/qmlcache/app11-OverlayExample_main_qml.cpp.obj	c201ab64b9154db5
+560	3136	6817505249198035	CMakeFiles/app11-OverlayExample.dir/.rcc/qmlcache/app11-OverlayExample_qmlcache_loader.cpp.obj	1728d7d2fdc25315
+3137	3353	6817505251320849	app11-OverlayExample.exe	c1e93148ca5741df
+16	47	6817506041711223	11-OverlayExample/main.qml	e54c16db51c4b56d
+16	47	6817506041711223	E:/Works/Qt Course/Qt Quick Controls/build-11-OverlayExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/11-OverlayExample/main.qml	e54c16db51c4b56d
+20	341	6817506044642533	.qt_plugins/Qt6_QmlPlugins_Imports_app11-OverlayExample.cmake	b278e3dd80eaae1a
+20	341	6817506044642533	E:/Works/Qt Course/Qt Quick Controls/build-11-OverlayExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app11-OverlayExample.cmake	b278e3dd80eaae1a
+344	371	6817506044951624	.rcc/qrc_app11-OverlayExample_raw_qml_0.cpp	edc8c2d2a53efa07
+344	371	6817506044951624	E:/Works/Qt Course/Qt Quick Controls/build-11-OverlayExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app11-OverlayExample_raw_qml_0.cpp	edc8c2d2a53efa07
+341	473	6817506045896006	.rcc/qmlcache/app11-OverlayExample_main_qml.cpp	befca78410cbeca2
+341	473	6817506045896006	E:/Works/Qt Course/Qt Quick Controls/build-11-OverlayExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app11-OverlayExample_main_qml.cpp	befca78410cbeca2
+475	542	6817506046674763	CMakeFiles/app11-OverlayExample.dir/.rcc/qrc_app11-OverlayExample_raw_qml_0.cpp.obj	f7a3b58a1b5a6f94
+473	2103	6817506062276740	CMakeFiles/app11-OverlayExample.dir/.rcc/qmlcache/app11-OverlayExample_main_qml.cpp.obj	c201ab64b9154db5
+2103	2311	6817506064319493	app11-OverlayExample.exe	c1e93148ca5741df
+7	35	6817506209381620	11-OverlayExample/main.qml	e54c16db51c4b56d
+7	35	6817506209381620	E:/Works/Qt Course/Qt Quick Controls/build-11-OverlayExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/11-OverlayExample/main.qml	e54c16db51c4b56d
+4	321	6817506212237138	.qt_plugins/Qt6_QmlPlugins_Imports_app11-OverlayExample.cmake	b278e3dd80eaae1a
+4	321	6817506212237138	E:/Works/Qt Course/Qt Quick Controls/build-11-OverlayExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app11-OverlayExample.cmake	b278e3dd80eaae1a
+324	350	6817506212521803	.rcc/qrc_app11-OverlayExample_raw_qml_0.cpp	edc8c2d2a53efa07
+324	350	6817506212521803	E:/Works/Qt Course/Qt Quick Controls/build-11-OverlayExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app11-OverlayExample_raw_qml_0.cpp	edc8c2d2a53efa07
+321	455	6817506213493497	.rcc/qmlcache/app11-OverlayExample_main_qml.cpp	befca78410cbeca2
+321	455	6817506213493497	E:/Works/Qt Course/Qt Quick Controls/build-11-OverlayExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app11-OverlayExample_main_qml.cpp	befca78410cbeca2
+458	526	6817506214298722	CMakeFiles/app11-OverlayExample.dir/.rcc/qrc_app11-OverlayExample_raw_qml_0.cpp.obj	f7a3b58a1b5a6f94
+455	2378	6817506232809787	CMakeFiles/app11-OverlayExample.dir/.rcc/qmlcache/app11-OverlayExample_main_qml.cpp.obj	c201ab64b9154db5
+2379	2588	6817506234865242	app11-OverlayExample.exe	c1e93148ca5741df
+5	34	6817506892907223	11-OverlayExample/main.qml	e54c16db51c4b56d
+5	34	6817506892907223	E:/Works/Qt Course/Qt Quick Controls/build-11-OverlayExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/11-OverlayExample/main.qml	e54c16db51c4b56d
+8	315	6817506895705997	.qt_plugins/Qt6_QmlPlugins_Imports_app11-OverlayExample.cmake	b278e3dd80eaae1a
+8	315	6817506895705997	E:/Works/Qt Course/Qt Quick Controls/build-11-OverlayExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app11-OverlayExample.cmake	b278e3dd80eaae1a
+317	343	6817506895994049	.rcc/qrc_app11-OverlayExample_raw_qml_0.cpp	edc8c2d2a53efa07
+317	343	6817506895994049	E:/Works/Qt Course/Qt Quick Controls/build-11-OverlayExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app11-OverlayExample_raw_qml_0.cpp	edc8c2d2a53efa07
+315	451	6817506896997762	.rcc/qmlcache/app11-OverlayExample_main_qml.cpp	befca78410cbeca2
+315	451	6817506896997762	E:/Works/Qt Course/Qt Quick Controls/build-11-OverlayExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app11-OverlayExample_main_qml.cpp	befca78410cbeca2
+454	528	6817506897852200	CMakeFiles/app11-OverlayExample.dir/.rcc/qrc_app11-OverlayExample_raw_qml_0.cpp.obj	f7a3b58a1b5a6f94
+451	2086	6817506913421394	CMakeFiles/app11-OverlayExample.dir/.rcc/qmlcache/app11-OverlayExample_main_qml.cpp.obj	c201ab64b9154db5
+2086	2297	6817506915501789	app11-OverlayExample.exe	c1e93148ca5741df

@@ -1,0 +1,78 @@
+# ninja log v5
+2	79	6814923536193432	.rcc/qmlcache/app14-TransformationExample_qmlcache_loader.cpp	17dd8c1489b69958
+654	2990	6814923565504634	CMakeFiles/app14-TransformationExample.dir/app14-transformationexample_qmltyperegistrations.cpp.obj	461f9cf03b6456ed
+2	79	6814923536193432	E:/Works/Qt Course/Qt Quick/build-14-TransformationExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app14-TransformationExample_qmlcache_loader.cpp	17dd8c1489b69958
+11	42	6814926830218667	14-TransformationExample/main.qml	eaa48aa9a5d29263
+11	42	6814926830218667	E:/Works/Qt Course/Qt Quick/build-14-TransformationExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/14-TransformationExample/main.qml	eaa48aa9a5d29263
+15	50	6814926830286803	.qt_plugins/Qt6_QmlPlugins_Imports_app14-TransformationExample.cmake	29d30c253dc7277
+23	153	6814926587523365	E:/Works/Qt Course/Qt Quick/build-14-TransformationExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app14-TransformationExample_autogen/mocs_compilation.cpp	e515a23f61ac37b0
+10	86	6814923536269222	14-TransformationExample/Shape.qml	6512607b365cfab9
+15	50	6814926830286803	E:/Works/Qt Course/Qt Quick/build-14-TransformationExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app14-TransformationExample.cmake	29d30c253dc7277
+10	86	6814923536269222	E:/Works/Qt Course/Qt Quick/build-14-TransformationExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/14-TransformationExample/Shape.qml	6512607b365cfab9
+23	153	6814926587523365	app14-TransformationExample_autogen/timestamp	e515a23f61ac37b0
+376	509	6814923540068539	14-TransformationExample/app14-TransformationExample.qmltypes	b33469c8aa69616
+23	153	6814926587523365	app14-TransformationExample_autogen/mocs_compilation.cpp	e515a23f61ac37b0
+23	153	6814926587523365	E:/Works/Qt Course/Qt Quick/build-14-TransformationExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app14-TransformationExample_autogen/timestamp	e515a23f61ac37b0
+157	190	6814926586963867	meta_types/app14-TransformationExample_json_file_list.txt	aac5b68df9d277a
+157	190	6814926586963867	meta_types/app14-TransformationExample_json_file_list.txt.timestamp	aac5b68df9d277a
+509	650	6814923542019013	E:/Works/Qt Course/Qt Quick/build-14-TransformationExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app14-TransformationExample_Shape_qml.cpp	484d8a4393224637
+305	409	6814926590074946	CMakeFiles/app14-TransformationExample.dir/app14-TransformationExample_autogen/EWIEGA46WW/qrc_res.cpp.obj	f228ff0cf0180087
+157	190	6814926586963867	E:/Works/Qt Course/Qt Quick/build-14-TransformationExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/app14-TransformationExample_json_file_list.txt	aac5b68df9d277a
+157	190	6814926586963867	E:/Works/Qt Course/Qt Quick/build-14-TransformationExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/app14-TransformationExample_json_file_list.txt.timestamp	aac5b68df9d277a
+53	80	6814926830612460	.rcc/qrc_app14-TransformationExample_raw_qml_0.cpp	9dc5d9c43865bfba
+657	932	6814923544802951	CMakeFiles/app14-TransformationExample.dir/.rcc/qrc_qmake_14-TransformationExample.cpp.obj	cbd90ccc1c9f7363
+53	80	6814926830612460	E:/Works/Qt Course/Qt Quick/build-14-TransformationExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app14-TransformationExample_raw_qml_0.cpp	9dc5d9c43865bfba
+288	336	6814923538912404	E:/Works/Qt Course/Qt Quick/build-14-TransformationExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_qmake_14-TransformationExample.cpp	5514df27481057d4
+288	336	6814923538912404	.rcc/qrc_qmake_14-TransformationExample.cpp	5514df27481057d4
+50	150	6814926831228803	E:/Works/Qt Course/Qt Quick/build-14-TransformationExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app14-TransformationExample_main_qml.cpp	3c6568f41e552472
+328	376	6814923539359487	meta_types/qt6app14-transformationexample_debug_metatypes.json.gen	668efa06988976b1
+328	376	6814923539359487	meta_types/qt6app14-transformationexample_debug_metatypes.json	668efa06988976b1
+328	376	6814923539359487	E:/Works/Qt Course/Qt Quick/build-14-TransformationExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6app14-transformationexample_debug_metatypes.json.gen	668efa06988976b1
+328	376	6814923539359487	E:/Works/Qt Course/Qt Quick/build-14-TransformationExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6app14-transformationexample_debug_metatypes.json	668efa06988976b1
+376	509	6814923540068539	app14-transformationexample_qmltyperegistrations.cpp	b33469c8aa69616
+153	226	6814926832067127	CMakeFiles/app14-TransformationExample.dir/.rcc/qrc_app14-TransformationExample_raw_qml_0.cpp.obj	8f2553392264c670
+376	509	6814923540068539	E:/Works/Qt Course/Qt Quick/build-14-TransformationExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app14-transformationexample_qmltyperegistrations.cpp	b33469c8aa69616
+1838	2082	6814926850572298	app14-TransformationExample.exe	732d50db6b5267d8
+376	509	6814923540068539	E:/Works/Qt Course/Qt Quick/build-14-TransformationExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/14-TransformationExample/app14-TransformationExample.qmltypes	b33469c8aa69616
+509	650	6814923542019013	.rcc/qmlcache/app14-TransformationExample_Shape_qml.cpp	484d8a4393224637
+50	150	6814926831228803	.rcc/qmlcache/app14-TransformationExample_main_qml.cpp	3c6568f41e552472
+650	885	6814923544454483	CMakeFiles/app14-TransformationExample.dir/app14-TransformationExample_autogen/mocs_compilation.cpp.obj	9df031c03e697a90
+660	3234	6814923567954047	CMakeFiles/app14-TransformationExample.dir/main.cpp.obj	547ed9076672388b
+150	1838	6814926848190609	CMakeFiles/app14-TransformationExample.dir/.rcc/qmlcache/app14-TransformationExample_main_qml.cpp.obj	57ec5ef86fa71496
+663	3371	6814923569331858	CMakeFiles/app14-TransformationExample.dir/.rcc/qmlcache/app14-TransformationExample_Shape_qml.cpp.obj	c72c20b8250afb7f
+665	3498	6814923570596929	CMakeFiles/app14-TransformationExample.dir/.rcc/qmlcache/app14-TransformationExample_qmlcache_loader.cpp.obj	a1150e7e058e81fb
+163	222	6814926588179375	app14-TransformationExample_autogen/EWIEGA46WW/qrc_res.cpp	490e70182ce5306
+163	222	6814926588179375	E:/Works/Qt Course/Qt Quick/build-14-TransformationExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app14-TransformationExample_autogen/EWIEGA46WW/qrc_res.cpp	490e70182ce5306
+10	46	6814929201351328	14-TransformationExample/main.qml	eaa48aa9a5d29263
+10	46	6814929201351328	E:/Works/Qt Course/Qt Quick/build-14-TransformationExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/14-TransformationExample/main.qml	eaa48aa9a5d29263
+13	56	6814929201458619	.qt_plugins/Qt6_QmlPlugins_Imports_app14-TransformationExample.cmake	29d30c253dc7277
+13	56	6814929201458619	E:/Works/Qt Course/Qt Quick/build-14-TransformationExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app14-TransformationExample.cmake	29d30c253dc7277
+6	119	6814929202093761	app14-TransformationExample_autogen/timestamp	e515a23f61ac37b0
+6	119	6814929202093761	app14-TransformationExample_autogen/mocs_compilation.cpp	e515a23f61ac37b0
+6	119	6814929202093761	E:/Works/Qt Course/Qt Quick/build-14-TransformationExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app14-TransformationExample_autogen/timestamp	e515a23f61ac37b0
+6	119	6814929202093761	E:/Works/Qt Course/Qt Quick/build-14-TransformationExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app14-TransformationExample_autogen/mocs_compilation.cpp	e515a23f61ac37b0
+124	152	6814929201537187	meta_types/app14-TransformationExample_json_file_list.txt	aac5b68df9d277a
+124	152	6814929201537187	meta_types/app14-TransformationExample_json_file_list.txt.timestamp	aac5b68df9d277a
+124	152	6814929201537187	E:/Works/Qt Course/Qt Quick/build-14-TransformationExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/app14-TransformationExample_json_file_list.txt	aac5b68df9d277a
+124	152	6814929201537187	E:/Works/Qt Course/Qt Quick/build-14-TransformationExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/app14-TransformationExample_json_file_list.txt.timestamp	aac5b68df9d277a
+127	161	6814929202516353	.rcc/qrc_app14-TransformationExample_raw_qml_0.cpp	9dc5d9c43865bfba
+127	161	6814929202516353	E:/Works/Qt Course/Qt Quick/build-14-TransformationExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app14-TransformationExample_raw_qml_0.cpp	9dc5d9c43865bfba
+130	195	6814929202819076	app14-TransformationExample_autogen/EWIEGA46WW/qrc_res.cpp	490e70182ce5306
+130	195	6814929202819076	E:/Works/Qt Course/Qt Quick/build-14-TransformationExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app14-TransformationExample_autogen/EWIEGA46WW/qrc_res.cpp	490e70182ce5306
+153	258	6814929203414501	.rcc/qmlcache/app14-TransformationExample_main_qml.cpp	3c6568f41e552472
+153	258	6814929203414501	E:/Works/Qt Course/Qt Quick/build-14-TransformationExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app14-TransformationExample_main_qml.cpp	3c6568f41e552472
+261	340	6814929204308673	CMakeFiles/app14-TransformationExample.dir/.rcc/qrc_app14-TransformationExample_raw_qml_0.cpp.obj	8f2553392264c670
+263	378	6814929204686128	CMakeFiles/app14-TransformationExample.dir/app14-TransformationExample_autogen/EWIEGA46WW/qrc_res.cpp.obj	f228ff0cf0180087
+258	2009	6814929220984473	CMakeFiles/app14-TransformationExample.dir/.rcc/qmlcache/app14-TransformationExample_main_qml.cpp.obj	57ec5ef86fa71496
+2009	2265	6814929223512534	app14-TransformationExample.exe	732d50db6b5267d8
+12	43	6814929315526007	14-TransformationExample/main.qml	eaa48aa9a5d29263
+12	43	6814929315526007	E:/Works/Qt Course/Qt Quick/build-14-TransformationExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/14-TransformationExample/main.qml	eaa48aa9a5d29263
+15	50	6814929315587763	.qt_plugins/Qt6_QmlPlugins_Imports_app14-TransformationExample.cmake	29d30c253dc7277
+15	50	6814929315587763	E:/Works/Qt Course/Qt Quick/build-14-TransformationExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app14-TransformationExample.cmake	29d30c253dc7277
+51	80	6814929315887244	.rcc/qrc_app14-TransformationExample_raw_qml_0.cpp	9dc5d9c43865bfba
+51	80	6814929315887244	E:/Works/Qt Course/Qt Quick/build-14-TransformationExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app14-TransformationExample_raw_qml_0.cpp	9dc5d9c43865bfba
+53	151	6814929316540453	.rcc/qmlcache/app14-TransformationExample_main_qml.cpp	3c6568f41e552472
+53	151	6814929316540453	E:/Works/Qt Course/Qt Quick/build-14-TransformationExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app14-TransformationExample_main_qml.cpp	3c6568f41e552472
+155	229	6814929317375691	CMakeFiles/app14-TransformationExample.dir/.rcc/qrc_app14-TransformationExample_raw_qml_0.cpp.obj	8f2553392264c670
+151	1862	6814929333689674	CMakeFiles/app14-TransformationExample.dir/.rcc/qmlcache/app14-TransformationExample_main_qml.cpp.obj	57ec5ef86fa71496
+1862	2102	6814929336052091	app14-TransformationExample.exe	732d50db6b5267d8

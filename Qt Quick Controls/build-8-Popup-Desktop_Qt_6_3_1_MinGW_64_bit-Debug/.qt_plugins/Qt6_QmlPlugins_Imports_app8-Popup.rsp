@@ -1,0 +1,12 @@
+-rootPath
+E:/Works/Qt Course/Qt Quick Controls/8-Popup
+-cmake-output
+-output-file
+E:/Works/Qt Course/Qt Quick Controls/build-8-Popup-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app8-Popup.cmake
+-importPath
+C:/Qt/6.3.1/mingw_64/./qml
+E:/Works/Qt Course/Qt Quick Controls/build-8-Popup-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/8-Popup
+E:/Works/Qt Course/Qt Quick Controls/build-8-Popup-Desktop_Qt_6_3_1_MinGW_64_bit-Debug
+-qrcFiles
+E:/Works/Qt Course/Qt Quick Controls/build-8-Popup-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmake_8-Popup.qrc
+E:/Works/Qt Course/Qt Quick Controls/build-8-Popup-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/app8-Popup_raw_qml_0.qrc

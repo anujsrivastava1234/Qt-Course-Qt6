@@ -1,0 +1,12 @@
+-rootPath
+E:/Works/Qt Course/Qt Quick/9-QMlExampleSecond
+-cmake-output
+-output-file
+E:/Works/Qt Course/Qt Quick/build-9-QMlExampleSecond-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app9-QMlExampleSecond.cmake
+-importPath
+C:/Qt/6.3.1/mingw_64/./qml
+E:/Works/Qt Course/Qt Quick/build-9-QMlExampleSecond-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/9-QMlExampleSecond
+E:/Works/Qt Course/Qt Quick/build-9-QMlExampleSecond-Desktop_Qt_6_3_1_MinGW_64_bit-Debug
+-qrcFiles
+E:/Works/Qt Course/Qt Quick/build-9-QMlExampleSecond-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmake_9-QMlExampleSecond.qrc
+E:/Works/Qt Course/Qt Quick/build-9-QMlExampleSecond-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/app9-QMlExampleSecond_raw_qml_0.qrc

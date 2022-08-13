@@ -1,0 +1,27 @@
+{
+	"BUILD_DIR" : "E:/Works/Qt Course/Qt Drag And Drop/build-2-VedioPlayerApp-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-VedioPlayerApp_autogen",
+	"CMAKE_BINARY_DIR" : "E:/Works/Qt Course/Qt Drag And Drop/build-2-VedioPlayerApp-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "E:/Works/Qt Course/Qt Drag And Drop/build-2-VedioPlayerApp-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "E:/Works/Qt Course/Qt Drag And Drop/2-VedioPlayerApp",
+	"CMAKE_SOURCE_DIR" : "E:/Works/Qt Course/Qt Drag And Drop/2-VedioPlayerApp",
+	"INCLUDE_DIR" : "E:/Works/Qt Course/Qt Drag And Drop/build-2-VedioPlayerApp-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-VedioPlayerApp_autogen/include",
+	"INPUTS" : 
+	[
+		"E:/Works/Qt Course/Qt Drag And Drop/2-VedioPlayerApp/stop.png",
+		"E:/Works/Qt Course/Qt Drag And Drop/2-VedioPlayerApp/mute.png",
+		"E:/Works/Qt Course/Qt Drag And Drop/2-VedioPlayerApp/vedioPlayer.png",
+		"E:/Works/Qt Course/Qt Drag And Drop/2-VedioPlayerApp/play.png",
+		"E:/Works/Qt Course/Qt Drag And Drop/2-VedioPlayerApp/pause.png",
+		"E:/Works/Qt Course/Qt Drag And Drop/2-VedioPlayerApp/volume.png"
+	],
+	"LOCK_FILE" : "E:/Works/Qt Course/Qt Drag And Drop/build-2-VedioPlayerApp-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/2-VedioPlayerApp_autogen.dir/AutoRcc_res_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "res" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_res.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.3.1/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "E:/Works/Qt Course/Qt Drag And Drop/build-2-VedioPlayerApp-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/2-VedioPlayerApp_autogen.dir/AutoRcc_res_EWIEGA46WW_Used.txt",
+	"SOURCE" : "E:/Works/Qt Course/Qt Drag And Drop/2-VedioPlayerApp/res.qrc",
+	"VERBOSITY" : 0
+}

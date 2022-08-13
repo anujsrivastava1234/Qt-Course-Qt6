@@ -1,0 +1,37 @@
+# ninja log v5
+2	44	6817247950324805	.rcc/qmlcache/app4-ClickedButtonExample_qmlcache_loader.cpp	6a2784a493e8df6d
+2	44	6817247950324805	E:/Works/Qt Course/Qt Quick Controls/build-4-ClickedButtonExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app4-ClickedButtonExample_qmlcache_loader.cpp	6a2784a493e8df6d
+8	48	6817247950383817	4-ClickedButtonExample/main.qml	502a7cebf60df5c7
+8	48	6817247950383817	E:/Works/Qt Course/Qt Quick Controls/build-4-ClickedButtonExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/4-ClickedButtonExample/main.qml	502a7cebf60df5c7
+44	232	6817247951535516	app4-ClickedButtonExample_autogen/timestamp	90859db51ff68f77
+44	232	6817247951535516	app4-ClickedButtonExample_autogen/mocs_compilation.cpp	90859db51ff68f77
+44	232	6817247951535516	E:/Works/Qt Course/Qt Quick Controls/build-4-ClickedButtonExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app4-ClickedButtonExample_autogen/timestamp	90859db51ff68f77
+44	232	6817247951535516	E:/Works/Qt Course/Qt Quick Controls/build-4-ClickedButtonExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app4-ClickedButtonExample_autogen/mocs_compilation.cpp	90859db51ff68f77
+233	261	6817247952547905	meta_types/app4-ClickedButtonExample_json_file_list.txt	8825bc7f3c1363a0
+233	261	6817247952547905	meta_types/app4-ClickedButtonExample_json_file_list.txt.timestamp	8825bc7f3c1363a0
+233	261	6817247952547905	E:/Works/Qt Course/Qt Quick Controls/build-4-ClickedButtonExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/app4-ClickedButtonExample_json_file_list.txt	8825bc7f3c1363a0
+233	261	6817247952547905	E:/Works/Qt Course/Qt Quick Controls/build-4-ClickedButtonExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/app4-ClickedButtonExample_json_file_list.txt.timestamp	8825bc7f3c1363a0
+262	300	6817247952929698	meta_types/qt6app4-clickedbuttonexample_debug_metatypes.json.gen	21226dc127ea0d74
+262	300	6817247952929698	meta_types/qt6app4-clickedbuttonexample_debug_metatypes.json	21226dc127ea0d74
+262	300	6817247952929698	E:/Works/Qt Course/Qt Quick Controls/build-4-ClickedButtonExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6app4-clickedbuttonexample_debug_metatypes.json.gen	21226dc127ea0d74
+262	300	6817247952929698	E:/Works/Qt Course/Qt Quick Controls/build-4-ClickedButtonExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6app4-clickedbuttonexample_debug_metatypes.json	21226dc127ea0d74
+300	418	6817247953460390	app4-clickedbuttonexample_qmltyperegistrations.cpp	931ddad8cd52b445
+300	418	6817247953460390	4-ClickedButtonExample/app4-ClickedButtonExample.qmltypes	931ddad8cd52b445
+300	418	6817247953460390	E:/Works/Qt Course/Qt Quick Controls/build-4-ClickedButtonExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app4-clickedbuttonexample_qmltyperegistrations.cpp	931ddad8cd52b445
+300	418	6817247953460390	E:/Works/Qt Course/Qt Quick Controls/build-4-ClickedButtonExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/4-ClickedButtonExample/app4-ClickedButtonExample.qmltypes	931ddad8cd52b445
+5	494	6817247954857252	.qt_plugins/Qt6_QmlPlugins_Imports_app4-ClickedButtonExample.cmake	b1c9bccd9b3bfd7c
+5	494	6817247954857252	E:/Works/Qt Course/Qt Quick Controls/build-4-ClickedButtonExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app4-ClickedButtonExample.cmake	b1c9bccd9b3bfd7c
+494	525	6817247955157091	.rcc/qrc_qmake_4-ClickedButtonExample.cpp	7c932c21d034fe13
+494	525	6817247955157091	E:/Works/Qt Course/Qt Quick Controls/build-4-ClickedButtonExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_qmake_4-ClickedButtonExample.cpp	7c932c21d034fe13
+497	528	6817247955201338	.rcc/qrc_app4-ClickedButtonExample_raw_qml_0.cpp	8b7efe75fc5f6bd5
+497	528	6817247955201338	E:/Works/Qt Course/Qt Quick Controls/build-4-ClickedButtonExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app4-ClickedButtonExample_raw_qml_0.cpp	8b7efe75fc5f6bd5
+500	648	6817247956354700	.rcc/qmlcache/app4-ClickedButtonExample_main_qml.cpp	fd3f1d5aee1c970
+500	648	6817247956354700	E:/Works/Qt Course/Qt Quick Controls/build-4-ClickedButtonExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app4-ClickedButtonExample_main_qml.cpp	fd3f1d5aee1c970
+659	762	6817247957555429	CMakeFiles/app4-ClickedButtonExample.dir/.rcc/qrc_qmake_4-ClickedButtonExample.cpp.obj	51d52a142c9898e6
+653	769	6817247957601857	CMakeFiles/app4-ClickedButtonExample.dir/app4-ClickedButtonExample_autogen/mocs_compilation.cpp.obj	caea3bbb79300062
+665	786	6817247957799500	CMakeFiles/app4-ClickedButtonExample.dir/.rcc/qrc_app4-ClickedButtonExample_raw_qml_0.cpp.obj	925ef976b9f1bd80
+651	2564	6817247975557243	CMakeFiles/app4-ClickedButtonExample.dir/app4-clickedbuttonexample_qmltyperegistrations.cpp.obj	8711718ec7ed3d0e
+648	2664	6817247976561516	CMakeFiles/app4-ClickedButtonExample.dir/main.cpp.obj	2811f5ef2d83fe6a
+656	2689	6817247976818630	CMakeFiles/app4-ClickedButtonExample.dir/.rcc/qmlcache/app4-ClickedButtonExample_main_qml.cpp.obj	6fdbaa81940e458e
+662	2885	6817247978761339	CMakeFiles/app4-ClickedButtonExample.dir/.rcc/qmlcache/app4-ClickedButtonExample_qmlcache_loader.cpp.obj	1edf073a9c671c11
+2886	3111	6817247980990951	app4-ClickedButtonExample.exe	e29af8c8f4cf826d

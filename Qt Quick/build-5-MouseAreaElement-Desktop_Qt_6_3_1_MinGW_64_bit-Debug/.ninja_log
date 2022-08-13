@@ -1,0 +1,92 @@
+# ninja log v5
+3	88	6812348066779139	.rcc/qmlcache/app5-MouseAreaElement_qmlcache_loader.cpp	963ffc11ba3f1d67
+3	88	6812348066779139	E:/Works/Qt Course/Qt Quick/build-5-MouseAreaElement-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app5-MouseAreaElement_qmlcache_loader.cpp	963ffc11ba3f1d67
+9	101	6812348066887171	.qt_plugins/Qt6_QmlPlugins_Imports_app5-MouseAreaElement.cmake	a17de3e0b56f1ee1
+9	101	6812348066887171	E:/Works/Qt Course/Qt Quick/build-5-MouseAreaElement-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app5-MouseAreaElement.cmake	a17de3e0b56f1ee1
+14	106	6812348066960888	5-MouseAreaElement/main.qml	e858148dc39cf4de
+14	106	6812348066960888	E:/Works/Qt Course/Qt Quick/build-5-MouseAreaElement-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/5-MouseAreaElement/main.qml	e858148dc39cf4de
+89	476	6812348069225977	app5-MouseAreaElement_autogen/timestamp	d20fc505c752856
+89	476	6812348069225977	app5-MouseAreaElement_autogen/mocs_compilation.cpp	d20fc505c752856
+89	476	6812348069225977	E:/Works/Qt Course/Qt Quick/build-5-MouseAreaElement-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app5-MouseAreaElement_autogen/timestamp	d20fc505c752856
+89	476	6812348069225977	E:/Works/Qt Course/Qt Quick/build-5-MouseAreaElement-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app5-MouseAreaElement_autogen/mocs_compilation.cpp	d20fc505c752856
+476	532	6812348071266070	meta_types/app5-MouseAreaElement_json_file_list.txt	c1a6cbacfa1c1d5a
+476	532	6812348071266070	meta_types/app5-MouseAreaElement_json_file_list.txt.timestamp	c1a6cbacfa1c1d5a
+476	532	6812348071266070	E:/Works/Qt Course/Qt Quick/build-5-MouseAreaElement-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/app5-MouseAreaElement_json_file_list.txt	c1a6cbacfa1c1d5a
+476	532	6812348071266070	E:/Works/Qt Course/Qt Quick/build-5-MouseAreaElement-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/app5-MouseAreaElement_json_file_list.txt.timestamp	c1a6cbacfa1c1d5a
+481	537	6812348071307033	.rcc/qrc_qmake_5-MouseAreaElement.cpp	29f95d48c7999f0e
+481	537	6812348071307033	E:/Works/Qt Course/Qt Quick/build-5-MouseAreaElement-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_qmake_5-MouseAreaElement.cpp	29f95d48c7999f0e
+484	548	6812348071394318	.rcc/qrc_app5-MouseAreaElement_raw_qml_0.cpp	ec5da4ff860c4119
+484	548	6812348071394318	E:/Works/Qt Course/Qt Quick/build-5-MouseAreaElement-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app5-MouseAreaElement_raw_qml_0.cpp	ec5da4ff860c4119
+533	601	6812348072001002	meta_types/qt6app5-mouseareaelement_debug_metatypes.json.gen	1873d549434c795d
+533	601	6812348072001002	meta_types/qt6app5-mouseareaelement_debug_metatypes.json	1873d549434c795d
+533	601	6812348072001002	E:/Works/Qt Course/Qt Quick/build-5-MouseAreaElement-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6app5-mouseareaelement_debug_metatypes.json.gen	1873d549434c795d
+533	601	6812348072001002	E:/Works/Qt Course/Qt Quick/build-5-MouseAreaElement-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6app5-mouseareaelement_debug_metatypes.json	1873d549434c795d
+602	827	6812348073002333	app5-mouseareaelement_qmltyperegistrations.cpp	d2ee4ed6522748ad
+602	827	6812348073002333	5-MouseAreaElement/app5-MouseAreaElement.qmltypes	d2ee4ed6522748ad
+602	827	6812348073002333	E:/Works/Qt Course/Qt Quick/build-5-MouseAreaElement-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app5-mouseareaelement_qmltyperegistrations.cpp	d2ee4ed6522748ad
+602	827	6812348073002333	E:/Works/Qt Course/Qt Quick/build-5-MouseAreaElement-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/5-MouseAreaElement/app5-MouseAreaElement.qmltypes	d2ee4ed6522748ad
+828	1030	6812348076195604	.rcc/qmlcache/app5-MouseAreaElement_main_qml.cpp	2026a9ba244ab6a2
+828	1030	6812348076195604	E:/Works/Qt Course/Qt Quick/build-5-MouseAreaElement-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app5-MouseAreaElement_main_qml.cpp	2026a9ba244ab6a2
+1049	1239	6812348078359266	CMakeFiles/app5-MouseAreaElement.dir/.rcc/qrc_app5-MouseAreaElement_raw_qml_0.cpp.obj	be95a0510d746a5f
+1035	1254	6812348078409712	CMakeFiles/app5-MouseAreaElement.dir/app5-MouseAreaElement_autogen/mocs_compilation.cpp.obj	73513be580f5b4f2
+1038	1277	6812348078500798	CMakeFiles/app5-MouseAreaElement.dir/.rcc/qrc_qmake_5-MouseAreaElement.cpp.obj	3ce2437d52787c3e
+1053	5779	6812348123707577	CMakeFiles/app5-MouseAreaElement.dir/app5-mouseareaelement_qmltyperegistrations.cpp.obj	1f89b9ae09ed2196
+1045	6266	6812348128589938	CMakeFiles/app5-MouseAreaElement.dir/.rcc/qmlcache/app5-MouseAreaElement_main_qml.cpp.obj	a170250e89510e0e
+1031	6351	6812348129446381	CMakeFiles/app5-MouseAreaElement.dir/main.cpp.obj	a258e835e48e5656
+1042	7424	6812348140218318	CMakeFiles/app5-MouseAreaElement.dir/.rcc/qmlcache/app5-MouseAreaElement_qmlcache_loader.cpp.obj	caa1174cb285be81
+7425	7895	6812348144834775	app5-MouseAreaElement.exe	495f38c69643a774
+29	91	6812348390597226	.qt_plugins/Qt6_QmlPlugins_Imports_app5-MouseAreaElement.cmake	a17de3e0b56f1ee1
+29	91	6812348390597226	E:/Works/Qt Course/Qt Quick/build-5-MouseAreaElement-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app5-MouseAreaElement.cmake	a17de3e0b56f1ee1
+34	96	6812348390618403	5-MouseAreaElement/main.qml	e858148dc39cf4de
+34	96	6812348390618403	E:/Works/Qt Course/Qt Quick/build-5-MouseAreaElement-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/5-MouseAreaElement/main.qml	e858148dc39cf4de
+100	148	6812348391189630	.rcc/qrc_app5-MouseAreaElement_raw_qml_0.cpp	ec5da4ff860c4119
+100	148	6812348391189630	E:/Works/Qt Course/Qt Quick/build-5-MouseAreaElement-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app5-MouseAreaElement_raw_qml_0.cpp	ec5da4ff860c4119
+96	337	6812348392996577	.rcc/qmlcache/app5-MouseAreaElement_main_qml.cpp	2026a9ba244ab6a2
+96	337	6812348392996577	E:/Works/Qt Course/Qt Quick/build-5-MouseAreaElement-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app5-MouseAreaElement_main_qml.cpp	2026a9ba244ab6a2
+342	492	6812348394650621	CMakeFiles/app5-MouseAreaElement.dir/.rcc/qrc_app5-MouseAreaElement_raw_qml_0.cpp.obj	be95a0510d746a5f
+337	6619	6812348455919428	CMakeFiles/app5-MouseAreaElement.dir/.rcc/qmlcache/app5-MouseAreaElement_main_qml.cpp.obj	a170250e89510e0e
+6620	7176	6812348461376019	app5-MouseAreaElement.exe	495f38c69643a774
+15	83	6812349095985436	5-MouseAreaElement/main.qml	e858148dc39cf4de
+15	83	6812349095985436	E:/Works/Qt Course/Qt Quick/build-5-MouseAreaElement-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/5-MouseAreaElement/main.qml	e858148dc39cf4de
+10	85	6812349095985436	.qt_plugins/Qt6_QmlPlugins_Imports_app5-MouseAreaElement.cmake	a17de3e0b56f1ee1
+10	85	6812349095985436	E:/Works/Qt Course/Qt Quick/build-5-MouseAreaElement-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app5-MouseAreaElement.cmake	a17de3e0b56f1ee1
+85	140	6812349096558756	.rcc/qrc_app5-MouseAreaElement_raw_qml_0.cpp	ec5da4ff860c4119
+85	140	6812349096558756	E:/Works/Qt Course/Qt Quick/build-5-MouseAreaElement-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app5-MouseAreaElement_raw_qml_0.cpp	ec5da4ff860c4119
+89	300	6812349098111692	.rcc/qmlcache/app5-MouseAreaElement_main_qml.cpp	2026a9ba244ab6a2
+89	300	6812349098111692	E:/Works/Qt Course/Qt Quick/build-5-MouseAreaElement-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app5-MouseAreaElement_main_qml.cpp	2026a9ba244ab6a2
+304	462	6812349099788808	CMakeFiles/app5-MouseAreaElement.dir/.rcc/qrc_app5-MouseAreaElement_raw_qml_0.cpp.obj	be95a0510d746a5f
+300	6504	6812349160215797	CMakeFiles/app5-MouseAreaElement.dir/.rcc/qmlcache/app5-MouseAreaElement_main_qml.cpp.obj	a170250e89510e0e
+6504	7075	6812349165819634	app5-MouseAreaElement.exe	495f38c69643a774
+20	79	6812349303058583	5-MouseAreaElement/main.qml	e858148dc39cf4de
+20	79	6812349303058583	E:/Works/Qt Course/Qt Quick/build-5-MouseAreaElement-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/5-MouseAreaElement/main.qml	e858148dc39cf4de
+13	88	6812349303124309	.qt_plugins/Qt6_QmlPlugins_Imports_app5-MouseAreaElement.cmake	a17de3e0b56f1ee1
+13	88	6812349303124309	E:/Works/Qt Course/Qt Quick/build-5-MouseAreaElement-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app5-MouseAreaElement.cmake	a17de3e0b56f1ee1
+89	149	6812349303705144	.rcc/qrc_app5-MouseAreaElement_raw_qml_0.cpp	ec5da4ff860c4119
+89	149	6812349303705144	E:/Works/Qt Course/Qt Quick/build-5-MouseAreaElement-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app5-MouseAreaElement_raw_qml_0.cpp	ec5da4ff860c4119
+94	337	6812349305550462	.rcc/qmlcache/app5-MouseAreaElement_main_qml.cpp	2026a9ba244ab6a2
+94	337	6812349305550462	E:/Works/Qt Course/Qt Quick/build-5-MouseAreaElement-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app5-MouseAreaElement_main_qml.cpp	2026a9ba244ab6a2
+342	488	6812349307185285	CMakeFiles/app5-MouseAreaElement.dir/.rcc/qrc_app5-MouseAreaElement_raw_qml_0.cpp.obj	be95a0510d746a5f
+338	6534	6812349367629841	CMakeFiles/app5-MouseAreaElement.dir/.rcc/qmlcache/app5-MouseAreaElement_main_qml.cpp.obj	a170250e89510e0e
+6534	7103	6812349373225885	app5-MouseAreaElement.exe	495f38c69643a774
+17	74	6812349443591257	5-MouseAreaElement/main.qml	e858148dc39cf4de
+17	74	6812349443591257	E:/Works/Qt Course/Qt Quick/build-5-MouseAreaElement-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/5-MouseAreaElement/main.qml	e858148dc39cf4de
+11	77	6812349443596259	.qt_plugins/Qt6_QmlPlugins_Imports_app5-MouseAreaElement.cmake	a17de3e0b56f1ee1
+11	77	6812349443596259	E:/Works/Qt Course/Qt Quick/build-5-MouseAreaElement-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app5-MouseAreaElement.cmake	a17de3e0b56f1ee1
+81	130	6812349444173908	.rcc/qrc_app5-MouseAreaElement_raw_qml_0.cpp	ec5da4ff860c4119
+81	130	6812349444173908	E:/Works/Qt Course/Qt Quick/build-5-MouseAreaElement-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app5-MouseAreaElement_raw_qml_0.cpp	ec5da4ff860c4119
+77	302	6812349445794353	.rcc/qmlcache/app5-MouseAreaElement_main_qml.cpp	2026a9ba244ab6a2
+77	302	6812349445794353	E:/Works/Qt Course/Qt Quick/build-5-MouseAreaElement-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app5-MouseAreaElement_main_qml.cpp	2026a9ba244ab6a2
+307	438	6812349447279524	CMakeFiles/app5-MouseAreaElement.dir/.rcc/qrc_app5-MouseAreaElement_raw_qml_0.cpp.obj	be95a0510d746a5f
+302	6587	6812349508715167	CMakeFiles/app5-MouseAreaElement.dir/.rcc/qmlcache/app5-MouseAreaElement_main_qml.cpp.obj	a170250e89510e0e
+6587	7138	6812349514177095	app5-MouseAreaElement.exe	495f38c69643a774
+12	84	6812350259982512	.qt_plugins/Qt6_QmlPlugins_Imports_app5-MouseAreaElement.cmake	a17de3e0b56f1ee1
+12	84	6812350259982512	E:/Works/Qt Course/Qt Quick/build-5-MouseAreaElement-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app5-MouseAreaElement.cmake	a17de3e0b56f1ee1
+18	85	6812350260002898	5-MouseAreaElement/main.qml	e858148dc39cf4de
+18	85	6812350260002898	E:/Works/Qt Course/Qt Quick/build-5-MouseAreaElement-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/5-MouseAreaElement/main.qml	e858148dc39cf4de
+90	144	6812350260583636	.rcc/qrc_app5-MouseAreaElement_raw_qml_0.cpp	ec5da4ff860c4119
+90	144	6812350260583636	E:/Works/Qt Course/Qt Quick/build-5-MouseAreaElement-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app5-MouseAreaElement_raw_qml_0.cpp	ec5da4ff860c4119
+85	326	6812350262311546	.rcc/qmlcache/app5-MouseAreaElement_main_qml.cpp	2026a9ba244ab6a2
+85	326	6812350262311546	E:/Works/Qt Course/Qt Quick/build-5-MouseAreaElement-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app5-MouseAreaElement_main_qml.cpp	2026a9ba244ab6a2
+327	497	6812350264187432	CMakeFiles/app5-MouseAreaElement.dir/.rcc/qrc_app5-MouseAreaElement_raw_qml_0.cpp.obj	be95a0510d746a5f
+331	6428	6812350323472054	CMakeFiles/app5-MouseAreaElement.dir/.rcc/qmlcache/app5-MouseAreaElement_main_qml.cpp.obj	a170250e89510e0e
+6428	6996	6812350329004351	app5-MouseAreaElement.exe	495f38c69643a774

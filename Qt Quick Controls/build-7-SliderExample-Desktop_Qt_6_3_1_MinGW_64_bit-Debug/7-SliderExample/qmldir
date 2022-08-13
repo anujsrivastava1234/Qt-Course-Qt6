@@ -1,0 +1,4 @@
+module 7-SliderExample
+typeinfo app7-SliderExample.qmltypes
+prefer :/7-SliderExample/
+

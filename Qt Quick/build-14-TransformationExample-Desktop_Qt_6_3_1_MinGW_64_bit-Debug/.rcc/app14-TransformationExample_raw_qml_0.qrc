@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/14-TransformationExample/">
+    <file alias="main.qml">E:/Works/Qt Course/Qt Quick/14-TransformationExample/main.qml</file>
+    <file alias="Shape.qml">E:/Works/Qt Course/Qt Quick/14-TransformationExample/Shape.qml</file>
+  </qresource>
+</RCC>
+

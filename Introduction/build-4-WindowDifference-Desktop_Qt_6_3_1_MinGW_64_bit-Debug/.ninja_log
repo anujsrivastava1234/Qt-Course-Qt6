@@ -1,0 +1,20 @@
+# ninja log v5
+12	785	6801717061228867	4-WindowDifference_autogen/timestamp	1caf32b8df1097fe
+12	785	6801717061228867	4-WindowDifference_autogen/mocs_compilation.cpp	1caf32b8df1097fe
+12	785	6801717061228867	E:/Works/Qt Course/build-4-WindowDifference-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/4-WindowDifference_autogen/timestamp	1caf32b8df1097fe
+2898	3097	6801717085995680	4-WindowDifference.exe	b9f77a7dd41135b
+12	785	6801717061228867	E:/Works/Qt Course/build-4-WindowDifference-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/4-WindowDifference_autogen/mocs_compilation.cpp	1caf32b8df1097fe
+791	2898	6801717084028268	CMakeFiles/4-WindowDifference.dir/main.cpp.obj	f3fef7131ab42a09
+788	2831	6801717083348756	CMakeFiles/4-WindowDifference.dir/mainwindow.cpp.obj	b3f218b26c14e43a
+785	2863	6801717083687846	CMakeFiles/4-WindowDifference.dir/4-WindowDifference_autogen/mocs_compilation.cpp.obj	672dfb1d30e21a5f
+24	781	6801732751647830	4-WindowDifference_autogen/timestamp	1caf32b8df1097fe
+24	781	6801732751647830	4-WindowDifference_autogen/mocs_compilation.cpp	1caf32b8df1097fe
+24	781	6801732751647830	E:/Works/Qt Course/build-4-WindowDifference-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/4-WindowDifference_autogen/timestamp	1caf32b8df1097fe
+24	781	6801732751647830	E:/Works/Qt Course/build-4-WindowDifference-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/4-WindowDifference_autogen/mocs_compilation.cpp	1caf32b8df1097fe
+781	835	6801732753373198	4-WindowDifference_autogen/EWIEGA46WW/qrc_res.cpp	687e3fd33bf26a60
+781	835	6801732753373198	E:/Works/Qt Course/build-4-WindowDifference-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/4-WindowDifference_autogen/EWIEGA46WW/qrc_res.cpp	687e3fd33bf26a60
+844	962	6801732754684648	CMakeFiles/4-WindowDifference.dir/4-WindowDifference_autogen/EWIEGA46WW/qrc_res.cpp.obj	98398b824ecfd442
+835	2949	6801732774551799	CMakeFiles/4-WindowDifference.dir/4-WindowDifference_autogen/mocs_compilation.cpp.obj	672dfb1d30e21a5f
+841	2981	6801732774877043	CMakeFiles/4-WindowDifference.dir/mainwindow.cpp.obj	b3f218b26c14e43a
+838	3037	6801732775433594	CMakeFiles/4-WindowDifference.dir/main.cpp.obj	f3fef7131ab42a09
+3037	3251	6801732777522877	4-WindowDifference.exe	7a0bf8c39f1a7ac4

@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/7-SliderExample/">
+    <file alias="main.qml">E:/Works/Qt Course/Qt Quick Controls/7-SliderExample/main.qml</file>
+  </qresource>
+</RCC>
+

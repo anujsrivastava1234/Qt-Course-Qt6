@@ -1,0 +1,142 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-f16e04038f21a19d588c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "TabBarButton",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-1851fd2ffbcbd5e74dee.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-be03dc490580da3d7464.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTabBarButton::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTabBarButton-Debug-53d3299b3618a124861a.json",
+					"name" : "appTabBarButton",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTabBarButton_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTabBarButton_autogen-Debug-a3a03453f21c3ea14d32.json",
+					"name" : "appTabBarButton_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTabBarButton_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTabBarButton_autogen_timestamp_deps-Debug-14f47b1364d5d354216a.json",
+					"name" : "appTabBarButton_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTabBarButton_other_files::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTabBarButton_other_files-Debug-79c78d2e89e9abdfcd05.json",
+					"name" : "appTabBarButton_other_files",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTabBarButton_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTabBarButton_qmlimportscan-Debug-80d689f6dc5d2c455957.json",
+					"name" : "appTabBarButton_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTabBarButton_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTabBarButton_qmllint-Debug-4201dea6e0eff3f0ce67.json",
+					"name" : "appTabBarButton_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTabBarButton_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTabBarButton_qmltyperegistration-Debug-1f6043151d7b19d18b0b.json",
+					"name" : "appTabBarButton_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTabBarButton_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTabBarButton_tooling-Debug-1941077723249055fa6e.json",
+					"name" : "appTabBarButton_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/Works/Qt Course/Qt Quick Controls/build-TabBarButton-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
+		"source" : "E:/Works/Qt Course/Qt Quick Controls/TabBarButton"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

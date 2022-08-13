@@ -1,0 +1,35 @@
+# ninja log v5
+2	941	6808907839395076	4-DonutChartExample_autogen/timestamp	acc0d3ea96073a48
+942	3327	6808907865158547	CMakeFiles/4-DonutChartExample.dir/4-DonutChartExample_autogen/mocs_compilation.cpp.obj	ca2953117a955780
+2	941	6808907839395076	4-DonutChartExample_autogen/mocs_compilation.cpp	acc0d3ea96073a48
+3375	3609	6808907867905522	4-DonutChartExample.exe	5d00a58df0afc57b
+2	941	6808907839395076	E:/Works/Qt Course/Qt Charts/build-4-DonutChartExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/4-DonutChartExample_autogen/timestamp	acc0d3ea96073a48
+2	941	6808907839395076	E:/Works/Qt Course/Qt Charts/build-4-DonutChartExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/4-DonutChartExample_autogen/mocs_compilation.cpp	acc0d3ea96073a48
+945	3359	6808907865495676	CMakeFiles/4-DonutChartExample.dir/main.cpp.obj	673166d67a23a7a2
+948	3375	6808907865659283	CMakeFiles/4-DonutChartExample.dir/widget.cpp.obj	90769e41573618f8
+12	858	6808922534929890	4-DonutChartExample_autogen/timestamp	acc0d3ea96073a48
+12	858	6808922534929890	4-DonutChartExample_autogen/mocs_compilation.cpp	acc0d3ea96073a48
+12	858	6808922534929890	E:/Works/Qt Course/Qt Charts/build-4-DonutChartExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/4-DonutChartExample_autogen/timestamp	acc0d3ea96073a48
+12	858	6808922534929890	E:/Works/Qt Course/Qt Charts/build-4-DonutChartExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/4-DonutChartExample_autogen/mocs_compilation.cpp	acc0d3ea96073a48
+859	3237	6808922560046858	CMakeFiles/4-DonutChartExample.dir/4-DonutChartExample_autogen/mocs_compilation.cpp.obj	31da81e6188c4a76
+865	3269	6808922560371680	CMakeFiles/4-DonutChartExample.dir/main.cpp.obj	718b38469b5cd8f4
+862	3347	6808922561146683	CMakeFiles/4-DonutChartExample.dir/widget.cpp.obj	fc95496848f6a75a
+3347	3577	6808922563399592	4-DonutChartExample.exe	9a4f2460e8a5d873
+10	222	6808922697132057	4-DonutChartExample_autogen/timestamp	acc0d3ea96073a48
+10	222	6808922697132057	4-DonutChartExample_autogen/mocs_compilation.cpp	acc0d3ea96073a48
+10	222	6808922697132057	E:/Works/Qt Course/Qt Charts/build-4-DonutChartExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/4-DonutChartExample_autogen/timestamp	acc0d3ea96073a48
+10	222	6808922697132057	E:/Works/Qt Course/Qt Charts/build-4-DonutChartExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/4-DonutChartExample_autogen/mocs_compilation.cpp	acc0d3ea96073a48
+232	2267	6808922717592275	CMakeFiles/4-DonutChartExample.dir/widget.cpp.obj	fc95496848f6a75a
+2267	2485	6808922719711075	4-DonutChartExample.exe	9a4f2460e8a5d873
+15	217	6808978954517316	4-DonutChartExample_autogen/timestamp	acc0d3ea96073a48
+15	217	6808978954517316	4-DonutChartExample_autogen/mocs_compilation.cpp	acc0d3ea96073a48
+15	217	6808978954517316	E:/Works/Qt Course/Qt Charts/build-4-DonutChartExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/4-DonutChartExample_autogen/timestamp	acc0d3ea96073a48
+15	217	6808978954517316	E:/Works/Qt Course/Qt Charts/build-4-DonutChartExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/4-DonutChartExample_autogen/mocs_compilation.cpp	acc0d3ea96073a48
+227	2347	6808978975805568	CMakeFiles/4-DonutChartExample.dir/widget.cpp.obj	fc95496848f6a75a
+2347	2573	6808978978001504	4-DonutChartExample.exe	9a4f2460e8a5d873
+30	957	6810761003530219	4-DonutChartExample_autogen/timestamp	acc0d3ea96073a48
+30	957	6810761003530219	4-DonutChartExample_autogen/mocs_compilation.cpp	acc0d3ea96073a48
+30	957	6810761003530219	E:/Works/Qt Course/Qt Charts/build-4-DonutChartExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/4-DonutChartExample_autogen/timestamp	acc0d3ea96073a48
+30	957	6810761003530219	E:/Works/Qt Course/Qt Charts/build-4-DonutChartExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/4-DonutChartExample_autogen/mocs_compilation.cpp	acc0d3ea96073a48
+982	8915	6810761083072616	CMakeFiles/4-DonutChartExample.dir/widget.cpp.obj	fc95496848f6a75a
+8916	9606	6810761089791161	4-DonutChartExample.exe	9a4f2460e8a5d873

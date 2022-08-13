@@ -1,0 +1,4 @@
+module TabBarBAR
+typeinfo appTabBarBAR.qmltypes
+prefer :/TabBarBAR/
+

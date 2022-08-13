@@ -1,0 +1,70 @@
+# ninja log v5
+8	79	6813794448129339	12-KeyPressedElements/main.qml	92d733d314dda82c
+8	79	6813794448129339	E:/Works/Qt Course/Qt Quick/build-12-KeyPressedElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/12-KeyPressedElements/main.qml	92d733d314dda82c
+3	297	6813794450391333	.rcc/qmlcache/app12-KeyPressedElements_qmlcache_loader.cpp	ea3ab476054f072c
+3	297	6813794450391333	E:/Works/Qt Course/Qt Quick/build-12-KeyPressedElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app12-KeyPressedElements_qmlcache_loader.cpp	ea3ab476054f072c
+12	307	6813794450507760	.qt_plugins/Qt6_QmlPlugins_Imports_app12-KeyPressedElements.cmake	2c93d4bd69808cb2
+12	307	6813794450507760	E:/Works/Qt Course/Qt Quick/build-12-KeyPressedElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app12-KeyPressedElements.cmake	2c93d4bd69808cb2
+298	603	6813794452313063	app12-KeyPressedElements_autogen/timestamp	93bd6583b99d2b8f
+298	603	6813794452313063	app12-KeyPressedElements_autogen/mocs_compilation.cpp	93bd6583b99d2b8f
+298	603	6813794452313063	E:/Works/Qt Course/Qt Quick/build-12-KeyPressedElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app12-KeyPressedElements_autogen/timestamp	93bd6583b99d2b8f
+298	603	6813794452313063	E:/Works/Qt Course/Qt Quick/build-12-KeyPressedElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app12-KeyPressedElements_autogen/mocs_compilation.cpp	93bd6583b99d2b8f
+609	681	6813794454266478	.rcc/qrc_qmake_12-KeyPressedElements.cpp	647838c765dcf4f8
+609	681	6813794454266478	E:/Works/Qt Course/Qt Quick/build-12-KeyPressedElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_qmake_12-KeyPressedElements.cpp	647838c765dcf4f8
+613	681	6813794454271481	.rcc/qrc_app12-KeyPressedElements_raw_qml_0.cpp	a8733b29d6d75525
+613	681	6813794454271481	E:/Works/Qt Course/Qt Quick/build-12-KeyPressedElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app12-KeyPressedElements_raw_qml_0.cpp	a8733b29d6d75525
+604	710	6813794454573302	meta_types/app12-KeyPressedElements_json_file_list.txt	48d7b49abc50f331
+604	710	6813794454573302	meta_types/app12-KeyPressedElements_json_file_list.txt.timestamp	48d7b49abc50f331
+604	710	6813794454573302	E:/Works/Qt Course/Qt Quick/build-12-KeyPressedElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/app12-KeyPressedElements_json_file_list.txt	48d7b49abc50f331
+604	710	6813794454573302	E:/Works/Qt Course/Qt Quick/build-12-KeyPressedElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/app12-KeyPressedElements_json_file_list.txt.timestamp	48d7b49abc50f331
+711	769	6813794455147770	meta_types/qt6app12-keypressedelements_debug_metatypes.json.gen	e923c8b08cc598a6
+711	769	6813794455147770	meta_types/qt6app12-keypressedelements_debug_metatypes.json	e923c8b08cc598a6
+711	769	6813794455147770	E:/Works/Qt Course/Qt Quick/build-12-KeyPressedElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6app12-keypressedelements_debug_metatypes.json.gen	e923c8b08cc598a6
+711	769	6813794455147770	E:/Works/Qt Course/Qt Quick/build-12-KeyPressedElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6app12-keypressedelements_debug_metatypes.json	e923c8b08cc598a6
+769	969	6813794456232485	app12-keypressedelements_qmltyperegistrations.cpp	c6fc2ef5ac5fb560
+769	969	6813794456232485	12-KeyPressedElements/app12-KeyPressedElements.qmltypes	c6fc2ef5ac5fb560
+769	969	6813794456232485	E:/Works/Qt Course/Qt Quick/build-12-KeyPressedElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app12-keypressedelements_qmltyperegistrations.cpp	c6fc2ef5ac5fb560
+769	969	6813794456232485	E:/Works/Qt Course/Qt Quick/build-12-KeyPressedElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/12-KeyPressedElements/app12-KeyPressedElements.qmltypes	c6fc2ef5ac5fb560
+970	1125	6813794458648666	.rcc/qmlcache/app12-KeyPressedElements_main_qml.cpp	6019673e3108f84e
+970	1125	6813794458648666	E:/Works/Qt Course/Qt Quick/build-12-KeyPressedElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app12-KeyPressedElements_main_qml.cpp	6019673e3108f84e
+1132	1333	6813794460569375	CMakeFiles/app12-KeyPressedElements.dir/app12-KeyPressedElements_autogen/mocs_compilation.cpp.obj	86789c7f4c925c3c
+1139	1356	6813794460982804	CMakeFiles/app12-KeyPressedElements.dir/.rcc/qrc_qmake_12-KeyPressedElements.cpp.obj	37045c99870769d9
+1147	1369	6813794461079660	CMakeFiles/app12-KeyPressedElements.dir/.rcc/qrc_app12-KeyPressedElements_raw_qml_0.cpp.obj	8ed543129fb0a190
+1126	4197	6813794489397969	CMakeFiles/app12-KeyPressedElements.dir/app12-keypressedelements_qmltyperegistrations.cpp.obj	f8058b71640d184f
+1136	4424	6813794491702436	CMakeFiles/app12-KeyPressedElements.dir/main.cpp.obj	5fb4071e9e3a928d
+1129	4575	6813794493205190	CMakeFiles/app12-KeyPressedElements.dir/.rcc/qmlcache/app12-KeyPressedElements_main_qml.cpp.obj	31d3b16fc9b60b58
+1143	5166	6813794499114456	CMakeFiles/app12-KeyPressedElements.dir/.rcc/qmlcache/app12-KeyPressedElements_qmlcache_loader.cpp.obj	9332a7e5215c1cfe
+5167	5611	6813794503492811	app12-KeyPressedElements.exe	90d342ff3850e5a3
+49	95	6813794754512805	12-KeyPressedElements/main.qml	92d733d314dda82c
+49	95	6813794754512805	E:/Works/Qt Course/Qt Quick/build-12-KeyPressedElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/12-KeyPressedElements/main.qml	92d733d314dda82c
+56	102	6813794754575348	.qt_plugins/Qt6_QmlPlugins_Imports_app12-KeyPressedElements.cmake	2c93d4bd69808cb2
+56	102	6813794754575348	E:/Works/Qt Course/Qt Quick/build-12-KeyPressedElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app12-KeyPressedElements.cmake	2c93d4bd69808cb2
+102	144	6813794754992199	.rcc/qrc_app12-KeyPressedElements_raw_qml_0.cpp	a8733b29d6d75525
+102	144	6813794754992199	E:/Works/Qt Course/Qt Quick/build-12-KeyPressedElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app12-KeyPressedElements_raw_qml_0.cpp	a8733b29d6d75525
+107	237	6813794755871732	.rcc/qmlcache/app12-KeyPressedElements_main_qml.cpp	6019673e3108f84e
+107	237	6813794755871732	E:/Works/Qt Course/Qt Quick/build-12-KeyPressedElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app12-KeyPressedElements_main_qml.cpp	6019673e3108f84e
+242	346	6813794757028970	CMakeFiles/app12-KeyPressedElements.dir/.rcc/qrc_app12-KeyPressedElements_raw_qml_0.cpp.obj	8ed543129fb0a190
+237	2679	6813794780349734	CMakeFiles/app12-KeyPressedElements.dir/.rcc/qmlcache/app12-KeyPressedElements_main_qml.cpp.obj	31d3b16fc9b60b58
+2679	2966	6813794783159815	app12-KeyPressedElements.exe	90d342ff3850e5a3
+8	51	6813795571024888	12-KeyPressedElements/main.qml	92d733d314dda82c
+8	51	6813795571024888	E:/Works/Qt Course/Qt Quick/build-12-KeyPressedElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/12-KeyPressedElements/main.qml	92d733d314dda82c
+12	59	6813795571118167	.qt_plugins/Qt6_QmlPlugins_Imports_app12-KeyPressedElements.cmake	2c93d4bd69808cb2
+12	59	6813795571118167	E:/Works/Qt Course/Qt Quick/build-12-KeyPressedElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app12-KeyPressedElements.cmake	2c93d4bd69808cb2
+64	102	6813795571548681	.rcc/qrc_app12-KeyPressedElements_raw_qml_0.cpp	a8733b29d6d75525
+64	102	6813795571548681	E:/Works/Qt Course/Qt Quick/build-12-KeyPressedElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app12-KeyPressedElements_raw_qml_0.cpp	a8733b29d6d75525
+59	206	6813795572513378	.rcc/qmlcache/app12-KeyPressedElements_main_qml.cpp	6019673e3108f84e
+59	206	6813795572513378	E:/Works/Qt Course/Qt Quick/build-12-KeyPressedElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app12-KeyPressedElements_main_qml.cpp	6019673e3108f84e
+210	311	6813795573651906	CMakeFiles/app12-KeyPressedElements.dir/.rcc/qrc_app12-KeyPressedElements_raw_qml_0.cpp.obj	8ed543129fb0a190
+206	2655	6813795597076981	CMakeFiles/app12-KeyPressedElements.dir/.rcc/qmlcache/app12-KeyPressedElements_main_qml.cpp.obj	31d3b16fc9b60b58
+2656	2992	6813795600409845	app12-KeyPressedElements.exe	90d342ff3850e5a3
+9	52	6813795785649259	12-KeyPressedElements/main.qml	92d733d314dda82c
+9	52	6813795785649259	E:/Works/Qt Course/Qt Quick/build-12-KeyPressedElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/12-KeyPressedElements/main.qml	92d733d314dda82c
+15	60	6813795785730640	.qt_plugins/Qt6_QmlPlugins_Imports_app12-KeyPressedElements.cmake	2c93d4bd69808cb2
+15	60	6813795785730640	E:/Works/Qt Course/Qt Quick/build-12-KeyPressedElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app12-KeyPressedElements.cmake	2c93d4bd69808cb2
+64	105	6813795786166576	.rcc/qrc_app12-KeyPressedElements_raw_qml_0.cpp	a8733b29d6d75525
+64	105	6813795786166576	E:/Works/Qt Course/Qt Quick/build-12-KeyPressedElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app12-KeyPressedElements_raw_qml_0.cpp	a8733b29d6d75525
+60	211	6813795787153536	.rcc/qmlcache/app12-KeyPressedElements_main_qml.cpp	6019673e3108f84e
+60	211	6813795787153536	E:/Works/Qt Course/Qt Quick/build-12-KeyPressedElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app12-KeyPressedElements_main_qml.cpp	6019673e3108f84e
+216	325	6813795788379967	CMakeFiles/app12-KeyPressedElements.dir/.rcc/qrc_app12-KeyPressedElements_raw_qml_0.cpp.obj	8ed543129fb0a190
+211	2795	6813795813078072	CMakeFiles/app12-KeyPressedElements.dir/.rcc/qmlcache/app12-KeyPressedElements_main_qml.cpp.obj	31d3b16fc9b60b58
+2796	3109	6813795816156906	app12-KeyPressedElements.exe	90d342ff3850e5a3

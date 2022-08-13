@@ -1,0 +1,17 @@
+import QtQuick
+
+Window {
+    width: 800
+    height: 500
+    visible: true
+    color: "#f60b0b"
+    visibility: Window.FullScreen
+    flags: Qt.Window
+    title: qsTr("First Qml Window")
+}
+
+/*##^##
+Designer {
+    D{i:0;globalAnnotation:"1 //;;// window //;;//  //;;// <!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n<html><head><meta name=\"qrichtext\" content=\"1\" /><meta charset=\"utf-8\" /><style type=\"text/css\">\np, li { white-space: pre-wrap; }\nhr { height: 1px; border-width: 0; }\n</style></head><body style=\" font-family:'Segoe UI'; font-size:9pt; font-weight:400; font-style:normal;\">\n<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><br /></p></body></html> //;;// 1659535028"}
+}
+##^##*/

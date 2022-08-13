@@ -1,0 +1,73 @@
+# ninja log v5
+1	40	6817322584087582	.rcc/qmlcache/app8-Popup_qmlcache_loader.cpp	9ba120c81cec0d3c
+12	140	6817324356598589	app8-Popup_autogen/timestamp	cab8511b6d799788
+16	49	6817324355691691	8-Popup/main.qml	3aa2911b0cdef922
+261	298	6817322586692325	meta_types/qt6app8-popup_debug_metatypes.json	3198ac4b58861a02
+1	40	6817322584087582	E:/Works/Qt Course/Qt Quick Controls/build-8-Popup-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app8-Popup_qmlcache_loader.cpp	9ba120c81cec0d3c
+16	49	6817324355691691	E:/Works/Qt Course/Qt Quick Controls/build-8-Popup-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/8-Popup/main.qml	3aa2911b0cdef922
+12	140	6817324356598589	app8-Popup_autogen/mocs_compilation.cpp	cab8511b6d799788
+430	465	6817322588341046	E:/Works/Qt Course/Qt Quick Controls/build-8-Popup-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_qmake_8-Popup.cpp	33be46e44685d96e
+298	412	6817322587244005	E:/Works/Qt Course/Qt Quick Controls/build-8-Popup-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app8-popup_qmltyperegistrations.cpp	bac55a9fb3a91258
+12	140	6817324356598589	E:/Works/Qt Course/Qt Quick Controls/build-8-Popup-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app8-Popup_autogen/timestamp	cab8511b6d799788
+146	169	6817324355975582	E:/Works/Qt Course/Qt Quick Controls/build-8-Popup-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/app8-Popup_json_file_list.txt.timestamp	2381a475fc17fac0
+12	140	6817324356598589	E:/Works/Qt Course/Qt Quick Controls/build-8-Popup-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app8-Popup_autogen/mocs_compilation.cpp	cab8511b6d799788
+146	169	6817324355975582	meta_types/app8-Popup_json_file_list.txt	2381a475fc17fac0
+146	169	6817324355975582	meta_types/app8-Popup_json_file_list.txt.timestamp	2381a475fc17fac0
+146	169	6817324355975582	E:/Works/Qt Course/Qt Quick Controls/build-8-Popup-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/app8-Popup_json_file_list.txt	2381a475fc17fac0
+261	298	6817322586692325	meta_types/qt6app8-popup_debug_metatypes.json.gen	3198ac4b58861a02
+587	2781	6817322611502449	CMakeFiles/app8-Popup.dir/main.cpp.obj	2ebc1730bce268f7
+261	298	6817322586692325	E:/Works/Qt Course/Qt Quick Controls/build-8-Popup-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6app8-popup_debug_metatypes.json.gen	3198ac4b58861a02
+261	298	6817322586692325	E:/Works/Qt Course/Qt Quick Controls/build-8-Popup-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6app8-popup_debug_metatypes.json	3198ac4b58861a02
+298	412	6817322587244005	app8-popup_qmltyperegistrations.cpp	bac55a9fb3a91258
+298	412	6817322587244005	8-Popup/app8-Popup.qmltypes	bac55a9fb3a91258
+298	412	6817322587244005	E:/Works/Qt Course/Qt Quick Controls/build-8-Popup-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/8-Popup/app8-Popup.qmltypes	bac55a9fb3a91258
+18	409	6817324359285464	.qt_plugins/Qt6_QmlPlugins_Imports_app8-Popup.cmake	b92131ba82942636
+18	409	6817324359285464	E:/Works/Qt Course/Qt Quick Controls/build-8-Popup-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app8-Popup.cmake	b92131ba82942636
+412	442	6817324359620852	.rcc/qrc_app8-Popup_raw_qml_0.cpp	b527251b0ac26c6f
+412	442	6817324359620852	E:/Works/Qt Course/Qt Quick Controls/build-8-Popup-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app8-Popup_raw_qml_0.cpp	b527251b0ac26c6f
+430	465	6817322588341046	.rcc/qrc_qmake_8-Popup.cpp	33be46e44685d96e
+410	578	6817324360877166	.rcc/qmlcache/app8-Popup_main_qml.cpp	e1c6ab49421fae71
+415	474	6817324359915282	E:/Works/Qt Course/Qt Quick Controls/build-8-Popup-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app8-Popup_autogen/EWIEGA46WW/qrc_res.cpp	114b8ece2706b8c5
+410	578	6817324360877166	E:/Works/Qt Course/Qt Quick Controls/build-8-Popup-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app8-Popup_main_qml.cpp	e1c6ab49421fae71
+580	661	6817324361817289	CMakeFiles/app8-Popup.dir/.rcc/qrc_app8-Popup_raw_qml_0.cpp.obj	d9f2e695d6f6e6f8
+582	707	6817322590784041	CMakeFiles/app8-Popup.dir/app8-Popup_autogen/mocs_compilation.cpp.obj	566493b1a5e85878
+583	665	6817324361865923	CMakeFiles/app8-Popup.dir/app8-Popup_autogen/EWIEGA46WW/qrc_res.cpp.obj	f1934c9cee0ed3d4
+596	729	6817322590972701	CMakeFiles/app8-Popup.dir/.rcc/qrc_qmake_8-Popup.cpp.obj	4cdd0c062b01f0ac
+584	2569	6817322609385883	CMakeFiles/app8-Popup.dir/app8-popup_qmltyperegistrations.cpp.obj	7e46b31e79fab567
+578	2242	6817324377633974	CMakeFiles/app8-Popup.dir/.rcc/qmlcache/app8-Popup_main_qml.cpp.obj	96a4bbda28eaf810
+590	3044	6817322614137873	CMakeFiles/app8-Popup.dir/.rcc/qmlcache/app8-Popup_qmlcache_loader.cpp.obj	e25d5bcd300fb9f5
+2242	2463	6817324379796952	app8-Popup.exe	6c4a6a17ae8b5d38
+415	474	6817324359915282	app8-Popup_autogen/EWIEGA46WW/qrc_res.cpp	114b8ece2706b8c5
+20	60	6817326995235562	8-Popup/main.qml	3aa2911b0cdef922
+20	60	6817326995235562	E:/Works/Qt Course/Qt Quick Controls/build-8-Popup-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/8-Popup/main.qml	3aa2911b0cdef922
+13	130	6817326995957077	app8-Popup_autogen/timestamp	cab8511b6d799788
+13	130	6817326995957077	app8-Popup_autogen/mocs_compilation.cpp	cab8511b6d799788
+13	130	6817326995957077	E:/Works/Qt Course/Qt Quick Controls/build-8-Popup-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app8-Popup_autogen/timestamp	cab8511b6d799788
+13	130	6817326995957077	E:/Works/Qt Course/Qt Quick Controls/build-8-Popup-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app8-Popup_autogen/mocs_compilation.cpp	cab8511b6d799788
+135	160	6817326995349101	meta_types/app8-Popup_json_file_list.txt	2381a475fc17fac0
+135	160	6817326995349101	meta_types/app8-Popup_json_file_list.txt.timestamp	2381a475fc17fac0
+135	160	6817326995349101	E:/Works/Qt Course/Qt Quick Controls/build-8-Popup-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/app8-Popup_json_file_list.txt	2381a475fc17fac0
+135	160	6817326995349101	E:/Works/Qt Course/Qt Quick Controls/build-8-Popup-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/app8-Popup_json_file_list.txt.timestamp	2381a475fc17fac0
+17	362	6817326998269002	.qt_plugins/Qt6_QmlPlugins_Imports_app8-Popup.cmake	b92131ba82942636
+17	362	6817326998269002	E:/Works/Qt Course/Qt Quick Controls/build-8-Popup-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app8-Popup.cmake	b92131ba82942636
+367	397	6817326998619729	.rcc/qrc_app8-Popup_raw_qml_0.cpp	b527251b0ac26c6f
+367	397	6817326998619729	E:/Works/Qt Course/Qt Quick Controls/build-8-Popup-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app8-Popup_raw_qml_0.cpp	b527251b0ac26c6f
+365	423	6817326998857209	app8-Popup_autogen/EWIEGA46WW/qrc_res.cpp	114b8ece2706b8c5
+365	423	6817326998857209	E:/Works/Qt Course/Qt Quick Controls/build-8-Popup-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app8-Popup_autogen/EWIEGA46WW/qrc_res.cpp	114b8ece2706b8c5
+362	514	6817326999722556	.rcc/qmlcache/app8-Popup_main_qml.cpp	e1c6ab49421fae71
+362	514	6817326999722556	E:/Works/Qt Course/Qt Quick Controls/build-8-Popup-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app8-Popup_main_qml.cpp	e1c6ab49421fae71
+517	603	6817327000689222	CMakeFiles/app8-Popup.dir/.rcc/qrc_app8-Popup_raw_qml_0.cpp.obj	d9f2e695d6f6e6f8
+519	605	6817327000710382	CMakeFiles/app8-Popup.dir/app8-Popup_autogen/EWIEGA46WW/qrc_res.cpp.obj	f1934c9cee0ed3d4
+514	2156	6817327016216970	CMakeFiles/app8-Popup.dir/.rcc/qmlcache/app8-Popup_main_qml.cpp.obj	96a4bbda28eaf810
+2156	2380	6817327018398048	app8-Popup.exe	6c4a6a17ae8b5d38
+13	46	6817329602721489	8-Popup/main.qml	3aa2911b0cdef922
+13	46	6817329602721489	E:/Works/Qt Course/Qt Quick Controls/build-8-Popup-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/8-Popup/main.qml	3aa2911b0cdef922
+16	353	6817329605774046	.qt_plugins/Qt6_QmlPlugins_Imports_app8-Popup.cmake	b92131ba82942636
+16	353	6817329605774046	E:/Works/Qt Course/Qt Quick Controls/build-8-Popup-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app8-Popup.cmake	b92131ba82942636
+356	386	6817329606114067	.rcc/qrc_app8-Popup_raw_qml_0.cpp	b527251b0ac26c6f
+356	386	6817329606114067	E:/Works/Qt Course/Qt Quick Controls/build-8-Popup-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app8-Popup_raw_qml_0.cpp	b527251b0ac26c6f
+353	500	6817329607179171	.rcc/qmlcache/app8-Popup_main_qml.cpp	e1c6ab49421fae71
+353	500	6817329607179171	E:/Works/Qt Course/Qt Quick Controls/build-8-Popup-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app8-Popup_main_qml.cpp	e1c6ab49421fae71
+500	568	6817329607954066	CMakeFiles/app8-Popup.dir/.rcc/qrc_app8-Popup_raw_qml_0.cpp.obj	d9f2e695d6f6e6f8
+503	2011	6817329622385446	CMakeFiles/app8-Popup.dir/.rcc/qmlcache/app8-Popup_main_qml.cpp.obj	96a4bbda28eaf810
+2011	2230	6817329624529257	app8-Popup.exe	6c4a6a17ae8b5d38

@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/5-MouseAreaSecond/">
+    <file alias="main.qml">E:/Works/Qt Course/Qt Quick/5-MouseAreaSecond/main.qml</file>
+  </qresource>
+</RCC>
+

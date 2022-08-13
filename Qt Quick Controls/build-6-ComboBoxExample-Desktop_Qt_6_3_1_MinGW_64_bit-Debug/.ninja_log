@@ -1,0 +1,70 @@
+# ninja log v5
+1	49	6817273442792110	.rcc/qmlcache/app6-ComboBoxExample_qmlcache_loader.cpp	81ebc401223c33db
+1	49	6817273442792110	E:/Works/Qt Course/Qt Quick Controls/build-6-ComboBoxExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app6-ComboBoxExample_qmlcache_loader.cpp	81ebc401223c33db
+5	52	6817273442834346	6-ComboBoxExample/main.qml	ff6164ea6a84df9a
+5	52	6817273442834346	E:/Works/Qt Course/Qt Quick Controls/build-6-ComboBoxExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/6-ComboBoxExample/main.qml	ff6164ea6a84df9a
+49	255	6817273444177492	app6-ComboBoxExample_autogen/timestamp	a6a24d07225f5219
+49	255	6817273444177492	app6-ComboBoxExample_autogen/mocs_compilation.cpp	a6a24d07225f5219
+49	255	6817273444177492	E:/Works/Qt Course/Qt Quick Controls/build-6-ComboBoxExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app6-ComboBoxExample_autogen/timestamp	a6a24d07225f5219
+49	255	6817273444177492	E:/Works/Qt Course/Qt Quick Controls/build-6-ComboBoxExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app6-ComboBoxExample_autogen/mocs_compilation.cpp	a6a24d07225f5219
+257	285	6817273445218899	meta_types/app6-ComboBoxExample_json_file_list.txt	68b986379d46f408
+257	285	6817273445218899	meta_types/app6-ComboBoxExample_json_file_list.txt.timestamp	68b986379d46f408
+257	285	6817273445218899	E:/Works/Qt Course/Qt Quick Controls/build-6-ComboBoxExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/app6-ComboBoxExample_json_file_list.txt	68b986379d46f408
+257	285	6817273445218899	E:/Works/Qt Course/Qt Quick Controls/build-6-ComboBoxExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/app6-ComboBoxExample_json_file_list.txt.timestamp	68b986379d46f408
+286	327	6817273445617673	meta_types/qt6app6-comboboxexample_debug_metatypes.json.gen	e5f43881e5dcf1d7
+286	327	6817273445617673	meta_types/qt6app6-comboboxexample_debug_metatypes.json	e5f43881e5dcf1d7
+286	327	6817273445617673	E:/Works/Qt Course/Qt Quick Controls/build-6-ComboBoxExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6app6-comboboxexample_debug_metatypes.json.gen	e5f43881e5dcf1d7
+286	327	6817273445617673	E:/Works/Qt Course/Qt Quick Controls/build-6-ComboBoxExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6app6-comboboxexample_debug_metatypes.json	e5f43881e5dcf1d7
+8	453	6817273446874055	.qt_plugins/Qt6_QmlPlugins_Imports_app6-ComboBoxExample.cmake	3646ccef86a7be1e
+8	453	6817273446874055	E:/Works/Qt Course/Qt Quick Controls/build-6-ComboBoxExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app6-ComboBoxExample.cmake	3646ccef86a7be1e
+327	459	6817273446214350	app6-comboboxexample_qmltyperegistrations.cpp	2272d98cd82d0bca
+327	459	6817273446214350	6-ComboBoxExample/app6-ComboBoxExample.qmltypes	2272d98cd82d0bca
+327	459	6817273446214350	E:/Works/Qt Course/Qt Quick Controls/build-6-ComboBoxExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app6-comboboxexample_qmltyperegistrations.cpp	2272d98cd82d0bca
+327	459	6817273446214350	E:/Works/Qt Course/Qt Quick Controls/build-6-ComboBoxExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/6-ComboBoxExample/app6-ComboBoxExample.qmltypes	2272d98cd82d0bca
+456	491	6817273447251582	.rcc/qrc_app6-ComboBoxExample_raw_qml_0.cpp	36149b85b5a3f330
+456	491	6817273447251582	E:/Works/Qt Course/Qt Quick Controls/build-6-ComboBoxExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app6-ComboBoxExample_raw_qml_0.cpp	36149b85b5a3f330
+453	491	6817273447246578	.rcc/qrc_qmake_6-ComboBoxExample.cpp	f87b29e93af306b7
+453	491	6817273447246578	E:/Works/Qt Course/Qt Quick Controls/build-6-ComboBoxExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_qmake_6-ComboBoxExample.cpp	f87b29e93af306b7
+459	617	6817273448439803	.rcc/qmlcache/app6-ComboBoxExample_main_qml.cpp	84fd70632f007045
+459	617	6817273448439803	E:/Works/Qt Course/Qt Quick Controls/build-6-ComboBoxExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app6-ComboBoxExample_main_qml.cpp	84fd70632f007045
+630	792	6817273450277746	CMakeFiles/app6-ComboBoxExample.dir/.rcc/qrc_qmake_6-ComboBoxExample.cpp.obj	c82360add05d1437
+617	805	6817273450178805	CMakeFiles/app6-ComboBoxExample.dir/app6-ComboBoxExample_autogen/mocs_compilation.cpp.obj	1a4286f196d961bc
+633	825	6817273450564645	CMakeFiles/app6-ComboBoxExample.dir/.rcc/qrc_app6-ComboBoxExample_raw_qml_0.cpp.obj	b34ca8a1ee45e25a
+622	2665	6817273469000047	CMakeFiles/app6-ComboBoxExample.dir/app6-comboboxexample_qmltyperegistrations.cpp.obj	d69e69d5392072c6
+619	2928	6817273471631188	CMakeFiles/app6-ComboBoxExample.dir/main.cpp.obj	817ce395748d6413
+627	3003	6817273472374743	CMakeFiles/app6-ComboBoxExample.dir/.rcc/qmlcache/app6-ComboBoxExample_main_qml.cpp.obj	266e6b92995ef854
+624	3283	6817273475181787	CMakeFiles/app6-ComboBoxExample.dir/.rcc/qmlcache/app6-ComboBoxExample_qmlcache_loader.cpp.obj	23ef503523aaf816
+3284	3518	6817273477479958	app6-ComboBoxExample.exe	1ee7053cbc9ab5bc
+16	48	6817273699192462	6-ComboBoxExample/main.qml	ff6164ea6a84df9a
+16	48	6817273699192462	E:/Works/Qt Course/Qt Quick Controls/build-6-ComboBoxExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/6-ComboBoxExample/main.qml	ff6164ea6a84df9a
+19	350	6817273702193422	.qt_plugins/Qt6_QmlPlugins_Imports_app6-ComboBoxExample.cmake	3646ccef86a7be1e
+19	350	6817273702193422	E:/Works/Qt Course/Qt Quick Controls/build-6-ComboBoxExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app6-ComboBoxExample.cmake	3646ccef86a7be1e
+353	383	6817273702533713	.rcc/qrc_app6-ComboBoxExample_raw_qml_0.cpp	36149b85b5a3f330
+353	383	6817273702533713	E:/Works/Qt Course/Qt Quick Controls/build-6-ComboBoxExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app6-ComboBoxExample_raw_qml_0.cpp	36149b85b5a3f330
+350	493	6817273703564383	.rcc/qmlcache/app6-ComboBoxExample_main_qml.cpp	84fd70632f007045
+350	493	6817273703564383	E:/Works/Qt Course/Qt Quick Controls/build-6-ComboBoxExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app6-ComboBoxExample_main_qml.cpp	84fd70632f007045
+496	575	6817273704459369	CMakeFiles/app6-ComboBoxExample.dir/.rcc/qrc_app6-ComboBoxExample_raw_qml_0.cpp.obj	b34ca8a1ee45e25a
+493	2200	6817273720704199	CMakeFiles/app6-ComboBoxExample.dir/.rcc/qmlcache/app6-ComboBoxExample_main_qml.cpp.obj	266e6b92995ef854
+2200	2425	6817273722902212	app6-ComboBoxExample.exe	1ee7053cbc9ab5bc
+7	37	6817273878476844	6-ComboBoxExample/main.qml	ff6164ea6a84df9a
+7	37	6817273878476844	E:/Works/Qt Course/Qt Quick Controls/build-6-ComboBoxExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/6-ComboBoxExample/main.qml	ff6164ea6a84df9a
+10	343	6817273881513761	.qt_plugins/Qt6_QmlPlugins_Imports_app6-ComboBoxExample.cmake	3646ccef86a7be1e
+10	343	6817273881513761	E:/Works/Qt Course/Qt Quick Controls/build-6-ComboBoxExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app6-ComboBoxExample.cmake	3646ccef86a7be1e
+344	371	6817273881818313	.rcc/qrc_app6-ComboBoxExample_raw_qml_0.cpp	36149b85b5a3f330
+344	371	6817273881818313	E:/Works/Qt Course/Qt Quick Controls/build-6-ComboBoxExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app6-ComboBoxExample_raw_qml_0.cpp	36149b85b5a3f330
+346	497	6817273882998025	.rcc/qmlcache/app6-ComboBoxExample_main_qml.cpp	84fd70632f007045
+346	497	6817273882998025	E:/Works/Qt Course/Qt Quick Controls/build-6-ComboBoxExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app6-ComboBoxExample_main_qml.cpp	84fd70632f007045
+500	572	6817273883836955	CMakeFiles/app6-ComboBoxExample.dir/.rcc/qrc_app6-ComboBoxExample_raw_qml_0.cpp.obj	b34ca8a1ee45e25a
+497	2275	6817273900848529	CMakeFiles/app6-ComboBoxExample.dir/.rcc/qmlcache/app6-ComboBoxExample_main_qml.cpp.obj	266e6b92995ef854
+2276	2521	6817273903266529	app6-ComboBoxExample.exe	1ee7053cbc9ab5bc
+7	39	6817283950018280	6-ComboBoxExample/main.qml	ff6164ea6a84df9a
+7	39	6817283950018280	E:/Works/Qt Course/Qt Quick Controls/build-6-ComboBoxExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/6-ComboBoxExample/main.qml	ff6164ea6a84df9a
+11	385	6817283953466182	.qt_plugins/Qt6_QmlPlugins_Imports_app6-ComboBoxExample.cmake	3646ccef86a7be1e
+11	385	6817283953466182	E:/Works/Qt Course/Qt Quick Controls/build-6-ComboBoxExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app6-ComboBoxExample.cmake	3646ccef86a7be1e
+388	419	6817283953818094	.rcc/qrc_app6-ComboBoxExample_raw_qml_0.cpp	36149b85b5a3f330
+388	419	6817283953818094	E:/Works/Qt Course/Qt Quick Controls/build-6-ComboBoxExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app6-ComboBoxExample_raw_qml_0.cpp	36149b85b5a3f330
+385	538	6817283954952333	.rcc/qmlcache/app6-ComboBoxExample_main_qml.cpp	84fd70632f007045
+385	538	6817283954952333	E:/Works/Qt Course/Qt Quick Controls/build-6-ComboBoxExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app6-ComboBoxExample_main_qml.cpp	84fd70632f007045
+541	625	6817283955890338	CMakeFiles/app6-ComboBoxExample.dir/.rcc/qrc_app6-ComboBoxExample_raw_qml_0.cpp.obj	b34ca8a1ee45e25a
+539	2315	6817283972763747	CMakeFiles/app6-ComboBoxExample.dir/.rcc/qmlcache/app6-ComboBoxExample_main_qml.cpp.obj	266e6b92995ef854
+2315	2552	6817283975103610	app6-ComboBoxExample.exe	1ee7053cbc9ab5bc

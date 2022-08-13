@@ -1,0 +1,142 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-fa17c7944eb8fa936869.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "TabBarBAR",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-157dba0520d56942afe1.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-03620deede4ab2d8b3e4.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTabBarBAR::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTabBarBAR-Debug-2af6a9434090317128ad.json",
+					"name" : "appTabBarBAR",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTabBarBAR_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTabBarBAR_autogen-Debug-0d5f7c61df2060242e70.json",
+					"name" : "appTabBarBAR_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTabBarBAR_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTabBarBAR_autogen_timestamp_deps-Debug-2f2d76cbb35afe96e9cc.json",
+					"name" : "appTabBarBAR_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTabBarBAR_other_files::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTabBarBAR_other_files-Debug-5bed977fd32feebda0a7.json",
+					"name" : "appTabBarBAR_other_files",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTabBarBAR_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTabBarBAR_qmlimportscan-Debug-7b77d774b4963d9c3787.json",
+					"name" : "appTabBarBAR_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTabBarBAR_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTabBarBAR_qmllint-Debug-701471ec36eadc9bd272.json",
+					"name" : "appTabBarBAR_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTabBarBAR_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTabBarBAR_qmltyperegistration-Debug-a9d88b6fea88727df9bb.json",
+					"name" : "appTabBarBAR_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTabBarBAR_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTabBarBAR_tooling-Debug-37201e1029610a977e5c.json",
+					"name" : "appTabBarBAR_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/Works/Qt Course/Qt Quick Controls/build-TabBarBAR-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
+		"source" : "E:/Works/Qt Course/Qt Quick Controls/TabBarBAR"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

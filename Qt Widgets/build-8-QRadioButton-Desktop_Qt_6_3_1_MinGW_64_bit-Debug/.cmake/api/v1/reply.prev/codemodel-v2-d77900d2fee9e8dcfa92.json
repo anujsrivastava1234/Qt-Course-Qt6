@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "8-QRadioButton",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "8-QRadioButton::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-8-QRadioButton-Debug-cd0ca143f63b01b066fa.json",
+					"name" : "8-QRadioButton",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "8-QRadioButton_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-8-QRadioButton_autogen-Debug-54bc389eb19e93438f59.json",
+					"name" : "8-QRadioButton_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "8-QRadioButton_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-8-QRadioButton_autogen_timestamp_deps-Debug-c38f776571c67a33d950.json",
+					"name" : "8-QRadioButton_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/Works/Qt Course/Qt Widgets/build-8-QRadioButton-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
+		"source" : "E:/Works/Qt Course/Qt Widgets/8-QRadioButton"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

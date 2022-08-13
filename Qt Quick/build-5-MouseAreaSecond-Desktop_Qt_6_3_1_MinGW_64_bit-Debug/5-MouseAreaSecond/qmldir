@@ -1,0 +1,4 @@
+module 5-MouseAreaSecond
+typeinfo app5-MouseAreaSecond.qmltypes
+prefer :/5-MouseAreaSecond/
+

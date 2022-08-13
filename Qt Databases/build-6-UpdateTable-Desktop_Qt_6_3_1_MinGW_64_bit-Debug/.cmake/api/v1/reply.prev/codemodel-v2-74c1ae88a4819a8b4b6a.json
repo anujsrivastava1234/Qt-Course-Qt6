@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-6f1e463683ea64adcb03.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "6-UpdateTable",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "6-UpdateTable::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-6-UpdateTable-Debug-64d05d2a473afb9fe0ca.json",
+					"name" : "6-UpdateTable",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "6-UpdateTable_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-6-UpdateTable_autogen-Debug-e18f5de2055d9c934b6d.json",
+					"name" : "6-UpdateTable_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "6-UpdateTable_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-6-UpdateTable_autogen_timestamp_deps-Debug-fafddbf1eef8c9ed9cb0.json",
+					"name" : "6-UpdateTable_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/Works/Qt Course/Qt Databases/build-6-UpdateTable-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
+		"source" : "E:/Works/Qt Course/Qt Databases/6-UpdateTable"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

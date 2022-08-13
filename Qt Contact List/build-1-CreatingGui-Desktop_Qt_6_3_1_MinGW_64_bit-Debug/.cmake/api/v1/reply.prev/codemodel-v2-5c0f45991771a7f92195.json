@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "1-CreatingGui",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "1-CreatingGui::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1-CreatingGui-Debug-9fec9395c5bbaf6876e7.json",
+					"name" : "1-CreatingGui",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "1-CreatingGui_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1-CreatingGui_autogen-Debug-6721f01620fefc59c267.json",
+					"name" : "1-CreatingGui_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "1-CreatingGui_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1-CreatingGui_autogen_timestamp_deps-Debug-429a210179b626a15962.json",
+					"name" : "1-CreatingGui_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/Works/Qt Course/Qt Contact List/build-1-CreatingGui-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
+		"source" : "E:/Works/Qt Course/Qt Contact List/1-CreatingGui"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

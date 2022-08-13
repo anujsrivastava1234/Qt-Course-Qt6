@@ -1,0 +1,32 @@
+# ninja log v5
+991	4961	6801972457743076	CMakeFiles/1-widgetExample.dir/main.cpp.obj	c7a65b0f9e6987ec
+4	674	6801972414160568	1-widgetExample_autogen/timestamp	65cb27378b9bc81f
+4	674	6801972414160568	1-widgetExample_autogen/mocs_compilation.cpp	65cb27378b9bc81f
+4	674	6801972414160568	E:/Works/Qt Course/Qt Widgets/build-1-widgetExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/1-widgetExample_autogen/timestamp	65cb27378b9bc81f
+4	674	6801972414160568	E:/Works/Qt Course/Qt Widgets/build-1-widgetExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/1-widgetExample_autogen/mocs_compilation.cpp	65cb27378b9bc81f
+985	5115	6801972459816085	CMakeFiles/1-widgetExample.dir/widget.cpp.obj	7f4a82a633d0d29e
+988	5071	6801972458829873	CMakeFiles/1-widgetExample.dir/1-widgetExample_autogen/mocs_compilation.cpp.obj	b33db0e81994e66c
+11782	12072	6801972529393546	1-widgetExample.exe	776d69af13da3629
+2	543	6801992686994940	build.ninja	afaf0527a4fad555
+674	985	6801972418477929	1-widgetExample_autogen/EWIEGA46WW/qrc_res.cpp	efd4e5637249f8d9
+674	985	6801972418477929	E:/Works/Qt Course/Qt Widgets/build-1-widgetExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/1-widgetExample_autogen/EWIEGA46WW/qrc_res.cpp	efd4e5637249f8d9
+994	11782	6801972526497189	CMakeFiles/1-widgetExample.dir/1-widgetExample_autogen/EWIEGA46WW/qrc_res.cpp.obj	c0461b91ec7583b3
+0	21	0	CMakeFiles/clean.additional	baedbe210acaa455
+21	28	0	clean	577b940aee94fbd7
+4	687	6801992758564624	1-widgetExample_autogen/timestamp	65cb27378b9bc81f
+4	687	6801992758564624	1-widgetExample_autogen/mocs_compilation.cpp	65cb27378b9bc81f
+4	687	6801992758564624	E:/Works/Qt Course/Qt Widgets/build-1-widgetExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/1-widgetExample_autogen/timestamp	65cb27378b9bc81f
+4	687	6801992758564624	E:/Works/Qt Course/Qt Widgets/build-1-widgetExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/1-widgetExample_autogen/mocs_compilation.cpp	65cb27378b9bc81f
+687	985	6801992762696333	1-widgetExample_autogen/EWIEGA46WW/qrc_res.cpp	efd4e5637249f8d9
+687	985	6801992762696333	E:/Works/Qt Course/Qt Widgets/build-1-widgetExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/1-widgetExample_autogen/EWIEGA46WW/qrc_res.cpp	efd4e5637249f8d9
+993	3012	6801992783028994	CMakeFiles/1-widgetExample.dir/widget.cpp.obj	7f4a82a633d0d29e
+990	3071	6801992783607491	CMakeFiles/1-widgetExample.dir/main.cpp.obj	c7a65b0f9e6987ec
+985	3121	6801992784097544	CMakeFiles/1-widgetExample.dir/1-widgetExample_autogen/mocs_compilation.cpp.obj	b33db0e81994e66c
+987	8700	6801992839892245	CMakeFiles/1-widgetExample.dir/1-widgetExample_autogen/EWIEGA46WW/qrc_res.cpp.obj	c0461b91ec7583b3
+8700	8970	6801992842583929	1-widgetExample.exe	776d69af13da3629
+14	239	6801992974887008	1-widgetExample_autogen/timestamp	65cb27378b9bc81f
+14	239	6801992974887008	1-widgetExample_autogen/mocs_compilation.cpp	65cb27378b9bc81f
+14	239	6801992974887008	E:/Works/Qt Course/Qt Widgets/build-1-widgetExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/1-widgetExample_autogen/timestamp	65cb27378b9bc81f
+14	239	6801992974887008	E:/Works/Qt Course/Qt Widgets/build-1-widgetExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/1-widgetExample_autogen/mocs_compilation.cpp	65cb27378b9bc81f
+249	1978	6801992992285087	CMakeFiles/1-widgetExample.dir/widget.cpp.obj	7f4a82a633d0d29e
+1979	2282	6801992995279355	1-widgetExample.exe	776d69af13da3629

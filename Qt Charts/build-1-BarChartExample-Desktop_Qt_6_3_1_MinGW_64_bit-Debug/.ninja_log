@@ -1,0 +1,27 @@
+# ninja log v5
+1	2412	6808846343983080	1-BarChartExample_autogen/timestamp	1f36df7ff8aba95f
+1	2412	6808846343983080	1-BarChartExample_autogen/mocs_compilation.cpp	1f36df7ff8aba95f
+1	2412	6808846343983080	E:/Works/Qt Course/Qt Charts/build-1-BarChartExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/1-BarChartExample_autogen/timestamp	1f36df7ff8aba95f
+1	2412	6808846343983080	E:/Works/Qt Course/Qt Charts/build-1-BarChartExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/1-BarChartExample_autogen/mocs_compilation.cpp	1f36df7ff8aba95f
+12	2454	6808846750098717	1-BarChartExample_autogen/timestamp	1f36df7ff8aba95f
+12	2454	6808846750098717	1-BarChartExample_autogen/mocs_compilation.cpp	1f36df7ff8aba95f
+12	2454	6808846750098717	E:/Works/Qt Course/Qt Charts/build-1-BarChartExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/1-BarChartExample_autogen/timestamp	1f36df7ff8aba95f
+12	2454	6808846750098717	E:/Works/Qt Course/Qt Charts/build-1-BarChartExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/1-BarChartExample_autogen/mocs_compilation.cpp	1f36df7ff8aba95f
+2457	11780	6808846846020224	CMakeFiles/1-BarChartExample.dir/1-BarChartExample_autogen/mocs_compilation.cpp.obj	3be05c5c1a4680ef
+2462	11864	6808846846852157	CMakeFiles/1-BarChartExample.dir/widget.cpp.obj	983d837c37d2d6f6
+2459	11889	6808846847115330	CMakeFiles/1-BarChartExample.dir/main.cpp.obj	98a05df019dac0e1
+11889	12166	6808846849855930	1-BarChartExample.exe	186707e6fc31c142
+16	353	6808865554287035	1-BarChartExample_autogen/timestamp	1f36df7ff8aba95f
+16	353	6808865554287035	1-BarChartExample_autogen/mocs_compilation.cpp	1f36df7ff8aba95f
+16	353	6808865554287035	E:/Works/Qt Course/Qt Charts/build-1-BarChartExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/1-BarChartExample_autogen/timestamp	1f36df7ff8aba95f
+16	353	6808865554287035	E:/Works/Qt Course/Qt Charts/build-1-BarChartExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/1-BarChartExample_autogen/mocs_compilation.cpp	1f36df7ff8aba95f
+17	335	6808865994692370	1-BarChartExample_autogen/timestamp	1f36df7ff8aba95f
+17	335	6808865994692370	1-BarChartExample_autogen/mocs_compilation.cpp	1f36df7ff8aba95f
+17	335	6808865994692370	E:/Works/Qt Course/Qt Charts/build-1-BarChartExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/1-BarChartExample_autogen/timestamp	1f36df7ff8aba95f
+17	335	6808865994692370	E:/Works/Qt Course/Qt Charts/build-1-BarChartExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/1-BarChartExample_autogen/mocs_compilation.cpp	1f36df7ff8aba95f
+12	357	6808866309532549	1-BarChartExample_autogen/timestamp	1f36df7ff8aba95f
+12	357	6808866309532549	1-BarChartExample_autogen/mocs_compilation.cpp	1f36df7ff8aba95f
+12	357	6808866309532549	E:/Works/Qt Course/Qt Charts/build-1-BarChartExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/1-BarChartExample_autogen/timestamp	1f36df7ff8aba95f
+12	357	6808866309532549	E:/Works/Qt Course/Qt Charts/build-1-BarChartExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/1-BarChartExample_autogen/mocs_compilation.cpp	1f36df7ff8aba95f
+380	7181	6808866377746799	CMakeFiles/1-BarChartExample.dir/widget.cpp.obj	983d837c37d2d6f6
+7181	7466	6808866380552437	1-BarChartExample.exe	186707e6fc31c142

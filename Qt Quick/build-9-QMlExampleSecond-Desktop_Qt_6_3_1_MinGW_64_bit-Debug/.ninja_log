@@ -1,0 +1,73 @@
+# ninja log v5
+5	34	6813144861687876	9-QMlExampleSecond/main.qml	a6817cdf7de3cc2c
+5	34	6813144861687876	E:/Works/Qt Course/Qt Quick/build-9-QMlExampleSecond-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/9-QMlExampleSecond/main.qml	a6817cdf7de3cc2c
+1	40	6813144861737482	.rcc/qmlcache/app9-QMlExampleSecond_qmlcache_loader.cpp	82687b391b2690a2
+1	40	6813144861737482	E:/Works/Qt Course/Qt Quick/build-9-QMlExampleSecond-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app9-QMlExampleSecond_qmlcache_loader.cpp	82687b391b2690a2
+7	53	6813144861874916	.qt_plugins/Qt6_QmlPlugins_Imports_app9-QMlExampleSecond.cmake	92780ab051fb0f6f
+7	53	6813144861874916	E:/Works/Qt Course/Qt Quick/build-9-QMlExampleSecond-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app9-QMlExampleSecond.cmake	92780ab051fb0f6f
+41	209	6813144862920605	app9-QMlExampleSecond_autogen/timestamp	a76e6b286dbbd934
+41	209	6813144862920605	app9-QMlExampleSecond_autogen/mocs_compilation.cpp	a76e6b286dbbd934
+41	209	6813144862920605	E:/Works/Qt Course/Qt Quick/build-9-QMlExampleSecond-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app9-QMlExampleSecond_autogen/timestamp	a76e6b286dbbd934
+41	209	6813144862920605	E:/Works/Qt Course/Qt Quick/build-9-QMlExampleSecond-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app9-QMlExampleSecond_autogen/mocs_compilation.cpp	a76e6b286dbbd934
+212	243	6813144863771576	.rcc/qrc_app9-QMlExampleSecond_raw_qml_0.cpp	b026320f30a7098d
+212	243	6813144863771576	E:/Works/Qt Course/Qt Quick/build-9-QMlExampleSecond-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app9-QMlExampleSecond_raw_qml_0.cpp	b026320f30a7098d
+215	245	6813144863801951	.rcc/qrc_qmake_9-QMlExampleSecond.cpp	3173745c26cf3a05
+215	245	6813144863801951	E:/Works/Qt Course/Qt Quick/build-9-QMlExampleSecond-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_qmake_9-QMlExampleSecond.cpp	3173745c26cf3a05
+218	275	6813144864074803	app9-QMlExampleSecond_autogen/EWIEGA46WW/qrc_res.cpp	7ef1f90d63548cc8
+218	275	6813144864074803	E:/Works/Qt Course/Qt Quick/build-9-QMlExampleSecond-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app9-QMlExampleSecond_autogen/EWIEGA46WW/qrc_res.cpp	7ef1f90d63548cc8
+210	277	6813144864127808	meta_types/app9-QMlExampleSecond_json_file_list.txt	1913c8fd4a892f90
+210	277	6813144864127808	meta_types/app9-QMlExampleSecond_json_file_list.txt.timestamp	1913c8fd4a892f90
+210	277	6813144864127808	E:/Works/Qt Course/Qt Quick/build-9-QMlExampleSecond-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/app9-QMlExampleSecond_json_file_list.txt	1913c8fd4a892f90
+210	277	6813144864127808	E:/Works/Qt Course/Qt Quick/build-9-QMlExampleSecond-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/app9-QMlExampleSecond_json_file_list.txt.timestamp	1913c8fd4a892f90
+277	312	6813144864483216	meta_types/qt6app9-qmlexamplesecond_debug_metatypes.json.gen	ab1988ff16ccb1a9
+277	312	6813144864483216	meta_types/qt6app9-qmlexamplesecond_debug_metatypes.json	ab1988ff16ccb1a9
+277	312	6813144864483216	E:/Works/Qt Course/Qt Quick/build-9-QMlExampleSecond-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6app9-qmlexamplesecond_debug_metatypes.json.gen	ab1988ff16ccb1a9
+277	312	6813144864483216	E:/Works/Qt Course/Qt Quick/build-9-QMlExampleSecond-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6app9-qmlexamplesecond_debug_metatypes.json	ab1988ff16ccb1a9
+313	426	6813144865127441	app9-qmlexamplesecond_qmltyperegistrations.cpp	6a404c81b9e557ec
+313	426	6813144865127441	9-QMlExampleSecond/app9-QMlExampleSecond.qmltypes	6a404c81b9e557ec
+313	426	6813144865127441	E:/Works/Qt Course/Qt Quick/build-9-QMlExampleSecond-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app9-qmlexamplesecond_qmltyperegistrations.cpp	6a404c81b9e557ec
+313	426	6813144865127441	E:/Works/Qt Course/Qt Quick/build-9-QMlExampleSecond-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/9-QMlExampleSecond/app9-QMlExampleSecond.qmltypes	6a404c81b9e557ec
+426	507	6813144866390528	.rcc/qmlcache/app9-QMlExampleSecond_main_qml.cpp	41cb559c30d85f
+426	507	6813144866390528	E:/Works/Qt Course/Qt Quick/build-9-QMlExampleSecond-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app9-QMlExampleSecond_main_qml.cpp	41cb559c30d85f
+515	650	6813144867823487	CMakeFiles/app9-QMlExampleSecond.dir/.rcc/qrc_qmake_9-QMlExampleSecond.cpp.obj	95924e7232223f35
+526	663	6813144867958791	CMakeFiles/app9-QMlExampleSecond.dir/.rcc/qrc_app9-QMlExampleSecond_raw_qml_0.cpp.obj	5b5aa92aa402eb8c
+510	672	6813144867980275	CMakeFiles/app9-QMlExampleSecond.dir/app9-QMlExampleSecond_autogen/mocs_compilation.cpp.obj	3202cb19165a8b9e
+523	743	6813144868783695	CMakeFiles/app9-QMlExampleSecond.dir/app9-QMlExampleSecond_autogen/EWIEGA46WW/qrc_res.cpp.obj	9175dc8ac9bd1f8
+507	2255	6813144883897237	CMakeFiles/app9-QMlExampleSecond.dir/app9-qmlexamplesecond_qmltyperegistrations.cpp.obj	3d1420832bc3e0b1
+512	2285	6813144884185623	CMakeFiles/app9-QMlExampleSecond.dir/main.cpp.obj	f7787e5005b2d2b1
+520	2447	6813144885823014	CMakeFiles/app9-QMlExampleSecond.dir/.rcc/qmlcache/app9-QMlExampleSecond_main_qml.cpp.obj	d4ded3df8ce02dda
+517	2868	6813144890022593	CMakeFiles/app9-QMlExampleSecond.dir/.rcc/qmlcache/app9-QMlExampleSecond_qmlcache_loader.cpp.obj	d9bd6016770ebbf
+2868	3080	6813144892117765	app9-QMlExampleSecond.exe	634f104422daa66c
+17	47	6813146851005264	9-QMlExampleSecond/main.qml	a6817cdf7de3cc2c
+17	47	6813146851005264	E:/Works/Qt Course/Qt Quick/build-9-QMlExampleSecond-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/9-QMlExampleSecond/main.qml	a6817cdf7de3cc2c
+21	53	6813146851056408	.qt_plugins/Qt6_QmlPlugins_Imports_app9-QMlExampleSecond.cmake	92780ab051fb0f6f
+21	53	6813146851056408	E:/Works/Qt Course/Qt Quick/build-9-QMlExampleSecond-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app9-QMlExampleSecond.cmake	92780ab051fb0f6f
+53	80	6813146851333491	.rcc/qrc_app9-QMlExampleSecond_raw_qml_0.cpp	b026320f30a7098d
+53	80	6813146851333491	E:/Works/Qt Course/Qt Quick/build-9-QMlExampleSecond-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app9-QMlExampleSecond_raw_qml_0.cpp	b026320f30a7098d
+56	150	6813146851983623	.rcc/qmlcache/app9-QMlExampleSecond_main_qml.cpp	41cb559c30d85f
+56	150	6813146851983623	E:/Works/Qt Course/Qt Quick/build-9-QMlExampleSecond-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app9-QMlExampleSecond_main_qml.cpp	41cb559c30d85f
+153	224	6813146852774825	CMakeFiles/app9-QMlExampleSecond.dir/.rcc/qrc_app9-QMlExampleSecond_raw_qml_0.cpp.obj	5b5aa92aa402eb8c
+151	1682	6813146867355021	CMakeFiles/app9-QMlExampleSecond.dir/.rcc/qmlcache/app9-QMlExampleSecond_main_qml.cpp.obj	d4ded3df8ce02dda
+1683	1887	6813146869378013	app9-QMlExampleSecond.exe	634f104422daa66c
+5	34	6813148725779280	9-QMlExampleSecond/main.qml	a6817cdf7de3cc2c
+5	34	6813148725779280	E:/Works/Qt Course/Qt Quick/build-9-QMlExampleSecond-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/9-QMlExampleSecond/main.qml	a6817cdf7de3cc2c
+9	39	6813148725825671	.qt_plugins/Qt6_QmlPlugins_Imports_app9-QMlExampleSecond.cmake	92780ab051fb0f6f
+9	39	6813148725825671	E:/Works/Qt Course/Qt Quick/build-9-QMlExampleSecond-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app9-QMlExampleSecond.cmake	92780ab051fb0f6f
+39	66	6813148726089440	.rcc/qrc_app9-QMlExampleSecond_raw_qml_0.cpp	b026320f30a7098d
+39	66	6813148726089440	E:/Works/Qt Course/Qt Quick/build-9-QMlExampleSecond-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app9-QMlExampleSecond_raw_qml_0.cpp	b026320f30a7098d
+41	134	6813148726710595	.rcc/qmlcache/app9-QMlExampleSecond_main_qml.cpp	41cb559c30d85f
+41	134	6813148726710595	E:/Works/Qt Course/Qt Quick/build-9-QMlExampleSecond-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app9-QMlExampleSecond_main_qml.cpp	41cb559c30d85f
+137	204	6813148727481634	CMakeFiles/app9-QMlExampleSecond.dir/.rcc/qrc_app9-QMlExampleSecond_raw_qml_0.cpp.obj	5b5aa92aa402eb8c
+134	1655	6813148741983168	CMakeFiles/app9-QMlExampleSecond.dir/.rcc/qmlcache/app9-QMlExampleSecond_main_qml.cpp.obj	d4ded3df8ce02dda
+1655	1855	6813148743942534	app9-QMlExampleSecond.exe	634f104422daa66c
+5	32	6813152773615796	9-QMlExampleSecond/main.qml	a6817cdf7de3cc2c
+5	32	6813152773615796	E:/Works/Qt Course/Qt Quick/build-9-QMlExampleSecond-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/9-QMlExampleSecond/main.qml	a6817cdf7de3cc2c
+8	36	6813152773648758	.qt_plugins/Qt6_QmlPlugins_Imports_app9-QMlExampleSecond.cmake	92780ab051fb0f6f
+8	36	6813152773648758	E:/Works/Qt Course/Qt Quick/build-9-QMlExampleSecond-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app9-QMlExampleSecond.cmake	92780ab051fb0f6f
+36	61	6813152773906866	.rcc/qrc_app9-QMlExampleSecond_raw_qml_0.cpp	b026320f30a7098d
+36	61	6813152773906866	E:/Works/Qt Course/Qt Quick/build-9-QMlExampleSecond-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app9-QMlExampleSecond_raw_qml_0.cpp	b026320f30a7098d
+39	126	6813152774515868	.rcc/qmlcache/app9-QMlExampleSecond_main_qml.cpp	41cb559c30d85f
+39	126	6813152774515868	E:/Works/Qt Course/Qt Quick/build-9-QMlExampleSecond-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app9-QMlExampleSecond_main_qml.cpp	41cb559c30d85f
+129	194	6813152775249431	CMakeFiles/app9-QMlExampleSecond.dir/.rcc/qrc_app9-QMlExampleSecond_raw_qml_0.cpp.obj	5b5aa92aa402eb8c
+126	1582	6813152789121449	CMakeFiles/app9-QMlExampleSecond.dir/.rcc/qmlcache/app9-QMlExampleSecond_main_qml.cpp.obj	d4ded3df8ce02dda
+1583	1784	6813152791096914	app9-QMlExampleSecond.exe	634f104422daa66c

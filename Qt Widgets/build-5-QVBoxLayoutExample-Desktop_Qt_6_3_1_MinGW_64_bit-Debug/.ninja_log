@@ -1,0 +1,15 @@
+# ninja log v5
+1	1085	6804274029482965	5-QVBoxLayoutExample_autogen/timestamp	9ca7ff333a98ddc2
+1	1085	6804274029482965	5-QVBoxLayoutExample_autogen/mocs_compilation.cpp	9ca7ff333a98ddc2
+1	1085	6804274029482965	E:/Works/Qt Course/Qt Widgets/build-5-QVBoxLayoutExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/5-QVBoxLayoutExample_autogen/timestamp	9ca7ff333a98ddc2
+1	1085	6804274029482965	E:/Works/Qt Course/Qt Widgets/build-5-QVBoxLayoutExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/5-QVBoxLayoutExample_autogen/mocs_compilation.cpp	9ca7ff333a98ddc2
+1091	4600	6804274066107181	CMakeFiles/5-QVBoxLayoutExample.dir/widget.cpp.obj	419389141e9777f2
+1086	4698	6804274067097398	CMakeFiles/5-QVBoxLayoutExample.dir/5-QVBoxLayoutExample_autogen/mocs_compilation.cpp.obj	c66177606347f004
+1089	4719	6804274067520365	CMakeFiles/5-QVBoxLayoutExample.dir/main.cpp.obj	19d5c6c8c8b46f96
+4719	5044	6804274070651338	5-QVBoxLayoutExample.exe	7d3a98ccc4874bd5
+16	302	6804274563618750	5-QVBoxLayoutExample_autogen/timestamp	9ca7ff333a98ddc2
+16	302	6804274563618750	5-QVBoxLayoutExample_autogen/mocs_compilation.cpp	9ca7ff333a98ddc2
+16	302	6804274563618750	E:/Works/Qt Course/Qt Widgets/build-5-QVBoxLayoutExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/5-QVBoxLayoutExample_autogen/timestamp	9ca7ff333a98ddc2
+16	302	6804274563618750	E:/Works/Qt Course/Qt Widgets/build-5-QVBoxLayoutExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/5-QVBoxLayoutExample_autogen/mocs_compilation.cpp	9ca7ff333a98ddc2
+313	2393	6804274584540659	CMakeFiles/5-QVBoxLayoutExample.dir/widget.cpp.obj	419389141e9777f2
+2394	2626	6804274586814312	5-QVBoxLayoutExample.exe	7d3a98ccc4874bd5

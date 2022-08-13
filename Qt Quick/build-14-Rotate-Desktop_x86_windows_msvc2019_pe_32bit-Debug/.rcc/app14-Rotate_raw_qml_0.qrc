@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/14-Rotate/">
+    <file alias="main.qml">E:/Works/Qt Course/Qt Quick/14-Rotate/main.qml</file>
+    <file alias="shape.qml">E:/Works/Qt Course/Qt Quick/14-Rotate/shape.qml</file>
+  </qresource>
+</RCC>
+

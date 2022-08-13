@@ -1,0 +1,4 @@
+module 1-IntroQtQuick
+typeinfo app1-IntroQtQuick.qmltypes
+prefer :/1-IntroQtQuick/
+

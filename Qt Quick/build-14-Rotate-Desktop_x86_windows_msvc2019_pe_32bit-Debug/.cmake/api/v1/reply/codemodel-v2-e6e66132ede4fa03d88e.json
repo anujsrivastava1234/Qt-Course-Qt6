@@ -1,0 +1,142 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-8b76b2239efd65c2330e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "14-Rotate",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-75c66bef58e0dd66f675.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-f4d37d9a10edaa2d9e65.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app14-Rotate::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app14-Rotate-Debug-98c4d547b9be36e0dedd.json",
+					"name" : "app14-Rotate",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app14-Rotate_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app14-Rotate_autogen-Debug-cbe49e8162fa77d74cc9.json",
+					"name" : "app14-Rotate_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app14-Rotate_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app14-Rotate_autogen_timestamp_deps-Debug-34ab64f3a9d07f43ab6c.json",
+					"name" : "app14-Rotate_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app14-Rotate_other_files::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app14-Rotate_other_files-Debug-318ca6ba13426a1a66aa.json",
+					"name" : "app14-Rotate_other_files",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app14-Rotate_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app14-Rotate_qmlimportscan-Debug-eb5376d4a4ad5a32765d.json",
+					"name" : "app14-Rotate_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app14-Rotate_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app14-Rotate_qmllint-Debug-6c3a17e49128a89a12ae.json",
+					"name" : "app14-Rotate_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app14-Rotate_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app14-Rotate_qmltyperegistration-Debug-f091f59992117e3726cd.json",
+					"name" : "app14-Rotate_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app14-Rotate_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app14-Rotate_tooling-Debug-711126aa42a7e56a3a41.json",
+					"name" : "app14-Rotate_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/Works/Qt Course/Qt Quick/build-14-Rotate-Desktop_x86_windows_msvc2019_pe_32bit-Debug",
+		"source" : "E:/Works/Qt Course/Qt Quick/14-Rotate"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

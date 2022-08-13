@@ -1,0 +1,23 @@
+# ninja log v5
+1	1480	6804725556189275	16-QFontCOmboBox_autogen/timestamp	ad18ec1ee6d5dcea
+1	1480	6804725556189275	16-QFontCOmboBox_autogen/mocs_compilation.cpp	ad18ec1ee6d5dcea
+1	1480	6804725556189275	E:/Works/Qt Course/Qt Widgets/build-16-QFontCOmboBox-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/16-QFontCOmboBox_autogen/timestamp	ad18ec1ee6d5dcea
+1	1480	6804725556189275	E:/Works/Qt Course/Qt Widgets/build-16-QFontCOmboBox-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/16-QFontCOmboBox_autogen/mocs_compilation.cpp	ad18ec1ee6d5dcea
+1484	5671	6804725600362232	CMakeFiles/16-QFontCOmboBox.dir/widget.cpp.obj	62010f22a91c8efc
+1488	5691	6804725600833128	CMakeFiles/16-QFontCOmboBox.dir/main.cpp.obj	4007234274d58440
+1480	5756	6804725601498819	CMakeFiles/16-QFontCOmboBox.dir/16-QFontCOmboBox_autogen/mocs_compilation.cpp.obj	8091b23bb138728e
+5757	6131	6804725605161254	16-QFontCOmboBox.exe	8ef6b28d2cf91a96
+15	944	6804728649417580	16-QFontCOmboBox_autogen/timestamp	ad18ec1ee6d5dcea
+15	944	6804728649417580	16-QFontCOmboBox_autogen/mocs_compilation.cpp	ad18ec1ee6d5dcea
+15	944	6804728649417580	E:/Works/Qt Course/Qt Widgets/build-16-QFontCOmboBox-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/16-QFontCOmboBox_autogen/timestamp	ad18ec1ee6d5dcea
+15	944	6804728649417580	E:/Works/Qt Course/Qt Widgets/build-16-QFontCOmboBox-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/16-QFontCOmboBox_autogen/mocs_compilation.cpp	ad18ec1ee6d5dcea
+948	4151	6804728683165731	CMakeFiles/16-QFontCOmboBox.dir/main.cpp.obj	4007234274d58440
+950	4164	6804728683300508	CMakeFiles/16-QFontCOmboBox.dir/widget.cpp.obj	62010f22a91c8efc
+944	4220	6804728683866469	CMakeFiles/16-QFontCOmboBox.dir/16-QFontCOmboBox_autogen/mocs_compilation.cpp.obj	8091b23bb138728e
+4221	4485	6804728686454657	16-QFontCOmboBox.exe	8ef6b28d2cf91a96
+7	269	6804729144790319	16-QFontCOmboBox_autogen/timestamp	ad18ec1ee6d5dcea
+7	269	6804729144790319	16-QFontCOmboBox_autogen/mocs_compilation.cpp	ad18ec1ee6d5dcea
+7	269	6804729144790319	E:/Works/Qt Course/Qt Widgets/build-16-QFontCOmboBox-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/16-QFontCOmboBox_autogen/timestamp	ad18ec1ee6d5dcea
+7	269	6804729144790319	E:/Works/Qt Course/Qt Widgets/build-16-QFontCOmboBox-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/16-QFontCOmboBox_autogen/mocs_compilation.cpp	ad18ec1ee6d5dcea
+287	2561	6804729167734544	CMakeFiles/16-QFontCOmboBox.dir/widget.cpp.obj	62010f22a91c8efc
+2561	2765	6804729169734895	16-QFontCOmboBox.exe	8ef6b28d2cf91a96

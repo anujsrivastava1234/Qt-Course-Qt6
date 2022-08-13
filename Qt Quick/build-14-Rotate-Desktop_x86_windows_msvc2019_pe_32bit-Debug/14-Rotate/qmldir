@@ -1,0 +1,4 @@
+module 14-Rotate
+typeinfo app14-Rotate.qmltypes
+prefer :/14-Rotate/
+

@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "2-SignalSlots",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "2-SignalSlots::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2-SignalSlots-Debug-80a8c6ab4d44653592bf.json",
+					"name" : "2-SignalSlots",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "2-SignalSlots_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2-SignalSlots_autogen-Debug-9e3d981dea9853371329.json",
+					"name" : "2-SignalSlots_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "2-SignalSlots_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2-SignalSlots_autogen_timestamp_deps-Debug-0bedd55458c4343a8fa3.json",
+					"name" : "2-SignalSlots_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/Works/Qt Course/Qt Widgets/build-2-SignalSlots-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
+		"source" : "E:/Works/Qt Course/Qt Widgets/2-SignalSlots"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

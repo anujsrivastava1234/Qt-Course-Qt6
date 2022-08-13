@@ -1,0 +1,39 @@
+# ninja log v5
+1	920	6808035234275176	2-CreateTable_autogen/timestamp	cc312552576ef3e0
+1	920	6808035234275176	2-CreateTable_autogen/mocs_compilation.cpp	cc312552576ef3e0
+1	920	6808035234275176	E:/Works/Qt Course/Qt Databases/build-2-CreateTable-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-CreateTable_autogen/timestamp	cc312552576ef3e0
+1	920	6808035234275176	E:/Works/Qt Course/Qt Databases/build-2-CreateTable-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-CreateTable_autogen/mocs_compilation.cpp	cc312552576ef3e0
+11	630	6808035417482839	2-CreateTable_autogen/timestamp	cc312552576ef3e0
+11	630	6808035417482839	2-CreateTable_autogen/mocs_compilation.cpp	cc312552576ef3e0
+11	630	6808035417482839	E:/Works/Qt Course/Qt Databases/build-2-CreateTable-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-CreateTable_autogen/timestamp	cc312552576ef3e0
+11	630	6808035417482839	E:/Works/Qt Course/Qt Databases/build-2-CreateTable-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-CreateTable_autogen/mocs_compilation.cpp	cc312552576ef3e0
+637	2520	6808035437616245	CMakeFiles/2-CreateTable.dir/main.cpp.obj	4e8b41b8065de832
+635	2536	6808035437787906	CMakeFiles/2-CreateTable.dir/2-CreateTable_autogen/mocs_compilation.cpp.obj	3ca4d02204a6bfa2
+639	2656	6808035438981260	CMakeFiles/2-CreateTable.dir/widget.cpp.obj	17977f13a64d845a
+2657	2833	6808035440723799	2-CreateTable.exe	3a89a1efdc2f8714
+11	692	6808038875006008	2-CreateTable_autogen/timestamp	cc312552576ef3e0
+11	692	6808038875006008	2-CreateTable_autogen/mocs_compilation.cpp	cc312552576ef3e0
+11	692	6808038875006008	E:/Works/Qt Course/Qt Databases/build-2-CreateTable-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-CreateTable_autogen/timestamp	cc312552576ef3e0
+11	692	6808038875006008	E:/Works/Qt Course/Qt Databases/build-2-CreateTable-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-CreateTable_autogen/mocs_compilation.cpp	cc312552576ef3e0
+695	2723	6808038896705782	CMakeFiles/2-CreateTable.dir/main.cpp.obj	4e8b41b8065de832
+692	2732	6808038896793391	CMakeFiles/2-CreateTable.dir/2-CreateTable_autogen/mocs_compilation.cpp.obj	3ca4d02204a6bfa2
+697	2852	6808038897981489	CMakeFiles/2-CreateTable.dir/widget.cpp.obj	17977f13a64d845a
+2852	3061	6808038900045387	2-CreateTable.exe	3a89a1efdc2f8714
+15	214	6808039129950249	2-CreateTable_autogen/timestamp	cc312552576ef3e0
+15	214	6808039129950249	2-CreateTable_autogen/mocs_compilation.cpp	cc312552576ef3e0
+15	214	6808039129950249	E:/Works/Qt Course/Qt Databases/build-2-CreateTable-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-CreateTable_autogen/timestamp	cc312552576ef3e0
+15	214	6808039129950249	E:/Works/Qt Course/Qt Databases/build-2-CreateTable-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-CreateTable_autogen/mocs_compilation.cpp	cc312552576ef3e0
+223	1909	6808039146899590	CMakeFiles/2-CreateTable.dir/widget.cpp.obj	17977f13a64d845a
+1909	2106	6808039148841074	2-CreateTable.exe	3a89a1efdc2f8714
+12	196	6808039525736069	2-CreateTable_autogen/timestamp	cc312552576ef3e0
+12	196	6808039525736069	2-CreateTable_autogen/mocs_compilation.cpp	cc312552576ef3e0
+12	196	6808039525736069	E:/Works/Qt Course/Qt Databases/build-2-CreateTable-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-CreateTable_autogen/timestamp	cc312552576ef3e0
+12	196	6808039525736069	E:/Works/Qt Course/Qt Databases/build-2-CreateTable-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-CreateTable_autogen/mocs_compilation.cpp	cc312552576ef3e0
+205	1926	6808039543050995	CMakeFiles/2-CreateTable.dir/widget.cpp.obj	17977f13a64d845a
+1926	2126	6808039545008868	2-CreateTable.exe	3a89a1efdc2f8714
+16	208	6808040366928950	2-CreateTable_autogen/timestamp	cc312552576ef3e0
+16	208	6808040366928950	2-CreateTable_autogen/mocs_compilation.cpp	cc312552576ef3e0
+16	208	6808040366928950	E:/Works/Qt Course/Qt Databases/build-2-CreateTable-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-CreateTable_autogen/timestamp	cc312552576ef3e0
+16	208	6808040366928950	E:/Works/Qt Course/Qt Databases/build-2-CreateTable-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-CreateTable_autogen/mocs_compilation.cpp	cc312552576ef3e0
+217	2002	6808040384873570	CMakeFiles/2-CreateTable.dir/widget.cpp.obj	17977f13a64d845a
+2002	2197	6808040386796642	2-CreateTable.exe	3a89a1efdc2f8714

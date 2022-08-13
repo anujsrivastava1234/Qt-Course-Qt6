@@ -1,0 +1,142 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-c17752b46986bb156fe5.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "3-QmlLabelExample",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-14357475446b695baaf3.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-173ce783cbfa76a939e8.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app3-QmlLabelExample::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app3-QmlLabelExample-Debug-c632bbd059d89772be5a.json",
+					"name" : "app3-QmlLabelExample",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app3-QmlLabelExample_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app3-QmlLabelExample_autogen-Debug-deffd1e0213e8c6bb121.json",
+					"name" : "app3-QmlLabelExample_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app3-QmlLabelExample_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app3-QmlLabelExample_autogen_timestamp_deps-Debug-bc3ab055238ef98e756f.json",
+					"name" : "app3-QmlLabelExample_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app3-QmlLabelExample_other_files::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app3-QmlLabelExample_other_files-Debug-cb9b68f4618200f2b130.json",
+					"name" : "app3-QmlLabelExample_other_files",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app3-QmlLabelExample_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app3-QmlLabelExample_qmlimportscan-Debug-407c333642c52a983c82.json",
+					"name" : "app3-QmlLabelExample_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app3-QmlLabelExample_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app3-QmlLabelExample_qmllint-Debug-4003c029929bcf4a8589.json",
+					"name" : "app3-QmlLabelExample_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app3-QmlLabelExample_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app3-QmlLabelExample_qmltyperegistration-Debug-27f22c6b6dddbadbb629.json",
+					"name" : "app3-QmlLabelExample_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app3-QmlLabelExample_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app3-QmlLabelExample_tooling-Debug-9c2be918b33db43285d2.json",
+					"name" : "app3-QmlLabelExample_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/Works/Qt Course/Qt Quick Controls/build-3-QmlLabelExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
+		"source" : "E:/Works/Qt Course/Qt Quick Controls/3-QmlLabelExample"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

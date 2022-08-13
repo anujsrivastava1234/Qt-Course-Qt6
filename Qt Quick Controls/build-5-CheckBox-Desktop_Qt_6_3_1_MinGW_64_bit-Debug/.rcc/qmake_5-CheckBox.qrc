@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/5-CheckBox">
+    <file alias="qmldir">E:/Works/Qt Course/Qt Quick Controls/build-5-CheckBox-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/5-CheckBox/qmldir</file>
+  </qresource>
+</RCC>
+

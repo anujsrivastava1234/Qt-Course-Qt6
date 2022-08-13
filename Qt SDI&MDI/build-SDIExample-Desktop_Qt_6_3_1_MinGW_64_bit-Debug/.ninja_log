@@ -1,0 +1,49 @@
+# ninja log v5
+1	857	6810607096231233	SDIExample_autogen/timestamp	2ab52f5d75ee3ce7
+1	857	6810607096231233	SDIExample_autogen/mocs_compilation.cpp	2ab52f5d75ee3ce7
+1	857	6810607096231233	E:/Works/Qt Course/Qt SDI&MDI/build-SDIExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/SDIExample_autogen/timestamp	2ab52f5d75ee3ce7
+1	857	6810607096231233	E:/Works/Qt Course/Qt SDI&MDI/build-SDIExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/SDIExample_autogen/mocs_compilation.cpp	2ab52f5d75ee3ce7
+863	3038	6810607119572529	CMakeFiles/SDIExample.dir/mainwindow.cpp.obj	3f60879e9a049097
+866	3057	6810607119773506	CMakeFiles/SDIExample.dir/main.cpp.obj	448bd489cc35235
+860	3104	6810607120240991	CMakeFiles/SDIExample.dir/SDIExample_autogen/mocs_compilation.cpp.obj	5e6d9d52ea6bea1b
+3105	3329	6810607122426776	SDIExample.exe	f1f98fafb271c98b
+15	236	6810607352351024	SDIExample_autogen/timestamp	2ab52f5d75ee3ce7
+15	236	6810607352351024	SDIExample_autogen/mocs_compilation.cpp	2ab52f5d75ee3ce7
+15	236	6810607352351024	E:/Works/Qt Course/Qt SDI&MDI/build-SDIExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/SDIExample_autogen/timestamp	2ab52f5d75ee3ce7
+15	236	6810607352351024	E:/Works/Qt Course/Qt SDI&MDI/build-SDIExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/SDIExample_autogen/mocs_compilation.cpp	2ab52f5d75ee3ce7
+251	2632	6810607376289200	CMakeFiles/SDIExample.dir/mainwindow.cpp.obj	3f60879e9a049097
+248	2686	6810607376834509	CMakeFiles/SDIExample.dir/SDIExample_autogen/mocs_compilation.cpp.obj	5e6d9d52ea6bea1b
+254	2697	6810607376966668	CMakeFiles/SDIExample.dir/main.cpp.obj	448bd489cc35235
+2698	2885	6810607378787990	SDIExample.exe	f1f98fafb271c98b
+12	219	6810607663172967	SDIExample_autogen/timestamp	2ab52f5d75ee3ce7
+12	219	6810607663172967	SDIExample_autogen/mocs_compilation.cpp	2ab52f5d75ee3ce7
+12	219	6810607663172967	E:/Works/Qt Course/Qt SDI&MDI/build-SDIExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/SDIExample_autogen/timestamp	2ab52f5d75ee3ce7
+12	219	6810607663172967	E:/Works/Qt Course/Qt SDI&MDI/build-SDIExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/SDIExample_autogen/mocs_compilation.cpp	2ab52f5d75ee3ce7
+235	2517	6810607686131806	CMakeFiles/SDIExample.dir/main.cpp.obj	448bd489cc35235
+232	2542	6810607686384993	CMakeFiles/SDIExample.dir/mainwindow.cpp.obj	3f60879e9a049097
+229	2591	6810607686891710	CMakeFiles/SDIExample.dir/SDIExample_autogen/mocs_compilation.cpp.obj	5e6d9d52ea6bea1b
+2591	2785	6810607688774725	SDIExample.exe	f1f98fafb271c98b
+14	752	6810613287567050	SDIExample_autogen/timestamp	2ab52f5d75ee3ce7
+14	752	6810613287567050	SDIExample_autogen/mocs_compilation.cpp	2ab52f5d75ee3ce7
+14	752	6810613287567050	E:/Works/Qt Course/Qt SDI&MDI/build-SDIExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/SDIExample_autogen/timestamp	2ab52f5d75ee3ce7
+14	752	6810613287567050	E:/Works/Qt Course/Qt SDI&MDI/build-SDIExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/SDIExample_autogen/mocs_compilation.cpp	2ab52f5d75ee3ce7
+755	2823	6810613309413637	CMakeFiles/SDIExample.dir/mainwindow.cpp.obj	3f60879e9a049097
+757	2869	6810613309866754	CMakeFiles/SDIExample.dir/main.cpp.obj	448bd489cc35235
+753	2911	6810613310278741	CMakeFiles/SDIExample.dir/SDIExample_autogen/mocs_compilation.cpp.obj	5e6d9d52ea6bea1b
+2911	3117	6810613312337939	SDIExample.exe	f1f98fafb271c98b
+16	253	6810613438393673	SDIExample_autogen/timestamp	2ab52f5d75ee3ce7
+16	253	6810613438393673	SDIExample_autogen/mocs_compilation.cpp	2ab52f5d75ee3ce7
+16	253	6810613438393673	E:/Works/Qt Course/Qt SDI&MDI/build-SDIExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/SDIExample_autogen/timestamp	2ab52f5d75ee3ce7
+16	253	6810613438393673	E:/Works/Qt Course/Qt SDI&MDI/build-SDIExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/SDIExample_autogen/mocs_compilation.cpp	2ab52f5d75ee3ce7
+266	2625	6810613462118731	CMakeFiles/SDIExample.dir/SDIExample_autogen/mocs_compilation.cpp.obj	5e6d9d52ea6bea1b
+270	2627	6810613462139347	CMakeFiles/SDIExample.dir/mainwindow.cpp.obj	3f60879e9a049097
+273	2689	6810613462766289	CMakeFiles/SDIExample.dir/main.cpp.obj	448bd489cc35235
+2690	2887	6810613464702203	SDIExample.exe	f1f98fafb271c98b
+13	230	6810613696932892	SDIExample_autogen/timestamp	2ab52f5d75ee3ce7
+13	230	6810613696932892	SDIExample_autogen/mocs_compilation.cpp	2ab52f5d75ee3ce7
+13	230	6810613696932892	E:/Works/Qt Course/Qt SDI&MDI/build-SDIExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/SDIExample_autogen/timestamp	2ab52f5d75ee3ce7
+13	230	6810613696932892	E:/Works/Qt Course/Qt SDI&MDI/build-SDIExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/SDIExample_autogen/mocs_compilation.cpp	2ab52f5d75ee3ce7
+240	2538	6810613720033684	CMakeFiles/SDIExample.dir/SDIExample_autogen/mocs_compilation.cpp.obj	5e6d9d52ea6bea1b
+247	2549	6810613720131838	CMakeFiles/SDIExample.dir/mainwindow.cpp.obj	3f60879e9a049097
+244	2667	6810613721329743	CMakeFiles/SDIExample.dir/main.cpp.obj	448bd489cc35235
+2667	2866	6810613723275018	SDIExample.exe	f1f98fafb271c98b

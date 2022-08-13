@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-0ba77a0d1317e4c65d41.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "7-DeleteData",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "7-DeleteData::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-7-DeleteData-Debug-068f9c754eadfd7ef9fd.json",
+					"name" : "7-DeleteData",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "7-DeleteData_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-7-DeleteData_autogen-Debug-faf66fb9784ba2fd0e91.json",
+					"name" : "7-DeleteData_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "7-DeleteData_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-7-DeleteData_autogen_timestamp_deps-Debug-3ccf20fc52c2307e550e.json",
+					"name" : "7-DeleteData_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/Works/Qt Course/Qt Databases/build-7-DeleteData-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
+		"source" : "E:/Works/Qt Course/Qt Databases/7-DeleteData"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

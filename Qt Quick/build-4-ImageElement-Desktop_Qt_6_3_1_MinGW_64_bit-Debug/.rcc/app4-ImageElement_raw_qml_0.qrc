@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/4-ImageElement/">
+    <file alias="main.qml">E:/Works/Qt Course/Qt Quick/4-ImageElement/main.qml</file>
+  </qresource>
+</RCC>
+

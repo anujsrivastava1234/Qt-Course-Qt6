@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "4-QHBoxLayoutExample",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "4-QHBoxLayoutExample::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-4-QHBoxLayoutExample-Debug-5b819e06200c67bccc67.json",
+					"name" : "4-QHBoxLayoutExample",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "4-QHBoxLayoutExample_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-4-QHBoxLayoutExample_autogen-Debug-da897f53f7f152cf8c60.json",
+					"name" : "4-QHBoxLayoutExample_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "4-QHBoxLayoutExample_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-4-QHBoxLayoutExample_autogen_timestamp_deps-Debug-364e84460ef1457dd13e.json",
+					"name" : "4-QHBoxLayoutExample_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/Works/Qt Course/Qt Widgets/build-4-QHBoxLayoutExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
+		"source" : "E:/Works/Qt Course/Qt Widgets/4-QHBoxLayoutExample"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

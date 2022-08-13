@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/Drawer/">
+    <file alias="main.qml">E:/Works/Qt Course/Qt Quick Controls/Drawer/main.qml</file>
+  </qresource>
+</RCC>
+

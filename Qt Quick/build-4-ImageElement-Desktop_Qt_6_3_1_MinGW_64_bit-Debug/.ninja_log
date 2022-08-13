@@ -1,0 +1,84 @@
+# ninja log v5
+4	70	6812342765817501	.rcc/qmlcache/app4-ImageElement_qmlcache_loader.cpp	522db77ef8a23001
+4	70	6812342765817501	E:/Works/Qt Course/Qt Quick/build-4-ImageElement-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app4-ImageElement_qmlcache_loader.cpp	522db77ef8a23001
+9	75	6812342765842500	4-ImageElement/main.qml	28188299d5edefd5
+9	75	6812342765842500	E:/Works/Qt Course/Qt Quick/build-4-ImageElement-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/4-ImageElement/main.qml	28188299d5edefd5
+13	83	6812342765993680	.qt_plugins/Qt6_QmlPlugins_Imports_app4-ImageElement.cmake	49f02707a635fe11
+13	83	6812342765993680	E:/Works/Qt Course/Qt Quick/build-4-ImageElement-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app4-ImageElement.cmake	49f02707a635fe11
+70	386	6812342767850245	app4-ImageElement_autogen/timestamp	2e8e596edcbaef6
+70	386	6812342767850245	app4-ImageElement_autogen/mocs_compilation.cpp	2e8e596edcbaef6
+70	386	6812342767850245	E:/Works/Qt Course/Qt Quick/build-4-ImageElement-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app4-ImageElement_autogen/timestamp	2e8e596edcbaef6
+70	386	6812342767850245	E:/Works/Qt Course/Qt Quick/build-4-ImageElement-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app4-ImageElement_autogen/mocs_compilation.cpp	2e8e596edcbaef6
+387	438	6812342769573289	meta_types/app4-ImageElement_json_file_list.txt	6d1400fc03047047
+387	438	6812342769573289	meta_types/app4-ImageElement_json_file_list.txt.timestamp	6d1400fc03047047
+387	438	6812342769573289	E:/Works/Qt Course/Qt Quick/build-4-ImageElement-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/app4-ImageElement_json_file_list.txt	6d1400fc03047047
+387	438	6812342769573289	E:/Works/Qt Course/Qt Quick/build-4-ImageElement-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/app4-ImageElement_json_file_list.txt.timestamp	6d1400fc03047047
+395	460	6812342769690706	.rcc/qrc_app4-ImageElement_raw_qml_0.cpp	89dc2e50eebfe38c
+395	460	6812342769690706	E:/Works/Qt Course/Qt Quick/build-4-ImageElement-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app4-ImageElement_raw_qml_0.cpp	89dc2e50eebfe38c
+391	470	6812342769710724	.rcc/qrc_qmake_4-ImageElement.cpp	4a5cd8b7ef58623d
+391	470	6812342769710724	E:/Works/Qt Course/Qt Quick/build-4-ImageElement-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_qmake_4-ImageElement.cpp	4a5cd8b7ef58623d
+438	512	6812342770287389	meta_types/qt6app4-imageelement_debug_metatypes.json.gen	a4bc9a6122d75297
+438	512	6812342770287389	meta_types/qt6app4-imageelement_debug_metatypes.json	a4bc9a6122d75297
+438	512	6812342770287389	E:/Works/Qt Course/Qt Quick/build-4-ImageElement-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6app4-imageelement_debug_metatypes.json.gen	a4bc9a6122d75297
+438	512	6812342770287389	E:/Works/Qt Course/Qt Quick/build-4-ImageElement-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6app4-imageelement_debug_metatypes.json	a4bc9a6122d75297
+398	522	6812342770317395	app4-ImageElement_autogen/EWIEGA46WW/qrc_res.cpp	5c1b99f91dceb7b7
+398	522	6812342770317395	E:/Works/Qt Course/Qt Quick/build-4-ImageElement-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app4-ImageElement_autogen/EWIEGA46WW/qrc_res.cpp	5c1b99f91dceb7b7
+512	708	6812342771254976	app4-imageelement_qmltyperegistrations.cpp	285e0cd3f2c4c397
+512	708	6812342771254976	4-ImageElement/app4-ImageElement.qmltypes	285e0cd3f2c4c397
+512	708	6812342771254976	E:/Works/Qt Course/Qt Quick/build-4-ImageElement-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app4-imageelement_qmltyperegistrations.cpp	285e0cd3f2c4c397
+512	708	6812342771254976	E:/Works/Qt Course/Qt Quick/build-4-ImageElement-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/4-ImageElement/app4-ImageElement.qmltypes	285e0cd3f2c4c397
+708	902	6812342774094175	.rcc/qmlcache/app4-ImageElement_main_qml.cpp	cd9bc7da6c5424e0
+708	902	6812342774094175	E:/Works/Qt Course/Qt Quick/build-4-ImageElement-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app4-ImageElement_main_qml.cpp	cd9bc7da6c5424e0
+910	1201	6812342777032844	CMakeFiles/app4-ImageElement.dir/app4-ImageElement_autogen/mocs_compilation.cpp.obj	75572b01df968924
+914	1237	6812342777228005	CMakeFiles/app4-ImageElement.dir/.rcc/qrc_qmake_4-ImageElement.cpp.obj	ca1d163f79fac770
+967	1290	6812342777915441	CMakeFiles/app4-ImageElement.dir/.rcc/qrc_app4-ImageElement_raw_qml_0.cpp.obj	9bfdeae18a23fd1b
+925	1399	6812342779172120	CMakeFiles/app4-ImageElement.dir/app4-ImageElement_autogen/EWIEGA46WW/qrc_res.cpp.obj	d8291b52b4f39704
+902	5412	6812342819177603	CMakeFiles/app4-ImageElement.dir/app4-imageelement_qmltyperegistrations.cpp.obj	c0d6dff6ef191a3a
+906	5916	6812342824328831	CMakeFiles/app4-ImageElement.dir/main.cpp.obj	fe52c8c430cf43c0
+918	6003	6812342825175120	CMakeFiles/app4-ImageElement.dir/.rcc/qmlcache/app4-ImageElement_main_qml.cpp.obj	c3d8e7ed116b8d8d
+922	6352	6812342828708504	CMakeFiles/app4-ImageElement.dir/.rcc/qmlcache/app4-ImageElement_qmlcache_loader.cpp.obj	4dc81a885f828d00
+6353	6866	6812342833656760	app4-ImageElement.exe	4c45065176fad382
+37	103	6812342956884188	.qt_plugins/Qt6_QmlPlugins_Imports_app4-ImageElement.cmake	49f02707a635fe11
+37	103	6812342956884188	E:/Works/Qt Course/Qt Quick/build-4-ImageElement-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app4-ImageElement.cmake	49f02707a635fe11
+31	114	6812342956985921	4-ImageElement/main.qml	28188299d5edefd5
+31	114	6812342956985921	E:/Works/Qt Course/Qt Quick/build-4-ImageElement-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/4-ImageElement/main.qml	28188299d5edefd5
+119	181	6812342957633983	.rcc/qrc_app4-ImageElement_raw_qml_0.cpp	89dc2e50eebfe38c
+119	181	6812342957633983	E:/Works/Qt Course/Qt Quick/build-4-ImageElement-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app4-ImageElement_raw_qml_0.cpp	89dc2e50eebfe38c
+114	360	6812342959394696	.rcc/qmlcache/app4-ImageElement_main_qml.cpp	cd9bc7da6c5424e0
+114	360	6812342959394696	E:/Works/Qt Course/Qt Quick/build-4-ImageElement-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app4-ImageElement_main_qml.cpp	cd9bc7da6c5424e0
+364	505	6812342960944325	CMakeFiles/app4-ImageElement.dir/.rcc/qrc_app4-ImageElement_raw_qml_0.cpp.obj	9bfdeae18a23fd1b
+361	5820	6812343014086510	CMakeFiles/app4-ImageElement.dir/.rcc/qmlcache/app4-ImageElement_main_qml.cpp.obj	c3d8e7ed116b8d8d
+5821	6380	6812343019557222	app4-ImageElement.exe	4c45065176fad382
+13	99	6812343116434612	.qt_plugins/Qt6_QmlPlugins_Imports_app4-ImageElement.cmake	49f02707a635fe11
+13	99	6812343116434612	E:/Works/Qt Course/Qt Quick/build-4-ImageElement-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app4-ImageElement.cmake	49f02707a635fe11
+19	100	6812343116477033	4-ImageElement/main.qml	28188299d5edefd5
+19	100	6812343116477033	E:/Works/Qt Course/Qt Quick/build-4-ImageElement-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/4-ImageElement/main.qml	28188299d5edefd5
+105	164	6812343117194562	.rcc/qrc_app4-ImageElement_raw_qml_0.cpp	89dc2e50eebfe38c
+105	164	6812343117194562	E:/Works/Qt Course/Qt Quick/build-4-ImageElement-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app4-ImageElement_raw_qml_0.cpp	89dc2e50eebfe38c
+101	334	6812343118810194	.rcc/qmlcache/app4-ImageElement_main_qml.cpp	cd9bc7da6c5424e0
+101	334	6812343118810194	E:/Works/Qt Course/Qt Quick/build-4-ImageElement-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app4-ImageElement_main_qml.cpp	cd9bc7da6c5424e0
+338	482	6812343120391742	CMakeFiles/app4-ImageElement.dir/.rcc/qrc_app4-ImageElement_raw_qml_0.cpp.obj	9bfdeae18a23fd1b
+334	5873	6812343174286034	CMakeFiles/app4-ImageElement.dir/.rcc/qmlcache/app4-ImageElement_main_qml.cpp.obj	c3d8e7ed116b8d8d
+5873	6413	6812343179606916	app4-ImageElement.exe	4c45065176fad382
+18	79	6812343254790125	.qt_plugins/Qt6_QmlPlugins_Imports_app4-ImageElement.cmake	49f02707a635fe11
+18	79	6812343254790125	E:/Works/Qt Course/Qt Quick/build-4-ImageElement-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app4-ImageElement.cmake	49f02707a635fe11
+12	95	6812343254931195	4-ImageElement/main.qml	28188299d5edefd5
+12	95	6812343254931195	E:/Works/Qt Course/Qt Quick/build-4-ImageElement-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/4-ImageElement/main.qml	28188299d5edefd5
+99	150	6812343255492190	.rcc/qrc_app4-ImageElement_raw_qml_0.cpp	89dc2e50eebfe38c
+99	150	6812343255492190	E:/Works/Qt Course/Qt Quick/build-4-ImageElement-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app4-ImageElement_raw_qml_0.cpp	89dc2e50eebfe38c
+96	325	6812343257177708	.rcc/qmlcache/app4-ImageElement_main_qml.cpp	cd9bc7da6c5424e0
+96	325	6812343257177708	E:/Works/Qt Course/Qt Quick/build-4-ImageElement-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app4-ImageElement_main_qml.cpp	cd9bc7da6c5424e0
+330	475	6812343258776448	CMakeFiles/app4-ImageElement.dir/.rcc/qrc_app4-ImageElement_raw_qml_0.cpp.obj	9bfdeae18a23fd1b
+325	6776	6812343321755812	CMakeFiles/app4-ImageElement.dir/.rcc/qmlcache/app4-ImageElement_main_qml.cpp.obj	c3d8e7ed116b8d8d
+6777	7463	6812343328486699	app4-ImageElement.exe	4c45065176fad382
+18	85	6812343408140298	.qt_plugins/Qt6_QmlPlugins_Imports_app4-ImageElement.cmake	49f02707a635fe11
+18	85	6812343408140298	E:/Works/Qt Course/Qt Quick/build-4-ImageElement-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app4-ImageElement.cmake	49f02707a635fe11
+12	103	6812343408239620	4-ImageElement/main.qml	28188299d5edefd5
+12	103	6812343408239620	E:/Works/Qt Course/Qt Quick/build-4-ImageElement-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/4-ImageElement/main.qml	28188299d5edefd5
+107	162	6812343408879935	.rcc/qrc_app4-ImageElement_raw_qml_0.cpp	89dc2e50eebfe38c
+107	162	6812343408879935	E:/Works/Qt Course/Qt Quick/build-4-ImageElement-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app4-ImageElement_raw_qml_0.cpp	89dc2e50eebfe38c
+103	386	6812343411092570	.rcc/qmlcache/app4-ImageElement_main_qml.cpp	cd9bc7da6c5424e0
+103	386	6812343411092570	E:/Works/Qt Course/Qt Quick/build-4-ImageElement-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app4-ImageElement_main_qml.cpp	cd9bc7da6c5424e0
+390	547	6812343412753583	CMakeFiles/app4-ImageElement.dir/.rcc/qrc_app4-ImageElement_raw_qml_0.cpp.obj	9bfdeae18a23fd1b
+386	8127	6812343488559896	CMakeFiles/app4-ImageElement.dir/.rcc/qmlcache/app4-ImageElement_main_qml.cpp.obj	c3d8e7ed116b8d8d
+8127	8790	6812343495016840	app4-ImageElement.exe	4c45065176fad382

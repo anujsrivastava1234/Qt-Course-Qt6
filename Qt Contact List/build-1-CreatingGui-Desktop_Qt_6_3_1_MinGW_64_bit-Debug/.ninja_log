@@ -1,0 +1,12 @@
+# ninja log v5
+5	793	6805602896545174	1-CreatingGui_autogen/timestamp	a2a022d22a0c6240
+5	793	6805602896545174	1-CreatingGui_autogen/mocs_compilation.cpp	a2a022d22a0c6240
+852	981	6805602900057693	CMakeFiles/1-CreatingGui.dir/1-CreatingGui_autogen/EWIEGA46WW/qrc_res.cpp.obj	db13db1187b47d5c
+856	3407	6805602924313784	CMakeFiles/1-CreatingGui.dir/mainwindow.cpp.obj	1361b85c51673510
+845	3184	6805602922086547	CMakeFiles/1-CreatingGui.dir/1-CreatingGui_autogen/mocs_compilation.cpp.obj	e80a9c07f97098f9
+5	793	6805602896545174	E:/Works/Qt Course/Qt Contact List/build-1-CreatingGui-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/1-CreatingGui_autogen/timestamp	a2a022d22a0c6240
+849	3094	6805602921184885	CMakeFiles/1-CreatingGui.dir/main.cpp.obj	e505efc24be870c2
+5	793	6805602896545174	E:/Works/Qt Course/Qt Contact List/build-1-CreatingGui-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/1-CreatingGui_autogen/mocs_compilation.cpp	a2a022d22a0c6240
+3408	3628	6805602926490898	1-CreatingGui.exe	6d586e6cce0df58d
+793	845	6805602898667919	1-CreatingGui_autogen/EWIEGA46WW/qrc_res.cpp	efa80fec4a04b8d4
+793	845	6805602898667919	E:/Works/Qt Course/Qt Contact List/build-1-CreatingGui-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/1-CreatingGui_autogen/EWIEGA46WW/qrc_res.cpp	efa80fec4a04b8d4

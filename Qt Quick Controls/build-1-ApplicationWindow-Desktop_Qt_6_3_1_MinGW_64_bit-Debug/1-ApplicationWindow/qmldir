@@ -1,0 +1,4 @@
+module 1-ApplicationWindow
+typeinfo app1-ApplicationWindow.qmltypes
+prefer :/1-ApplicationWindow/
+

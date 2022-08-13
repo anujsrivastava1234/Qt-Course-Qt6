@@ -1,0 +1,18 @@
+# ninja log v5
+2	1376	6806860871246536	5-DrawingImages_autogen/timestamp	d10108e5d4343864
+2	1376	6806860871246536	5-DrawingImages_autogen/mocs_compilation.cpp	d10108e5d4343864
+2	1376	6806860871246536	E:/Works/Qt Course/Graphics and Painting/build-5-DrawingImages-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/5-DrawingImages_autogen/timestamp	d10108e5d4343864
+2	1376	6806860871246536	E:/Works/Qt Course/Graphics and Painting/build-5-DrawingImages-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/5-DrawingImages_autogen/mocs_compilation.cpp	d10108e5d4343864
+1376	1444	6806860873910916	5-DrawingImages_autogen/EWIEGA46WW/qrc_res.cpp	93c630891f2c0952
+1376	1444	6806860873910916	E:/Works/Qt Course/Graphics and Painting/build-5-DrawingImages-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/5-DrawingImages_autogen/EWIEGA46WW/qrc_res.cpp	93c630891f2c0952
+1456	1639	6806860875854285	CMakeFiles/5-DrawingImages.dir/5-DrawingImages_autogen/EWIEGA46WW/qrc_res.cpp.obj	6b526f90beeb0a18
+1445	4189	6806860901352144	CMakeFiles/5-DrawingImages.dir/5-DrawingImages_autogen/mocs_compilation.cpp.obj	9f8ef3c66bbb6e91
+1449	4208	6806860901573672	CMakeFiles/5-DrawingImages.dir/main.cpp.obj	15071c9acbecd84b
+1453	4227	6806860901768751	CMakeFiles/5-DrawingImages.dir/widget.cpp.obj	a5bc20c4865403d3
+4227	4493	6806860904367282	5-DrawingImages.exe	9f6982ab88da5303
+24	319	6806861066639746	5-DrawingImages_autogen/timestamp	d10108e5d4343864
+24	319	6806861066639746	5-DrawingImages_autogen/mocs_compilation.cpp	d10108e5d4343864
+24	319	6806861066639746	E:/Works/Qt Course/Graphics and Painting/build-5-DrawingImages-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/5-DrawingImages_autogen/timestamp	d10108e5d4343864
+24	319	6806861066639746	E:/Works/Qt Course/Graphics and Painting/build-5-DrawingImages-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/5-DrawingImages_autogen/mocs_compilation.cpp	d10108e5d4343864
+331	2852	6806861091934150	CMakeFiles/5-DrawingImages.dir/widget.cpp.obj	a5bc20c4865403d3
+2853	3137	6806861094737232	5-DrawingImages.exe	9f6982ab88da5303

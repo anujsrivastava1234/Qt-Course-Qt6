@@ -1,0 +1,81 @@
+# ninja log v5
+7	51	6817493084502827	9-ProgressBarExample/main.qml	e2e45aef08f484dc
+7	51	6817493084502827	E:/Works/Qt Course/Qt Quick Controls/build-9-ProgressBarExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/9-ProgressBarExample/main.qml	e2e45aef08f484dc
+1	54	6817493084502827	.rcc/qmlcache/app9-ProgressBarExample_qmlcache_loader.cpp	7945f9a4c8aa0d0e
+1	54	6817493084502827	E:/Works/Qt Course/Qt Quick Controls/build-9-ProgressBarExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app9-ProgressBarExample_qmlcache_loader.cpp	7945f9a4c8aa0d0e
+54	246	6817493085701150	app9-ProgressBarExample_autogen/timestamp	27dead5f8f8c25b2
+54	246	6817493085701150	app9-ProgressBarExample_autogen/mocs_compilation.cpp	27dead5f8f8c25b2
+54	246	6817493085701150	E:/Works/Qt Course/Qt Quick Controls/build-9-ProgressBarExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app9-ProgressBarExample_autogen/timestamp	27dead5f8f8c25b2
+54	246	6817493085701150	E:/Works/Qt Course/Qt Quick Controls/build-9-ProgressBarExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app9-ProgressBarExample_autogen/mocs_compilation.cpp	27dead5f8f8c25b2
+249	279	6817493086789329	meta_types/app9-ProgressBarExample_json_file_list.txt	dfefb128447e61fb
+249	279	6817493086789329	meta_types/app9-ProgressBarExample_json_file_list.txt.timestamp	dfefb128447e61fb
+249	279	6817493086789329	E:/Works/Qt Course/Qt Quick Controls/build-9-ProgressBarExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/app9-ProgressBarExample_json_file_list.txt	dfefb128447e61fb
+249	279	6817493086789329	E:/Works/Qt Course/Qt Quick Controls/build-9-ProgressBarExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/app9-ProgressBarExample_json_file_list.txt.timestamp	dfefb128447e61fb
+279	317	6817493087170015	meta_types/qt6app9-progressbarexample_debug_metatypes.json.gen	48a62b0e27032d9f
+279	317	6817493087170015	meta_types/qt6app9-progressbarexample_debug_metatypes.json	48a62b0e27032d9f
+279	317	6817493087170015	E:/Works/Qt Course/Qt Quick Controls/build-9-ProgressBarExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6app9-progressbarexample_debug_metatypes.json.gen	48a62b0e27032d9f
+279	317	6817493087170015	E:/Works/Qt Course/Qt Quick Controls/build-9-ProgressBarExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6app9-progressbarexample_debug_metatypes.json	48a62b0e27032d9f
+317	436	6817493087744822	app9-progressbarexample_qmltyperegistrations.cpp	97b43769a1f3f6dc
+317	436	6817493087744822	9-ProgressBarExample/app9-ProgressBarExample.qmltypes	97b43769a1f3f6dc
+317	436	6817493087744822	E:/Works/Qt Course/Qt Quick Controls/build-9-ProgressBarExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app9-progressbarexample_qmltyperegistrations.cpp	97b43769a1f3f6dc
+317	436	6817493087744822	E:/Works/Qt Course/Qt Quick Controls/build-9-ProgressBarExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/9-ProgressBarExample/app9-ProgressBarExample.qmltypes	97b43769a1f3f6dc
+4	440	6817493088386709	.qt_plugins/Qt6_QmlPlugins_Imports_app9-ProgressBarExample.cmake	7be302a6c26c8636
+4	440	6817493088386709	E:/Works/Qt Course/Qt Quick Controls/build-9-ProgressBarExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app9-ProgressBarExample.cmake	7be302a6c26c8636
+443	472	6817493088711628	.rcc/qrc_app9-ProgressBarExample_raw_qml_0.cpp	b2631fd0635f4ff8
+443	472	6817493088711628	E:/Works/Qt Course/Qt Quick Controls/build-9-ProgressBarExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app9-ProgressBarExample_raw_qml_0.cpp	b2631fd0635f4ff8
+440	480	6817493088782396	.rcc/qrc_qmake_9-ProgressBarExample.cpp	50d2e990c6a716e
+440	480	6817493088782396	E:/Works/Qt Course/Qt Quick Controls/build-9-ProgressBarExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_qmake_9-ProgressBarExample.cpp	50d2e990c6a716e
+446	582	6817493089743686	.rcc/qmlcache/app9-ProgressBarExample_main_qml.cpp	788eb7ae5e2b4b61
+446	582	6817493089743686	E:/Works/Qt Course/Qt Quick Controls/build-9-ProgressBarExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app9-ProgressBarExample_main_qml.cpp	788eb7ae5e2b4b61
+592	741	6817493091330459	CMakeFiles/app9-ProgressBarExample.dir/.rcc/qrc_qmake_9-ProgressBarExample.cpp.obj	d24762084db1f134
+598	753	6817493091381419	CMakeFiles/app9-ProgressBarExample.dir/.rcc/qrc_app9-ProgressBarExample_raw_qml_0.cpp.obj	a646179566e5f2f
+589	759	6817493091479703	CMakeFiles/app9-ProgressBarExample.dir/app9-ProgressBarExample_autogen/mocs_compilation.cpp.obj	68315b46f5931735
+587	2482	6817493108806898	CMakeFiles/app9-ProgressBarExample.dir/app9-progressbarexample_qmltyperegistrations.cpp.obj	4f2399658035615e
+582	2639	6817493110382257	CMakeFiles/app9-ProgressBarExample.dir/main.cpp.obj	1cee53db5cc0c95f
+585	2774	6817493111724577	CMakeFiles/app9-ProgressBarExample.dir/.rcc/qmlcache/app9-ProgressBarExample_main_qml.cpp.obj	feb4468dad4db0b0
+595	3076	6817493114759122	CMakeFiles/app9-ProgressBarExample.dir/.rcc/qmlcache/app9-ProgressBarExample_qmlcache_loader.cpp.obj	c7a3de7cf9ac949b
+3077	3306	6817493117013106	app9-ProgressBarExample.exe	ead13fc8579f19c2
+18	48	6817493209234359	9-ProgressBarExample/main.qml	e2e45aef08f484dc
+18	48	6817493209234359	E:/Works/Qt Course/Qt Quick Controls/build-9-ProgressBarExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/9-ProgressBarExample/main.qml	e2e45aef08f484dc
+22	352	6817493212272702	.qt_plugins/Qt6_QmlPlugins_Imports_app9-ProgressBarExample.cmake	7be302a6c26c8636
+22	352	6817493212272702	E:/Works/Qt Course/Qt Quick Controls/build-9-ProgressBarExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app9-ProgressBarExample.cmake	7be302a6c26c8636
+355	381	6817493212581224	.rcc/qrc_app9-ProgressBarExample_raw_qml_0.cpp	b2631fd0635f4ff8
+355	381	6817493212581224	E:/Works/Qt Course/Qt Quick Controls/build-9-ProgressBarExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app9-ProgressBarExample_raw_qml_0.cpp	b2631fd0635f4ff8
+352	480	6817493213496458	.rcc/qmlcache/app9-ProgressBarExample_main_qml.cpp	788eb7ae5e2b4b61
+352	480	6817493213496458	E:/Works/Qt Course/Qt Quick Controls/build-9-ProgressBarExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app9-ProgressBarExample_main_qml.cpp	788eb7ae5e2b4b61
+482	555	6817493214331758	CMakeFiles/app9-ProgressBarExample.dir/.rcc/qrc_app9-ProgressBarExample_raw_qml_0.cpp.obj	a646179566e5f2f
+480	2006	6817493228828191	CMakeFiles/app9-ProgressBarExample.dir/.rcc/qmlcache/app9-ProgressBarExample_main_qml.cpp.obj	feb4468dad4db0b0
+2006	2211	6817493230837362	app9-ProgressBarExample.exe	ead13fc8579f19c2
+9	38	6817496194786541	9-ProgressBarExample/main.qml	e2e45aef08f484dc
+9	38	6817496194786541	E:/Works/Qt Course/Qt Quick Controls/build-9-ProgressBarExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/9-ProgressBarExample/main.qml	e2e45aef08f484dc
+5	325	6817496197645226	.qt_plugins/Qt6_QmlPlugins_Imports_app9-ProgressBarExample.cmake	7be302a6c26c8636
+5	325	6817496197645226	E:/Works/Qt Course/Qt Quick Controls/build-9-ProgressBarExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app9-ProgressBarExample.cmake	7be302a6c26c8636
+327	354	6817496197954827	.rcc/qrc_app9-ProgressBarExample_raw_qml_0.cpp	b2631fd0635f4ff8
+327	354	6817496197954827	E:/Works/Qt Course/Qt Quick Controls/build-9-ProgressBarExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app9-ProgressBarExample_raw_qml_0.cpp	b2631fd0635f4ff8
+325	455	6817496198858037	.rcc/qmlcache/app9-ProgressBarExample_main_qml.cpp	788eb7ae5e2b4b61
+325	455	6817496198858037	E:/Works/Qt Course/Qt Quick Controls/build-9-ProgressBarExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app9-ProgressBarExample_main_qml.cpp	788eb7ae5e2b4b61
+458	524	6817496199649654	CMakeFiles/app9-ProgressBarExample.dir/.rcc/qrc_app9-ProgressBarExample_raw_qml_0.cpp.obj	a646179566e5f2f
+455	2023	6817496214635558	CMakeFiles/app9-ProgressBarExample.dir/.rcc/qmlcache/app9-ProgressBarExample_main_qml.cpp.obj	feb4468dad4db0b0
+2023	2240	6817496216776801	app9-ProgressBarExample.exe	ead13fc8579f19c2
+8	37	6817496437707251	9-ProgressBarExample/main.qml	e2e45aef08f484dc
+8	37	6817496437707251	E:/Works/Qt Course/Qt Quick Controls/build-9-ProgressBarExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/9-ProgressBarExample/main.qml	e2e45aef08f484dc
+5	334	6817496440686888	.qt_plugins/Qt6_QmlPlugins_Imports_app9-ProgressBarExample.cmake	7be302a6c26c8636
+5	334	6817496440686888	E:/Works/Qt Course/Qt Quick Controls/build-9-ProgressBarExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app9-ProgressBarExample.cmake	7be302a6c26c8636
+337	364	6817496440978250	.rcc/qrc_app9-ProgressBarExample_raw_qml_0.cpp	b2631fd0635f4ff8
+337	364	6817496440978250	E:/Works/Qt Course/Qt Quick Controls/build-9-ProgressBarExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app9-ProgressBarExample_raw_qml_0.cpp	b2631fd0635f4ff8
+335	463	6817496441896270	.rcc/qmlcache/app9-ProgressBarExample_main_qml.cpp	788eb7ae5e2b4b61
+335	463	6817496441896270	E:/Works/Qt Course/Qt Quick Controls/build-9-ProgressBarExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app9-ProgressBarExample_main_qml.cpp	788eb7ae5e2b4b61
+465	542	6817496442765959	CMakeFiles/app9-ProgressBarExample.dir/.rcc/qrc_app9-ProgressBarExample_raw_qml_0.cpp.obj	a646179566e5f2f
+463	2089	6817496458229526	CMakeFiles/app9-ProgressBarExample.dir/.rcc/qmlcache/app9-ProgressBarExample_main_qml.cpp.obj	feb4468dad4db0b0
+2089	2303	6817496460348275	app9-ProgressBarExample.exe	ead13fc8579f19c2
+5	34	6817496695671170	9-ProgressBarExample/main.qml	e2e45aef08f484dc
+5	34	6817496695671170	E:/Works/Qt Course/Qt Quick Controls/build-9-ProgressBarExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/9-ProgressBarExample/main.qml	e2e45aef08f484dc
+8	324	6817496698557958	.qt_plugins/Qt6_QmlPlugins_Imports_app9-ProgressBarExample.cmake	7be302a6c26c8636
+8	324	6817496698557958	E:/Works/Qt Course/Qt Quick Controls/build-9-ProgressBarExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app9-ProgressBarExample.cmake	7be302a6c26c8636
+324	352	6817496698835454	.rcc/qrc_app9-ProgressBarExample_raw_qml_0.cpp	b2631fd0635f4ff8
+324	352	6817496698835454	E:/Works/Qt Course/Qt Quick Controls/build-9-ProgressBarExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app9-ProgressBarExample_raw_qml_0.cpp	b2631fd0635f4ff8
+327	457	6817496699795181	.rcc/qmlcache/app9-ProgressBarExample_main_qml.cpp	788eb7ae5e2b4b61
+327	457	6817496699795181	E:/Works/Qt Course/Qt Quick Controls/build-9-ProgressBarExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app9-ProgressBarExample_main_qml.cpp	788eb7ae5e2b4b61
+460	530	6817496700633840	CMakeFiles/app9-ProgressBarExample.dir/.rcc/qrc_app9-ProgressBarExample_raw_qml_0.cpp.obj	a646179566e5f2f
+457	1965	6817496714972611	CMakeFiles/app9-ProgressBarExample.dir/.rcc/qmlcache/app9-ProgressBarExample_main_qml.cpp.obj	feb4468dad4db0b0
+1966	2177	6817496717058256	app9-ProgressBarExample.exe	ead13fc8579f19c2

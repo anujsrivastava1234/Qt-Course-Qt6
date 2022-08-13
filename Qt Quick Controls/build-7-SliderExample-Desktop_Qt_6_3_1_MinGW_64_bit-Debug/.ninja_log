@@ -1,0 +1,48 @@
+# ninja log v5
+352	490	6817307704074575	.rcc/qmlcache/app7-SliderExample_main_qml.cpp	72dc73a12ae4d55f
+2	45	6817294646298754	.rcc/qmlcache/app7-SliderExample_qmlcache_loader.cpp	d81c7329178bcba5
+2	45	6817294646298754	E:/Works/Qt Course/Qt Quick Controls/build-7-SliderExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app7-SliderExample_qmlcache_loader.cpp	d81c7329178bcba5
+569	2855	6817294674433436	CMakeFiles/app7-SliderExample.dir/.rcc/qmlcache/app7-SliderExample_qmlcache_loader.cpp.obj	3a8c6a117e1cacc3
+5	33	6817307699589942	7-SliderExample/main.qml	ffbce6c6c045148d
+5	33	6817307699589942	E:/Works/Qt Course/Qt Quick Controls/build-7-SliderExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/7-SliderExample/main.qml	ffbce6c6c045148d
+46	236	6817294647517685	app7-SliderExample_autogen/mocs_compilation.cpp	5152ee8ebe67d42e
+303	430	6817294649519363	E:/Works/Qt Course/Qt Quick Controls/build-7-SliderExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/7-SliderExample/app7-SliderExample.qmltypes	1769cefaeb187062
+46	236	6817294647517685	E:/Works/Qt Course/Qt Quick Controls/build-7-SliderExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app7-SliderExample_autogen/timestamp	5152ee8ebe67d42e
+46	236	6817294647517685	app7-SliderExample_autogen/timestamp	5152ee8ebe67d42e
+493	569	6817307704949398	CMakeFiles/app7-SliderExample.dir/.rcc/qrc_app7-SliderExample_raw_qml_0.cpp.obj	407894a0e7048029
+46	236	6817294647517685	E:/Works/Qt Course/Qt Quick Controls/build-7-SliderExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app7-SliderExample_autogen/mocs_compilation.cpp	5152ee8ebe67d42e
+237	266	6817294648555024	meta_types/app7-SliderExample_json_file_list.txt	365474ddd2c39b22
+407	438	6817294650261057	E:/Works/Qt Course/Qt Quick Controls/build-7-SliderExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_qmake_7-SliderExample.cpp	b28104a337d1331a
+237	266	6817294648555024	meta_types/app7-SliderExample_json_file_list.txt.timestamp	365474ddd2c39b22
+237	266	6817294648555024	E:/Works/Qt Course/Qt Quick Controls/build-7-SliderExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/app7-SliderExample_json_file_list.txt	365474ddd2c39b22
+2152	2375	6817307722958745	app7-SliderExample.exe	7c4455cbf9be8da1
+237	266	6817294648555024	E:/Works/Qt Course/Qt Quick Controls/build-7-SliderExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/app7-SliderExample_json_file_list.txt.timestamp	365474ddd2c39b22
+8	349	6817307702739671	.qt_plugins/Qt6_QmlPlugins_Imports_app7-SliderExample.cmake	edd8b16b2a507636
+266	303	6817294648920704	meta_types/qt6app7-sliderexample_debug_metatypes.json.gen	f8d964ab23e9b56b
+266	303	6817294648920704	meta_types/qt6app7-sliderexample_debug_metatypes.json	f8d964ab23e9b56b
+266	303	6817294648920704	E:/Works/Qt Course/Qt Quick Controls/build-7-SliderExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6app7-sliderexample_debug_metatypes.json.gen	f8d964ab23e9b56b
+350	378	6817307703034045	.rcc/qrc_app7-SliderExample_raw_qml_0.cpp	e60021664e13c298
+266	303	6817294648920704	E:/Works/Qt Course/Qt Quick Controls/build-7-SliderExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6app7-sliderexample_debug_metatypes.json	f8d964ab23e9b56b
+8	349	6817307702739671	E:/Works/Qt Course/Qt Quick Controls/build-7-SliderExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app7-SliderExample.cmake	edd8b16b2a507636
+303	430	6817294649519363	app7-sliderexample_qmltyperegistrations.cpp	1769cefaeb187062
+303	430	6817294649519363	7-SliderExample/app7-SliderExample.qmltypes	1769cefaeb187062
+303	430	6817294649519363	E:/Works/Qt Course/Qt Quick Controls/build-7-SliderExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app7-sliderexample_qmltyperegistrations.cpp	1769cefaeb187062
+407	438	6817294650261057	.rcc/qrc_qmake_7-SliderExample.cpp	b28104a337d1331a
+350	378	6817307703034045	E:/Works/Qt Course/Qt Quick Controls/build-7-SliderExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app7-SliderExample_raw_qml_0.cpp	e60021664e13c298
+352	490	6817307704074575	E:/Works/Qt Course/Qt Quick Controls/build-7-SliderExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app7-SliderExample_main_qml.cpp	72dc73a12ae4d55f
+564	679	6817294652646016	CMakeFiles/app7-SliderExample.dir/app7-SliderExample_autogen/mocs_compilation.cpp.obj	28a844377f413c48
+572	702	6817294652875486	CMakeFiles/app7-SliderExample.dir/.rcc/qrc_qmake_7-SliderExample.cpp.obj	232373403e2d8f11
+561	2505	6817294670936906	CMakeFiles/app7-SliderExample.dir/app7-sliderexample_qmltyperegistrations.cpp.obj	6c7f8d5522a23a39
+566	2645	6817294672335081	CMakeFiles/app7-SliderExample.dir/main.cpp.obj	f585b80f863dc8dd
+491	2152	6817307720760499	CMakeFiles/app7-SliderExample.dir/.rcc/qmlcache/app7-SliderExample_main_qml.cpp.obj	3fc3c15b8bdd5ee1
+8	39	6817312991086075	7-SliderExample/main.qml	ffbce6c6c045148d
+8	39	6817312991086075	E:/Works/Qt Course/Qt Quick Controls/build-7-SliderExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/7-SliderExample/main.qml	ffbce6c6c045148d
+5	351	6817312994202805	.qt_plugins/Qt6_QmlPlugins_Imports_app7-SliderExample.cmake	edd8b16b2a507636
+5	351	6817312994202805	E:/Works/Qt Course/Qt Quick Controls/build-7-SliderExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app7-SliderExample.cmake	edd8b16b2a507636
+351	380	6817312994494963	.rcc/qrc_app7-SliderExample_raw_qml_0.cpp	e60021664e13c298
+351	380	6817312994494963	E:/Works/Qt Course/Qt Quick Controls/build-7-SliderExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app7-SliderExample_raw_qml_0.cpp	e60021664e13c298
+354	501	6817312995647492	.rcc/qmlcache/app7-SliderExample_main_qml.cpp	72dc73a12ae4d55f
+354	501	6817312995647492	E:/Works/Qt Course/Qt Quick Controls/build-7-SliderExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app7-SliderExample_main_qml.cpp	72dc73a12ae4d55f
+502	578	6817312996495373	CMakeFiles/app7-SliderExample.dir/.rcc/qrc_app7-SliderExample_raw_qml_0.cpp.obj	407894a0e7048029
+505	2212	6817313012813421	CMakeFiles/app7-SliderExample.dir/.rcc/qmlcache/app7-SliderExample_main_qml.cpp.obj	3fc3c15b8bdd5ee1
+2212	2453	6817313015198263	app7-SliderExample.exe	7c4455cbf9be8da1

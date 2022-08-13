@@ -1,0 +1,29 @@
+# ninja log v5
+2	1403	6804579917898029	QLCDLayout_autogen/timestamp	48dfc6e616e309a3
+2	1403	6804579917898029	QLCDLayout_autogen/mocs_compilation.cpp	48dfc6e616e309a3
+2	1403	6804579917898029	E:/Works/Qt Course/Qt Widgets/build-QLCDLayout-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/QLCDLayout_autogen/timestamp	48dfc6e616e309a3
+2	1403	6804579917898029	E:/Works/Qt Course/Qt Widgets/build-QLCDLayout-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/QLCDLayout_autogen/mocs_compilation.cpp	48dfc6e616e309a3
+1413	4902	6804579955294838	CMakeFiles/QLCDLayout.dir/widget.cpp.obj	d23d2c4387c4bf85
+1409	4930	6804579955616794	CMakeFiles/QLCDLayout.dir/main.cpp.obj	8abd7111203fce53
+1405	5088	6804579957190005	CMakeFiles/QLCDLayout.dir/QLCDLayout_autogen/mocs_compilation.cpp.obj	c0d793bb1a503b3a
+5089	5430	6804579960563824	QLCDLayout.exe	2ee9402dd5dad928
+22	1214	6804583764016808	QLCDLayout_autogen/timestamp	48dfc6e616e309a3
+22	1214	6804583764016808	QLCDLayout_autogen/mocs_compilation.cpp	48dfc6e616e309a3
+22	1214	6804583764016808	E:/Works/Qt Course/Qt Widgets/build-QLCDLayout-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/QLCDLayout_autogen/timestamp	48dfc6e616e309a3
+22	1214	6804583764016808	E:/Works/Qt Course/Qt Widgets/build-QLCDLayout-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/QLCDLayout_autogen/mocs_compilation.cpp	48dfc6e616e309a3
+1219	4498	6804583799085535	CMakeFiles/QLCDLayout.dir/widget.cpp.obj	d23d2c4387c4bf85
+1222	4513	6804583799238356	CMakeFiles/QLCDLayout.dir/main.cpp.obj	8abd7111203fce53
+1215	4539	6804583799495856	CMakeFiles/QLCDLayout.dir/QLCDLayout_autogen/mocs_compilation.cpp.obj	c0d793bb1a503b3a
+4539	4797	6804583802025464	QLCDLayout.exe	2ee9402dd5dad928
+12	289	6804584316445605	QLCDLayout_autogen/timestamp	48dfc6e616e309a3
+12	289	6804584316445605	QLCDLayout_autogen/mocs_compilation.cpp	48dfc6e616e309a3
+12	289	6804584316445605	E:/Works/Qt Course/Qt Widgets/build-QLCDLayout-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/QLCDLayout_autogen/timestamp	48dfc6e616e309a3
+12	289	6804584316445605	E:/Works/Qt Course/Qt Widgets/build-QLCDLayout-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/QLCDLayout_autogen/mocs_compilation.cpp	48dfc6e616e309a3
+301	2289	6804584336468329	CMakeFiles/QLCDLayout.dir/widget.cpp.obj	d23d2c4387c4bf85
+2290	2481	6804584338334752	QLCDLayout.exe	2ee9402dd5dad928
+14	317	6804584778137558	QLCDLayout_autogen/timestamp	48dfc6e616e309a3
+14	317	6804584778137558	QLCDLayout_autogen/mocs_compilation.cpp	48dfc6e616e309a3
+14	317	6804584778137558	E:/Works/Qt Course/Qt Widgets/build-QLCDLayout-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/QLCDLayout_autogen/timestamp	48dfc6e616e309a3
+14	317	6804584778137558	E:/Works/Qt Course/Qt Widgets/build-QLCDLayout-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/QLCDLayout_autogen/mocs_compilation.cpp	48dfc6e616e309a3
+332	2513	6804584800122914	CMakeFiles/QLCDLayout.dir/widget.cpp.obj	d23d2c4387c4bf85
+2513	2735	6804584802275763	QLCDLayout.exe	2ee9402dd5dad928

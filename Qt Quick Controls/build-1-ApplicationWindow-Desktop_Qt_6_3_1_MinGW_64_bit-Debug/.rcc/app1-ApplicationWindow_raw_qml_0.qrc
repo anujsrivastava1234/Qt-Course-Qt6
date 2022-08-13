@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/1-ApplicationWindow/">
+    <file alias="main.qml">E:/Works/Qt Course/Qt Quick Controls/1-ApplicationWindow/main.qml</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,31 @@
+# ninja log v5
+1	811	6808879115754120	2-LineChartExample_autogen/timestamp	de941439758a7184
+1	811	6808879115754120	2-LineChartExample_autogen/mocs_compilation.cpp	de941439758a7184
+1	811	6808879115754120	E:/Works/Qt Course/Qt Charts/build-2-LineChartExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-LineChartExample_autogen/timestamp	de941439758a7184
+1	811	6808879115754120	E:/Works/Qt Course/Qt Charts/build-2-LineChartExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-LineChartExample_autogen/mocs_compilation.cpp	de941439758a7184
+812	2967	6808879138659246	CMakeFiles/2-LineChartExample.dir/2-LineChartExample_autogen/mocs_compilation.cpp.obj	d2ede9af1398c106
+817	3029	6808879139272335	CMakeFiles/2-LineChartExample.dir/main.cpp.obj	56f4ea781658bdf2
+814	3069	6808879139676053	CMakeFiles/2-LineChartExample.dir/widget.cpp.obj	3817a5c4fa5e5de2
+3069	3277	6808879141723160	2-LineChartExample.exe	e17f7df119000658
+14	279	6808880368602520	2-LineChartExample_autogen/timestamp	de941439758a7184
+14	279	6808880368602520	2-LineChartExample_autogen/mocs_compilation.cpp	de941439758a7184
+14	279	6808880368602520	E:/Works/Qt Course/Qt Charts/build-2-LineChartExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-LineChartExample_autogen/timestamp	de941439758a7184
+14	279	6808880368602520	E:/Works/Qt Course/Qt Charts/build-2-LineChartExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-LineChartExample_autogen/mocs_compilation.cpp	de941439758a7184
+289	2289	6808880388703133	CMakeFiles/2-LineChartExample.dir/widget.cpp.obj	3817a5c4fa5e5de2
+2289	2512	6808880390895185	2-LineChartExample.exe	e17f7df119000658
+19	267	6808880823730278	2-LineChartExample_autogen/timestamp	de941439758a7184
+19	267	6808880823730278	2-LineChartExample_autogen/mocs_compilation.cpp	de941439758a7184
+19	267	6808880823730278	E:/Works/Qt Course/Qt Charts/build-2-LineChartExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-LineChartExample_autogen/timestamp	de941439758a7184
+19	267	6808880823730278	E:/Works/Qt Course/Qt Charts/build-2-LineChartExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-LineChartExample_autogen/mocs_compilation.cpp	de941439758a7184
+280	2436	6808880845430853	CMakeFiles/2-LineChartExample.dir/widget.cpp.obj	3817a5c4fa5e5de2
+2437	2644	6808880847468807	2-LineChartExample.exe	e17f7df119000658
+14	213	6808884927368466	2-LineChartExample_autogen/timestamp	de941439758a7184
+14	213	6808884927368466	2-LineChartExample_autogen/mocs_compilation.cpp	de941439758a7184
+14	213	6808884927368466	E:/Works/Qt Course/Qt Charts/build-2-LineChartExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-LineChartExample_autogen/timestamp	de941439758a7184
+14	213	6808884927368466	E:/Works/Qt Course/Qt Charts/build-2-LineChartExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-LineChartExample_autogen/mocs_compilation.cpp	de941439758a7184
+13	239	6808885037963478	2-LineChartExample_autogen/timestamp	de941439758a7184
+13	239	6808885037963478	2-LineChartExample_autogen/mocs_compilation.cpp	de941439758a7184
+13	239	6808885037963478	E:/Works/Qt Course/Qt Charts/build-2-LineChartExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-LineChartExample_autogen/timestamp	de941439758a7184
+13	239	6808885037963478	E:/Works/Qt Course/Qt Charts/build-2-LineChartExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-LineChartExample_autogen/mocs_compilation.cpp	de941439758a7184
+251	2331	6808885058870057	CMakeFiles/2-LineChartExample.dir/widget.cpp.obj	3817a5c4fa5e5de2
+2332	2542	6808885060942253	2-LineChartExample.exe	e17f7df119000658

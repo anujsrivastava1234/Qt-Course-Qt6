@@ -1,0 +1,15 @@
+# ninja log v5
+2	784	6808095293760804	4-MysqlConnection_autogen/timestamp	47b3b002012c9813
+2	784	6808095293760804	4-MysqlConnection_autogen/mocs_compilation.cpp	47b3b002012c9813
+2	784	6808095293760804	E:/Works/Qt Course/Qt Databases/build-4-MysqlConnection-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/4-MysqlConnection_autogen/timestamp	47b3b002012c9813
+2	784	6808095293760804	E:/Works/Qt Course/Qt Databases/build-4-MysqlConnection-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/4-MysqlConnection_autogen/mocs_compilation.cpp	47b3b002012c9813
+784	3084	6808095318144112	CMakeFiles/4-MysqlConnection.dir/main.cpp.obj	857c7a7eb95e99b1
+789	3105	6808095318333141	CMakeFiles/4-MysqlConnection.dir/4-MysqlConnection_autogen/mocs_compilation.cpp.obj	2fea521fc433650d
+787	3181	6808095319117180	CMakeFiles/4-MysqlConnection.dir/widget.cpp.obj	bfc41a192ac7d1e
+3181	3406	6808095321304046	4-MysqlConnection.exe	799cbea419ef6a39
+5	194	6808096193456366	4-MysqlConnection_autogen/timestamp	47b3b002012c9813
+5	194	6808096193456366	4-MysqlConnection_autogen/mocs_compilation.cpp	47b3b002012c9813
+5	194	6808096193456366	E:/Works/Qt Course/Qt Databases/build-4-MysqlConnection-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/4-MysqlConnection_autogen/timestamp	47b3b002012c9813
+5	194	6808096193456366	E:/Works/Qt Course/Qt Databases/build-4-MysqlConnection-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/4-MysqlConnection_autogen/mocs_compilation.cpp	47b3b002012c9813
+203	1930	6808096210824344	CMakeFiles/4-MysqlConnection.dir/widget.cpp.obj	bfc41a192ac7d1e
+1931	2131	6808096212793833	4-MysqlConnection.exe	799cbea419ef6a39

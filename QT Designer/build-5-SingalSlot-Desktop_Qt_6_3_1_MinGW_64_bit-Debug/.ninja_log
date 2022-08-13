@@ -1,0 +1,9 @@
+# ninja log v5
+1	1224	6805464776568868	5-SingalSlot_autogen/timestamp	9998abfc6a13af95
+1	1224	6805464776568868	5-SingalSlot_autogen/mocs_compilation.cpp	9998abfc6a13af95
+1	1224	6805464776568868	E:/Works/Qt Course/Qt Widgets/build-5-SingalSlot-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/5-SingalSlot_autogen/timestamp	9998abfc6a13af95
+1	1224	6805464776568868	E:/Works/Qt Course/Qt Widgets/build-5-SingalSlot-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/5-SingalSlot_autogen/mocs_compilation.cpp	9998abfc6a13af95
+1224	3866	6805464805197055	CMakeFiles/5-SingalSlot.dir/5-SingalSlot_autogen/mocs_compilation.cpp.obj	d8c30fc62a3fc5be
+1231	3942	6805464805952086	CMakeFiles/5-SingalSlot.dir/main.cpp.obj	44e22670e71353e6
+1227	3976	6805464806282209	CMakeFiles/5-SingalSlot.dir/widget.cpp.obj	312815fbde0453dd
+3976	4323	6805464809699887	5-SingalSlot.exe	37d17f86f40cbb

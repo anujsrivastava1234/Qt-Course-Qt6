@@ -1,0 +1,9 @@
+# ninja log v5
+319	2033	6818524306381421	CMakeFiles/1-Mscv.dir/main.cpp.obj	19fe223f2b7440d8
+1	313	6818524288415788	1-Mscv_autogen/timestamp	602cb3702bad983a
+313	2030	6818524306381421	CMakeFiles/1-Mscv.dir/1-Mscv_autogen/mocs_compilation.cpp.obj	82b200dae389cbc2
+1	313	6818524288415788	1-Mscv_autogen/mocs_compilation.cpp	602cb3702bad983a
+2036	2322	6818524309231644	1-Mscv.exe	b1de8c27c2ef6509
+1	313	6818524288415788	E:/Works/Qt Course/Qt Quick Controls/build-1-Mscv-Desktop_Qt_6_3_1_MSVC2019_64bit-Debug/1-Mscv_autogen/timestamp	602cb3702bad983a
+1	313	6818524288415788	E:/Works/Qt Course/Qt Quick Controls/build-1-Mscv-Desktop_Qt_6_3_1_MSVC2019_64bit-Debug/1-Mscv_autogen/mocs_compilation.cpp	602cb3702bad983a
+316	2036	6818524306427094	CMakeFiles/1-Mscv.dir/mainwindow.cpp.obj	69485fc69a7027f5

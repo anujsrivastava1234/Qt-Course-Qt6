@@ -1,0 +1,70 @@
+# ninja log v5
+1	39	6813155047222493	.rcc/qmlcache/app10-PositioningElements_qmlcache_loader.cpp	9fd6022d984a771c
+1	39	6813155047222493	E:/Works/Qt Course/Qt Quick/build-10-PositioningElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app10-PositioningElements_qmlcache_loader.cpp	9fd6022d984a771c
+4	44	6813155047241711	10-PositioningElements/main.qml	bf71ec61f17addfa
+4	44	6813155047241711	E:/Works/Qt Course/Qt Quick/build-10-PositioningElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/10-PositioningElements/main.qml	bf71ec61f17addfa
+6	44	6813155047273931	.qt_plugins/Qt6_QmlPlugins_Imports_app10-PositioningElements.cmake	c0419dda42406890
+6	44	6813155047273931	E:/Works/Qt Course/Qt Quick/build-10-PositioningElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app10-PositioningElements.cmake	c0419dda42406890
+40	217	6813155048388534	app10-PositioningElements_autogen/timestamp	a81480e6a9812f72
+40	217	6813155048388534	app10-PositioningElements_autogen/mocs_compilation.cpp	a81480e6a9812f72
+40	217	6813155048388534	E:/Works/Qt Course/Qt Quick/build-10-PositioningElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app10-PositioningElements_autogen/timestamp	a81480e6a9812f72
+40	217	6813155048388534	E:/Works/Qt Course/Qt Quick/build-10-PositioningElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app10-PositioningElements_autogen/mocs_compilation.cpp	a81480e6a9812f72
+218	252	6813155049377790	meta_types/app10-PositioningElements_json_file_list.txt	db892d8519511f7c
+218	252	6813155049377790	meta_types/app10-PositioningElements_json_file_list.txt.timestamp	db892d8519511f7c
+218	252	6813155049377790	E:/Works/Qt Course/Qt Quick/build-10-PositioningElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/app10-PositioningElements_json_file_list.txt	db892d8519511f7c
+218	252	6813155049377790	E:/Works/Qt Course/Qt Quick/build-10-PositioningElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/app10-PositioningElements_json_file_list.txt.timestamp	db892d8519511f7c
+220	255	6813155049387763	.rcc/qrc_qmake_10-PositioningElements.cpp	9c9889b2fade4c2
+220	255	6813155049387763	E:/Works/Qt Course/Qt Quick/build-10-PositioningElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_qmake_10-PositioningElements.cpp	9c9889b2fade4c2
+223	255	6813155049387763	.rcc/qrc_app10-PositioningElements_raw_qml_0.cpp	eafb4af1353dca7d
+223	255	6813155049387763	E:/Works/Qt Course/Qt Quick/build-10-PositioningElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app10-PositioningElements_raw_qml_0.cpp	eafb4af1353dca7d
+252	289	6813155049756003	meta_types/qt6app10-positioningelements_debug_metatypes.json.gen	72a1307086c2a91c
+252	289	6813155049756003	meta_types/qt6app10-positioningelements_debug_metatypes.json	72a1307086c2a91c
+252	289	6813155049756003	E:/Works/Qt Course/Qt Quick/build-10-PositioningElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6app10-positioningelements_debug_metatypes.json.gen	72a1307086c2a91c
+252	289	6813155049756003	E:/Works/Qt Course/Qt Quick/build-10-PositioningElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6app10-positioningelements_debug_metatypes.json	72a1307086c2a91c
+289	391	6813155050244806	app10-positioningelements_qmltyperegistrations.cpp	cdb4792d45343e66
+289	391	6813155050244806	10-PositioningElements/app10-PositioningElements.qmltypes	cdb4792d45343e66
+289	391	6813155050244806	E:/Works/Qt Course/Qt Quick/build-10-PositioningElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app10-positioningelements_qmltyperegistrations.cpp	cdb4792d45343e66
+289	391	6813155050244806	E:/Works/Qt Course/Qt Quick/build-10-PositioningElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/10-PositioningElements/app10-PositioningElements.qmltypes	cdb4792d45343e66
+391	478	6813155051612712	.rcc/qmlcache/app10-PositioningElements_main_qml.cpp	7a5d9eeaa873c3b2
+391	478	6813155051612712	E:/Works/Qt Course/Qt Quick/build-10-PositioningElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app10-PositioningElements_main_qml.cpp	7a5d9eeaa873c3b2
+479	592	6813155052794122	CMakeFiles/app10-PositioningElements.dir/app10-PositioningElements_autogen/mocs_compilation.cpp.obj	8d4510e94aaeb9eb
+493	609	6813155052938007	CMakeFiles/app10-PositioningElements.dir/.rcc/qrc_qmake_10-PositioningElements.cpp.obj	6a7133fdef515f44
+496	619	6813155053055435	CMakeFiles/app10-PositioningElements.dir/.rcc/qrc_app10-PositioningElements_raw_qml_0.cpp.obj	d1c6ca9eae85f309
+481	2069	6813155067546692	CMakeFiles/app10-PositioningElements.dir/app10-positioningelements_qmltyperegistrations.cpp.obj	9089c97a42cf8961
+484	2243	6813155069286641	CMakeFiles/app10-PositioningElements.dir/main.cpp.obj	5b3924c76048374
+490	2313	6813155069989349	CMakeFiles/app10-PositioningElements.dir/.rcc/qmlcache/app10-PositioningElements_main_qml.cpp.obj	af598b886e166acb
+487	2427	6813155071124354	CMakeFiles/app10-PositioningElements.dir/.rcc/qmlcache/app10-PositioningElements_qmlcache_loader.cpp.obj	e0b779af0cc87f8e
+2427	2624	6813155073072547	app10-PositioningElements.exe	79c932d6beb70fc6
+20	49	6813155760266517	.qt_plugins/Qt6_QmlPlugins_Imports_app10-PositioningElements.cmake	c0419dda42406890
+20	49	6813155760266517	E:/Works/Qt Course/Qt Quick/build-10-PositioningElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app10-PositioningElements.cmake	c0419dda42406890
+23	51	6813155760292442	10-PositioningElements/main.qml	bf71ec61f17addfa
+23	51	6813155760292442	E:/Works/Qt Course/Qt Quick/build-10-PositioningElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/10-PositioningElements/main.qml	bf71ec61f17addfa
+51	78	6813155760566566	.rcc/qrc_app10-PositioningElements_raw_qml_0.cpp	eafb4af1353dca7d
+51	78	6813155760566566	E:/Works/Qt Course/Qt Quick/build-10-PositioningElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app10-PositioningElements_raw_qml_0.cpp	eafb4af1353dca7d
+53	143	6813155761180139	.rcc/qmlcache/app10-PositioningElements_main_qml.cpp	7a5d9eeaa873c3b2
+53	143	6813155761180139	E:/Works/Qt Course/Qt Quick/build-10-PositioningElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app10-PositioningElements_main_qml.cpp	7a5d9eeaa873c3b2
+146	212	6813155761911848	CMakeFiles/app10-PositioningElements.dir/.rcc/qrc_app10-PositioningElements_raw_qml_0.cpp.obj	d1c6ca9eae85f309
+143	1578	6813155775558807	CMakeFiles/app10-PositioningElements.dir/.rcc/qmlcache/app10-PositioningElements_main_qml.cpp.obj	af598b886e166acb
+1578	1775	6813155777504673	app10-PositioningElements.exe	79c932d6beb70fc6
+5	33	6813155987803404	10-PositioningElements/main.qml	bf71ec61f17addfa
+5	33	6813155987803404	E:/Works/Qt Course/Qt Quick/build-10-PositioningElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/10-PositioningElements/main.qml	bf71ec61f17addfa
+8	38	6813155987852734	.qt_plugins/Qt6_QmlPlugins_Imports_app10-PositioningElements.cmake	c0419dda42406890
+8	38	6813155987852734	E:/Works/Qt Course/Qt Quick/build-10-PositioningElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app10-PositioningElements.cmake	c0419dda42406890
+38	64	6813155988111076	.rcc/qrc_app10-PositioningElements_raw_qml_0.cpp	eafb4af1353dca7d
+38	64	6813155988111076	E:/Works/Qt Course/Qt Quick/build-10-PositioningElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app10-PositioningElements_raw_qml_0.cpp	eafb4af1353dca7d
+41	130	6813155988712332	.rcc/qmlcache/app10-PositioningElements_main_qml.cpp	7a5d9eeaa873c3b2
+41	130	6813155988712332	E:/Works/Qt Course/Qt Quick/build-10-PositioningElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app10-PositioningElements_main_qml.cpp	7a5d9eeaa873c3b2
+133	206	6813155989538131	CMakeFiles/app10-PositioningElements.dir/.rcc/qrc_app10-PositioningElements_raw_qml_0.cpp.obj	d1c6ca9eae85f309
+130	1552	6813156002989957	CMakeFiles/app10-PositioningElements.dir/.rcc/qmlcache/app10-PositioningElements_main_qml.cpp.obj	af598b886e166acb
+1552	1750	6813156004934176	app10-PositioningElements.exe	79c932d6beb70fc6
+5	34	6813157498315313	10-PositioningElements/main.qml	bf71ec61f17addfa
+5	34	6813157498315313	E:/Works/Qt Course/Qt Quick/build-10-PositioningElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/10-PositioningElements/main.qml	bf71ec61f17addfa
+8	38	6813157498352949	.qt_plugins/Qt6_QmlPlugins_Imports_app10-PositioningElements.cmake	c0419dda42406890
+8	38	6813157498352949	E:/Works/Qt Course/Qt Quick/build-10-PositioningElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app10-PositioningElements.cmake	c0419dda42406890
+38	64	6813157498613783	.rcc/qrc_app10-PositioningElements_raw_qml_0.cpp	eafb4af1353dca7d
+38	64	6813157498613783	E:/Works/Qt Course/Qt Quick/build-10-PositioningElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app10-PositioningElements_raw_qml_0.cpp	eafb4af1353dca7d
+40	133	6813157499267638	.rcc/qmlcache/app10-PositioningElements_main_qml.cpp	7a5d9eeaa873c3b2
+40	133	6813157499267638	E:/Works/Qt Course/Qt Quick/build-10-PositioningElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app10-PositioningElements_main_qml.cpp	7a5d9eeaa873c3b2
+136	204	6813157500027845	CMakeFiles/app10-PositioningElements.dir/.rcc/qrc_app10-PositioningElements_raw_qml_0.cpp.obj	d1c6ca9eae85f309
+133	1577	6813157513733451	CMakeFiles/app10-PositioningElements.dir/.rcc/qmlcache/app10-PositioningElements_main_qml.cpp.obj	af598b886e166acb
+1578	1776	6813157515698729	app10-PositioningElements.exe	79c932d6beb70fc6

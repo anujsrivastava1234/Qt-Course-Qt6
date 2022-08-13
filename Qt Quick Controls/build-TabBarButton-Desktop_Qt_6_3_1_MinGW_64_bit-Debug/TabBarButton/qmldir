@@ -1,0 +1,4 @@
+module TabBarButton
+typeinfo appTabBarButton.qmltypes
+prefer :/TabBarButton/
+

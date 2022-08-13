@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "7-QSignalAndSlots",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "7-QSignalAndSlots::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-7-QSignalAndSlots-Debug-f1193af89157ca9fab5f.json",
+					"name" : "7-QSignalAndSlots",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "7-QSignalAndSlots_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-7-QSignalAndSlots_autogen-Debug-0cf297bf30f6c94abb4f.json",
+					"name" : "7-QSignalAndSlots_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "7-QSignalAndSlots_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-7-QSignalAndSlots_autogen_timestamp_deps-Debug-c55171e2adc871d576a5.json",
+					"name" : "7-QSignalAndSlots_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/Works/Qt Course/Qt Widgets/build-7-QSignalAndSlots-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
+		"source" : "E:/Works/Qt Course/Qt Widgets/7-QSignalAndSlots"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

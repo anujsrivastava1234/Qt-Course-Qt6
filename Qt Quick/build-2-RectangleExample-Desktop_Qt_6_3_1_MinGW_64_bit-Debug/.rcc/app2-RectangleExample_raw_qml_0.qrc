@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/2-RectangleExample/">
+    <file alias="main.qml">E:/Works/Qt Course/Qt Quick/2-RectangleExample/main.qml</file>
+  </qresource>
+</RCC>
+

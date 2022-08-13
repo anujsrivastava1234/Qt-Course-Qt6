@@ -1,0 +1,5 @@
+module 14-TransformationExample
+typeinfo app14-TransformationExample.qmltypes
+prefer :/14-TransformationExample/
+Shape 1.0 Shape.qml
+

@@ -1,0 +1,12 @@
+-rootPath
+E:/Works/Qt Course/Qt Quick/8-QMl
+-cmake-output
+-output-file
+E:/Works/Qt Course/Qt Quick/build-8-QMl-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app8-QMl.cmake
+-importPath
+C:/Qt/6.3.1/mingw_64/./qml
+E:/Works/Qt Course/Qt Quick/build-8-QMl-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/8-QMl
+E:/Works/Qt Course/Qt Quick/build-8-QMl-Desktop_Qt_6_3_1_MinGW_64_bit-Debug
+-qrcFiles
+E:/Works/Qt Course/Qt Quick/build-8-QMl-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmake_8-QMl.qrc
+E:/Works/Qt Course/Qt Quick/build-8-QMl-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/app8-QMl_raw_qml_0.qrc

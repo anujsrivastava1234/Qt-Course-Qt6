@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-04ac5a0661b40d25fb3f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "4-MysqlConnection",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "4-MysqlConnection::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-4-MysqlConnection-Debug-e82f18e3d5508a2e2e9a.json",
+					"name" : "4-MysqlConnection",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "4-MysqlConnection_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-4-MysqlConnection_autogen-Debug-6a5c9257a1a52ed7757b.json",
+					"name" : "4-MysqlConnection_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "4-MysqlConnection_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-4-MysqlConnection_autogen_timestamp_deps-Debug-3797cc0201d591aa61b5.json",
+					"name" : "4-MysqlConnection_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/Works/Qt Course/Qt Databases/build-4-MysqlConnection-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
+		"source" : "E:/Works/Qt Course/Qt Databases/4-MysqlConnection"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

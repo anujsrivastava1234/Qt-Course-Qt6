@@ -1,0 +1,5 @@
+module 13-QmlComponetnsExample
+typeinfo app13-QmlComponetnsExample.qmltypes
+prefer :/13-QmlComponetnsExample/
+Button 1.0 Button.qml
+

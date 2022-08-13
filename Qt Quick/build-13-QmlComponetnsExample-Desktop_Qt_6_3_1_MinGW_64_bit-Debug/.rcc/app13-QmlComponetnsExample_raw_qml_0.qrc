@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/13-QmlComponetnsExample/">
+    <file alias="main.qml">E:/Works/Qt Course/Qt Quick/13-QmlComponetnsExample/main.qml</file>
+    <file alias="Button.qml">E:/Works/Qt Course/Qt Quick/13-QmlComponetnsExample/Button.qml</file>
+  </qresource>
+</RCC>
+

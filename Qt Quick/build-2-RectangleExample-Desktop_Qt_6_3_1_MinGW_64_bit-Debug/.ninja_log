@@ -1,0 +1,114 @@
+# ninja log v5
+8	41	6811575372897249	2-RectangleExample/main.qml	8be4f3ca80727342
+8	41	6811575372897249	E:/Works/Qt Course/Qt Quick/build-2-RectangleExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-RectangleExample/main.qml	8be4f3ca80727342
+1	47	6811575372907553	.rcc/qmlcache/app2-RectangleExample_qmlcache_loader.cpp	6ef48182e3990960
+1	47	6811575372907553	E:/Works/Qt Course/Qt Quick/build-2-RectangleExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app2-RectangleExample_qmlcache_loader.cpp	6ef48182e3990960
+4	50	6811575372955352	.qt_plugins/Qt6_QmlPlugins_Imports_app2-RectangleExample.cmake	7a405beaf1a33762
+4	50	6811575372955352	E:/Works/Qt Course/Qt Quick/build-2-RectangleExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app2-RectangleExample.cmake	7a405beaf1a33762
+47	229	6811575374118793	app2-RectangleExample_autogen/timestamp	d62d01d97fde708b
+47	229	6811575374118793	app2-RectangleExample_autogen/mocs_compilation.cpp	d62d01d97fde708b
+47	229	6811575374118793	E:/Works/Qt Course/Qt Quick/build-2-RectangleExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app2-RectangleExample_autogen/timestamp	d62d01d97fde708b
+47	229	6811575374118793	E:/Works/Qt Course/Qt Quick/build-2-RectangleExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app2-RectangleExample_autogen/mocs_compilation.cpp	d62d01d97fde708b
+229	263	6811575375128462	meta_types/app2-RectangleExample_json_file_list.txt	5c80c8f2afcaf151
+229	263	6811575375128462	meta_types/app2-RectangleExample_json_file_list.txt.timestamp	5c80c8f2afcaf151
+229	263	6811575375128462	E:/Works/Qt Course/Qt Quick/build-2-RectangleExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/app2-RectangleExample_json_file_list.txt	5c80c8f2afcaf151
+229	263	6811575375128462	E:/Works/Qt Course/Qt Quick/build-2-RectangleExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/app2-RectangleExample_json_file_list.txt.timestamp	5c80c8f2afcaf151
+233	266	6811575375137848	.rcc/qrc_app2-RectangleExample_raw_qml_0.cpp	967eb9960bdba2c4
+233	266	6811575375137848	E:/Works/Qt Course/Qt Quick/build-2-RectangleExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app2-RectangleExample_raw_qml_0.cpp	967eb9960bdba2c4
+231	267	6811575375128462	.rcc/qrc_qmake_2-RectangleExample.cpp	2c6c5222455177a5
+231	267	6811575375128462	E:/Works/Qt Course/Qt Quick/build-2-RectangleExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_qmake_2-RectangleExample.cpp	2c6c5222455177a5
+264	300	6811575375501659	meta_types/qt6app2-rectangleexample_debug_metatypes.json.gen	76fef0fb5fd20632
+264	300	6811575375501659	meta_types/qt6app2-rectangleexample_debug_metatypes.json	76fef0fb5fd20632
+264	300	6811575375501659	E:/Works/Qt Course/Qt Quick/build-2-RectangleExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6app2-rectangleexample_debug_metatypes.json.gen	76fef0fb5fd20632
+264	300	6811575375501659	E:/Works/Qt Course/Qt Quick/build-2-RectangleExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6app2-rectangleexample_debug_metatypes.json	76fef0fb5fd20632
+300	407	6811575375988871	app2-rectangleexample_qmltyperegistrations.cpp	f3ce8b572556bc96
+300	407	6811575375988871	2-RectangleExample/app2-RectangleExample.qmltypes	f3ce8b572556bc96
+300	407	6811575375988871	E:/Works/Qt Course/Qt Quick/build-2-RectangleExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app2-rectangleexample_qmltyperegistrations.cpp	f3ce8b572556bc96
+300	407	6811575375988871	E:/Works/Qt Course/Qt Quick/build-2-RectangleExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-RectangleExample/app2-RectangleExample.qmltypes	f3ce8b572556bc96
+407	499	6811575377443045	.rcc/qmlcache/app2-RectangleExample_main_qml.cpp	5f8230813c508b45
+407	499	6811575377443045	E:/Works/Qt Course/Qt Quick/build-2-RectangleExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app2-RectangleExample_main_qml.cpp	5f8230813c508b45
+504	631	6811575378674588	CMakeFiles/app2-RectangleExample.dir/.rcc/qrc_qmake_2-RectangleExample.cpp.obj	f7e56129f2c6c875
+499	634	6811575378795765	CMakeFiles/app2-RectangleExample.dir/app2-RectangleExample_autogen/mocs_compilation.cpp.obj	1ec9c0994e7688e7
+509	647	6811575378950516	CMakeFiles/app2-RectangleExample.dir/.rcc/qrc_app2-RectangleExample_raw_qml_0.cpp.obj	a1e0d2e69b1ecf12
+516	2595	6811575398442352	CMakeFiles/app2-RectangleExample.dir/app2-rectangleexample_qmltyperegistrations.cpp.obj	7b993ddfd63993c
+501	2735	6811575399828926	CMakeFiles/app2-RectangleExample.dir/main.cpp.obj	2fe5c268f05089fb
+513	2805	6811575400536892	CMakeFiles/app2-RectangleExample.dir/.rcc/qmlcache/app2-RectangleExample_main_qml.cpp.obj	d8a3ccde7cf13be6
+507	3129	6811575403782925	CMakeFiles/app2-RectangleExample.dir/.rcc/qmlcache/app2-RectangleExample_qmlcache_loader.cpp.obj	b06b971eb95e5ceb
+3129	3361	6811575406072963	app2-RectangleExample.exe	450945ecf31b5f00
+19	51	6811577141764384	2-RectangleExample/main.qml	8be4f3ca80727342
+19	51	6811577141764384	E:/Works/Qt Course/Qt Quick/build-2-RectangleExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-RectangleExample/main.qml	8be4f3ca80727342
+22	58	6811577141825729	.qt_plugins/Qt6_QmlPlugins_Imports_app2-RectangleExample.cmake	7a405beaf1a33762
+22	58	6811577141825729	E:/Works/Qt Course/Qt Quick/build-2-RectangleExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app2-RectangleExample.cmake	7a405beaf1a33762
+61	90	6811577142143133	.rcc/qrc_app2-RectangleExample_raw_qml_0.cpp	967eb9960bdba2c4
+61	90	6811577142143133	E:/Works/Qt Course/Qt Quick/build-2-RectangleExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app2-RectangleExample_raw_qml_0.cpp	967eb9960bdba2c4
+58	155	6811577142753494	.rcc/qmlcache/app2-RectangleExample_main_qml.cpp	5f8230813c508b45
+58	155	6811577142753494	E:/Works/Qt Course/Qt Quick/build-2-RectangleExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app2-RectangleExample_main_qml.cpp	5f8230813c508b45
+156	235	6811577143604737	CMakeFiles/app2-RectangleExample.dir/.rcc/qrc_app2-RectangleExample_raw_qml_0.cpp.obj	a1e0d2e69b1ecf12
+160	1792	6811577159163218	CMakeFiles/app2-RectangleExample.dir/.rcc/qmlcache/app2-RectangleExample_main_qml.cpp.obj	d8a3ccde7cf13be6
+1792	2012	6811577161350304	app2-RectangleExample.exe	450945ecf31b5f00
+6	39	6811579867492784	2-RectangleExample/main.qml	8be4f3ca80727342
+6	39	6811579867492784	E:/Works/Qt Course/Qt Quick/build-2-RectangleExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-RectangleExample/main.qml	8be4f3ca80727342
+10	46	6811579867548351	.qt_plugins/Qt6_QmlPlugins_Imports_app2-RectangleExample.cmake	7a405beaf1a33762
+10	46	6811579867548351	E:/Works/Qt Course/Qt Quick/build-2-RectangleExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app2-RectangleExample.cmake	7a405beaf1a33762
+46	74	6811579867834304	.rcc/qrc_app2-RectangleExample_raw_qml_0.cpp	967eb9960bdba2c4
+46	74	6811579867834304	E:/Works/Qt Course/Qt Quick/build-2-RectangleExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app2-RectangleExample_raw_qml_0.cpp	967eb9960bdba2c4
+49	144	6811579868476733	.rcc/qmlcache/app2-RectangleExample_main_qml.cpp	5f8230813c508b45
+49	144	6811579868476733	E:/Works/Qt Course/Qt Quick/build-2-RectangleExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app2-RectangleExample_main_qml.cpp	5f8230813c508b45
+144	223	6811579869343763	CMakeFiles/app2-RectangleExample.dir/.rcc/qrc_app2-RectangleExample_raw_qml_0.cpp.obj	a1e0d2e69b1ecf12
+147	1800	6811579885106650	CMakeFiles/app2-RectangleExample.dir/.rcc/qmlcache/app2-RectangleExample_main_qml.cpp.obj	d8a3ccde7cf13be6
+1801	2021	6811579887261104	app2-RectangleExample.exe	450945ecf31b5f00
+6	39	6811580123345604	2-RectangleExample/main.qml	8be4f3ca80727342
+6	39	6811580123345604	E:/Works/Qt Course/Qt Quick/build-2-RectangleExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-RectangleExample/main.qml	8be4f3ca80727342
+9	44	6811580123408655	.qt_plugins/Qt6_QmlPlugins_Imports_app2-RectangleExample.cmake	7a405beaf1a33762
+9	44	6811580123408655	E:/Works/Qt Course/Qt Quick/build-2-RectangleExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app2-RectangleExample.cmake	7a405beaf1a33762
+48	76	6811580123733720	.rcc/qrc_app2-RectangleExample_raw_qml_0.cpp	967eb9960bdba2c4
+48	76	6811580123733720	E:/Works/Qt Course/Qt Quick/build-2-RectangleExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app2-RectangleExample_raw_qml_0.cpp	967eb9960bdba2c4
+44	141	6811580124316788	.rcc/qmlcache/app2-RectangleExample_main_qml.cpp	5f8230813c508b45
+44	141	6811580124316788	E:/Works/Qt Course/Qt Quick/build-2-RectangleExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app2-RectangleExample_main_qml.cpp	5f8230813c508b45
+141	214	6811580125128008	CMakeFiles/app2-RectangleExample.dir/.rcc/qrc_app2-RectangleExample_raw_qml_0.cpp.obj	a1e0d2e69b1ecf12
+144	1797	6811580140935544	CMakeFiles/app2-RectangleExample.dir/.rcc/qmlcache/app2-RectangleExample_main_qml.cpp.obj	d8a3ccde7cf13be6
+1797	2032	6811580143244531	app2-RectangleExample.exe	450945ecf31b5f00
+5	38	6811580179176145	.qt_plugins/Qt6_QmlPlugins_Imports_app2-RectangleExample.cmake	7a405beaf1a33762
+5	38	6811580179176145	E:/Works/Qt Course/Qt Quick/build-2-RectangleExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app2-RectangleExample.cmake	7a405beaf1a33762
+8	40	6811580179199003	2-RectangleExample/main.qml	8be4f3ca80727342
+8	40	6811580179199003	E:/Works/Qt Course/Qt Quick/build-2-RectangleExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-RectangleExample/main.qml	8be4f3ca80727342
+43	73	6811580179516038	.rcc/qrc_app2-RectangleExample_raw_qml_0.cpp	967eb9960bdba2c4
+43	73	6811580179516038	E:/Works/Qt Course/Qt Quick/build-2-RectangleExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app2-RectangleExample_raw_qml_0.cpp	967eb9960bdba2c4
+40	137	6811580180133005	.rcc/qmlcache/app2-RectangleExample_main_qml.cpp	5f8230813c508b45
+40	137	6811580180133005	E:/Works/Qt Course/Qt Quick/build-2-RectangleExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app2-RectangleExample_main_qml.cpp	5f8230813c508b45
+140	218	6811580180978908	CMakeFiles/app2-RectangleExample.dir/.rcc/qrc_app2-RectangleExample_raw_qml_0.cpp.obj	a1e0d2e69b1ecf12
+137	1741	6811580196199684	CMakeFiles/app2-RectangleExample.dir/.rcc/qmlcache/app2-RectangleExample_main_qml.cpp.obj	d8a3ccde7cf13be6
+1741	1956	6811580198303263	app2-RectangleExample.exe	450945ecf31b5f00
+8	39	6811580304512421	2-RectangleExample/main.qml	8be4f3ca80727342
+8	39	6811580304512421	E:/Works/Qt Course/Qt Quick/build-2-RectangleExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-RectangleExample/main.qml	8be4f3ca80727342
+5	40	6811580304505855	.qt_plugins/Qt6_QmlPlugins_Imports_app2-RectangleExample.cmake	7a405beaf1a33762
+5	40	6811580304505855	E:/Works/Qt Course/Qt Quick/build-2-RectangleExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app2-RectangleExample.cmake	7a405beaf1a33762
+40	68	6811580304806970	.rcc/qrc_app2-RectangleExample_raw_qml_0.cpp	967eb9960bdba2c4
+40	68	6811580304806970	E:/Works/Qt Course/Qt Quick/build-2-RectangleExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app2-RectangleExample_raw_qml_0.cpp	967eb9960bdba2c4
+42	139	6811580305450837	.rcc/qmlcache/app2-RectangleExample_main_qml.cpp	5f8230813c508b45
+42	139	6811580305450837	E:/Works/Qt Course/Qt Quick/build-2-RectangleExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app2-RectangleExample_main_qml.cpp	5f8230813c508b45
+139	210	6811580306222607	CMakeFiles/app2-RectangleExample.dir/.rcc/qrc_app2-RectangleExample_raw_qml_0.cpp.obj	a1e0d2e69b1ecf12
+142	1806	6811580322173922	CMakeFiles/app2-RectangleExample.dir/.rcc/qmlcache/app2-RectangleExample_main_qml.cpp.obj	d8a3ccde7cf13be6
+1806	2028	6811580324352446	app2-RectangleExample.exe	450945ecf31b5f00
+9	40	6811580410107978	2-RectangleExample/main.qml	8be4f3ca80727342
+9	40	6811580410107978	E:/Works/Qt Course/Qt Quick/build-2-RectangleExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-RectangleExample/main.qml	8be4f3ca80727342
+6	40	6811580410109790	.qt_plugins/Qt6_QmlPlugins_Imports_app2-RectangleExample.cmake	7a405beaf1a33762
+6	40	6811580410109790	E:/Works/Qt Course/Qt Quick/build-2-RectangleExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app2-RectangleExample.cmake	7a405beaf1a33762
+43	72	6811580410426461	.rcc/qrc_app2-RectangleExample_raw_qml_0.cpp	967eb9960bdba2c4
+43	72	6811580410426461	E:/Works/Qt Course/Qt Quick/build-2-RectangleExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app2-RectangleExample_raw_qml_0.cpp	967eb9960bdba2c4
+41	139	6811580411023329	.rcc/qmlcache/app2-RectangleExample_main_qml.cpp	5f8230813c508b45
+41	139	6811580411023329	E:/Works/Qt Course/Qt Quick/build-2-RectangleExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app2-RectangleExample_main_qml.cpp	5f8230813c508b45
+142	211	6811580411826043	CMakeFiles/app2-RectangleExample.dir/.rcc/qrc_app2-RectangleExample_raw_qml_0.cpp.obj	a1e0d2e69b1ecf12
+139	1767	6811580427379213	CMakeFiles/app2-RectangleExample.dir/.rcc/qmlcache/app2-RectangleExample_main_qml.cpp.obj	d8a3ccde7cf13be6
+1767	1988	6811580429536932	app2-RectangleExample.exe	450945ecf31b5f00
+5	38	6811580533190613	2-RectangleExample/main.qml	8be4f3ca80727342
+5	38	6811580533190613	E:/Works/Qt Course/Qt Quick/build-2-RectangleExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-RectangleExample/main.qml	8be4f3ca80727342
+9	44	6811580533239937	.qt_plugins/Qt6_QmlPlugins_Imports_app2-RectangleExample.cmake	7a405beaf1a33762
+9	44	6811580533239937	E:/Works/Qt Course/Qt Quick/build-2-RectangleExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app2-RectangleExample.cmake	7a405beaf1a33762
+47	75	6811580533554316	.rcc/qrc_app2-RectangleExample_raw_qml_0.cpp	967eb9960bdba2c4
+47	75	6811580533554316	E:/Works/Qt Course/Qt Quick/build-2-RectangleExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app2-RectangleExample_raw_qml_0.cpp	967eb9960bdba2c4
+44	140	6811580534163838	.rcc/qmlcache/app2-RectangleExample_main_qml.cpp	5f8230813c508b45
+44	140	6811580534163838	E:/Works/Qt Course/Qt Quick/build-2-RectangleExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app2-RectangleExample_main_qml.cpp	5f8230813c508b45
+145	220	6811580535023136	CMakeFiles/app2-RectangleExample.dir/.rcc/qrc_app2-RectangleExample_raw_qml_0.cpp.obj	a1e0d2e69b1ecf12
+141	1808	6811580550887807	CMakeFiles/app2-RectangleExample.dir/.rcc/qmlcache/app2-RectangleExample_main_qml.cpp.obj	d8a3ccde7cf13be6
+1809	2023	6811580552994504	app2-RectangleExample.exe	450945ecf31b5f00

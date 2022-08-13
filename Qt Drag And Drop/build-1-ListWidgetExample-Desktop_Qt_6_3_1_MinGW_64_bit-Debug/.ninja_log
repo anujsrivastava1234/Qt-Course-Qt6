@@ -1,0 +1,18 @@
+# ninja log v5
+1	651	6808990048695065	1-ListWidgetExample_autogen/timestamp	f89192b1d0e060a9
+1	651	6808990048695065	1-ListWidgetExample_autogen/mocs_compilation.cpp	f89192b1d0e060a9
+1	651	6808990048695065	E:/Works/Qt Course/Qt Drag And Drop/build-1-ListWidgetExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/1-ListWidgetExample_autogen/timestamp	f89192b1d0e060a9
+1	651	6808990048695065	E:/Works/Qt Course/Qt Drag And Drop/build-1-ListWidgetExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/1-ListWidgetExample_autogen/mocs_compilation.cpp	f89192b1d0e060a9
+652	703	6808990050296815	1-ListWidgetExample_autogen/EWIEGA46WW/qrc_res.cpp	715532e90303c00a
+652	703	6808990050296815	E:/Works/Qt Course/Qt Drag And Drop/build-1-ListWidgetExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/1-ListWidgetExample_autogen/EWIEGA46WW/qrc_res.cpp	715532e90303c00a
+708	814	6808990051439936	CMakeFiles/1-ListWidgetExample.dir/1-ListWidgetExample_autogen/EWIEGA46WW/qrc_res.cpp.obj	fb0fdce51975d8f3
+703	2492	6808990068212224	CMakeFiles/1-ListWidgetExample.dir/1-ListWidgetExample_autogen/mocs_compilation.cpp.obj	e86eb3bb0e7c9a76
+705	2502	6808990068320973	CMakeFiles/1-ListWidgetExample.dir/main.cpp.obj	ea61424c8366469f
+710	2771	6808990071002418	CMakeFiles/1-ListWidgetExample.dir/widget.cpp.obj	5502012d82236b33
+2772	2969	6808990072950766	1-ListWidgetExample.exe	443a222eba230f3d
+13	203	6808990951830703	1-ListWidgetExample_autogen/timestamp	f89192b1d0e060a9
+13	203	6808990951830703	1-ListWidgetExample_autogen/mocs_compilation.cpp	f89192b1d0e060a9
+13	203	6808990951830703	E:/Works/Qt Course/Qt Drag And Drop/build-1-ListWidgetExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/1-ListWidgetExample_autogen/timestamp	f89192b1d0e060a9
+13	203	6808990951830703	E:/Works/Qt Course/Qt Drag And Drop/build-1-ListWidgetExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/1-ListWidgetExample_autogen/mocs_compilation.cpp	f89192b1d0e060a9
+212	2096	6808990970756451	CMakeFiles/1-ListWidgetExample.dir/widget.cpp.obj	5502012d82236b33
+2096	2313	6808990972897995	1-ListWidgetExample.exe	443a222eba230f3d

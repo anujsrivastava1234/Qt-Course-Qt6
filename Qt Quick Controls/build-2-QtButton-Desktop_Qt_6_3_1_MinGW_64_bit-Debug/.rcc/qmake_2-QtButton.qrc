@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/2-QtButton">
+    <file alias="qmldir">E:/Works/Qt Course/Qt Quick Controls/build-2-QtButton-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-QtButton/qmldir</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/13-DialogButtonExample/">
+    <file alias="main.qml">E:/Works/Qt Course/Qt Quick Controls/13-DialogButtonExample/main.qml</file>
+  </qresource>
+</RCC>
+

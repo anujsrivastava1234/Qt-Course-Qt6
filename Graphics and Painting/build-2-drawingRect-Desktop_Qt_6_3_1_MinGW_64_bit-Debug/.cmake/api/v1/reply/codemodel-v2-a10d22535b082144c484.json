@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-c43d9b022911337cedae.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "2-drawingRect",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "2-drawingRect::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2-drawingRect-Debug-08062ccbfba208774972.json",
+					"name" : "2-drawingRect",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "2-drawingRect_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2-drawingRect_autogen-Debug-e3dc257d6f193ba807db.json",
+					"name" : "2-drawingRect_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "2-drawingRect_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2-drawingRect_autogen_timestamp_deps-Debug-54f23bf9524024b7a159.json",
+					"name" : "2-drawingRect_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/Works/Qt Course/Graphics and Painting/build-2-drawingRect-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
+		"source" : "E:/Works/Qt Course/Graphics and Painting/2-drawingRect"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

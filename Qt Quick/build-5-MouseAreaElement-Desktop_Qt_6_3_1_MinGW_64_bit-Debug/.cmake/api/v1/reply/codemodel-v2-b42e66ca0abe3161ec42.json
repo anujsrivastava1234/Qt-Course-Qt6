@@ -1,0 +1,142 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-8c27a3cd2e02a2659bf5.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "5-MouseAreaElement",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-5b0aeeab51dea665bc04.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-133bb4d94b1a8336e94b.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app5-MouseAreaElement::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app5-MouseAreaElement-Debug-d7482eff68564aaca505.json",
+					"name" : "app5-MouseAreaElement",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app5-MouseAreaElement_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app5-MouseAreaElement_autogen-Debug-b66d356971fadc9633fd.json",
+					"name" : "app5-MouseAreaElement_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app5-MouseAreaElement_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app5-MouseAreaElement_autogen_timestamp_deps-Debug-3400a12d1dedf4070831.json",
+					"name" : "app5-MouseAreaElement_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app5-MouseAreaElement_other_files::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app5-MouseAreaElement_other_files-Debug-add720dc5763bec67836.json",
+					"name" : "app5-MouseAreaElement_other_files",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app5-MouseAreaElement_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app5-MouseAreaElement_qmlimportscan-Debug-1da665366287e1f15e1e.json",
+					"name" : "app5-MouseAreaElement_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app5-MouseAreaElement_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app5-MouseAreaElement_qmllint-Debug-a14d6cf5192d1e64ab35.json",
+					"name" : "app5-MouseAreaElement_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app5-MouseAreaElement_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app5-MouseAreaElement_qmltyperegistration-Debug-48d3541cfca3fffec99e.json",
+					"name" : "app5-MouseAreaElement_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app5-MouseAreaElement_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app5-MouseAreaElement_tooling-Debug-816b028d3bc6b86feab3.json",
+					"name" : "app5-MouseAreaElement_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/Works/Qt Course/Qt Quick/build-5-MouseAreaElement-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
+		"source" : "E:/Works/Qt Course/Qt Quick/5-MouseAreaElement"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

@@ -1,0 +1,59 @@
+# ninja log v5
+1	41	6817513746362660	.rcc/qmlcache/app13-DialogButtonExample_qmlcache_loader.cpp	eb2795b1eba03a9
+1	41	6817513746362660	E:/Works/Qt Course/Qt Quick Controls/build-13-DialogButtonExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app13-DialogButtonExample_qmlcache_loader.cpp	eb2795b1eba03a9
+7	45	6817513746435060	13-DialogButtonExample/main.qml	39b7b91d6e8fc0a0
+7	45	6817513746435060	E:/Works/Qt Course/Qt Quick Controls/build-13-DialogButtonExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/13-DialogButtonExample/main.qml	39b7b91d6e8fc0a0
+42	227	6817513747591504	app13-DialogButtonExample_autogen/timestamp	728e800818452b47
+42	227	6817513747591504	app13-DialogButtonExample_autogen/mocs_compilation.cpp	728e800818452b47
+42	227	6817513747591504	E:/Works/Qt Course/Qt Quick Controls/build-13-DialogButtonExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app13-DialogButtonExample_autogen/timestamp	728e800818452b47
+42	227	6817513747591504	E:/Works/Qt Course/Qt Quick Controls/build-13-DialogButtonExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app13-DialogButtonExample_autogen/mocs_compilation.cpp	728e800818452b47
+229	255	6817513748553468	meta_types/app13-DialogButtonExample_json_file_list.txt	bd84a109fa1b9b64
+229	255	6817513748553468	meta_types/app13-DialogButtonExample_json_file_list.txt.timestamp	bd84a109fa1b9b64
+229	255	6817513748553468	E:/Works/Qt Course/Qt Quick Controls/build-13-DialogButtonExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/app13-DialogButtonExample_json_file_list.txt	bd84a109fa1b9b64
+229	255	6817513748553468	E:/Works/Qt Course/Qt Quick Controls/build-13-DialogButtonExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/app13-DialogButtonExample_json_file_list.txt.timestamp	bd84a109fa1b9b64
+255	293	6817513748929955	meta_types/qt6app13-dialogbuttonexample_debug_metatypes.json.gen	a1824d9c827706ed
+255	293	6817513748929955	meta_types/qt6app13-dialogbuttonexample_debug_metatypes.json	a1824d9c827706ed
+255	293	6817513748929955	E:/Works/Qt Course/Qt Quick Controls/build-13-DialogButtonExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6app13-dialogbuttonexample_debug_metatypes.json.gen	a1824d9c827706ed
+255	293	6817513748929955	E:/Works/Qt Course/Qt Quick Controls/build-13-DialogButtonExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6app13-dialogbuttonexample_debug_metatypes.json	a1824d9c827706ed
+293	407	6817513749440845	app13-dialogbuttonexample_qmltyperegistrations.cpp	5247532061041a5f
+293	407	6817513749440845	13-DialogButtonExample/app13-DialogButtonExample.qmltypes	5247532061041a5f
+293	407	6817513749440845	E:/Works/Qt Course/Qt Quick Controls/build-13-DialogButtonExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app13-dialogbuttonexample_qmltyperegistrations.cpp	5247532061041a5f
+293	407	6817513749440845	E:/Works/Qt Course/Qt Quick Controls/build-13-DialogButtonExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/13-DialogButtonExample/app13-DialogButtonExample.qmltypes	5247532061041a5f
+4	408	6817513750073381	.qt_plugins/Qt6_QmlPlugins_Imports_app13-DialogButtonExample.cmake	462a8aa35cbf6bd7
+4	408	6817513750073381	E:/Works/Qt Course/Qt Quick Controls/build-13-DialogButtonExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app13-DialogButtonExample.cmake	462a8aa35cbf6bd7
+408	440	6817513750390119	.rcc/qrc_qmake_13-DialogButtonExample.cpp	7eaf176b8a4deaf9
+408	440	6817513750390119	E:/Works/Qt Course/Qt Quick Controls/build-13-DialogButtonExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_qmake_13-DialogButtonExample.cpp	7eaf176b8a4deaf9
+414	445	6817513750441872	.rcc/qrc_app13-DialogButtonExample_raw_qml_0.cpp	6e512560abb95ce
+414	445	6817513750441872	E:/Works/Qt Course/Qt Quick Controls/build-13-DialogButtonExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app13-DialogButtonExample_raw_qml_0.cpp	6e512560abb95ce
+411	551	6817513751429438	.rcc/qmlcache/app13-DialogButtonExample_main_qml.cpp	71fcdb95d928d3e7
+411	551	6817513751429438	E:/Works/Qt Course/Qt Quick Controls/build-13-DialogButtonExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app13-DialogButtonExample_main_qml.cpp	71fcdb95d928d3e7
+552	677	6817513752575066	CMakeFiles/app13-DialogButtonExample.dir/app13-DialogButtonExample_autogen/mocs_compilation.cpp.obj	49560d9ea2f0a953
+568	682	6817513752806438	CMakeFiles/app13-DialogButtonExample.dir/.rcc/qrc_app13-DialogButtonExample_raw_qml_0.cpp.obj	f9e916fa8296daa
+565	695	6817513752950426	CMakeFiles/app13-DialogButtonExample.dir/.rcc/qrc_qmake_13-DialogButtonExample.cpp.obj	73adc27c75e40777
+554	2574	6817513771733724	CMakeFiles/app13-DialogButtonExample.dir/app13-dialogbuttonexample_qmltyperegistrations.cpp.obj	b9b2bf1d82218a2c
+557	2733	6817513773318931	CMakeFiles/app13-DialogButtonExample.dir/main.cpp.obj	c5c5ad7f6f01427c
+559	2807	6817513774060585	CMakeFiles/app13-DialogButtonExample.dir/.rcc/qmlcache/app13-DialogButtonExample_main_qml.cpp.obj	9ceca29c173934eb
+562	2943	6817513775418569	CMakeFiles/app13-DialogButtonExample.dir/.rcc/qmlcache/app13-DialogButtonExample_qmlcache_loader.cpp.obj	8317e29acb063b0e
+2943	3162	6817513777559926	app13-DialogButtonExample.exe	d616cf983f62b5cf
+14	50	6817514022499348	13-DialogButtonExample/main.qml	39b7b91d6e8fc0a0
+14	50	6817514022499348	E:/Works/Qt Course/Qt Quick Controls/build-13-DialogButtonExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/13-DialogButtonExample/main.qml	39b7b91d6e8fc0a0
+17	353	6817514025528553	.qt_plugins/Qt6_QmlPlugins_Imports_app13-DialogButtonExample.cmake	462a8aa35cbf6bd7
+17	353	6817514025528553	E:/Works/Qt Course/Qt Quick Controls/build-13-DialogButtonExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app13-DialogButtonExample.cmake	462a8aa35cbf6bd7
+353	380	6817514025796295	.rcc/qrc_app13-DialogButtonExample_raw_qml_0.cpp	6e512560abb95ce
+353	380	6817514025796295	E:/Works/Qt Course/Qt Quick Controls/build-13-DialogButtonExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app13-DialogButtonExample_raw_qml_0.cpp	6e512560abb95ce
+356	487	6817514026795272	.rcc/qmlcache/app13-DialogButtonExample_main_qml.cpp	71fcdb95d928d3e7
+356	487	6817514026795272	E:/Works/Qt Course/Qt Quick Controls/build-13-DialogButtonExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app13-DialogButtonExample_main_qml.cpp	71fcdb95d928d3e7
+490	564	6817514027640222	CMakeFiles/app13-DialogButtonExample.dir/.rcc/qrc_app13-DialogButtonExample_raw_qml_0.cpp.obj	f9e916fa8296daa
+488	2072	6817514042714539	CMakeFiles/app13-DialogButtonExample.dir/.rcc/qmlcache/app13-DialogButtonExample_main_qml.cpp.obj	9ceca29c173934eb
+2072	2274	6817514044699216	app13-DialogButtonExample.exe	d616cf983f62b5cf
+7	35	6817514998078108	13-DialogButtonExample/main.qml	39b7b91d6e8fc0a0
+7	35	6817514998078108	E:/Works/Qt Course/Qt Quick Controls/build-13-DialogButtonExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/13-DialogButtonExample/main.qml	39b7b91d6e8fc0a0
+5	296	6817515000683117	.qt_plugins/Qt6_QmlPlugins_Imports_app13-DialogButtonExample.cmake	462a8aa35cbf6bd7
+5	296	6817515000683117	E:/Works/Qt Course/Qt Quick Controls/build-13-DialogButtonExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app13-DialogButtonExample.cmake	462a8aa35cbf6bd7
+298	323	6817515000963458	.rcc/qrc_app13-DialogButtonExample_raw_qml_0.cpp	6e512560abb95ce
+298	323	6817515000963458	E:/Works/Qt Course/Qt Quick Controls/build-13-DialogButtonExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app13-DialogButtonExample_raw_qml_0.cpp	6e512560abb95ce
+296	425	6817515001880492	.rcc/qmlcache/app13-DialogButtonExample_main_qml.cpp	71fcdb95d928d3e7
+296	425	6817515001880492	E:/Works/Qt Course/Qt Quick Controls/build-13-DialogButtonExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app13-DialogButtonExample_main_qml.cpp	71fcdb95d928d3e7
+428	494	6817515002677014	CMakeFiles/app13-DialogButtonExample.dir/.rcc/qrc_app13-DialogButtonExample_raw_qml_0.cpp.obj	f9e916fa8296daa
+426	1905	6817515016773751	CMakeFiles/app13-DialogButtonExample.dir/.rcc/qmlcache/app13-DialogButtonExample_main_qml.cpp.obj	9ceca29c173934eb
+1905	2111	6817515018806566	app13-DialogButtonExample.exe	d616cf983f62b5cf

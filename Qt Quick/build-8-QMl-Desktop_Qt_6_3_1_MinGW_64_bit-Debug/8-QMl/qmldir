@@ -1,0 +1,4 @@
+module 8-QMl
+typeinfo app8-QMl.qmltypes
+prefer :/8-QMl/
+

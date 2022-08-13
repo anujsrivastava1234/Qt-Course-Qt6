@@ -1,0 +1,19 @@
+# ninja log v5
+1	1089	6811465878162087	QPropertyAnimationExample_autogen/timestamp	98c3a827de6b23b5
+1	1089	6811465878162087	QPropertyAnimationExample_autogen/mocs_compilation.cpp	98c3a827de6b23b5
+1	1089	6811465878162087	E:/Works/Qt Course/Qt Animation/build-QPropertyAnimationExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/QPropertyAnimationExample_autogen/timestamp	98c3a827de6b23b5
+1	1089	6811465878162087	E:/Works/Qt Course/Qt Animation/build-QPropertyAnimationExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/QPropertyAnimationExample_autogen/mocs_compilation.cpp	98c3a827de6b23b5
+1090	4089	6811465909615776	CMakeFiles/QPropertyAnimationExample.dir/QPropertyAnimationExample_autogen/mocs_compilation.cpp.obj	59916fbb5fa9f964
+1095	4128	6811465910005092	CMakeFiles/QPropertyAnimationExample.dir/main.cpp.obj	656bf04121d3458c
+12	239	6811466135606837	QPropertyAnimationExample_autogen/timestamp	98c3a827de6b23b5
+12	239	6811466135606837	QPropertyAnimationExample_autogen/mocs_compilation.cpp	98c3a827de6b23b5
+12	239	6811466135606837	E:/Works/Qt Course/Qt Animation/build-QPropertyAnimationExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/QPropertyAnimationExample_autogen/timestamp	98c3a827de6b23b5
+12	239	6811466135606837	E:/Works/Qt Course/Qt Animation/build-QPropertyAnimationExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/QPropertyAnimationExample_autogen/mocs_compilation.cpp	98c3a827de6b23b5
+254	2237	6811466155584271	CMakeFiles/QPropertyAnimationExample.dir/widget.cpp.obj	93cea1526bdb0062
+2237	2529	6811466158456579	QPropertyAnimationExample.exe	a448001d9e3ccba3
+12	249	6811469438485277	QPropertyAnimationExample_autogen/timestamp	98c3a827de6b23b5
+12	249	6811469438485277	QPropertyAnimationExample_autogen/mocs_compilation.cpp	98c3a827de6b23b5
+12	249	6811469438485277	E:/Works/Qt Course/Qt Animation/build-QPropertyAnimationExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/QPropertyAnimationExample_autogen/timestamp	98c3a827de6b23b5
+12	249	6811469438485277	E:/Works/Qt Course/Qt Animation/build-QPropertyAnimationExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/QPropertyAnimationExample_autogen/mocs_compilation.cpp	98c3a827de6b23b5
+261	2349	6811469459479283	CMakeFiles/QPropertyAnimationExample.dir/widget.cpp.obj	93cea1526bdb0062
+2349	2553	6811469461483026	QPropertyAnimationExample.exe	a448001d9e3ccba3

@@ -1,0 +1,37 @@
+# ninja log v5
+5	46	6817241519159736	3-QmlLabelExample/main.qml	3bf463ddbc695172
+5	46	6817241519159736	E:/Works/Qt Course/Qt Quick Controls/build-3-QmlLabelExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-QmlLabelExample/main.qml	3bf463ddbc695172
+2	54	6817241519214819	.rcc/qmlcache/app3-QmlLabelExample_qmlcache_loader.cpp	a998ec52f6ec884
+2	54	6817241519214819	E:/Works/Qt Course/Qt Quick Controls/build-3-QmlLabelExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app3-QmlLabelExample_qmlcache_loader.cpp	a998ec52f6ec884
+54	244	6817241520448953	app3-QmlLabelExample_autogen/timestamp	4a06105494063c20
+54	244	6817241520448953	app3-QmlLabelExample_autogen/mocs_compilation.cpp	4a06105494063c20
+54	244	6817241520448953	E:/Works/Qt Course/Qt Quick Controls/build-3-QmlLabelExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app3-QmlLabelExample_autogen/timestamp	4a06105494063c20
+54	244	6817241520448953	E:/Works/Qt Course/Qt Quick Controls/build-3-QmlLabelExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app3-QmlLabelExample_autogen/mocs_compilation.cpp	4a06105494063c20
+244	275	6817241521463573	meta_types/app3-QmlLabelExample_json_file_list.txt	64183d4f86df33c4
+244	275	6817241521463573	meta_types/app3-QmlLabelExample_json_file_list.txt.timestamp	64183d4f86df33c4
+244	275	6817241521463573	E:/Works/Qt Course/Qt Quick Controls/build-3-QmlLabelExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/app3-QmlLabelExample_json_file_list.txt	64183d4f86df33c4
+244	275	6817241521463573	E:/Works/Qt Course/Qt Quick Controls/build-3-QmlLabelExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/app3-QmlLabelExample_json_file_list.txt.timestamp	64183d4f86df33c4
+275	314	6817241521842434	meta_types/qt6app3-qmllabelexample_debug_metatypes.json.gen	97a63be8ad8f9b59
+275	314	6817241521842434	meta_types/qt6app3-qmllabelexample_debug_metatypes.json	97a63be8ad8f9b59
+275	314	6817241521842434	E:/Works/Qt Course/Qt Quick Controls/build-3-QmlLabelExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6app3-qmllabelexample_debug_metatypes.json.gen	97a63be8ad8f9b59
+275	314	6817241521842434	E:/Works/Qt Course/Qt Quick Controls/build-3-QmlLabelExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6app3-qmllabelexample_debug_metatypes.json	97a63be8ad8f9b59
+314	429	6817241522407731	app3-qmllabelexample_qmltyperegistrations.cpp	94bdf9886aa90b5d
+314	429	6817241522407731	3-QmlLabelExample/app3-QmlLabelExample.qmltypes	94bdf9886aa90b5d
+314	429	6817241522407731	E:/Works/Qt Course/Qt Quick Controls/build-3-QmlLabelExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app3-qmllabelexample_qmltyperegistrations.cpp	94bdf9886aa90b5d
+314	429	6817241522407731	E:/Works/Qt Course/Qt Quick Controls/build-3-QmlLabelExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-QmlLabelExample/app3-QmlLabelExample.qmltypes	94bdf9886aa90b5d
+8	509	6817241523793292	.qt_plugins/Qt6_QmlPlugins_Imports_app3-QmlLabelExample.cmake	e79c8b05a4ac665f
+8	509	6817241523793292	E:/Works/Qt Course/Qt Quick Controls/build-3-QmlLabelExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app3-QmlLabelExample.cmake	e79c8b05a4ac665f
+509	544	6817241524135928	.rcc/qrc_qmake_3-QmlLabelExample.cpp	c5d6cb1b48c76943
+509	544	6817241524135928	E:/Works/Qt Course/Qt Quick Controls/build-3-QmlLabelExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_qmake_3-QmlLabelExample.cpp	c5d6cb1b48c76943
+516	552	6817241524216687	.rcc/qrc_app3-QmlLabelExample_raw_qml_0.cpp	d7b27353a2a4c573
+516	552	6817241524216687	E:/Works/Qt Course/Qt Quick Controls/build-3-QmlLabelExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app3-QmlLabelExample_raw_qml_0.cpp	d7b27353a2a4c573
+512	645	6817241525074798	.rcc/qmlcache/app3-QmlLabelExample_main_qml.cpp	72047882e1d45ca1
+512	645	6817241525074798	E:/Works/Qt Course/Qt Quick Controls/build-3-QmlLabelExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app3-QmlLabelExample_main_qml.cpp	72047882e1d45ca1
+648	751	6817241526083710	CMakeFiles/app3-QmlLabelExample.dir/app3-QmlLabelExample_autogen/mocs_compilation.cpp.obj	b0c0f8b5002cb91f
+654	775	6817241526460341	CMakeFiles/app3-QmlLabelExample.dir/.rcc/qrc_qmake_3-QmlLabelExample.cpp.obj	9dc0321bd7b49137
+663	780	6817241526500011	CMakeFiles/app3-QmlLabelExample.dir/.rcc/qrc_app3-QmlLabelExample_raw_qml_0.cpp.obj	314fff1b00e7126e
+645	2451	6817241543217217	CMakeFiles/app3-QmlLabelExample.dir/app3-qmllabelexample_qmltyperegistrations.cpp.obj	8ad76bd4e6f3251
+651	2608	6817241544786087	CMakeFiles/app3-QmlLabelExample.dir/main.cpp.obj	456a65b1422bb498
+659	2839	6817241547092311	CMakeFiles/app3-QmlLabelExample.dir/.rcc/qmlcache/app3-QmlLabelExample_main_qml.cpp.obj	a21b1de8d9bbc8b0
+656	3063	6817241549328878	CMakeFiles/app3-QmlLabelExample.dir/.rcc/qmlcache/app3-QmlLabelExample_qmlcache_loader.cpp.obj	54d5683c64ea01c4
+3063	3292	6817241551601614	app3-QmlLabelExample.exe	737cf8d9a52e636

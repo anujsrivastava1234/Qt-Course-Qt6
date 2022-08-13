@@ -1,0 +1,61 @@
+# ninja log v5
+1	775	6814628341500859	StudentRecordSystem_autogen/timestamp	5a01532e88adf11f
+1	775	6814628341500859	StudentRecordSystem_autogen/mocs_compilation.cpp	5a01532e88adf11f
+1	775	6814628341500859	E:/Works/Qt Course/Student Record System/build-StudentRecordSystem-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/StudentRecordSystem_autogen/timestamp	5a01532e88adf11f
+1	775	6814628341500859	E:/Works/Qt Course/Student Record System/build-StudentRecordSystem-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/StudentRecordSystem_autogen/mocs_compilation.cpp	5a01532e88adf11f
+778	2372	6814628358568446	CMakeFiles/StudentRecordSystem.dir/StudentRecordSystem_autogen/mocs_compilation.cpp.obj	97f4878c9789a5c5
+781	2412	6814628358896905	CMakeFiles/StudentRecordSystem.dir/main.cpp.obj	4b1d290ea4156265
+783	2555	6814628360406607	CMakeFiles/StudentRecordSystem.dir/mainwindow.cpp.obj	13795087fdd174e9
+2556	2766	6814628362455784	StudentRecordSystem.exe	fe5a1cc114753d51
+22	230	6814634064031905	StudentRecordSystem_autogen/timestamp	5a01532e88adf11f
+22	230	6814634064031905	StudentRecordSystem_autogen/mocs_compilation.cpp	5a01532e88adf11f
+22	230	6814634064031905	E:/Works/Qt Course/Student Record System/build-StudentRecordSystem-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/StudentRecordSystem_autogen/timestamp	5a01532e88adf11f
+22	230	6814634064031905	E:/Works/Qt Course/Student Record System/build-StudentRecordSystem-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/StudentRecordSystem_autogen/mocs_compilation.cpp	5a01532e88adf11f
+239	1815	6814634079872685	CMakeFiles/StudentRecordSystem.dir/mainwindow.cpp.obj	13795087fdd174e9
+1815	2006	6814634081693092	StudentRecordSystem.exe	fe5a1cc114753d51
+25	299	6814636289083936	StudentRecordSystem_autogen/timestamp	5a01532e88adf11f
+25	299	6814636289083936	StudentRecordSystem_autogen/mocs_compilation.cpp	5a01532e88adf11f
+25	299	6814636289083936	E:/Works/Qt Course/Student Record System/build-StudentRecordSystem-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/StudentRecordSystem_autogen/timestamp	5a01532e88adf11f
+25	299	6814636289083936	E:/Works/Qt Course/Student Record System/build-StudentRecordSystem-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/StudentRecordSystem_autogen/mocs_compilation.cpp	5a01532e88adf11f
+313	2176	6814636307808719	CMakeFiles/StudentRecordSystem.dir/mainwindow.cpp.obj	13795087fdd174e9
+2176	2410	6814636310092373	StudentRecordSystem.exe	fe5a1cc114753d51
+14	703	6814642460491804	StudentRecordSystem_autogen/timestamp	5a01532e88adf11f
+14	703	6814642460491804	StudentRecordSystem_autogen/mocs_compilation.cpp	5a01532e88adf11f
+14	703	6814642460491804	E:/Works/Qt Course/Student Record System/build-StudentRecordSystem-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/StudentRecordSystem_autogen/timestamp	5a01532e88adf11f
+14	703	6814642460491804	E:/Works/Qt Course/Student Record System/build-StudentRecordSystem-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/StudentRecordSystem_autogen/mocs_compilation.cpp	5a01532e88adf11f
+703	2505	6814642479824634	CMakeFiles/StudentRecordSystem.dir/StudentRecordSystem_autogen/mocs_compilation.cpp.obj	97f4878c9789a5c5
+706	2511	6814642479868484	CMakeFiles/StudentRecordSystem.dir/main.cpp.obj	4b1d290ea4156265
+708	2736	6814642482117746	CMakeFiles/StudentRecordSystem.dir/mainwindow.cpp.obj	13795087fdd174e9
+2736	2938	6814642484081786	StudentRecordSystem.exe	fe5a1cc114753d51
+14	215	6814642801579578	StudentRecordSystem_autogen/timestamp	5a01532e88adf11f
+14	215	6814642801579578	StudentRecordSystem_autogen/mocs_compilation.cpp	5a01532e88adf11f
+14	215	6814642801579578	E:/Works/Qt Course/Student Record System/build-StudentRecordSystem-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/StudentRecordSystem_autogen/timestamp	5a01532e88adf11f
+14	215	6814642801579578	E:/Works/Qt Course/Student Record System/build-StudentRecordSystem-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/StudentRecordSystem_autogen/mocs_compilation.cpp	5a01532e88adf11f
+16	208	6814644063119719	StudentRecordSystem_autogen/timestamp	5a01532e88adf11f
+16	208	6814644063119719	StudentRecordSystem_autogen/mocs_compilation.cpp	5a01532e88adf11f
+16	208	6814644063119719	E:/Works/Qt Course/Student Record System/build-StudentRecordSystem-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/StudentRecordSystem_autogen/timestamp	5a01532e88adf11f
+16	208	6814644063119719	E:/Works/Qt Course/Student Record System/build-StudentRecordSystem-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/StudentRecordSystem_autogen/mocs_compilation.cpp	5a01532e88adf11f
+217	2003	6814644081074964	CMakeFiles/StudentRecordSystem.dir/mainwindow.cpp.obj	13795087fdd174e9
+2004	2202	6814644083024104	StudentRecordSystem.exe	fe5a1cc114753d51
+12	223	6814644654674272	StudentRecordSystem_autogen/timestamp	5a01532e88adf11f
+12	223	6814644654674272	StudentRecordSystem_autogen/mocs_compilation.cpp	5a01532e88adf11f
+12	223	6814644654674272	E:/Works/Qt Course/Student Record System/build-StudentRecordSystem-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/StudentRecordSystem_autogen/timestamp	5a01532e88adf11f
+12	223	6814644654674272	E:/Works/Qt Course/Student Record System/build-StudentRecordSystem-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/StudentRecordSystem_autogen/mocs_compilation.cpp	5a01532e88adf11f
+231	1854	6814644670984287	CMakeFiles/StudentRecordSystem.dir/mainwindow.cpp.obj	13795087fdd174e9
+1855	2046	6814644672824884	StudentRecordSystem.exe	fe5a1cc114753d51
+13	207	6814645024465603	StudentRecordSystem_autogen/timestamp	5a01532e88adf11f
+13	207	6814645024465603	StudentRecordSystem_autogen/mocs_compilation.cpp	5a01532e88adf11f
+13	207	6814645024465603	E:/Works/Qt Course/Student Record System/build-StudentRecordSystem-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/StudentRecordSystem_autogen/timestamp	5a01532e88adf11f
+13	207	6814645024465603	E:/Works/Qt Course/Student Record System/build-StudentRecordSystem-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/StudentRecordSystem_autogen/mocs_compilation.cpp	5a01532e88adf11f
+14	200	6814645046724390	StudentRecordSystem_autogen/timestamp	5a01532e88adf11f
+14	200	6814645046724390	StudentRecordSystem_autogen/mocs_compilation.cpp	5a01532e88adf11f
+14	200	6814645046724390	E:/Works/Qt Course/Student Record System/build-StudentRecordSystem-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/StudentRecordSystem_autogen/timestamp	5a01532e88adf11f
+14	200	6814645046724390	E:/Works/Qt Course/Student Record System/build-StudentRecordSystem-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/StudentRecordSystem_autogen/mocs_compilation.cpp	5a01532e88adf11f
+210	2006	6814645064787809	CMakeFiles/StudentRecordSystem.dir/mainwindow.cpp.obj	13795087fdd174e9
+2006	2201	6814645066702120	StudentRecordSystem.exe	fe5a1cc114753d51
+14	227	6814645350520625	StudentRecordSystem_autogen/timestamp	5a01532e88adf11f
+14	227	6814645350520625	StudentRecordSystem_autogen/mocs_compilation.cpp	5a01532e88adf11f
+14	227	6814645350520625	E:/Works/Qt Course/Student Record System/build-StudentRecordSystem-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/StudentRecordSystem_autogen/timestamp	5a01532e88adf11f
+14	227	6814645350520625	E:/Works/Qt Course/Student Record System/build-StudentRecordSystem-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/StudentRecordSystem_autogen/mocs_compilation.cpp	5a01532e88adf11f
+236	1984	6814645368100793	CMakeFiles/StudentRecordSystem.dir/mainwindow.cpp.obj	13795087fdd174e9
+1985	2178	6814645369997947	StudentRecordSystem.exe	fe5a1cc114753d51

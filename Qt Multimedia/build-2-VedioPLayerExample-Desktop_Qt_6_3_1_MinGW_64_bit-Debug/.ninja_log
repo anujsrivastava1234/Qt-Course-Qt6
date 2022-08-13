@@ -1,0 +1,46 @@
+# ninja log v5
+717	3034	6810460109316255	CMakeFiles/2-VedioPLayerExample.dir/2-VedioPLayerExample_autogen/mocs_compilation.cpp.obj	ce9d1058c4e6919c
+719	3040	6810460109386281	CMakeFiles/2-VedioPLayerExample.dir/main.cpp.obj	fe8c5108f5df8c15
+13	336	6810486458344409	2-VedioPLayerExample_autogen/timestamp	6face1a3af8159a1
+13	336	6810486458344409	2-VedioPLayerExample_autogen/mocs_compilation.cpp	6face1a3af8159a1
+949	1006	6810420832765632	2-VedioPLayerExample_autogen/EWIEGA46WW/qrc_res.cpp	580bb027ed075879
+13	336	6810486458344409	E:/Works/Qt Course/Qt Multimedia/build-2-VedioPLayerExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-VedioPLayerExample_autogen/timestamp	6face1a3af8159a1
+949	1006	6810420832765632	E:/Works/Qt Course/Qt Multimedia/build-2-VedioPLayerExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-VedioPLayerExample_autogen/EWIEGA46WW/qrc_res.cpp	580bb027ed075879
+13	336	6810486458344409	E:/Works/Qt Course/Qt Multimedia/build-2-VedioPLayerExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-VedioPLayerExample_autogen/mocs_compilation.cpp	6face1a3af8159a1
+1009	1227	6810420835025239	CMakeFiles/2-VedioPLayerExample.dir/2-VedioPLayerExample_autogen/EWIEGA46WW/qrc_res.cpp.obj	7fd4b7e227e70944
+348	3209	6810486487065188	CMakeFiles/2-VedioPLayerExample.dir/mainwindow.cpp.obj	6f25e735a8decf8b
+3210	3531	6810486490239672	2-VedioPLayerExample.exe	c7b56919e68f0dea
+27	303	6810486641318431	2-VedioPLayerExample_autogen/timestamp	6face1a3af8159a1
+27	303	6810486641318431	2-VedioPLayerExample_autogen/mocs_compilation.cpp	6face1a3af8159a1
+27	303	6810486641318431	E:/Works/Qt Course/Qt Multimedia/build-2-VedioPLayerExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-VedioPLayerExample_autogen/timestamp	6face1a3af8159a1
+27	303	6810486641318431	E:/Works/Qt Course/Qt Multimedia/build-2-VedioPLayerExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-VedioPLayerExample_autogen/mocs_compilation.cpp	6face1a3af8159a1
+320	3290	6810486671174484	CMakeFiles/2-VedioPLayerExample.dir/mainwindow.cpp.obj	6f25e735a8decf8b
+3291	3722	6810486675446302	2-VedioPLayerExample.exe	c7b56919e68f0dea
+30	383	6810488791332706	2-VedioPLayerExample_autogen/timestamp	6face1a3af8159a1
+30	383	6810488791332706	2-VedioPLayerExample_autogen/mocs_compilation.cpp	6face1a3af8159a1
+30	383	6810488791332706	E:/Works/Qt Course/Qt Multimedia/build-2-VedioPLayerExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-VedioPLayerExample_autogen/timestamp	6face1a3af8159a1
+30	383	6810488791332706	E:/Works/Qt Course/Qt Multimedia/build-2-VedioPLayerExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-VedioPLayerExample_autogen/mocs_compilation.cpp	6face1a3af8159a1
+401	3214	6810488819632800	CMakeFiles/2-VedioPLayerExample.dir/mainwindow.cpp.obj	6f25e735a8decf8b
+3215	3584	6810488823287493	2-VedioPLayerExample.exe	c7b56919e68f0dea
+22	330	6810489362800053	2-VedioPLayerExample_autogen/timestamp	6face1a3af8159a1
+22	330	6810489362800053	2-VedioPLayerExample_autogen/mocs_compilation.cpp	6face1a3af8159a1
+22	330	6810489362800053	E:/Works/Qt Course/Qt Multimedia/build-2-VedioPLayerExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-VedioPLayerExample_autogen/timestamp	6face1a3af8159a1
+22	330	6810489362800053	E:/Works/Qt Course/Qt Multimedia/build-2-VedioPLayerExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-VedioPLayerExample_autogen/mocs_compilation.cpp	6face1a3af8159a1
+344	2887	6810489388358103	CMakeFiles/2-VedioPLayerExample.dir/mainwindow.cpp.obj	6f25e735a8decf8b
+2887	3254	6810489391965635	2-VedioPLayerExample.exe	c7b56919e68f0dea
+24	923	6810491332676796	2-VedioPLayerExample_autogen/timestamp	6face1a3af8159a1
+24	923	6810491332676796	2-VedioPLayerExample_autogen/mocs_compilation.cpp	6face1a3af8159a1
+24	923	6810491332676796	E:/Works/Qt Course/Qt Multimedia/build-2-VedioPLayerExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-VedioPLayerExample_autogen/timestamp	6face1a3af8159a1
+24	923	6810491332676796	E:/Works/Qt Course/Qt Multimedia/build-2-VedioPLayerExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-VedioPLayerExample_autogen/mocs_compilation.cpp	6face1a3af8159a1
+930	3768	6810491362772808	CMakeFiles/2-VedioPLayerExample.dir/main.cpp.obj	fe8c5108f5df8c15
+923	3791	6810491363025236	CMakeFiles/2-VedioPLayerExample.dir/2-VedioPLayerExample_autogen/mocs_compilation.cpp.obj	ce9d1058c4e6919c
+926	4001	6810491365114538	CMakeFiles/2-VedioPLayerExample.dir/mainwindow.cpp.obj	6f25e735a8decf8b
+4001	4348	6810491368546763	2-VedioPLayerExample.exe	c7b56919e68f0dea
+21	1016	6810497373167173	2-VedioPLayerExample_autogen/timestamp	6face1a3af8159a1
+21	1016	6810497373167173	2-VedioPLayerExample_autogen/mocs_compilation.cpp	6face1a3af8159a1
+21	1016	6810497373167173	E:/Works/Qt Course/Qt Multimedia/build-2-VedioPLayerExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-VedioPLayerExample_autogen/timestamp	6face1a3af8159a1
+21	1016	6810497373167173	E:/Works/Qt Course/Qt Multimedia/build-2-VedioPLayerExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-VedioPLayerExample_autogen/mocs_compilation.cpp	6face1a3af8159a1
+1020	4063	6810497405464296	CMakeFiles/2-VedioPLayerExample.dir/main.cpp.obj	fe8c5108f5df8c15
+1016	4186	6810497406691496	CMakeFiles/2-VedioPLayerExample.dir/2-VedioPLayerExample_autogen/mocs_compilation.cpp.obj	ce9d1058c4e6919c
+1024	4431	6810497409132722	CMakeFiles/2-VedioPLayerExample.dir/mainwindow.cpp.obj	6f25e735a8decf8b
+4432	4744	6810497412218180	2-VedioPLayerExample.exe	c7b56919e68f0dea

@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/14-TransformationExample">
+    <file alias="qmldir">E:/Works/Qt Course/Qt Quick/build-14-TransformationExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/14-TransformationExample/qmldir</file>
+  </qresource>
+</RCC>
+

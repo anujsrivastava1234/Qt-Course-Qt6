@@ -1,0 +1,16 @@
+E:/Works/Qt Course/Qt Quick/build-10-PositioningElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/app10-PositioningElements.dir
+E:/Works/Qt Course/Qt Quick/build-10-PositioningElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/app10-PositioningElements_qmltyperegistration.dir
+E:/Works/Qt Course/Qt Quick/build-10-PositioningElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/all_qmltyperegistrations.dir
+E:/Works/Qt Course/Qt Quick/build-10-PositioningElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/app10-PositioningElements_other_files.dir
+E:/Works/Qt Course/Qt Quick/build-10-PositioningElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/app10-PositioningElements_qmllint.dir
+E:/Works/Qt Course/Qt Quick/build-10-PositioningElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/all_qmllint.dir
+E:/Works/Qt Course/Qt Quick/build-10-PositioningElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/app10-PositioningElements_tooling.dir
+E:/Works/Qt Course/Qt Quick/build-10-PositioningElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/app10-PositioningElements_qmlimportscan.dir
+E:/Works/Qt Course/Qt Quick/build-10-PositioningElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+E:/Works/Qt Course/Qt Quick/build-10-PositioningElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+E:/Works/Qt Course/Qt Quick/build-10-PositioningElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+E:/Works/Qt Course/Qt Quick/build-10-PositioningElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/install.dir
+E:/Works/Qt Course/Qt Quick/build-10-PositioningElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+E:/Works/Qt Course/Qt Quick/build-10-PositioningElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+E:/Works/Qt Course/Qt Quick/build-10-PositioningElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/app10-PositioningElements_autogen_timestamp_deps.dir
+E:/Works/Qt Course/Qt Quick/build-10-PositioningElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/app10-PositioningElements_autogen.dir

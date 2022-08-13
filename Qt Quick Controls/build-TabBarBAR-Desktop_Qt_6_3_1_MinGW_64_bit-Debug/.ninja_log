@@ -1,0 +1,37 @@
+# ninja log v5
+5	80	6821018353895341	.rcc/qmlcache/appTabBarBAR_qmlcache_loader.cpp	91f9c7343424731b
+5	80	6821018353895341	E:/Works/Qt Course/Qt Quick Controls/build-TabBarBAR-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/appTabBarBAR_qmlcache_loader.cpp	91f9c7343424731b
+4	41	6821022557913471	TabBarBAR/main.qml	4eeb6cdd1e9c7ad5
+4	41	6821022557913471	E:/Works/Qt Course/Qt Quick Controls/build-TabBarBAR-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/TabBarBAR/main.qml	4eeb6cdd1e9c7ad5
+81	383	6821018355729283	appTabBarBAR_autogen/timestamp	fa39656f00e1ebf1
+2086	2316	6821022580634776	appTabBarBAR.exe	6d9d825206ea83bb
+81	383	6821018355729283	appTabBarBAR_autogen/mocs_compilation.cpp	fa39656f00e1ebf1
+81	383	6821018355729283	E:/Works/Qt Course/Qt Quick Controls/build-TabBarBAR-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/appTabBarBAR_autogen/mocs_compilation.cpp	fa39656f00e1ebf1
+81	383	6821018355729283	E:/Works/Qt Course/Qt Quick Controls/build-TabBarBAR-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/appTabBarBAR_autogen/timestamp	fa39656f00e1ebf1
+385	431	6821018357422215	meta_types/appTabBarBAR_json_file_list.txt	91e1b80324048eaa
+487	683	6821018358819265	apptabbarbar_qmltyperegistrations.cpp	ee0201293e8427ae
+385	431	6821018357422215	meta_types/appTabBarBAR_json_file_list.txt.timestamp	91e1b80324048eaa
+431	486	6821018357981052	meta_types/qt6apptabbarbar_debug_metatypes.json	fca2803ffa77d09e
+385	431	6821018357422215	E:/Works/Qt Course/Qt Quick Controls/build-TabBarBAR-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/appTabBarBAR_json_file_list.txt	91e1b80324048eaa
+385	431	6821018357422215	E:/Works/Qt Course/Qt Quick Controls/build-TabBarBAR-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/appTabBarBAR_json_file_list.txt.timestamp	91e1b80324048eaa
+431	486	6821018357981052	meta_types/qt6apptabbarbar_debug_metatypes.json.gen	fca2803ffa77d09e
+431	486	6821018357981052	E:/Works/Qt Course/Qt Quick Controls/build-TabBarBAR-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6apptabbarbar_debug_metatypes.json.gen	fca2803ffa77d09e
+431	486	6821018357981052	E:/Works/Qt Course/Qt Quick Controls/build-TabBarBAR-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6apptabbarbar_debug_metatypes.json	fca2803ffa77d09e
+318	448	6821022561918132	E:/Works/Qt Course/Qt Quick Controls/build-TabBarBAR-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/appTabBarBAR_main_qml.cpp	26d55a240775110c
+8	315	6821022560660167	.qt_plugins/Qt6_QmlPlugins_Imports_appTabBarBAR.cmake	45ed80f4c18cbccd
+8	315	6821022560660167	E:/Works/Qt Course/Qt Quick Controls/build-TabBarBAR-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appTabBarBAR.cmake	45ed80f4c18cbccd
+576	627	6821018359347826	.rcc/qrc_qmake_TabBarBAR.cpp	180d6a99f7eb099a
+576	627	6821018359347826	E:/Works/Qt Course/Qt Quick Controls/build-TabBarBAR-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_qmake_TabBarBAR.cpp	180d6a99f7eb099a
+315	343	6821022560927184	.rcc/qrc_appTabBarBAR_raw_qml_0.cpp	8ba67c951656da50
+487	683	6821018358819265	E:/Works/Qt Course/Qt Quick Controls/build-TabBarBAR-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/apptabbarbar_qmltyperegistrations.cpp	ee0201293e8427ae
+315	343	6821022560927184	E:/Works/Qt Course/Qt Quick Controls/build-TabBarBAR-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_appTabBarBAR_raw_qml_0.cpp	8ba67c951656da50
+487	683	6821018358819265	TabBarBAR/appTabBarBAR.qmltypes	ee0201293e8427ae
+487	683	6821018358819265	E:/Works/Qt Course/Qt Quick Controls/build-TabBarBAR-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/TabBarBAR/appTabBarBAR.qmltypes	ee0201293e8427ae
+318	448	6821022561918132	.rcc/qmlcache/appTabBarBAR_main_qml.cpp	26d55a240775110c
+990	3949	6821018392623086	CMakeFiles/appTabBarBAR.dir/.rcc/qmlcache/appTabBarBAR_qmlcache_loader.cpp.obj	b55092fac75ce056
+961	1122	6821018364295365	CMakeFiles/appTabBarBAR.dir/appTabBarBAR_autogen/mocs_compilation.cpp.obj	6171ebf577a3645a
+969	3707	6821018390185772	CMakeFiles/appTabBarBAR.dir/main.cpp.obj	70f239b7459a9590
+451	528	6821022562792008	CMakeFiles/appTabBarBAR.dir/.rcc/qrc_appTabBarBAR_raw_qml_0.cpp.obj	faa887a22af65a36
+449	2086	6821022578361167	CMakeFiles/appTabBarBAR.dir/.rcc/qmlcache/appTabBarBAR_main_qml.cpp.obj	6d5bfb343263ed14
+976	1165	6821018364656184	CMakeFiles/appTabBarBAR.dir/.rcc/qrc_qmake_TabBarBAR.cpp.obj	940abdc2ac777394
+954	3535	6821018388474302	CMakeFiles/appTabBarBAR.dir/apptabbarbar_qmltyperegistrations.cpp.obj	f8a84df91ae343c1

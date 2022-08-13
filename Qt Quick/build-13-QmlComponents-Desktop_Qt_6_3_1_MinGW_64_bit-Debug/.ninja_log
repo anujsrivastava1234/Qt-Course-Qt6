@@ -1,0 +1,82 @@
+# ninja log v5
+595	4403	6814121139314370	CMakeFiles/app13-QmlComponents.dir/.rcc/qmlcache/app13-QmlComponents_qmlcache_loader.cpp.obj	24e7b500896a0fa7
+8	38	6814127007993410	13-QmlComponents/main.qml	e5e28728139dd66f
+8	38	6814127007993410	E:/Works/Qt Course/Qt Quick/build-13-QmlComponents-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/13-QmlComponents/main.qml	e5e28728139dd66f
+1	82	6814121096076097	.rcc/qmlcache/app13-QmlComponents_qmlcache_loader.cpp	7b6692abf4f90d23
+360	492	6814121099646421	E:/Works/Qt Course/Qt Quick/build-13-QmlComponents-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/13-QmlComponents/app13-QmlComponents.qmltypes	83c20bbed8686791
+82	264	6814121097291813	app13-QmlComponents_autogen/mocs_compilation.cpp	f692f3e80e5ae310
+1	82	6814121096076097	E:/Works/Qt Course/Qt Quick/build-13-QmlComponents-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app13-QmlComponents_qmlcache_loader.cpp	7b6692abf4f90d23
+5	42	6814127008029380	.qt_plugins/Qt6_QmlPlugins_Imports_app13-QmlComponents.cmake	c2587a8985551619
+5	42	6814127008029380	E:/Works/Qt Course/Qt Quick/build-13-QmlComponents-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app13-QmlComponents.cmake	c2587a8985551619
+82	264	6814121097291813	app13-QmlComponents_autogen/timestamp	f692f3e80e5ae310
+139	1906	6814127026684338	CMakeFiles/app13-QmlComponents.dir/.rcc/qmlcache/app13-QmlComponents_main_qml.cpp.obj	538bd3a8e03b8bb4
+82	264	6814121097291813	E:/Works/Qt Course/Qt Quick/build-13-QmlComponents-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app13-QmlComponents_autogen/timestamp	f692f3e80e5ae310
+82	264	6814121097291813	E:/Works/Qt Course/Qt Quick/build-13-QmlComponents-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app13-QmlComponents_autogen/mocs_compilation.cpp	f692f3e80e5ae310
+44	75	6814127008356291	.rcc/qrc_app13-QmlComponents_raw_qml_0.cpp	9d15d31de9c3410f
+42	139	6814127008954696	E:/Works/Qt Course/Qt Quick/build-13-QmlComponents-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app13-QmlComponents_main_qml.cpp	5d5c82c2b1215ae1
+44	75	6814127008356291	E:/Works/Qt Course/Qt Quick/build-13-QmlComponents-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app13-QmlComponents_raw_qml_0.cpp	9d15d31de9c3410f
+42	139	6814127008954696	.rcc/qmlcache/app13-QmlComponents_main_qml.cpp	5d5c82c2b1215ae1
+267	321	6814121098485698	.rcc/qrc_qmake_13-QmlComponents.cpp	1ded3f194f1f7271
+267	321	6814121098485698	E:/Works/Qt Course/Qt Quick/build-13-QmlComponents-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_qmake_13-QmlComponents.cpp	1ded3f194f1f7271
+587	4058	6814121135776670	CMakeFiles/app13-QmlComponents.dir/main.cpp.obj	69aa4547275c7a8a
+264	323	6814121098519414	meta_types/app13-QmlComponents_json_file_list.txt	53769b599f9cb14b
+264	323	6814121098519414	meta_types/app13-QmlComponents_json_file_list.txt.timestamp	53769b599f9cb14b
+264	323	6814121098519414	E:/Works/Qt Course/Qt Quick/build-13-QmlComponents-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/app13-QmlComponents_json_file_list.txt	53769b599f9cb14b
+592	762	6814121102875593	CMakeFiles/app13-QmlComponents.dir/.rcc/qrc_qmake_13-QmlComponents.cpp.obj	dedb4b8992a57ef6
+264	323	6814121098519414	E:/Works/Qt Course/Qt Quick/build-13-QmlComponents-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/app13-QmlComponents_json_file_list.txt.timestamp	53769b599f9cb14b
+323	359	6814121098878862	meta_types/qt6app13-qmlcomponents_debug_metatypes.json.gen	55944cc30d95e6dc
+323	359	6814121098878862	meta_types/qt6app13-qmlcomponents_debug_metatypes.json	55944cc30d95e6dc
+323	359	6814121098878862	E:/Works/Qt Course/Qt Quick/build-13-QmlComponents-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6app13-qmlcomponents_debug_metatypes.json.gen	55944cc30d95e6dc
+323	359	6814121098878862	E:/Works/Qt Course/Qt Quick/build-13-QmlComponents-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6app13-qmlcomponents_debug_metatypes.json	55944cc30d95e6dc
+360	492	6814121099646421	app13-qmlcomponents_qmltyperegistrations.cpp	83c20bbed8686791
+360	492	6814121099646421	13-QmlComponents/app13-QmlComponents.qmltypes	83c20bbed8686791
+360	492	6814121099646421	E:/Works/Qt Course/Qt Quick/build-13-QmlComponents-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app13-qmlcomponents_qmltyperegistrations.cpp	83c20bbed8686791
+142	217	6814127009792592	CMakeFiles/app13-QmlComponents.dir/.rcc/qrc_app13-QmlComponents_raw_qml_0.cpp.obj	e54433e5d2b643b8
+584	751	6814121102644604	CMakeFiles/app13-QmlComponents.dir/app13-QmlComponents_autogen/mocs_compilation.cpp.obj	170532e99a6a2a39
+590	3605	6814121131324087	CMakeFiles/app13-QmlComponents.dir/app13-qmlcomponents_qmltyperegistrations.cpp.obj	3c7421dd9851a744
+1907	2165	6814127029228980	app13-QmlComponents.exe	ae5a04a587c603e9
+9	38	6814127246389119	13-QmlComponents/main.qml	e5e28728139dd66f
+9	38	6814127246389119	E:/Works/Qt Course/Qt Quick/build-13-QmlComponents-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/13-QmlComponents/main.qml	e5e28728139dd66f
+5	41	6814127246429893	.qt_plugins/Qt6_QmlPlugins_Imports_app13-QmlComponents.cmake	c2587a8985551619
+5	41	6814127246429893	E:/Works/Qt Course/Qt Quick/build-13-QmlComponents-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app13-QmlComponents.cmake	c2587a8985551619
+44	75	6814127246762534	.rcc/qrc_app13-QmlComponents_raw_qml_0.cpp	9d15d31de9c3410f
+44	75	6814127246762534	E:/Works/Qt Course/Qt Quick/build-13-QmlComponents-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app13-QmlComponents_raw_qml_0.cpp	9d15d31de9c3410f
+7	38	6814127392868761	.qt_plugins/Qt6_QmlPlugins_Imports_app13-QmlComponents.cmake	c2587a8985551619
+7	38	6814127392868761	E:/Works/Qt Course/Qt Quick/build-13-QmlComponents-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app13-QmlComponents.cmake	c2587a8985551619
+10	41	6814127392892410	13-QmlComponents/main.qml	e5e28728139dd66f
+10	41	6814127392892410	E:/Works/Qt Course/Qt Quick/build-13-QmlComponents-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/13-QmlComponents/main.qml	e5e28728139dd66f
+41	68	6814127393165449	.rcc/qrc_app13-QmlComponents_raw_qml_0.cpp	9d15d31de9c3410f
+41	68	6814127393165449	E:/Works/Qt Course/Qt Quick/build-13-QmlComponents-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app13-QmlComponents_raw_qml_0.cpp	9d15d31de9c3410f
+5	37	6814127488416963	.qt_plugins/Qt6_QmlPlugins_Imports_app13-QmlComponents.cmake	c2587a8985551619
+5	37	6814127488416963	E:/Works/Qt Course/Qt Quick/build-13-QmlComponents-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app13-QmlComponents.cmake	c2587a8985551619
+9	40	6814127488447020	13-QmlComponents/main.qml	e5e28728139dd66f
+9	40	6814127488447020	E:/Works/Qt Course/Qt Quick/build-13-QmlComponents-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/13-QmlComponents/main.qml	e5e28728139dd66f
+43	70	6814127488747330	.rcc/qrc_app13-QmlComponents_raw_qml_0.cpp	9d15d31de9c3410f
+43	70	6814127488747330	E:/Works/Qt Course/Qt Quick/build-13-QmlComponents-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app13-QmlComponents_raw_qml_0.cpp	9d15d31de9c3410f
+40	136	6814127489343245	.rcc/qmlcache/app13-QmlComponents_main_qml.cpp	5d5c82c2b1215ae1
+40	136	6814127489343245	E:/Works/Qt Course/Qt Quick/build-13-QmlComponents-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app13-QmlComponents_main_qml.cpp	5d5c82c2b1215ae1
+140	217	6814127490238648	CMakeFiles/app13-QmlComponents.dir/.rcc/qrc_app13-QmlComponents_raw_qml_0.cpp.obj	e54433e5d2b643b8
+137	1866	6814127506705013	CMakeFiles/app13-QmlComponents.dir/.rcc/qmlcache/app13-QmlComponents_main_qml.cpp.obj	538bd3a8e03b8bb4
+1866	2085	6814127508867284	app13-QmlComponents.exe	ae5a04a587c603e9
+5	35	6814128047435370	13-QmlComponents/main.qml	e5e28728139dd66f
+5	35	6814128047435370	E:/Works/Qt Course/Qt Quick/build-13-QmlComponents-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/13-QmlComponents/main.qml	e5e28728139dd66f
+8	40	6814128047481685	.qt_plugins/Qt6_QmlPlugins_Imports_app13-QmlComponents.cmake	c2587a8985551619
+8	40	6814128047481685	E:/Works/Qt Course/Qt Quick/build-13-QmlComponents-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app13-QmlComponents.cmake	c2587a8985551619
+40	70	6814128047780357	.rcc/qrc_app13-QmlComponents_raw_qml_0.cpp	9d15d31de9c3410f
+40	70	6814128047780357	E:/Works/Qt Course/Qt Quick/build-13-QmlComponents-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app13-QmlComponents_raw_qml_0.cpp	9d15d31de9c3410f
+43	138	6814128048406011	.rcc/qmlcache/app13-QmlComponents_main_qml.cpp	5d5c82c2b1215ae1
+43	138	6814128048406011	E:/Works/Qt Course/Qt Quick/build-13-QmlComponents-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app13-QmlComponents_main_qml.cpp	5d5c82c2b1215ae1
+140	209	6814128049183499	CMakeFiles/app13-QmlComponents.dir/.rcc/qrc_app13-QmlComponents_raw_qml_0.cpp.obj	e54433e5d2b643b8
+138	1881	6814128065888903	CMakeFiles/app13-QmlComponents.dir/.rcc/qmlcache/app13-QmlComponents_main_qml.cpp.obj	538bd3a8e03b8bb4
+1881	2096	6814128068001421	app13-QmlComponents.exe	ae5a04a587c603e9
+10	47	6814180680081811	.qt_plugins/Qt6_QmlPlugins_Imports_app13-QmlComponents.cmake	c2587a8985551619
+10	47	6814180680081811	E:/Works/Qt Course/Qt Quick/build-13-QmlComponents-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app13-QmlComponents.cmake	c2587a8985551619
+7	50	6814180680111635	13-QmlComponents/main.qml	e5e28728139dd66f
+7	50	6814180680111635	E:/Works/Qt Course/Qt Quick/build-13-QmlComponents-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/13-QmlComponents/main.qml	e5e28728139dd66f
+52	84	6814180680445999	.rcc/qrc_app13-QmlComponents_raw_qml_0.cpp	9d15d31de9c3410f
+52	84	6814180680445999	E:/Works/Qt Course/Qt Quick/build-13-QmlComponents-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app13-QmlComponents_raw_qml_0.cpp	9d15d31de9c3410f
+50	160	6814180681162915	.rcc/qmlcache/app13-QmlComponents_main_qml.cpp	5d5c82c2b1215ae1
+50	160	6814180681162915	E:/Works/Qt Course/Qt Quick/build-13-QmlComponents-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app13-QmlComponents_main_qml.cpp	5d5c82c2b1215ae1
+163	248	6814180682106895	CMakeFiles/app13-QmlComponents.dir/.rcc/qrc_app13-QmlComponents_raw_qml_0.cpp.obj	e54433e5d2b643b8
+160	1945	6814180699067958	CMakeFiles/app13-QmlComponents.dir/.rcc/qmlcache/app13-QmlComponents_main_qml.cpp.obj	538bd3a8e03b8bb4
+1945	2199	6814180701567324	app13-QmlComponents.exe	ae5a04a587c603e9

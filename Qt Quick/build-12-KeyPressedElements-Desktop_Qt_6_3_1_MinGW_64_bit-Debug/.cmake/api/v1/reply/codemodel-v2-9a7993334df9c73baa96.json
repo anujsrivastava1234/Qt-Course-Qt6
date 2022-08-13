@@ -1,0 +1,142 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-b9b187d176bb863ba3fd.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "12-KeyPressedElements",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-4ce43229737e27192a6f.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-ef1dfbc6603a67823da5.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app12-KeyPressedElements::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app12-KeyPressedElements-Debug-b7aaf44fd66f75809bc6.json",
+					"name" : "app12-KeyPressedElements",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app12-KeyPressedElements_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app12-KeyPressedElements_autogen-Debug-4d32e66a2e76a8ce6a03.json",
+					"name" : "app12-KeyPressedElements_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app12-KeyPressedElements_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app12-KeyPressedElements_autogen_timestamp_deps-Debug-4bdeed471df06598a5aa.json",
+					"name" : "app12-KeyPressedElements_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app12-KeyPressedElements_other_files::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app12-KeyPressedElements_other_files-Debug-859645d667fb066b4223.json",
+					"name" : "app12-KeyPressedElements_other_files",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app12-KeyPressedElements_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app12-KeyPressedElements_qmlimportscan-Debug-bc21057d43693b614dd9.json",
+					"name" : "app12-KeyPressedElements_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app12-KeyPressedElements_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app12-KeyPressedElements_qmllint-Debug-1157e4b97e3e4c947f34.json",
+					"name" : "app12-KeyPressedElements_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app12-KeyPressedElements_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app12-KeyPressedElements_qmltyperegistration-Debug-44d141dfa6ea60dbea67.json",
+					"name" : "app12-KeyPressedElements_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app12-KeyPressedElements_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app12-KeyPressedElements_tooling-Debug-13126e5dc15f1b0cb94f.json",
+					"name" : "app12-KeyPressedElements_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/Works/Qt Course/Qt Quick/build-12-KeyPressedElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
+		"source" : "E:/Works/Qt Course/Qt Quick/12-KeyPressedElements"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

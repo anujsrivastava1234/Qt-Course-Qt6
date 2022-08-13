@@ -1,0 +1,61 @@
+# ninja log v5
+1	1620	6806478228455294	3-PathFinder_autogen/timestamp	57b4e0f89e06f11c
+1	1620	6806478228455294	3-PathFinder_autogen/mocs_compilation.cpp	57b4e0f89e06f11c
+1	1620	6806478228455294	E:/Works/Qt Course/Graphics and Painting/build-3-PathFinder-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-PathFinder_autogen/mocs_compilation.cpp	57b4e0f89e06f11c
+1	1620	6806478228455294	E:/Works/Qt Course/Graphics and Painting/build-3-PathFinder-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-PathFinder_autogen/timestamp	57b4e0f89e06f11c
+1621	5283	6806478268022518	CMakeFiles/3-PathFinder.dir/3-PathFinder_autogen/mocs_compilation.cpp.obj	b8ad1e182c723c7f
+1624	5269	6806478267906747	CMakeFiles/3-PathFinder.dir/main.cpp.obj	9d982b6a7a0726a7
+1630	5336	6806478268579845	CMakeFiles/3-PathFinder.dir/widget.cpp.obj	101c1b3f61ccb7c
+5337	5690	6806478272045464	3-PathFinder.exe	6b41665b8bd40003
+6	1374	6806479704688276	3-PathFinder_autogen/timestamp	57b4e0f89e06f11c
+6	1374	6806479704688276	3-PathFinder_autogen/mocs_compilation.cpp	57b4e0f89e06f11c
+6	1374	6806479704688276	E:/Works/Qt Course/Graphics and Painting/build-3-PathFinder-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-PathFinder_autogen/timestamp	57b4e0f89e06f11c
+6	1374	6806479704688276	E:/Works/Qt Course/Graphics and Painting/build-3-PathFinder-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-PathFinder_autogen/mocs_compilation.cpp	57b4e0f89e06f11c
+1378	3855	6806479732148824	CMakeFiles/3-PathFinder.dir/widget.cpp.obj	101c1b3f61ccb7c
+1383	3878	6806479732391233	CMakeFiles/3-PathFinder.dir/main.cpp.obj	9d982b6a7a0726a7
+1374	3882	6806479732435971	CMakeFiles/3-PathFinder.dir/3-PathFinder_autogen/mocs_compilation.cpp.obj	b8ad1e182c723c7f
+3882	4167	6806479735192583	3-PathFinder.exe	6b41665b8bd40003
+10	353	6806480149189546	3-PathFinder_autogen/timestamp	57b4e0f89e06f11c
+10	353	6806480149189546	3-PathFinder_autogen/mocs_compilation.cpp	57b4e0f89e06f11c
+10	353	6806480149189546	E:/Works/Qt Course/Graphics and Painting/build-3-PathFinder-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-PathFinder_autogen/timestamp	57b4e0f89e06f11c
+10	353	6806480149189546	E:/Works/Qt Course/Graphics and Painting/build-3-PathFinder-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-PathFinder_autogen/mocs_compilation.cpp	57b4e0f89e06f11c
+370	3282	6806480178502378	CMakeFiles/3-PathFinder.dir/widget.cpp.obj	101c1b3f61ccb7c
+3282	3593	6806480181551787	3-PathFinder.exe	6b41665b8bd40003
+9	347	6806480937807181	3-PathFinder_autogen/timestamp	57b4e0f89e06f11c
+9	347	6806480937807181	3-PathFinder_autogen/mocs_compilation.cpp	57b4e0f89e06f11c
+9	347	6806480937807181	E:/Works/Qt Course/Graphics and Painting/build-3-PathFinder-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-PathFinder_autogen/timestamp	57b4e0f89e06f11c
+9	347	6806480937807181	E:/Works/Qt Course/Graphics and Painting/build-3-PathFinder-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-PathFinder_autogen/mocs_compilation.cpp	57b4e0f89e06f11c
+365	3323	6806480967575648	CMakeFiles/3-PathFinder.dir/widget.cpp.obj	101c1b3f61ccb7c
+3323	3614	6806480970430075	3-PathFinder.exe	6b41665b8bd40003
+29	355	6806481319060790	3-PathFinder_autogen/timestamp	57b4e0f89e06f11c
+29	355	6806481319060790	3-PathFinder_autogen/mocs_compilation.cpp	57b4e0f89e06f11c
+29	355	6806481319060790	E:/Works/Qt Course/Graphics and Painting/build-3-PathFinder-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-PathFinder_autogen/timestamp	57b4e0f89e06f11c
+29	355	6806481319060790	E:/Works/Qt Course/Graphics and Painting/build-3-PathFinder-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-PathFinder_autogen/mocs_compilation.cpp	57b4e0f89e06f11c
+370	3157	6806481347080076	CMakeFiles/3-PathFinder.dir/widget.cpp.obj	101c1b3f61ccb7c
+3158	3444	6806481349903380	3-PathFinder.exe	6b41665b8bd40003
+15	260	6806481906864543	3-PathFinder_autogen/timestamp	57b4e0f89e06f11c
+15	260	6806481906864543	3-PathFinder_autogen/mocs_compilation.cpp	57b4e0f89e06f11c
+15	260	6806481906864543	E:/Works/Qt Course/Graphics and Painting/build-3-PathFinder-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-PathFinder_autogen/timestamp	57b4e0f89e06f11c
+15	260	6806481906864543	E:/Works/Qt Course/Graphics and Painting/build-3-PathFinder-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-PathFinder_autogen/mocs_compilation.cpp	57b4e0f89e06f11c
+273	2201	6806481926285137	CMakeFiles/3-PathFinder.dir/widget.cpp.obj	101c1b3f61ccb7c
+2202	2454	6806481928755520	3-PathFinder.exe	6b41665b8bd40003
+17	270	6806482594537145	3-PathFinder_autogen/timestamp	57b4e0f89e06f11c
+17	270	6806482594537145	3-PathFinder_autogen/mocs_compilation.cpp	57b4e0f89e06f11c
+17	270	6806482594537145	E:/Works/Qt Course/Graphics and Painting/build-3-PathFinder-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-PathFinder_autogen/timestamp	57b4e0f89e06f11c
+17	270	6806482594537145	E:/Works/Qt Course/Graphics and Painting/build-3-PathFinder-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-PathFinder_autogen/mocs_compilation.cpp	57b4e0f89e06f11c
+284	2477	6806482616630492	CMakeFiles/3-PathFinder.dir/widget.cpp.obj	101c1b3f61ccb7c
+2478	2706	6806482618861151	3-PathFinder.exe	6b41665b8bd40003
+11	254	6806483275806638	3-PathFinder_autogen/timestamp	57b4e0f89e06f11c
+11	254	6806483275806638	3-PathFinder_autogen/mocs_compilation.cpp	57b4e0f89e06f11c
+11	254	6806483275806638	E:/Works/Qt Course/Graphics and Painting/build-3-PathFinder-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-PathFinder_autogen/timestamp	57b4e0f89e06f11c
+11	254	6806483275806638	E:/Works/Qt Course/Graphics and Painting/build-3-PathFinder-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-PathFinder_autogen/mocs_compilation.cpp	57b4e0f89e06f11c
+267	2434	6806483297619833	CMakeFiles/3-PathFinder.dir/widget.cpp.obj	101c1b3f61ccb7c
+2434	2657	6806483299781871	3-PathFinder.exe	6b41665b8bd40003
+13	894	6806484898382558	3-PathFinder_autogen/timestamp	57b4e0f89e06f11c
+13	894	6806484898382558	3-PathFinder_autogen/mocs_compilation.cpp	57b4e0f89e06f11c
+13	894	6806484898382558	E:/Works/Qt Course/Graphics and Painting/build-3-PathFinder-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-PathFinder_autogen/timestamp	57b4e0f89e06f11c
+13	894	6806484898382558	E:/Works/Qt Course/Graphics and Painting/build-3-PathFinder-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-PathFinder_autogen/mocs_compilation.cpp	57b4e0f89e06f11c
+899	3758	6806484928530580	CMakeFiles/3-PathFinder.dir/main.cpp.obj	9d982b6a7a0726a7
+895	3783	6806484928829168	CMakeFiles/3-PathFinder.dir/3-PathFinder_autogen/mocs_compilation.cpp.obj	b8ad1e182c723c7f
+897	3853	6806484929563068	CMakeFiles/3-PathFinder.dir/widget.cpp.obj	101c1b3f61ccb7c
+3853	4146	6806484932451706	3-PathFinder.exe	6b41665b8bd40003

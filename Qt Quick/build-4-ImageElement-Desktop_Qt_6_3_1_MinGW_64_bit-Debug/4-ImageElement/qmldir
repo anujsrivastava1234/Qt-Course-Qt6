@@ -1,0 +1,4 @@
+module 4-ImageElement
+typeinfo app4-ImageElement.qmltypes
+prefer :/4-ImageElement/
+

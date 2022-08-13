@@ -1,0 +1,4 @@
+module 4-ClickedButtonExample
+typeinfo app4-ClickedButtonExample.qmltypes
+prefer :/4-ClickedButtonExample/
+

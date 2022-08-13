@@ -1,0 +1,21 @@
+# ninja log v5
+1	832	6806488416272578	DrawingPAinterPath_autogen/timestamp	a34b684bfd8ec581
+1	832	6806488416272578	DrawingPAinterPath_autogen/mocs_compilation.cpp	a34b684bfd8ec581
+1	832	6806488416272578	E:/Works/Qt Course/Graphics and Painting/build-DrawingPAinterPath-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/DrawingPAinterPath_autogen/timestamp	a34b684bfd8ec581
+1	832	6806488416272578	E:/Works/Qt Course/Graphics and Painting/build-DrawingPAinterPath-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/DrawingPAinterPath_autogen/mocs_compilation.cpp	a34b684bfd8ec581
+833	3059	6806488439846376	CMakeFiles/DrawingPAinterPath.dir/DrawingPAinterPath_autogen/mocs_compilation.cpp.obj	54be81c7697f21f0
+835	3088	6806488440135146	CMakeFiles/DrawingPAinterPath.dir/main.cpp.obj	b00e98eb807267ef
+838	3111	6806488440374287	CMakeFiles/DrawingPAinterPath.dir/widget.cpp.obj	170356edf82f3ead
+3111	3351	6806488442714862	DrawingPAinterPath.exe	cfd6ff69f58ce35b
+19	443	6806840284287949	DrawingPAinterPath_autogen/timestamp	a34b684bfd8ec581
+19	443	6806840284287949	DrawingPAinterPath_autogen/mocs_compilation.cpp	a34b684bfd8ec581
+19	443	6806840284287949	E:/Works/Qt Course/Graphics and Painting/build-DrawingPAinterPath-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/DrawingPAinterPath_autogen/timestamp	a34b684bfd8ec581
+19	443	6806840284287949	E:/Works/Qt Course/Graphics and Painting/build-DrawingPAinterPath-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/DrawingPAinterPath_autogen/mocs_compilation.cpp	a34b684bfd8ec581
+461	4375	6806840323606489	CMakeFiles/DrawingPAinterPath.dir/widget.cpp.obj	170356edf82f3ead
+4375	5021	6806840329919426	DrawingPAinterPath.exe	cfd6ff69f58ce35b
+24	339	6806847449783718	DrawingPAinterPath_autogen/timestamp	a34b684bfd8ec581
+24	339	6806847449783718	DrawingPAinterPath_autogen/mocs_compilation.cpp	a34b684bfd8ec581
+24	339	6806847449783718	E:/Works/Qt Course/Graphics and Painting/build-DrawingPAinterPath-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/DrawingPAinterPath_autogen/timestamp	a34b684bfd8ec581
+24	339	6806847449783718	E:/Works/Qt Course/Graphics and Painting/build-DrawingPAinterPath-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/DrawingPAinterPath_autogen/mocs_compilation.cpp	a34b684bfd8ec581
+355	2584	6806847472237271	CMakeFiles/DrawingPAinterPath.dir/widget.cpp.obj	170356edf82f3ead
+2585	2935	6806847475720857	DrawingPAinterPath.exe	cfd6ff69f58ce35b

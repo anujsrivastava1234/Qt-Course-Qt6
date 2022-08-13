@@ -1,0 +1,53 @@
+# ninja log v5
+2	1264	6804507629592764	7-QSignalAndSlots_autogen/timestamp	32b7388c765f19f7
+2	1264	6804507629592764	7-QSignalAndSlots_autogen/mocs_compilation.cpp	32b7388c765f19f7
+2	1264	6804507629592764	E:/Works/Qt Course/Qt Widgets/build-7-QSignalAndSlots-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/7-QSignalAndSlots_autogen/timestamp	32b7388c765f19f7
+2	1264	6804507629592764	E:/Works/Qt Course/Qt Widgets/build-7-QSignalAndSlots-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/7-QSignalAndSlots_autogen/mocs_compilation.cpp	32b7388c765f19f7
+1272	4136	6804507660286709	CMakeFiles/7-QSignalAndSlots.dir/widget.cpp.obj	b940ef2ad6fa5851
+1269	4227	6804507661205857	CMakeFiles/7-QSignalAndSlots.dir/main.cpp.obj	6dc5e10661b36643
+1265	4425	6804507663305975	CMakeFiles/7-QSignalAndSlots.dir/7-QSignalAndSlots_autogen/mocs_compilation.cpp.obj	522a7aa068a2ff8a
+4428	4695	6804507665848644	7-QSignalAndSlots.exe	21805c3726c68a2
+12	312	6804508419777052	7-QSignalAndSlots_autogen/timestamp	32b7388c765f19f7
+12	312	6804508419777052	7-QSignalAndSlots_autogen/mocs_compilation.cpp	32b7388c765f19f7
+12	312	6804508419777052	E:/Works/Qt Course/Qt Widgets/build-7-QSignalAndSlots-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/7-QSignalAndSlots_autogen/timestamp	32b7388c765f19f7
+12	312	6804508419777052	E:/Works/Qt Course/Qt Widgets/build-7-QSignalAndSlots-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/7-QSignalAndSlots_autogen/mocs_compilation.cpp	32b7388c765f19f7
+323	2478	6804508441448661	CMakeFiles/7-QSignalAndSlots.dir/widget.cpp.obj	b940ef2ad6fa5851
+2479	2688	6804508443465522	7-QSignalAndSlots.exe	21805c3726c68a2
+21	383	6804508974497831	7-QSignalAndSlots_autogen/timestamp	32b7388c765f19f7
+21	383	6804508974497831	7-QSignalAndSlots_autogen/mocs_compilation.cpp	32b7388c765f19f7
+21	383	6804508974497831	E:/Works/Qt Course/Qt Widgets/build-7-QSignalAndSlots-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/7-QSignalAndSlots_autogen/timestamp	32b7388c765f19f7
+21	383	6804508974497831	E:/Works/Qt Course/Qt Widgets/build-7-QSignalAndSlots-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/7-QSignalAndSlots_autogen/mocs_compilation.cpp	32b7388c765f19f7
+403	2879	6804508999436989	CMakeFiles/7-QSignalAndSlots.dir/widget.cpp.obj	b940ef2ad6fa5851
+2879	3124	6804509001843445	7-QSignalAndSlots.exe	21805c3726c68a2
+17	251	6804509231949643	7-QSignalAndSlots_autogen/timestamp	32b7388c765f19f7
+17	251	6804509231949643	7-QSignalAndSlots_autogen/mocs_compilation.cpp	32b7388c765f19f7
+17	251	6804509231949643	E:/Works/Qt Course/Qt Widgets/build-7-QSignalAndSlots-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/7-QSignalAndSlots_autogen/timestamp	32b7388c765f19f7
+17	251	6804509231949643	E:/Works/Qt Course/Qt Widgets/build-7-QSignalAndSlots-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/7-QSignalAndSlots_autogen/mocs_compilation.cpp	32b7388c765f19f7
+18	1298	6804509904497092	7-QSignalAndSlots_autogen/timestamp	32b7388c765f19f7
+18	1298	6804509904497092	7-QSignalAndSlots_autogen/mocs_compilation.cpp	32b7388c765f19f7
+18	1298	6804509904497092	E:/Works/Qt Course/Qt Widgets/build-7-QSignalAndSlots-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/7-QSignalAndSlots_autogen/timestamp	32b7388c765f19f7
+18	1298	6804509904497092	E:/Works/Qt Course/Qt Widgets/build-7-QSignalAndSlots-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/7-QSignalAndSlots_autogen/mocs_compilation.cpp	32b7388c765f19f7
+1306	5001	6804509943883616	CMakeFiles/7-QSignalAndSlots.dir/widget.cpp.obj	b940ef2ad6fa5851
+1303	5056	6804509944436436	CMakeFiles/7-QSignalAndSlots.dir/main.cpp.obj	6dc5e10661b36643
+1299	5140	6804509945262951	CMakeFiles/7-QSignalAndSlots.dir/7-QSignalAndSlots_autogen/mocs_compilation.cpp.obj	522a7aa068a2ff8a
+5141	5475	6804509948630650	7-QSignalAndSlots.exe	21805c3726c68a2
+16	1011	6804510361715515	7-QSignalAndSlots_autogen/timestamp	32b7388c765f19f7
+16	1011	6804510361715515	7-QSignalAndSlots_autogen/mocs_compilation.cpp	32b7388c765f19f7
+16	1011	6804510361715515	E:/Works/Qt Course/Qt Widgets/build-7-QSignalAndSlots-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/7-QSignalAndSlots_autogen/timestamp	32b7388c765f19f7
+16	1011	6804510361715515	E:/Works/Qt Course/Qt Widgets/build-7-QSignalAndSlots-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/7-QSignalAndSlots_autogen/mocs_compilation.cpp	32b7388c765f19f7
+1019	4307	6804510397331882	CMakeFiles/7-QSignalAndSlots.dir/widget.cpp.obj	b940ef2ad6fa5851
+1016	4377	6804510398033084	CMakeFiles/7-QSignalAndSlots.dir/main.cpp.obj	6dc5e10661b36643
+1011	4459	6804510398839240	CMakeFiles/7-QSignalAndSlots.dir/7-QSignalAndSlots_autogen/mocs_compilation.cpp.obj	522a7aa068a2ff8a
+4459	4723	6804510401332399	7-QSignalAndSlots.exe	21805c3726c68a2
+18	344	6804511065240244	7-QSignalAndSlots_autogen/timestamp	32b7388c765f19f7
+18	344	6804511065240244	7-QSignalAndSlots_autogen/mocs_compilation.cpp	32b7388c765f19f7
+18	344	6804511065240244	E:/Works/Qt Course/Qt Widgets/build-7-QSignalAndSlots-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/7-QSignalAndSlots_autogen/timestamp	32b7388c765f19f7
+18	344	6804511065240244	E:/Works/Qt Course/Qt Widgets/build-7-QSignalAndSlots-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/7-QSignalAndSlots_autogen/mocs_compilation.cpp	32b7388c765f19f7
+363	2737	6804511089197113	CMakeFiles/7-QSignalAndSlots.dir/widget.cpp.obj	b940ef2ad6fa5851
+2738	2966	6804511091433090	7-QSignalAndSlots.exe	21805c3726c68a2
+22	382	6804512298453733	7-QSignalAndSlots_autogen/timestamp	32b7388c765f19f7
+22	382	6804512298453733	7-QSignalAndSlots_autogen/mocs_compilation.cpp	32b7388c765f19f7
+22	382	6804512298453733	E:/Works/Qt Course/Qt Widgets/build-7-QSignalAndSlots-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/7-QSignalAndSlots_autogen/timestamp	32b7388c765f19f7
+22	382	6804512298453733	E:/Works/Qt Course/Qt Widgets/build-7-QSignalAndSlots-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/7-QSignalAndSlots_autogen/mocs_compilation.cpp	32b7388c765f19f7
+403	2746	6804512322162932	CMakeFiles/7-QSignalAndSlots.dir/widget.cpp.obj	b940ef2ad6fa5851
+2746	2973	6804512324263016	7-QSignalAndSlots.exe	21805c3726c68a2

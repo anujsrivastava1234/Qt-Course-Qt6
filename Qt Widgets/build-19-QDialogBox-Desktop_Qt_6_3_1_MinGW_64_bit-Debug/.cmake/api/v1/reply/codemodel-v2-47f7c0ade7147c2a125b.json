@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "19-QDialogBox",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "19-QDialogBox::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-19-QDialogBox-Debug-908b22819c697c3ed2a7.json",
+					"name" : "19-QDialogBox",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "19-QDialogBox_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-19-QDialogBox_autogen-Debug-dc4467b7f2ae1e2ce652.json",
+					"name" : "19-QDialogBox_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "19-QDialogBox_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-19-QDialogBox_autogen_timestamp_deps-Debug-55e3886a11cfc9c62b46.json",
+					"name" : "19-QDialogBox_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/Works/Qt Course/Qt Widgets/build-19-QDialogBox-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
+		"source" : "E:/Works/Qt Course/Qt Widgets/19-QDialogBox"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

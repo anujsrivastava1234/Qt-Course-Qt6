@@ -1,0 +1,11 @@
+Determining if the include file pthread.h exists failed with the following output:
+Change Dir: E:/Works/Qt Course/Qt Quick/build-14-Rotate-Desktop_x86_windows_msvc2019_pe_32bit-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/PROGRA~1/MIB055~1/2022/COMMUN~1/Common7/IDE/COMMON~1/MICROS~1/CMake/Ninja/ninja.exe cmTC_2e4e8 && [1/2] Building CXX object CMakeFiles\cmTC_2e4e8.dir\CheckIncludeFile.cxx.obj
+FAILED: CMakeFiles/cmTC_2e4e8.dir/CheckIncludeFile.cxx.obj 
+C:\PROGRA~1\MIB055~1\2022\COMMUN~1\VC\Tools\MSVC\1432~1.313\bin\HostX64\x64\cl.exe  /nologo /TP   -DQT_QML_DEBUG /DWIN32 /D_WINDOWS /GR /EHsc  /Zi /Ob0 /Od /RTC1 -MDd /showIncludes /FoCMakeFiles\cmTC_2e4e8.dir\CheckIncludeFile.cxx.obj /FdCMakeFiles\cmTC_2e4e8.dir\ /FS -c "E:\Works\Qt Course\Qt Quick\build-14-Rotate-Desktop_x86_windows_msvc2019_pe_32bit-Debug\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx"
+E:\Works\Qt Course\Qt Quick\build-14-Rotate-Desktop_x86_windows_msvc2019_pe_32bit-Debug\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory
+ninja: build stopped: subcommand failed.
+
+
+

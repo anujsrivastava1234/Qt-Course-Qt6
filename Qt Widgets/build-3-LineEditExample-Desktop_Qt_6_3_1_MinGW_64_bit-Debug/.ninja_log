@@ -1,0 +1,73 @@
+# ninja log v5
+1	799	6802088307272089	3-LineEditExample_autogen/timestamp	6a9846977ee3c43b
+1	799	6802088307272089	3-LineEditExample_autogen/mocs_compilation.cpp	6a9846977ee3c43b
+1	799	6802088307272089	E:/Works/Qt Course/Qt Widgets/build-3-LineEditExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-LineEditExample_autogen/timestamp	6a9846977ee3c43b
+1	799	6802088307272089	E:/Works/Qt Course/Qt Widgets/build-3-LineEditExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-LineEditExample_autogen/mocs_compilation.cpp	6a9846977ee3c43b
+802	2919	6802088329829457	CMakeFiles/3-LineEditExample.dir/widget.cpp.obj	bbeb468718ca19c
+800	2946	6802088330118288	CMakeFiles/3-LineEditExample.dir/3-LineEditExample_autogen/mocs_compilation.cpp.obj	536ba6444f839588
+805	2994	6802088330579253	CMakeFiles/3-LineEditExample.dir/main.cpp.obj	8ec93dbe165279f2
+2994	3197	6802088332571634	3-LineEditExample.exe	afacb2723686bbe3
+16	272	6802088489506193	3-LineEditExample_autogen/timestamp	6a9846977ee3c43b
+16	272	6802088489506193	3-LineEditExample_autogen/mocs_compilation.cpp	6a9846977ee3c43b
+16	272	6802088489506193	E:/Works/Qt Course/Qt Widgets/build-3-LineEditExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-LineEditExample_autogen/timestamp	6a9846977ee3c43b
+16	272	6802088489506193	E:/Works/Qt Course/Qt Widgets/build-3-LineEditExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-LineEditExample_autogen/mocs_compilation.cpp	6a9846977ee3c43b
+287	2076	6802088507556637	CMakeFiles/3-LineEditExample.dir/widget.cpp.obj	bbeb468718ca19c
+2076	2269	6802088509426536	3-LineEditExample.exe	afacb2723686bbe3
+12	260	6802088803040637	3-LineEditExample_autogen/timestamp	6a9846977ee3c43b
+12	260	6802088803040637	3-LineEditExample_autogen/mocs_compilation.cpp	6a9846977ee3c43b
+12	260	6802088803040637	E:/Works/Qt Course/Qt Widgets/build-3-LineEditExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-LineEditExample_autogen/timestamp	6a9846977ee3c43b
+12	260	6802088803040637	E:/Works/Qt Course/Qt Widgets/build-3-LineEditExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-LineEditExample_autogen/mocs_compilation.cpp	6a9846977ee3c43b
+273	2018	6802088820613344	CMakeFiles/3-LineEditExample.dir/widget.cpp.obj	bbeb468718ca19c
+2018	2209	6802088822510650	3-LineEditExample.exe	afacb2723686bbe3
+12	276	6802089688069317	3-LineEditExample_autogen/timestamp	6a9846977ee3c43b
+12	276	6802089688069317	3-LineEditExample_autogen/mocs_compilation.cpp	6a9846977ee3c43b
+12	276	6802089688069317	E:/Works/Qt Course/Qt Widgets/build-3-LineEditExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-LineEditExample_autogen/timestamp	6a9846977ee3c43b
+12	276	6802089688069317	E:/Works/Qt Course/Qt Widgets/build-3-LineEditExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-LineEditExample_autogen/mocs_compilation.cpp	6a9846977ee3c43b
+289	2024	6802089705535891	CMakeFiles/3-LineEditExample.dir/widget.cpp.obj	bbeb468718ca19c
+2024	2213	6802089707408623	3-LineEditExample.exe	afacb2723686bbe3
+18	221	6802089917535601	3-LineEditExample_autogen/timestamp	6a9846977ee3c43b
+18	221	6802089917535601	3-LineEditExample_autogen/mocs_compilation.cpp	6a9846977ee3c43b
+18	221	6802089917535601	E:/Works/Qt Course/Qt Widgets/build-3-LineEditExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-LineEditExample_autogen/timestamp	6a9846977ee3c43b
+18	221	6802089917535601	E:/Works/Qt Course/Qt Widgets/build-3-LineEditExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-LineEditExample_autogen/mocs_compilation.cpp	6a9846977ee3c43b
+13	220	6802090006257266	3-LineEditExample_autogen/timestamp	6a9846977ee3c43b
+13	220	6802090006257266	3-LineEditExample_autogen/mocs_compilation.cpp	6a9846977ee3c43b
+13	220	6802090006257266	E:/Works/Qt Course/Qt Widgets/build-3-LineEditExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-LineEditExample_autogen/timestamp	6a9846977ee3c43b
+13	220	6802090006257266	E:/Works/Qt Course/Qt Widgets/build-3-LineEditExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-LineEditExample_autogen/mocs_compilation.cpp	6a9846977ee3c43b
+230	1873	6802090022784406	CMakeFiles/3-LineEditExample.dir/widget.cpp.obj	bbeb468718ca19c
+1874	2076	6802090024757760	3-LineEditExample.exe	afacb2723686bbe3
+13	230	6802090420050869	3-LineEditExample_autogen/timestamp	6a9846977ee3c43b
+13	230	6802090420050869	3-LineEditExample_autogen/mocs_compilation.cpp	6a9846977ee3c43b
+13	230	6802090420050869	E:/Works/Qt Course/Qt Widgets/build-3-LineEditExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-LineEditExample_autogen/timestamp	6a9846977ee3c43b
+13	230	6802090420050869	E:/Works/Qt Course/Qt Widgets/build-3-LineEditExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-LineEditExample_autogen/mocs_compilation.cpp	6a9846977ee3c43b
+242	1909	6802090436860285	CMakeFiles/3-LineEditExample.dir/widget.cpp.obj	bbeb468718ca19c
+1909	2106	6802090438777256	3-LineEditExample.exe	afacb2723686bbe3
+5	358	6803502787493900	3-LineEditExample_autogen/timestamp	6a9846977ee3c43b
+5	358	6803502787493900	3-LineEditExample_autogen/mocs_compilation.cpp	6a9846977ee3c43b
+5	358	6803502787493900	E:/Works/Qt Course/Qt Widgets/build-3-LineEditExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-LineEditExample_autogen/timestamp	6a9846977ee3c43b
+5	358	6803502787493900	E:/Works/Qt Course/Qt Widgets/build-3-LineEditExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-LineEditExample_autogen/mocs_compilation.cpp	6a9846977ee3c43b
+374	4619	6803502830096772	CMakeFiles/3-LineEditExample.dir/widget.cpp.obj	bbeb468718ca19c
+4620	6149	6803502845385010	3-LineEditExample.exe	afacb2723686bbe3
+19	224	6803504855118531	3-LineEditExample_autogen/timestamp	6a9846977ee3c43b
+19	224	6803504855118531	3-LineEditExample_autogen/mocs_compilation.cpp	6a9846977ee3c43b
+19	224	6803504855118531	E:/Works/Qt Course/Qt Widgets/build-3-LineEditExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-LineEditExample_autogen/timestamp	6a9846977ee3c43b
+19	224	6803504855118531	E:/Works/Qt Course/Qt Widgets/build-3-LineEditExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-LineEditExample_autogen/mocs_compilation.cpp	6a9846977ee3c43b
+240	1963	6803504872507673	CMakeFiles/3-LineEditExample.dir/widget.cpp.obj	bbeb468718ca19c
+1964	2175	6803504874571984	3-LineEditExample.exe	afacb2723686bbe3
+5	226	6803505202904658	3-LineEditExample_autogen/timestamp	6a9846977ee3c43b
+5	226	6803505202904658	3-LineEditExample_autogen/mocs_compilation.cpp	6a9846977ee3c43b
+5	226	6803505202904658	E:/Works/Qt Course/Qt Widgets/build-3-LineEditExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-LineEditExample_autogen/timestamp	6a9846977ee3c43b
+5	226	6803505202904658	E:/Works/Qt Course/Qt Widgets/build-3-LineEditExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-LineEditExample_autogen/mocs_compilation.cpp	6a9846977ee3c43b
+237	1934	6803505219992592	CMakeFiles/3-LineEditExample.dir/widget.cpp.obj	bbeb468718ca19c
+1934	2137	6803505221995153	3-LineEditExample.exe	afacb2723686bbe3
+21	234	6803505410447587	3-LineEditExample_autogen/timestamp	6a9846977ee3c43b
+21	234	6803505410447587	3-LineEditExample_autogen/mocs_compilation.cpp	6a9846977ee3c43b
+21	234	6803505410447587	E:/Works/Qt Course/Qt Widgets/build-3-LineEditExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-LineEditExample_autogen/timestamp	6a9846977ee3c43b
+21	234	6803505410447587	E:/Works/Qt Course/Qt Widgets/build-3-LineEditExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-LineEditExample_autogen/mocs_compilation.cpp	6a9846977ee3c43b
+243	1920	6803505427322034	CMakeFiles/3-LineEditExample.dir/widget.cpp.obj	bbeb468718ca19c
+1920	2121	6803505429301593	3-LineEditExample.exe	afacb2723686bbe3
+14	245	6803505609074345	3-LineEditExample_autogen/timestamp	6a9846977ee3c43b
+14	245	6803505609074345	3-LineEditExample_autogen/mocs_compilation.cpp	6a9846977ee3c43b
+14	245	6803505609074345	E:/Works/Qt Course/Qt Widgets/build-3-LineEditExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-LineEditExample_autogen/timestamp	6a9846977ee3c43b
+14	245	6803505609074345	E:/Works/Qt Course/Qt Widgets/build-3-LineEditExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-LineEditExample_autogen/mocs_compilation.cpp	6a9846977ee3c43b
+256	1998	6803505626599927	CMakeFiles/3-LineEditExample.dir/widget.cpp.obj	bbeb468718ca19c
+1998	2204	6803505628627349	3-LineEditExample.exe	afacb2723686bbe3

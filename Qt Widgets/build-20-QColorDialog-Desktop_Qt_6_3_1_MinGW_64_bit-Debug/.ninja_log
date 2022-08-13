@@ -1,0 +1,23 @@
+# ninja log v5
+2	1063	6805194931241740	20-QColorDialog_autogen/timestamp	31f94c23d2076044
+2	1063	6805194931241740	20-QColorDialog_autogen/mocs_compilation.cpp	31f94c23d2076044
+2	1063	6805194931241740	E:/Works/Qt Course/Qt Widgets/build-20-QColorDialog-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/20-QColorDialog_autogen/timestamp	31f94c23d2076044
+2	1063	6805194931241740	E:/Works/Qt Course/Qt Widgets/build-20-QColorDialog-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/20-QColorDialog_autogen/mocs_compilation.cpp	31f94c23d2076044
+1064	3538	6805194957651937	CMakeFiles/20-QColorDialog.dir/20-QColorDialog_autogen/mocs_compilation.cpp.obj	980e083c024a69d0
+1071	3561	6805194957889174	CMakeFiles/20-QColorDialog.dir/widget.cpp.obj	e3580172a6b22c79
+1068	3622	6805194958506575	CMakeFiles/20-QColorDialog.dir/main.cpp.obj	beb08b04080b2576
+3624	3831	6805194960547080	20-QColorDialog.exe	975b73d7b28089f8
+16	881	6805196938787266	20-QColorDialog_autogen/timestamp	31f94c23d2076044
+16	881	6805196938787266	20-QColorDialog_autogen/mocs_compilation.cpp	31f94c23d2076044
+16	881	6805196938787266	E:/Works/Qt Course/Qt Widgets/build-20-QColorDialog-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/20-QColorDialog_autogen/timestamp	31f94c23d2076044
+16	881	6805196938787266	E:/Works/Qt Course/Qt Widgets/build-20-QColorDialog-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/20-QColorDialog_autogen/mocs_compilation.cpp	31f94c23d2076044
+881	3756	6805196969162717	CMakeFiles/20-QColorDialog.dir/20-QColorDialog_autogen/mocs_compilation.cpp.obj	980e083c024a69d0
+889	3776	6805196969380959	CMakeFiles/20-QColorDialog.dir/widget.cpp.obj	e3580172a6b22c79
+884	3827	6805196969881946	CMakeFiles/20-QColorDialog.dir/main.cpp.obj	beb08b04080b2576
+3827	4071	6805196972274869	20-QColorDialog.exe	975b73d7b28089f8
+18	323	6805197469102525	20-QColorDialog_autogen/timestamp	31f94c23d2076044
+18	323	6805197469102525	20-QColorDialog_autogen/mocs_compilation.cpp	31f94c23d2076044
+18	323	6805197469102525	E:/Works/Qt Course/Qt Widgets/build-20-QColorDialog-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/20-QColorDialog_autogen/timestamp	31f94c23d2076044
+18	323	6805197469102525	E:/Works/Qt Course/Qt Widgets/build-20-QColorDialog-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/20-QColorDialog_autogen/mocs_compilation.cpp	31f94c23d2076044
+335	2442	6805197490203962	CMakeFiles/20-QColorDialog.dir/widget.cpp.obj	e3580172a6b22c79
+2442	2695	6805197492771851	20-QColorDialog.exe	975b73d7b28089f8

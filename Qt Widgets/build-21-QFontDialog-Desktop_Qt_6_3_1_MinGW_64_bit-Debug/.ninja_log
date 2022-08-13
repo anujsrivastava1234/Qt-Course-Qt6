@@ -1,0 +1,23 @@
+# ninja log v5
+1	1166	6805253338490720	21-QFontDialog_autogen/timestamp	c2257fe419836533
+1	1166	6805253338490720	21-QFontDialog_autogen/mocs_compilation.cpp	c2257fe419836533
+1	1166	6805253338490720	E:/Works/Qt Course/Qt Widgets/build-21-QFontDialog-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/21-QFontDialog_autogen/timestamp	c2257fe419836533
+1	1166	6805253338490720	E:/Works/Qt Course/Qt Widgets/build-21-QFontDialog-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/21-QFontDialog_autogen/mocs_compilation.cpp	c2257fe419836533
+1167	3866	6805253367430185	CMakeFiles/21-QFontDialog.dir/21-QFontDialog_autogen/mocs_compilation.cpp.obj	c849eacee9575b8d
+1174	3890	6805253367681514	CMakeFiles/21-QFontDialog.dir/widget.cpp.obj	89f1a9654bf5fe7
+1171	3936	6805253368146380	CMakeFiles/21-QFontDialog.dir/main.cpp.obj	5b40eeb5fbb7d176
+3937	4215	6805253370878623	21-QFontDialog.exe	ba2510780c937751
+26	1278	6805256046958775	21-QFontDialog_autogen/timestamp	c2257fe419836533
+26	1278	6805256046958775	21-QFontDialog_autogen/mocs_compilation.cpp	c2257fe419836533
+26	1278	6805256046958775	E:/Works/Qt Course/Qt Widgets/build-21-QFontDialog-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/21-QFontDialog_autogen/timestamp	c2257fe419836533
+26	1278	6805256046958775	E:/Works/Qt Course/Qt Widgets/build-21-QFontDialog-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/21-QFontDialog_autogen/mocs_compilation.cpp	c2257fe419836533
+1278	5510	6805256091772559	CMakeFiles/21-QFontDialog.dir/21-QFontDialog_autogen/mocs_compilation.cpp.obj	c849eacee9575b8d
+1286	5529	6805256091974592	CMakeFiles/21-QFontDialog.dir/widget.cpp.obj	89f1a9654bf5fe7
+1282	5686	6805256093540441	CMakeFiles/21-QFontDialog.dir/main.cpp.obj	5b40eeb5fbb7d176
+5686	6060	6805256097217913	21-QFontDialog.exe	ba2510780c937751
+22	424	6805256483453402	21-QFontDialog_autogen/timestamp	c2257fe419836533
+22	424	6805256483453402	21-QFontDialog_autogen/mocs_compilation.cpp	c2257fe419836533
+22	424	6805256483453402	E:/Works/Qt Course/Qt Widgets/build-21-QFontDialog-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/21-QFontDialog_autogen/timestamp	c2257fe419836533
+22	424	6805256483453402	E:/Works/Qt Course/Qt Widgets/build-21-QFontDialog-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/21-QFontDialog_autogen/mocs_compilation.cpp	c2257fe419836533
+443	3188	6805256511109383	CMakeFiles/21-QFontDialog.dir/widget.cpp.obj	89f1a9654bf5fe7
+3188	3470	6805256513867454	21-QFontDialog.exe	ba2510780c937751

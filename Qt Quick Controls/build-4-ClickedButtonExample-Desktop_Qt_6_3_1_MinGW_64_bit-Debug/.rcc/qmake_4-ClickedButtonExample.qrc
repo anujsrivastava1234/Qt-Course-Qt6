@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/4-ClickedButtonExample">
+    <file alias="qmldir">E:/Works/Qt Course/Qt Quick Controls/build-4-ClickedButtonExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/4-ClickedButtonExample/qmldir</file>
+  </qresource>
+</RCC>
+

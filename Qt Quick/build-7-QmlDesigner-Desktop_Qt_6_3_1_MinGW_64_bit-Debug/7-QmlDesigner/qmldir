@@ -1,0 +1,4 @@
+module 7-QmlDesigner
+typeinfo app7-QmlDesigner.qmltypes
+prefer :/7-QmlDesigner/
+

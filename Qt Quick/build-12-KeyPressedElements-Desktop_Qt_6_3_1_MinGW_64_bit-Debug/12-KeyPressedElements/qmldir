@@ -1,0 +1,4 @@
+module 12-KeyPressedElements
+typeinfo app12-KeyPressedElements.qmltypes
+prefer :/12-KeyPressedElements/
+

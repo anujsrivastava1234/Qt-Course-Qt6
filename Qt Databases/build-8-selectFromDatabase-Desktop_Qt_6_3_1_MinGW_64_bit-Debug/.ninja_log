@@ -1,0 +1,27 @@
+# ninja log v5
+1	700	6808604255304212	8-selectFromDatabase_autogen/timestamp	b7172739c0c7970e
+1	700	6808604255304212	8-selectFromDatabase_autogen/mocs_compilation.cpp	b7172739c0c7970e
+1	700	6808604255304212	E:/Works/Qt Course/Qt Databases/build-8-selectFromDatabase-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/8-selectFromDatabase_autogen/timestamp	b7172739c0c7970e
+1	700	6808604255304212	E:/Works/Qt Course/Qt Databases/build-8-selectFromDatabase-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/8-selectFromDatabase_autogen/mocs_compilation.cpp	b7172739c0c7970e
+703	2800	6808604277391120	CMakeFiles/8-selectFromDatabase.dir/8-selectFromDatabase_autogen/mocs_compilation.cpp.obj	38f45eec29363028
+708	2861	6808604278002130	CMakeFiles/8-selectFromDatabase.dir/main.cpp.obj	331d2fb527385050
+705	2918	6808604278575819	CMakeFiles/8-selectFromDatabase.dir/widget.cpp.obj	dd1dd1633c51544c
+2918	3122	6808604280596314	8-selectFromDatabase.exe	ddc03722db6f0933
+13	231	6808610755610247	8-selectFromDatabase_autogen/timestamp	b7172739c0c7970e
+13	231	6808610755610247	8-selectFromDatabase_autogen/mocs_compilation.cpp	b7172739c0c7970e
+13	231	6808610755610247	E:/Works/Qt Course/Qt Databases/build-8-selectFromDatabase-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/8-selectFromDatabase_autogen/timestamp	b7172739c0c7970e
+13	231	6808610755610247	E:/Works/Qt Course/Qt Databases/build-8-selectFromDatabase-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/8-selectFromDatabase_autogen/mocs_compilation.cpp	b7172739c0c7970e
+242	2338	6808610776664051	CMakeFiles/8-selectFromDatabase.dir/widget.cpp.obj	dd1dd1633c51544c
+2338	2546	6808610778694832	8-selectFromDatabase.exe	ddc03722db6f0933
+14	736	6808623831412301	8-selectFromDatabase_autogen/timestamp	b7172739c0c7970e
+14	736	6808623831412301	8-selectFromDatabase_autogen/mocs_compilation.cpp	b7172739c0c7970e
+14	736	6808623831412301	E:/Works/Qt Course/Qt Databases/build-8-selectFromDatabase-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/8-selectFromDatabase_autogen/timestamp	b7172739c0c7970e
+14	736	6808623831412301	E:/Works/Qt Course/Qt Databases/build-8-selectFromDatabase-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/8-selectFromDatabase_autogen/mocs_compilation.cpp	b7172739c0c7970e
+740	3339	6808623858624374	CMakeFiles/8-selectFromDatabase.dir/main.cpp.obj	331d2fb527385050
+737	3380	6808623859020580	CMakeFiles/8-selectFromDatabase.dir/8-selectFromDatabase_autogen/mocs_compilation.cpp.obj	38f45eec29363028
+11	213	6808623959557373	8-selectFromDatabase_autogen/timestamp	b7172739c0c7970e
+11	213	6808623959557373	8-selectFromDatabase_autogen/mocs_compilation.cpp	b7172739c0c7970e
+11	213	6808623959557373	E:/Works/Qt Course/Qt Databases/build-8-selectFromDatabase-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/8-selectFromDatabase_autogen/timestamp	b7172739c0c7970e
+11	213	6808623959557373	E:/Works/Qt Course/Qt Databases/build-8-selectFromDatabase-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/8-selectFromDatabase_autogen/mocs_compilation.cpp	b7172739c0c7970e
+223	2273	6808623980157465	CMakeFiles/8-selectFromDatabase.dir/widget.cpp.obj	dd1dd1633c51544c
+2273	2491	6808623982278591	8-selectFromDatabase.exe	ddc03722db6f0933

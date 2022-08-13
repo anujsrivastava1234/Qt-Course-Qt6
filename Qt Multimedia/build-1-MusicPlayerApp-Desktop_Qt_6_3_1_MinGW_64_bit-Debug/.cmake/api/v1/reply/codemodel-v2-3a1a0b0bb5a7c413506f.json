@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-f85372cefb7d4eafac0f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "1-MusicPlayerApp",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "1-MusicPlayerApp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1-MusicPlayerApp-Debug-b2b803b0b1820fba09a8.json",
+					"name" : "1-MusicPlayerApp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "1-MusicPlayerApp_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1-MusicPlayerApp_autogen-Debug-e479ca4100e359103276.json",
+					"name" : "1-MusicPlayerApp_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "1-MusicPlayerApp_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1-MusicPlayerApp_autogen_timestamp_deps-Debug-9cbba68aef420ea0a7dd.json",
+					"name" : "1-MusicPlayerApp_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/Works/Qt Course/Qt Multimedia/build-1-MusicPlayerApp-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
+		"source" : "E:/Works/Qt Course/Qt Multimedia/1-MusicPlayerApp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

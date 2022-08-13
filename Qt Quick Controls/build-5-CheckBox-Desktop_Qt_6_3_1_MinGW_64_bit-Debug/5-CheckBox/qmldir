@@ -1,0 +1,4 @@
+module 5-CheckBox
+typeinfo app5-CheckBox.qmltypes
+prefer :/5-CheckBox/
+

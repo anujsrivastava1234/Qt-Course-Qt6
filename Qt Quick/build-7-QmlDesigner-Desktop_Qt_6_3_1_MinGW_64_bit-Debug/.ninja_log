@@ -1,0 +1,81 @@
+# ninja log v5
+6	44	6812382975212544	7-QmlDesigner/main.qml	c61f36f637869962
+6	44	6812382975212544	E:/Works/Qt Course/Qt Quick/build-7-QmlDesigner-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/7-QmlDesigner/main.qml	c61f36f637869962
+9	101	6812382975766748	.qt_plugins/Qt6_QmlPlugins_Imports_app7-QmlDesigner.cmake	6fe568420c1982d5
+9	101	6812382975766748	E:/Works/Qt Course/Qt Quick/build-7-QmlDesigner-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app7-QmlDesigner.cmake	6fe568420c1982d5
+2	102	6812382975714432	.rcc/qmlcache/app7-QmlDesigner_qmlcache_loader.cpp	a1804138ae5830dd
+2	102	6812382975714432	E:/Works/Qt Course/Qt Quick/build-7-QmlDesigner-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app7-QmlDesigner_qmlcache_loader.cpp	a1804138ae5830dd
+102	300	6812382977017850	app7-QmlDesigner_autogen/timestamp	edb0de7678879c5
+102	300	6812382977017850	app7-QmlDesigner_autogen/mocs_compilation.cpp	edb0de7678879c5
+102	300	6812382977017850	E:/Works/Qt Course/Qt Quick/build-7-QmlDesigner-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app7-QmlDesigner_autogen/timestamp	edb0de7678879c5
+102	300	6812382977017850	E:/Works/Qt Course/Qt Quick/build-7-QmlDesigner-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app7-QmlDesigner_autogen/mocs_compilation.cpp	edb0de7678879c5
+306	358	6812382978346418	.rcc/qrc_app7-QmlDesigner_raw_qml_0.cpp	5d73a1f1b216435
+306	358	6812382978346418	E:/Works/Qt Course/Qt Quick/build-7-QmlDesigner-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app7-QmlDesigner_raw_qml_0.cpp	5d73a1f1b216435
+303	359	6812382978346418	.rcc/qrc_qmake_7-QmlDesigner.cpp	4691a2af56d086f1
+303	359	6812382978346418	E:/Works/Qt Course/Qt Quick/build-7-QmlDesigner-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_qmake_7-QmlDesigner.cpp	4691a2af56d086f1
+300	373	6812382978514965	meta_types/app7-QmlDesigner_json_file_list.txt	52363954afaee20f
+300	373	6812382978514965	meta_types/app7-QmlDesigner_json_file_list.txt.timestamp	52363954afaee20f
+300	373	6812382978514965	E:/Works/Qt Course/Qt Quick/build-7-QmlDesigner-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/app7-QmlDesigner_json_file_list.txt	52363954afaee20f
+300	373	6812382978514965	E:/Works/Qt Course/Qt Quick/build-7-QmlDesigner-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/app7-QmlDesigner_json_file_list.txt.timestamp	52363954afaee20f
+373	447	6812382979257312	meta_types/qt6app7-qmldesigner_debug_metatypes.json.gen	ea79f16767b3588e
+373	447	6812382979257312	meta_types/qt6app7-qmldesigner_debug_metatypes.json	ea79f16767b3588e
+373	447	6812382979257312	E:/Works/Qt Course/Qt Quick/build-7-QmlDesigner-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6app7-qmldesigner_debug_metatypes.json.gen	ea79f16767b3588e
+373	447	6812382979257312	E:/Works/Qt Course/Qt Quick/build-7-QmlDesigner-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6app7-qmldesigner_debug_metatypes.json	ea79f16767b3588e
+447	592	6812382980053511	app7-qmldesigner_qmltyperegistrations.cpp	b813bb9dbeba4b58
+447	592	6812382980053511	7-QmlDesigner/app7-QmlDesigner.qmltypes	b813bb9dbeba4b58
+447	592	6812382980053511	E:/Works/Qt Course/Qt Quick/build-7-QmlDesigner-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app7-qmldesigner_qmltyperegistrations.cpp	b813bb9dbeba4b58
+447	592	6812382980053511	E:/Works/Qt Course/Qt Quick/build-7-QmlDesigner-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/7-QmlDesigner/app7-QmlDesigner.qmltypes	b813bb9dbeba4b58
+592	715	6812382981890696	.rcc/qmlcache/app7-QmlDesigner_main_qml.cpp	56045bb13f276da7
+592	715	6812382981890696	E:/Works/Qt Course/Qt Quick/build-7-QmlDesigner-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app7-QmlDesigner_main_qml.cpp	56045bb13f276da7
+733	1207	6812382986551335	CMakeFiles/app7-QmlDesigner.dir/.rcc/qrc_app7-QmlDesigner_raw_qml_0.cpp.obj	92a7af32d2459720
+730	1208	6812382986576445	CMakeFiles/app7-QmlDesigner.dir/.rcc/qrc_qmake_7-QmlDesigner.cpp.obj	71d85c67fa99f95
+716	1219	6812382986589381	CMakeFiles/app7-QmlDesigner.dir/app7-QmlDesigner_autogen/mocs_compilation.cpp.obj	2875b2440d8d44a6
+718	3300	6812383007773367	CMakeFiles/app7-QmlDesigner.dir/app7-qmldesigner_qmltyperegistrations.cpp.obj	b85b7ee5e1edee6f
+721	3523	6812383009994518	CMakeFiles/app7-QmlDesigner.dir/main.cpp.obj	fa7a3e4d8daefd70
+726	3603	6812383010794579	CMakeFiles/app7-QmlDesigner.dir/.rcc/qmlcache/app7-QmlDesigner_main_qml.cpp.obj	7fa742af2cbc5323
+724	3775	6812383012530971	CMakeFiles/app7-QmlDesigner.dir/.rcc/qmlcache/app7-QmlDesigner_qmlcache_loader.cpp.obj	6c1d7919b7c52376
+3775	4157	6812383016309556	app7-QmlDesigner.exe	65da4f01e66651c6
+33	65	6812415120760606	7-QmlDesigner/main.qml	c61f36f637869962
+33	65	6812415120760606	E:/Works/Qt Course/Qt Quick/build-7-QmlDesigner-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/7-QmlDesigner/main.qml	c61f36f637869962
+30	166	6812415121747054	.qt_plugins/Qt6_QmlPlugins_Imports_app7-QmlDesigner.cmake	6fe568420c1982d5
+30	166	6812415121747054	E:/Works/Qt Course/Qt Quick/build-7-QmlDesigner-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app7-QmlDesigner.cmake	6fe568420c1982d5
+167	227	6812415122374282	.rcc/qrc_app7-QmlDesigner_raw_qml_0.cpp	5d73a1f1b216435
+167	227	6812415122374282	E:/Works/Qt Course/Qt Quick/build-7-QmlDesigner-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app7-QmlDesigner_raw_qml_0.cpp	5d73a1f1b216435
+169	332	6812415123400035	.rcc/qmlcache/app7-QmlDesigner_main_qml.cpp	56045bb13f276da7
+169	332	6812415123400035	E:/Works/Qt Course/Qt Quick/build-7-QmlDesigner-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app7-QmlDesigner_main_qml.cpp	56045bb13f276da7
+335	998	6812415130091352	CMakeFiles/app7-QmlDesigner.dir/.rcc/qrc_app7-QmlDesigner_raw_qml_0.cpp.obj	92a7af32d2459720
+332	2148	6812415141584640	CMakeFiles/app7-QmlDesigner.dir/.rcc/qmlcache/app7-QmlDesigner_main_qml.cpp.obj	7fa742af2cbc5323
+2148	2881	6812415148863512	app7-QmlDesigner.exe	65da4f01e66651c6
+5	36	6812415450841555	.qt_plugins/Qt6_QmlPlugins_Imports_app7-QmlDesigner.cmake	6fe568420c1982d5
+5	36	6812415450841555	E:/Works/Qt Course/Qt Quick/build-7-QmlDesigner-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app7-QmlDesigner.cmake	6fe568420c1982d5
+8	38	6812415450864275	7-QmlDesigner/main.qml	c61f36f637869962
+8	38	6812415450864275	E:/Works/Qt Course/Qt Quick/build-7-QmlDesigner-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/7-QmlDesigner/main.qml	c61f36f637869962
+38	62	6812415451122062	.rcc/qrc_app7-QmlDesigner_raw_qml_0.cpp	5d73a1f1b216435
+38	62	6812415451122062	E:/Works/Qt Course/Qt Quick/build-7-QmlDesigner-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app7-QmlDesigner_raw_qml_0.cpp	5d73a1f1b216435
+40	129	6812415451727368	.rcc/qmlcache/app7-QmlDesigner_main_qml.cpp	56045bb13f276da7
+40	129	6812415451727368	E:/Works/Qt Course/Qt Quick/build-7-QmlDesigner-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app7-QmlDesigner_main_qml.cpp	56045bb13f276da7
+133	201	6812415452503422	CMakeFiles/app7-QmlDesigner.dir/.rcc/qrc_app7-QmlDesigner_raw_qml_0.cpp.obj	92a7af32d2459720
+129	1754	6812415468031597	CMakeFiles/app7-QmlDesigner.dir/.rcc/qmlcache/app7-QmlDesigner_main_qml.cpp.obj	7fa742af2cbc5323
+1754	1976	6812415470220489	app7-QmlDesigner.exe	65da4f01e66651c6
+5	35	6812415535076551	.qt_plugins/Qt6_QmlPlugins_Imports_app7-QmlDesigner.cmake	6fe568420c1982d5
+5	35	6812415535076551	E:/Works/Qt Course/Qt Quick/build-7-QmlDesigner-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app7-QmlDesigner.cmake	6fe568420c1982d5
+9	35	6812415535092812	7-QmlDesigner/main.qml	c61f36f637869962
+9	35	6812415535092812	E:/Works/Qt Course/Qt Quick/build-7-QmlDesigner-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/7-QmlDesigner/main.qml	c61f36f637869962
+38	64	6812415535392685	.rcc/qrc_app7-QmlDesigner_raw_qml_0.cpp	5d73a1f1b216435
+38	64	6812415535392685	E:/Works/Qt Course/Qt Quick/build-7-QmlDesigner-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app7-QmlDesigner_raw_qml_0.cpp	5d73a1f1b216435
+35	127	6812415535973385	.rcc/qmlcache/app7-QmlDesigner_main_qml.cpp	56045bb13f276da7
+35	127	6812415535973385	E:/Works/Qt Course/Qt Quick/build-7-QmlDesigner-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app7-QmlDesigner_main_qml.cpp	56045bb13f276da7
+130	195	6812415536704356	CMakeFiles/app7-QmlDesigner.dir/.rcc/qrc_app7-QmlDesigner_raw_qml_0.cpp.obj	92a7af32d2459720
+127	1620	6812415550945225	CMakeFiles/app7-QmlDesigner.dir/.rcc/qmlcache/app7-QmlDesigner_main_qml.cpp.obj	7fa742af2cbc5323
+1620	1829	6812415552999202	app7-QmlDesigner.exe	65da4f01e66651c6
+5	33	6812416105976354	.qt_plugins/Qt6_QmlPlugins_Imports_app7-QmlDesigner.cmake	6fe568420c1982d5
+5	33	6812416105976354	E:/Works/Qt Course/Qt Quick/build-7-QmlDesigner-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app7-QmlDesigner.cmake	6fe568420c1982d5
+8	36	6812416105991415	7-QmlDesigner/main.qml	c61f36f637869962
+8	36	6812416105991415	E:/Works/Qt Course/Qt Quick/build-7-QmlDesigner-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/7-QmlDesigner/main.qml	c61f36f637869962
+36	61	6812416106252785	.rcc/qrc_app7-QmlDesigner_raw_qml_0.cpp	5d73a1f1b216435
+36	61	6812416106252785	E:/Works/Qt Course/Qt Quick/build-7-QmlDesigner-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app7-QmlDesigner_raw_qml_0.cpp	5d73a1f1b216435
+38	129	6812416106850450	.rcc/qmlcache/app7-QmlDesigner_main_qml.cpp	56045bb13f276da7
+38	129	6812416106850450	E:/Works/Qt Course/Qt Quick/build-7-QmlDesigner-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app7-QmlDesigner_main_qml.cpp	56045bb13f276da7
+133	207	6812416107722860	CMakeFiles/app7-QmlDesigner.dir/.rcc/qrc_app7-QmlDesigner_raw_qml_0.cpp.obj	92a7af32d2459720
+130	1706	6812416122713178	CMakeFiles/app7-QmlDesigner.dir/.rcc/qmlcache/app7-QmlDesigner_main_qml.cpp.obj	7fa742af2cbc5323
+1707	1913	6812416124733413	app7-QmlDesigner.exe	65da4f01e66651c6

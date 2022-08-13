@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>download-removebg-preview.png</file>
+    </qresource>
+</RCC>

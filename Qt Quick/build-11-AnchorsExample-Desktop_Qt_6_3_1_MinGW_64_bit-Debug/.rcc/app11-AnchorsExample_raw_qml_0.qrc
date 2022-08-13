@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/11-AnchorsExample/">
+    <file alias="main.qml">E:/Works/Qt Course/Qt Quick/11-AnchorsExample/main.qml</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,35 @@
+# ninja log v5
+1	927	6804563989501877	10-QSpinBoxExample_autogen/timestamp	d9c661c0a41797e
+1	927	6804563989501877	10-QSpinBoxExample_autogen/mocs_compilation.cpp	d9c661c0a41797e
+1	927	6804563989501877	E:/Works/Qt Course/Qt Widgets/build-10-QSpinBoxExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/10-QSpinBoxExample_autogen/timestamp	d9c661c0a41797e
+1	927	6804563989501877	E:/Works/Qt Course/Qt Widgets/build-10-QSpinBoxExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/10-QSpinBoxExample_autogen/mocs_compilation.cpp	d9c661c0a41797e
+930	3787	6804564019740977	CMakeFiles/10-QSpinBoxExample.dir/main.cpp.obj	4c2c38dbb8892f43
+927	3837	6804564020229339	CMakeFiles/10-QSpinBoxExample.dir/10-QSpinBoxExample_autogen/mocs_compilation.cpp.obj	feae991b1768846d
+933	3841	6804564020276316	CMakeFiles/10-QSpinBoxExample.dir/widget.cpp.obj	671b034632c093a1
+3841	4101	6804564022850275	10-QSpinBoxExample.exe	8dd4c7cdd5fc730b
+14	309	6804564818051915	10-QSpinBoxExample_autogen/timestamp	d9c661c0a41797e
+14	309	6804564818051915	10-QSpinBoxExample_autogen/mocs_compilation.cpp	d9c661c0a41797e
+14	309	6804564818051915	E:/Works/Qt Course/Qt Widgets/build-10-QSpinBoxExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/10-QSpinBoxExample_autogen/timestamp	d9c661c0a41797e
+14	309	6804564818051915	E:/Works/Qt Course/Qt Widgets/build-10-QSpinBoxExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/10-QSpinBoxExample_autogen/mocs_compilation.cpp	d9c661c0a41797e
+324	2457	6804564839531939	CMakeFiles/10-QSpinBoxExample.dir/widget.cpp.obj	671b034632c093a1
+2457	2658	6804564841507149	10-QSpinBoxExample.exe	8dd4c7cdd5fc730b
+14	300	6804565216532815	10-QSpinBoxExample_autogen/timestamp	d9c661c0a41797e
+14	300	6804565216532815	10-QSpinBoxExample_autogen/mocs_compilation.cpp	d9c661c0a41797e
+14	300	6804565216532815	E:/Works/Qt Course/Qt Widgets/build-10-QSpinBoxExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/10-QSpinBoxExample_autogen/timestamp	d9c661c0a41797e
+14	300	6804565216532815	E:/Works/Qt Course/Qt Widgets/build-10-QSpinBoxExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/10-QSpinBoxExample_autogen/mocs_compilation.cpp	d9c661c0a41797e
+314	2850	6804565242030290	CMakeFiles/10-QSpinBoxExample.dir/widget.cpp.obj	671b034632c093a1
+2850	3093	6804565244415445	10-QSpinBoxExample.exe	8dd4c7cdd5fc730b
+16	1383	6804570281924789	10-QSpinBoxExample_autogen/timestamp	d9c661c0a41797e
+16	1383	6804570281924789	10-QSpinBoxExample_autogen/mocs_compilation.cpp	d9c661c0a41797e
+16	1383	6804570281924789	E:/Works/Qt Course/Qt Widgets/build-10-QSpinBoxExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/10-QSpinBoxExample_autogen/timestamp	d9c661c0a41797e
+16	1383	6804570281924789	E:/Works/Qt Course/Qt Widgets/build-10-QSpinBoxExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/10-QSpinBoxExample_autogen/mocs_compilation.cpp	d9c661c0a41797e
+1388	4992	6804570320654056	CMakeFiles/10-QSpinBoxExample.dir/main.cpp.obj	4c2c38dbb8892f43
+1392	4994	6804570320666270	CMakeFiles/10-QSpinBoxExample.dir/widget.cpp.obj	671b034632c093a1
+1383	5001	6804570320739396	CMakeFiles/10-QSpinBoxExample.dir/10-QSpinBoxExample_autogen/mocs_compilation.cpp.obj	feae991b1768846d
+5002	5260	6804570323294557	10-QSpinBoxExample.exe	8dd4c7cdd5fc730b
+25	488	6804570841868469	10-QSpinBoxExample_autogen/timestamp	d9c661c0a41797e
+25	488	6804570841868469	10-QSpinBoxExample_autogen/mocs_compilation.cpp	d9c661c0a41797e
+25	488	6804570841868469	E:/Works/Qt Course/Qt Widgets/build-10-QSpinBoxExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/10-QSpinBoxExample_autogen/timestamp	d9c661c0a41797e
+25	488	6804570841868469	E:/Works/Qt Course/Qt Widgets/build-10-QSpinBoxExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/10-QSpinBoxExample_autogen/mocs_compilation.cpp	d9c661c0a41797e
+505	3162	6804570868622593	CMakeFiles/10-QSpinBoxExample.dir/widget.cpp.obj	671b034632c093a1
+3162	3395	6804570870915887	10-QSpinBoxExample.exe	8dd4c7cdd5fc730b

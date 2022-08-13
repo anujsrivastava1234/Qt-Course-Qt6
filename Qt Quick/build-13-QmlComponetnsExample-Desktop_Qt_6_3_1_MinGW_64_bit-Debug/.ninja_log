@@ -1,0 +1,37 @@
+# ninja log v5
+16	79	6814919795516010	.rcc/qmlcache/app13-QmlComponetnsExample_qmlcache_loader.cpp	5d5ec0f256b0a109
+387	519	6814908435878820	E:/Works/Qt Course/Qt Quick/build-13-QmlComponetnsExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/13-QmlComponetnsExample/app13-QmlComponetnsExample.qmltypes	6a11736cc957041d
+20	62	6814919795324227	E:/Works/Qt Course/Qt Quick/build-13-QmlComponetnsExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/13-QmlComponetnsExample/main.qml	4d361afa3036d258
+651	3258	6814908463864546	CMakeFiles/app13-QmlComponetnsExample.dir/.rcc/qmlcache/app13-QmlComponetnsExample_qmlcache_loader.cpp.obj	ebcb0aa09e1b6838
+20	62	6814919795324227	13-QmlComponetnsExample/main.qml	4d361afa3036d258
+23	82	6814919795551020	E:/Works/Qt Course/Qt Quick/build-13-QmlComponetnsExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app13-QmlComponetnsExample.cmake	6162d4dd4ace4717
+16	79	6814919795516010	E:/Works/Qt Course/Qt Quick/build-13-QmlComponetnsExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app13-QmlComponetnsExample_qmlcache_loader.cpp	5d5ec0f256b0a109
+224	261	6814919797329530	E:/Works/Qt Course/Qt Quick/build-13-QmlComponetnsExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app13-QmlComponetnsExample_raw_qml_0.cpp	3518ba10e723309d
+79	214	6814919796892072	app13-QmlComponetnsExample_autogen/mocs_compilation.cpp	f229131ef204adc4
+23	82	6814919795551020	.qt_plugins/Qt6_QmlPlugins_Imports_app13-QmlComponetnsExample.cmake	6162d4dd4ace4717
+79	214	6814919796892072	app13-QmlComponetnsExample_autogen/timestamp	f229131ef204adc4
+79	214	6814919796892072	E:/Works/Qt Course/Qt Quick/build-13-QmlComponetnsExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app13-QmlComponetnsExample_autogen/timestamp	f229131ef204adc4
+79	214	6814919796892072	E:/Works/Qt Course/Qt Quick/build-13-QmlComponetnsExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app13-QmlComponetnsExample_autogen/mocs_compilation.cpp	f229131ef204adc4
+224	261	6814919797329530	.rcc/qrc_app13-QmlComponetnsExample_raw_qml_0.cpp	3518ba10e723309d
+221	265	6814919797399526	.rcc/qrc_qmake_13-QmlComponetnsExample.cpp	8a3488d206a00637
+221	265	6814919797399526	E:/Works/Qt Course/Qt Quick/build-13-QmlComponetnsExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_qmake_13-QmlComponetnsExample.cpp	8a3488d206a00637
+387	519	6814908435878820	E:/Works/Qt Course/Qt Quick/build-13-QmlComponetnsExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app13-qmlcomponetnsexample_qmltyperegistrations.cpp	6a11736cc957041d
+218	267	6814919796194023	meta_types/app13-QmlComponetnsExample_json_file_list.txt	39c7ee52ad58eb04
+218	267	6814919796194023	meta_types/app13-QmlComponetnsExample_json_file_list.txt.timestamp	39c7ee52ad58eb04
+218	267	6814919796194023	E:/Works/Qt Course/Qt Quick/build-13-QmlComponetnsExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/app13-QmlComponetnsExample_json_file_list.txt	39c7ee52ad58eb04
+218	267	6814919796194023	E:/Works/Qt Course/Qt Quick/build-13-QmlComponetnsExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/app13-QmlComponetnsExample_json_file_list.txt.timestamp	39c7ee52ad58eb04
+644	771	6814908438931117	CMakeFiles/app13-QmlComponetnsExample.dir/.rcc/qrc_qmake_13-QmlComponetnsExample.cpp.obj	be674f4075aa748e
+350	387	6814908435166742	meta_types/qt6app13-qmlcomponetnsexample_debug_metatypes.json.gen	ff34cff52dbe1438
+350	387	6814908435166742	meta_types/qt6app13-qmlcomponetnsexample_debug_metatypes.json	ff34cff52dbe1438
+350	387	6814908435166742	E:/Works/Qt Course/Qt Quick/build-13-QmlComponetnsExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6app13-qmlcomponetnsexample_debug_metatypes.json.gen	ff34cff52dbe1438
+350	387	6814908435166742	E:/Works/Qt Course/Qt Quick/build-13-QmlComponetnsExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6app13-qmlcomponetnsexample_debug_metatypes.json	ff34cff52dbe1438
+138	1828	6814912635407509	CMakeFiles/app13-QmlComponetnsExample.dir/.rcc/qmlcache/app13-QmlComponetnsExample_main_qml.cpp.obj	d6ce58cbf7735b40
+387	519	6814908435878820	app13-qmlcomponetnsexample_qmltyperegistrations.cpp	6a11736cc957041d
+387	519	6814908435878820	13-QmlComponetnsExample/app13-QmlComponetnsExample.qmltypes	6a11736cc957041d
+41	138	6814912618448679	.rcc/qmlcache/app13-QmlComponetnsExample_main_qml.cpp	9e42de7b1b39a1c6
+41	138	6814912618448679	E:/Works/Qt Course/Qt Quick/build-13-QmlComponetnsExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app13-QmlComponetnsExample_main_qml.cpp	9e42de7b1b39a1c6
+641	765	6814908438876939	CMakeFiles/app13-QmlComponetnsExample.dir/app13-QmlComponetnsExample_autogen/mocs_compilation.cpp.obj	c22afdfd0f6cb654
+141	216	6814912619281004	CMakeFiles/app13-QmlComponetnsExample.dir/.rcc/qrc_app13-QmlComponetnsExample_raw_qml_0.cpp.obj	5bbe7632a8b1b8f5
+634	2633	6814908457607294	CMakeFiles/app13-QmlComponetnsExample.dir/app13-qmlcomponetnsexample_qmltyperegistrations.cpp.obj	42cc27835cc4bfb1
+637	2819	6814908459471252	CMakeFiles/app13-QmlComponetnsExample.dir/main.cpp.obj	1ead54905ba735b
+1828	2063	6814912637701094	app13-QmlComponetnsExample.exe	c006ad8cf784243f

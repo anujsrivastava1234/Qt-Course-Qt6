@@ -1,0 +1,4 @@
+module 2-QtButton
+typeinfo app2-QtButton.qmltypes
+prefer :/2-QtButton/
+

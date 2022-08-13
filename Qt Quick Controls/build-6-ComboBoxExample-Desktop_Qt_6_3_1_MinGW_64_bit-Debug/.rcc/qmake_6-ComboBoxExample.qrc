@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/6-ComboBoxExample">
+    <file alias="qmldir">E:/Works/Qt Course/Qt Quick Controls/build-6-ComboBoxExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/6-ComboBoxExample/qmldir</file>
+  </qresource>
+</RCC>
+

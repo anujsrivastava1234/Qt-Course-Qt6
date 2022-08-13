@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/2-RectangleExample">
+    <file alias="qmldir">E:/Works/Qt Course/Qt Quick/build-2-RectangleExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-RectangleExample/qmldir</file>
+  </qresource>
+</RCC>
+

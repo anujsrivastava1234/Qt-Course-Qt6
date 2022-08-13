@@ -1,0 +1,5 @@
+E:/Works/Qt Course/Qt Widgets/build-2-SignalSlots-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/2-SignalSlots.dir
+E:/Works/Qt Course/Qt Widgets/build-2-SignalSlots-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+E:/Works/Qt Course/Qt Widgets/build-2-SignalSlots-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+E:/Works/Qt Course/Qt Widgets/build-2-SignalSlots-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/2-SignalSlots_autogen_timestamp_deps.dir
+E:/Works/Qt Course/Qt Widgets/build-2-SignalSlots-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/2-SignalSlots_autogen.dir

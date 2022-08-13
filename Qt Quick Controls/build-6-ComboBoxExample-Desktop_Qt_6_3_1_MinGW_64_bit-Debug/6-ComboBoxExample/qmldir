@@ -1,0 +1,4 @@
+module 6-ComboBoxExample
+typeinfo app6-ComboBoxExample.qmltypes
+prefer :/6-ComboBoxExample/
+

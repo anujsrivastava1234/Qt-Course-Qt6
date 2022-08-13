@@ -1,0 +1,92 @@
+# ninja log v5
+6	55	6812387713662640	8-QMl/main.qml	9959b8fb2e866c02
+6	55	6812387713662640	E:/Works/Qt Course/Qt Quick/build-8-QMl-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/8-QMl/main.qml	9959b8fb2e866c02
+2	63	6812387713703909	.rcc/qmlcache/app8-QMl_qmlcache_loader.cpp	67f5820149746630
+2	63	6812387713703909	E:/Works/Qt Course/Qt Quick/build-8-QMl-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app8-QMl_qmlcache_loader.cpp	67f5820149746630
+13	68	6812387713784753	.qt_plugins/Qt6_QmlPlugins_Imports_app8-QMl.cmake	f71560af7f880880
+13	68	6812387713784753	E:/Works/Qt Course/Qt Quick/build-8-QMl-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app8-QMl.cmake	f71560af7f880880
+63	359	6812387715713338	app8-QMl_autogen/timestamp	839c8a402281d558
+63	359	6812387715713338	app8-QMl_autogen/mocs_compilation.cpp	839c8a402281d558
+63	359	6812387715713338	E:/Works/Qt Course/Qt Quick/build-8-QMl-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app8-QMl_autogen/timestamp	839c8a402281d558
+63	359	6812387715713338	E:/Works/Qt Course/Qt Quick/build-8-QMl-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app8-QMl_autogen/mocs_compilation.cpp	839c8a402281d558
+361	412	6812387717225696	.rcc/qrc_app8-QMl_raw_qml_0.cpp	ccaba14b74942d30
+361	412	6812387717225696	E:/Works/Qt Course/Qt Quick/build-8-QMl-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app8-QMl_raw_qml_0.cpp	ccaba14b74942d30
+365	417	6812387717260045	.rcc/qrc_qmake_8-QMl.cpp	fde47342cf4d6a34
+365	417	6812387717260045	E:/Works/Qt Course/Qt Quick/build-8-QMl-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_qmake_8-QMl.cpp	fde47342cf4d6a34
+369	421	6812387717334130	meta_types/app8-QMl_json_file_list.txt	6b890ff118644a3b
+369	421	6812387717334130	meta_types/app8-QMl_json_file_list.txt.timestamp	6b890ff118644a3b
+369	421	6812387717334130	E:/Works/Qt Course/Qt Quick/build-8-QMl-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/app8-QMl_json_file_list.txt	6b890ff118644a3b
+369	421	6812387717334130	E:/Works/Qt Course/Qt Quick/build-8-QMl-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/app8-QMl_json_file_list.txt.timestamp	6b890ff118644a3b
+421	475	6812387717878633	meta_types/qt6app8-qml_debug_metatypes.json.gen	c7fd174ce56662b9
+421	475	6812387717878633	meta_types/qt6app8-qml_debug_metatypes.json	c7fd174ce56662b9
+421	475	6812387717878633	E:/Works/Qt Course/Qt Quick/build-8-QMl-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6app8-qml_debug_metatypes.json.gen	c7fd174ce56662b9
+421	475	6812387717878633	E:/Works/Qt Course/Qt Quick/build-8-QMl-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6app8-qml_debug_metatypes.json	c7fd174ce56662b9
+475	654	6812387718646353	app8-qml_qmltyperegistrations.cpp	3a5fd97d64de067c
+475	654	6812387718646353	8-QMl/app8-QMl.qmltypes	3a5fd97d64de067c
+475	654	6812387718646353	E:/Works/Qt Course/Qt Quick/build-8-QMl-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app8-qml_qmltyperegistrations.cpp	3a5fd97d64de067c
+475	654	6812387718646353	E:/Works/Qt Course/Qt Quick/build-8-QMl-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/8-QMl/app8-QMl.qmltypes	3a5fd97d64de067c
+654	792	6812387720959716	.rcc/qmlcache/app8-QMl_main_qml.cpp	19f99ac7f1e0b1f0
+654	792	6812387720959716	E:/Works/Qt Course/Qt Quick/build-8-QMl-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app8-QMl_main_qml.cpp	19f99ac7f1e0b1f0
+811	1087	6812387723994335	CMakeFiles/app8-QMl.dir/.rcc/qrc_qmake_8-QMl.cpp.obj	f665f95f75dceb04
+796	1092	6812387723989330	CMakeFiles/app8-QMl.dir/app8-QMl_autogen/mocs_compilation.cpp.obj	a5836e909eb3c84e
+815	1108	6812387724022619	CMakeFiles/app8-QMl.dir/.rcc/qrc_app8-QMl_raw_qml_0.cpp.obj	dd1249d27981839
+800	4401	6812387757130776	CMakeFiles/app8-QMl.dir/app8-qml_qmltyperegistrations.cpp.obj	f3687743e801e56f
+793	4661	6812387759736869	CMakeFiles/app8-QMl.dir/main.cpp.obj	11747e61e805df84
+803	4781	6812387760927518	CMakeFiles/app8-QMl.dir/.rcc/qmlcache/app8-QMl_main_qml.cpp.obj	aef53bd4d0b871dd
+807	5165	6812387764726366	CMakeFiles/app8-QMl.dir/.rcc/qmlcache/app8-QMl_qmlcache_loader.cpp.obj	63cf5bbe9d42aeb1
+5165	5535	6812387768380968	app8-QMl.exe	2b054b11b8fba19
+51	102	6812394025805496	.qt_plugins/Qt6_QmlPlugins_Imports_app8-QMl.cmake	f71560af7f880880
+51	102	6812394025805496	E:/Works/Qt Course/Qt Quick/build-8-QMl-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app8-QMl.cmake	f71560af7f880880
+57	104	6812394025846778	8-QMl/main.qml	9959b8fb2e866c02
+57	104	6812394025846778	E:/Works/Qt Course/Qt Quick/build-8-QMl-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/8-QMl/main.qml	9959b8fb2e866c02
+109	151	6812394026326747	.rcc/qrc_app8-QMl_raw_qml_0.cpp	ccaba14b74942d30
+109	151	6812394026326747	E:/Works/Qt Course/Qt Quick/build-8-QMl-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app8-QMl_raw_qml_0.cpp	ccaba14b74942d30
+104	259	6812394027318958	.rcc/qmlcache/app8-QMl_main_qml.cpp	19f99ac7f1e0b1f0
+104	259	6812394027318958	E:/Works/Qt Course/Qt Quick/build-8-QMl-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app8-QMl_main_qml.cpp	19f99ac7f1e0b1f0
+264	379	6812394028598778	CMakeFiles/app8-QMl.dir/.rcc/qrc_app8-QMl_raw_qml_0.cpp.obj	dd1249d27981839
+259	3109	6812394055891653	CMakeFiles/app8-QMl.dir/.rcc/qmlcache/app8-QMl_main_qml.cpp.obj	aef53bd4d0b871dd
+3110	3459	6812394059349413	app8-QMl.exe	2b054b11b8fba19
+19	59	6813136675682052	8-QMl/main.qml	9959b8fb2e866c02
+19	59	6813136675682052	E:/Works/Qt Course/Qt Quick/build-8-QMl-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/8-QMl/main.qml	9959b8fb2e866c02
+22	180	6813136676893650	.qt_plugins/Qt6_QmlPlugins_Imports_app8-QMl.cmake	f71560af7f880880
+22	180	6813136676893650	E:/Works/Qt Course/Qt Quick/build-8-QMl-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app8-QMl.cmake	f71560af7f880880
+180	227	6813136677372950	.rcc/qrc_app8-QMl_raw_qml_0.cpp	ccaba14b74942d30
+180	227	6813136677372950	E:/Works/Qt Course/Qt Quick/build-8-QMl-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app8-QMl_raw_qml_0.cpp	ccaba14b74942d30
+182	315	6813136678219485	.rcc/qmlcache/app8-QMl_main_qml.cpp	19f99ac7f1e0b1f0
+182	315	6813136678219485	E:/Works/Qt Course/Qt Quick/build-8-QMl-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app8-QMl_main_qml.cpp	19f99ac7f1e0b1f0
+318	991	6813136685033119	CMakeFiles/app8-QMl.dir/.rcc/qrc_app8-QMl_raw_qml_0.cpp.obj	dd1249d27981839
+315	1962	6813136694727865	CMakeFiles/app8-QMl.dir/.rcc/qmlcache/app8-QMl_main_qml.cpp.obj	aef53bd4d0b871dd
+1962	2645	6813136701510266	app8-QMl.exe	2b054b11b8fba19
+5	34	6813136984161484	8-QMl/main.qml	9959b8fb2e866c02
+5	34	6813136984161484	E:/Works/Qt Course/Qt Quick/build-8-QMl-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/8-QMl/main.qml	9959b8fb2e866c02
+8	39	6813136984217386	.qt_plugins/Qt6_QmlPlugins_Imports_app8-QMl.cmake	f71560af7f880880
+8	39	6813136984217386	E:/Works/Qt Course/Qt Quick/build-8-QMl-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app8-QMl.cmake	f71560af7f880880
+41	68	6813136984493071	.rcc/qrc_app8-QMl_raw_qml_0.cpp	ccaba14b74942d30
+41	68	6813136984493071	E:/Works/Qt Course/Qt Quick/build-8-QMl-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app8-QMl_raw_qml_0.cpp	ccaba14b74942d30
+39	126	6813136985051977	.rcc/qmlcache/app8-QMl_main_qml.cpp	19f99ac7f1e0b1f0
+39	126	6813136985051977	E:/Works/Qt Course/Qt Quick/build-8-QMl-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app8-QMl_main_qml.cpp	19f99ac7f1e0b1f0
+129	191	6813136985755483	CMakeFiles/app8-QMl.dir/.rcc/qrc_app8-QMl_raw_qml_0.cpp.obj	dd1249d27981839
+126	1595	6813136999796649	CMakeFiles/app8-QMl.dir/.rcc/qmlcache/app8-QMl_main_qml.cpp.obj	aef53bd4d0b871dd
+1596	1811	6813137001899313	app8-QMl.exe	2b054b11b8fba19
+5	33	6813137293271637	.qt_plugins/Qt6_QmlPlugins_Imports_app8-QMl.cmake	f71560af7f880880
+5	33	6813137293271637	E:/Works/Qt Course/Qt Quick/build-8-QMl-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app8-QMl.cmake	f71560af7f880880
+8	34	6813137293291595	8-QMl/main.qml	9959b8fb2e866c02
+8	34	6813137293291595	E:/Works/Qt Course/Qt Quick/build-8-QMl-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/8-QMl/main.qml	9959b8fb2e866c02
+34	59	6813137293531239	.rcc/qrc_app8-QMl_raw_qml_0.cpp	ccaba14b74942d30
+34	59	6813137293531239	E:/Works/Qt Course/Qt Quick/build-8-QMl-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app8-QMl_raw_qml_0.cpp	ccaba14b74942d30
+37	122	6813137294104415	.rcc/qmlcache/app8-QMl_main_qml.cpp	19f99ac7f1e0b1f0
+37	122	6813137294104415	E:/Works/Qt Course/Qt Quick/build-8-QMl-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app8-QMl_main_qml.cpp	19f99ac7f1e0b1f0
+125	188	6813137294825765	CMakeFiles/app8-QMl.dir/.rcc/qrc_app8-QMl_raw_qml_0.cpp.obj	dd1249d27981839
+122	1544	6813137308380407	CMakeFiles/app8-QMl.dir/.rcc/qmlcache/app8-QMl_main_qml.cpp.obj	aef53bd4d0b871dd
+1544	1740	6813137310313882	app8-QMl.exe	2b054b11b8fba19
+7	35	6813137397229291	8-QMl/main.qml	9959b8fb2e866c02
+7	35	6813137397229291	E:/Works/Qt Course/Qt Quick/build-8-QMl-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/8-QMl/main.qml	9959b8fb2e866c02
+4	36	6813137397229291	.qt_plugins/Qt6_QmlPlugins_Imports_app8-QMl.cmake	f71560af7f880880
+4	36	6813137397229291	E:/Works/Qt Course/Qt Quick/build-8-QMl-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app8-QMl.cmake	f71560af7f880880
+39	66	6813137397535740	.rcc/qrc_app8-QMl_raw_qml_0.cpp	ccaba14b74942d30
+39	66	6813137397535740	E:/Works/Qt Course/Qt Quick/build-8-QMl-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app8-QMl_raw_qml_0.cpp	ccaba14b74942d30
+36	123	6813137398044147	.rcc/qmlcache/app8-QMl_main_qml.cpp	19f99ac7f1e0b1f0
+36	123	6813137398044147	E:/Works/Qt Course/Qt Quick/build-8-QMl-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app8-QMl_main_qml.cpp	19f99ac7f1e0b1f0
+126	189	6813137398779159	CMakeFiles/app8-QMl.dir/.rcc/qrc_app8-QMl_raw_qml_0.cpp.obj	dd1249d27981839
+123	1537	6813137412250292	CMakeFiles/app8-QMl.dir/.rcc/qmlcache/app8-QMl_main_qml.cpp.obj	aef53bd4d0b871dd
+1538	1738	6813137414216031	app8-QMl.exe	2b054b11b8fba19

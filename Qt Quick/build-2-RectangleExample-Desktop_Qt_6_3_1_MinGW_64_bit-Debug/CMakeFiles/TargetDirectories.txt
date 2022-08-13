@@ -1,0 +1,16 @@
+E:/Works/Qt Course/Qt Quick/build-2-RectangleExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/app2-RectangleExample.dir
+E:/Works/Qt Course/Qt Quick/build-2-RectangleExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/app2-RectangleExample_qmltyperegistration.dir
+E:/Works/Qt Course/Qt Quick/build-2-RectangleExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/all_qmltyperegistrations.dir
+E:/Works/Qt Course/Qt Quick/build-2-RectangleExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/app2-RectangleExample_other_files.dir
+E:/Works/Qt Course/Qt Quick/build-2-RectangleExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/app2-RectangleExample_qmllint.dir
+E:/Works/Qt Course/Qt Quick/build-2-RectangleExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/all_qmllint.dir
+E:/Works/Qt Course/Qt Quick/build-2-RectangleExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/app2-RectangleExample_tooling.dir
+E:/Works/Qt Course/Qt Quick/build-2-RectangleExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/app2-RectangleExample_qmlimportscan.dir
+E:/Works/Qt Course/Qt Quick/build-2-RectangleExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+E:/Works/Qt Course/Qt Quick/build-2-RectangleExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+E:/Works/Qt Course/Qt Quick/build-2-RectangleExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+E:/Works/Qt Course/Qt Quick/build-2-RectangleExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/install.dir
+E:/Works/Qt Course/Qt Quick/build-2-RectangleExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+E:/Works/Qt Course/Qt Quick/build-2-RectangleExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+E:/Works/Qt Course/Qt Quick/build-2-RectangleExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/app2-RectangleExample_autogen_timestamp_deps.dir
+E:/Works/Qt Course/Qt Quick/build-2-RectangleExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/app2-RectangleExample_autogen.dir

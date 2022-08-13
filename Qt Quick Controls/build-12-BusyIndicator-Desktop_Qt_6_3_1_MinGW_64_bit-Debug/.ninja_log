@@ -1,0 +1,37 @@
+# ninja log v5
+5	41	6817509527459366	12-BusyIndicator/main.qml	488c5a81ce4ad529
+5	41	6817509527459366	E:/Works/Qt Course/Qt Quick Controls/build-12-BusyIndicator-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/12-BusyIndicator/main.qml	488c5a81ce4ad529
+1	42	6817509527443862	.rcc/qmlcache/app12-BusyIndicator_qmlcache_loader.cpp	33268028cdb80cc9
+1	42	6817509527443862	E:/Works/Qt Course/Qt Quick Controls/build-12-BusyIndicator-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app12-BusyIndicator_qmlcache_loader.cpp	33268028cdb80cc9
+42	225	6817509528655720	app12-BusyIndicator_autogen/timestamp	4cc9f724b71c0e4c
+42	225	6817509528655720	app12-BusyIndicator_autogen/mocs_compilation.cpp	4cc9f724b71c0e4c
+42	225	6817509528655720	E:/Works/Qt Course/Qt Quick Controls/build-12-BusyIndicator-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app12-BusyIndicator_autogen/timestamp	4cc9f724b71c0e4c
+42	225	6817509528655720	E:/Works/Qt Course/Qt Quick Controls/build-12-BusyIndicator-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app12-BusyIndicator_autogen/mocs_compilation.cpp	4cc9f724b71c0e4c
+227	254	6817509529599306	meta_types/app12-BusyIndicator_json_file_list.txt	85fd604b0f9e7663
+227	254	6817509529599306	meta_types/app12-BusyIndicator_json_file_list.txt.timestamp	85fd604b0f9e7663
+227	254	6817509529599306	E:/Works/Qt Course/Qt Quick Controls/build-12-BusyIndicator-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/app12-BusyIndicator_json_file_list.txt	85fd604b0f9e7663
+227	254	6817509529599306	E:/Works/Qt Course/Qt Quick Controls/build-12-BusyIndicator-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/app12-BusyIndicator_json_file_list.txt.timestamp	85fd604b0f9e7663
+254	289	6817509529954208	meta_types/qt6app12-busyindicator_debug_metatypes.json.gen	6739109edd0c79d2
+254	289	6817509529954208	meta_types/qt6app12-busyindicator_debug_metatypes.json	6739109edd0c79d2
+254	289	6817509529954208	E:/Works/Qt Course/Qt Quick Controls/build-12-BusyIndicator-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6app12-busyindicator_debug_metatypes.json.gen	6739109edd0c79d2
+254	289	6817509529954208	E:/Works/Qt Course/Qt Quick Controls/build-12-BusyIndicator-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6app12-busyindicator_debug_metatypes.json	6739109edd0c79d2
+290	399	6817509530479933	app12-busyindicator_qmltyperegistrations.cpp	2fc44bc2dc2b00e9
+290	399	6817509530479933	12-BusyIndicator/app12-BusyIndicator.qmltypes	2fc44bc2dc2b00e9
+290	399	6817509530479933	E:/Works/Qt Course/Qt Quick Controls/build-12-BusyIndicator-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app12-busyindicator_qmltyperegistrations.cpp	2fc44bc2dc2b00e9
+290	399	6817509530479933	E:/Works/Qt Course/Qt Quick Controls/build-12-BusyIndicator-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/12-BusyIndicator/app12-BusyIndicator.qmltypes	2fc44bc2dc2b00e9
+7	400	6817509531058975	.qt_plugins/Qt6_QmlPlugins_Imports_app12-BusyIndicator.cmake	2f6fa2cac6be287f
+7	400	6817509531058975	E:/Works/Qt Course/Qt Quick Controls/build-12-BusyIndicator-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app12-BusyIndicator.cmake	2f6fa2cac6be287f
+400	430	6817509531348251	.rcc/qrc_qmake_12-BusyIndicator.cpp	93c6226aa704e8c5
+400	430	6817509531348251	E:/Works/Qt Course/Qt Quick Controls/build-12-BusyIndicator-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_qmake_12-BusyIndicator.cpp	93c6226aa704e8c5
+406	437	6817509531421904	.rcc/qrc_app12-BusyIndicator_raw_qml_0.cpp	ff065275c349207e
+406	437	6817509531421904	E:/Works/Qt Course/Qt Quick Controls/build-12-BusyIndicator-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app12-BusyIndicator_raw_qml_0.cpp	ff065275c349207e
+403	532	6817509532296292	.rcc/qmlcache/app12-BusyIndicator_main_qml.cpp	7078902b6465ceac
+403	532	6817509532296292	E:/Works/Qt Course/Qt Quick Controls/build-12-BusyIndicator-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app12-BusyIndicator_main_qml.cpp	7078902b6465ceac
+534	636	6817509533310260	CMakeFiles/app12-BusyIndicator.dir/app12-BusyIndicator_autogen/mocs_compilation.cpp.obj	d08abb4cf1a810de
+539	663	6817509533644349	CMakeFiles/app12-BusyIndicator.dir/.rcc/qrc_qmake_12-BusyIndicator.cpp.obj	150b659a8f63b456
+546	682	6817509533885885	CMakeFiles/app12-BusyIndicator.dir/.rcc/qrc_app12-BusyIndicator_raw_qml_0.cpp.obj	8531f5ba4e38733f
+536	2514	6817509552191605	CMakeFiles/app12-BusyIndicator.dir/app12-busyindicator_qmltyperegistrations.cpp.obj	83b5c9b2c7bc5acf
+532	2721	6817509554266677	CMakeFiles/app12-BusyIndicator.dir/main.cpp.obj	c92af37037fa16f8
+549	2781	6817509554864241	CMakeFiles/app12-BusyIndicator.dir/.rcc/qmlcache/app12-BusyIndicator_main_qml.cpp.obj	8901ccf2d43487f
+543	3063	6817509557675653	CMakeFiles/app12-BusyIndicator.dir/.rcc/qmlcache/app12-BusyIndicator_qmlcache_loader.cpp.obj	aa3f9b5e4da2f0fe
+3063	3270	6817509559720846	app12-BusyIndicator.exe	e85c858cb7721caf

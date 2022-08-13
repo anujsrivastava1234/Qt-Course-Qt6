@@ -1,0 +1,37 @@
+# ninja log v5
+768	899	6820995002409214	CMakeFiles/appTabBarButton.dir/.rcc/qrc_qmake_TabBarButton.cpp.obj	a891f115f61c00b0
+351	416	6820994997595967	meta_types/appTabBarButton_json_file_list.txt.timestamp	11e62b74fe3ef1cc
+7	43	6820994993850834	TabBarButton/main.qml	f043660b1a4a9a84
+457	604	6820994998851523	TabBarButton/appTabBarButton.qmltypes	333172b64d1783c5
+158	351	6820994996265211	E:/Works/Qt Course/Qt Quick Controls/build-TabBarButton-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/appTabBarButton_autogen/mocs_compilation.cpp	f938e1ba2fbcf93b
+457	604	6820994998851523	apptabbarbutton_qmltyperegistrations.cpp	333172b64d1783c5
+416	456	6820994998005918	meta_types/qt6apptabbarbutton_debug_metatypes.json.gen	bbd78f6b28111b9a
+7	43	6820994993850834	E:/Works/Qt Course/Qt Quick Controls/build-TabBarButton-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/TabBarButton/main.qml	f043660b1a4a9a84
+158	351	6820994996265211	appTabBarButton_autogen/mocs_compilation.cpp	f938e1ba2fbcf93b
+761	3330	6820995026714352	CMakeFiles/appTabBarButton.dir/.rcc/qmlcache/appTabBarButton_qmlcache_loader.cpp.obj	e63eebea25359a26
+2	158	6820994994995059	.rcc/qmlcache/appTabBarButton_qmlcache_loader.cpp	6d9df979ec58fc94
+158	351	6820994996265211	E:/Works/Qt Course/Qt Quick Controls/build-TabBarButton-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/appTabBarButton_autogen/timestamp	f938e1ba2fbcf93b
+2	158	6820994994995059	E:/Works/Qt Course/Qt Quick Controls/build-TabBarButton-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/appTabBarButton_qmlcache_loader.cpp	6d9df979ec58fc94
+158	351	6820994996265211	appTabBarButton_autogen/timestamp	f938e1ba2fbcf93b
+5	507	6820994998498856	.qt_plugins/Qt6_QmlPlugins_Imports_appTabBarButton.cmake	b581f9b2e8d52bfe
+351	416	6820994997595967	meta_types/appTabBarButton_json_file_list.txt	11e62b74fe3ef1cc
+755	904	6820995002465044	CMakeFiles/appTabBarButton.dir/appTabBarButton_autogen/mocs_compilation.cpp.obj	6b010d5f614f9659
+351	416	6820994997595967	E:/Works/Qt Course/Qt Quick Controls/build-TabBarButton-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/appTabBarButton_json_file_list.txt	11e62b74fe3ef1cc
+351	416	6820994997595967	E:/Works/Qt Course/Qt Quick Controls/build-TabBarButton-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/appTabBarButton_json_file_list.txt.timestamp	11e62b74fe3ef1cc
+416	456	6820994998005918	meta_types/qt6apptabbarbutton_debug_metatypes.json	bbd78f6b28111b9a
+416	456	6820994998005918	E:/Works/Qt Course/Qt Quick Controls/build-TabBarButton-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6apptabbarbutton_debug_metatypes.json.gen	bbd78f6b28111b9a
+416	456	6820994998005918	E:/Works/Qt Course/Qt Quick Controls/build-TabBarButton-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6apptabbarbutton_debug_metatypes.json	bbd78f6b28111b9a
+5	507	6820994998498856	E:/Works/Qt Course/Qt Quick Controls/build-TabBarButton-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appTabBarButton.cmake	b581f9b2e8d52bfe
+457	604	6820994998851523	E:/Works/Qt Course/Qt Quick Controls/build-TabBarButton-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/TabBarButton/appTabBarButton.qmltypes	333172b64d1783c5
+510	557	6820994999001107	.rcc/qrc_appTabBarButton_raw_qml_0.cpp	99d3372b93a540ea
+510	557	6820994999001107	E:/Works/Qt Course/Qt Quick Controls/build-TabBarButton-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_appTabBarButton_raw_qml_0.cpp	99d3372b93a540ea
+507	557	6820994999001107	.rcc/qrc_qmake_TabBarButton.cpp	d98ba5a0a32d1456
+604	753	6820995000908153	E:/Works/Qt Course/Qt Quick Controls/build-TabBarButton-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/appTabBarButton_main_qml.cpp	1662c792b5e5ef85
+507	557	6820994999001107	E:/Works/Qt Course/Qt Quick Controls/build-TabBarButton-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_qmake_TabBarButton.cpp	d98ba5a0a32d1456
+457	604	6820994998851523	E:/Works/Qt Course/Qt Quick Controls/build-TabBarButton-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/apptabbarbutton_qmltyperegistrations.cpp	333172b64d1783c5
+604	753	6820995000908153	.rcc/qmlcache/appTabBarButton_main_qml.cpp	1662c792b5e5ef85
+782	920	6820995002623342	CMakeFiles/appTabBarButton.dir/.rcc/qrc_appTabBarButton_raw_qml_0.cpp.obj	c1903e84c8b29005
+759	2667	6820995020090201	CMakeFiles/appTabBarButton.dir/apptabbarbutton_qmltyperegistrations.cpp.obj	4c219627a4d6d930
+3330	3579	6820995029188456	appTabBarButton.exe	3dec403b94b6f7a1
+753	2851	6820995021940145	CMakeFiles/appTabBarButton.dir/main.cpp.obj	9fc18a40343e0f33
+764	2990	6820995023330081	CMakeFiles/appTabBarButton.dir/.rcc/qmlcache/appTabBarButton_main_qml.cpp.obj	d933b6dad77ae0c7

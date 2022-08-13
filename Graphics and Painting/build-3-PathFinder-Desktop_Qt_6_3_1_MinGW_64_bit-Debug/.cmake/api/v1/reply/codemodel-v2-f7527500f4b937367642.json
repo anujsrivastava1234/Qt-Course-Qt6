@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-523062bd5ac67c41db71.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "3-PathFinder",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "3-PathFinder::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-3-PathFinder-Debug-f9dbde2e84c66a5b8d6e.json",
+					"name" : "3-PathFinder",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "3-PathFinder_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-3-PathFinder_autogen-Debug-c03753ba1962b2255f73.json",
+					"name" : "3-PathFinder_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "3-PathFinder_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-3-PathFinder_autogen_timestamp_deps-Debug-f4c1c1babbe18a2844c8.json",
+					"name" : "3-PathFinder_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/Works/Qt Course/Graphics and Painting/build-3-PathFinder-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
+		"source" : "E:/Works/Qt Course/Graphics and Painting/3-PathFinder"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

@@ -1,0 +1,15 @@
+# ninja log v5
+2	1138	6808021974297144	1-QSqliteConnection_autogen/timestamp	af51d4a5c78a1ad3
+2	1138	6808021974297144	1-QSqliteConnection_autogen/mocs_compilation.cpp	af51d4a5c78a1ad3
+2	1138	6808021974297144	E:/Works/Qt Course/Qt Databases/build-1-QSqliteConnection-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/1-QSqliteConnection_autogen/timestamp	af51d4a5c78a1ad3
+2	1138	6808021974297144	E:/Works/Qt Course/Qt Databases/build-1-QSqliteConnection-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/1-QSqliteConnection_autogen/mocs_compilation.cpp	af51d4a5c78a1ad3
+1140	3418	6808021998616186	CMakeFiles/1-QSqliteConnection.dir/1-QSqliteConnection_autogen/mocs_compilation.cpp.obj	ec75afecb5666947
+1143	3477	6808021999214773	CMakeFiles/1-QSqliteConnection.dir/main.cpp.obj	e0ae3ec662dab598
+1146	3539	6808021999847146	CMakeFiles/1-QSqliteConnection.dir/widget.cpp.obj	e1db76386d5c9f53
+3539	3775	6808022002166127	1-QSqliteConnection.exe	fae471eed07cafcd
+17	232	6808024823766606	1-QSqliteConnection_autogen/timestamp	af51d4a5c78a1ad3
+17	232	6808024823766606	1-QSqliteConnection_autogen/mocs_compilation.cpp	af51d4a5c78a1ad3
+17	232	6808024823766606	E:/Works/Qt Course/Qt Databases/build-1-QSqliteConnection-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/1-QSqliteConnection_autogen/timestamp	af51d4a5c78a1ad3
+17	232	6808024823766606	E:/Works/Qt Course/Qt Databases/build-1-QSqliteConnection-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/1-QSqliteConnection_autogen/mocs_compilation.cpp	af51d4a5c78a1ad3
+246	2113	6808024842570045	CMakeFiles/1-QSqliteConnection.dir/widget.cpp.obj	e1db76386d5c9f53
+2113	2319	6808024844591612	1-QSqliteConnection.exe	fae471eed07cafcd

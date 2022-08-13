@@ -1,0 +1,59 @@
+# ninja log v5
+9	87	6812333716372794	3-TextElement/main.qml	b773ac8f9286f320
+9	87	6812333716372794	E:/Works/Qt Course/Qt Quick/build-3-TextElement-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-TextElement/main.qml	b773ac8f9286f320
+13	282	6812333718360195	.qt_plugins/Qt6_QmlPlugins_Imports_app3-TextElement.cmake	e8fa412995bcff3e
+13	282	6812333718360195	E:/Works/Qt Course/Qt Quick/build-3-TextElement-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app3-TextElement.cmake	e8fa412995bcff3e
+3	282	6812333718302781	.rcc/qmlcache/app3-TextElement_qmlcache_loader.cpp	1a9a23d2527bec16
+3	282	6812333718302781	E:/Works/Qt Course/Qt Quick/build-3-TextElement-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app3-TextElement_qmlcache_loader.cpp	1a9a23d2527bec16
+284	689	6812333720826010	app3-TextElement_autogen/timestamp	e402bdd741bde4c7
+284	689	6812333720826010	app3-TextElement_autogen/mocs_compilation.cpp	e402bdd741bde4c7
+284	689	6812333720826010	E:/Works/Qt Course/Qt Quick/build-3-TextElement-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app3-TextElement_autogen/timestamp	e402bdd741bde4c7
+284	689	6812333720826010	E:/Works/Qt Course/Qt Quick/build-3-TextElement-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app3-TextElement_autogen/mocs_compilation.cpp	e402bdd741bde4c7
+693	790	6812333723496863	.rcc/qrc_qmake_3-TextElement.cpp	219028edd1233158
+693	790	6812333723496863	E:/Works/Qt Course/Qt Quick/build-3-TextElement-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_qmake_3-TextElement.cpp	219028edd1233158
+697	792	6812333723507245	.rcc/qrc_app3-TextElement_raw_qml_0.cpp	bfa518a72d8394d5
+697	792	6812333723507245	E:/Works/Qt Course/Qt Quick/build-3-TextElement-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app3-TextElement_raw_qml_0.cpp	bfa518a72d8394d5
+689	810	6812333723729719	meta_types/app3-TextElement_json_file_list.txt	1be679790feb32fc
+689	810	6812333723729719	meta_types/app3-TextElement_json_file_list.txt.timestamp	1be679790feb32fc
+689	810	6812333723729719	E:/Works/Qt Course/Qt Quick/build-3-TextElement-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/app3-TextElement_json_file_list.txt	1be679790feb32fc
+689	810	6812333723729719	E:/Works/Qt Course/Qt Quick/build-3-TextElement-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/app3-TextElement_json_file_list.txt.timestamp	1be679790feb32fc
+810	885	6812333724487228	meta_types/qt6app3-textelement_debug_metatypes.json.gen	1e23c828d6f8eb4e
+810	885	6812333724487228	meta_types/qt6app3-textelement_debug_metatypes.json	1e23c828d6f8eb4e
+810	885	6812333724487228	E:/Works/Qt Course/Qt Quick/build-3-TextElement-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6app3-textelement_debug_metatypes.json.gen	1e23c828d6f8eb4e
+810	885	6812333724487228	E:/Works/Qt Course/Qt Quick/build-3-TextElement-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6app3-textelement_debug_metatypes.json	1e23c828d6f8eb4e
+886	1161	6812333726029087	app3-textelement_qmltyperegistrations.cpp	d401df1bf4a6ea38
+886	1161	6812333726029087	3-TextElement/app3-TextElement.qmltypes	d401df1bf4a6ea38
+886	1161	6812333726029087	E:/Works/Qt Course/Qt Quick/build-3-TextElement-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app3-textelement_qmltyperegistrations.cpp	d401df1bf4a6ea38
+886	1161	6812333726029087	E:/Works/Qt Course/Qt Quick/build-3-TextElement-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-TextElement/app3-TextElement.qmltypes	d401df1bf4a6ea38
+1162	1421	6812333729738775	.rcc/qmlcache/app3-TextElement_main_qml.cpp	655b77ee41d16024
+1162	1421	6812333729738775	E:/Works/Qt Course/Qt Quick/build-3-TextElement-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app3-TextElement_main_qml.cpp	655b77ee41d16024
+1439	1686	6812333732479520	CMakeFiles/app3-TextElement.dir/.rcc/qrc_qmake_3-TextElement.cpp.obj	58eb41be87c3bc7d
+1426	1716	6812333732479520	CMakeFiles/app3-TextElement.dir/app3-TextElement_autogen/mocs_compilation.cpp.obj	9eabfffbaf368076
+1447	1728	6812333732635543	CMakeFiles/app3-TextElement.dir/.rcc/qrc_app3-TextElement_raw_qml_0.cpp.obj	e9f8c2c9dc0c9c71
+1422	6587	6812333781398932	CMakeFiles/app3-TextElement.dir/app3-textelement_qmltyperegistrations.cpp.obj	e27fb512fe09b293
+1430	7058	6812333786129910	CMakeFiles/app3-TextElement.dir/main.cpp.obj	fbb40f269ba810f2
+1443	7373	6812333789337449	CMakeFiles/app3-TextElement.dir/.rcc/qmlcache/app3-TextElement_main_qml.cpp.obj	750475c2aa6769b6
+1435	8054	6812333796141451	CMakeFiles/app3-TextElement.dir/.rcc/qmlcache/app3-TextElement_qmlcache_loader.cpp.obj	faba37965fcae7ac
+8055	8618	6812333801681555	app3-TextElement.exe	6afe79c7c0c75abc
+43	112	6812336531833895	.qt_plugins/Qt6_QmlPlugins_Imports_app3-TextElement.cmake	e8fa412995bcff3e
+43	112	6812336531833895	E:/Works/Qt Course/Qt Quick/build-3-TextElement-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app3-TextElement.cmake	e8fa412995bcff3e
+49	114	6812336531864502	3-TextElement/main.qml	b773ac8f9286f320
+49	114	6812336531864502	E:/Works/Qt Course/Qt Quick/build-3-TextElement-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-TextElement/main.qml	b773ac8f9286f320
+114	161	6812336532366709	.rcc/qrc_app3-TextElement_raw_qml_0.cpp	bfa518a72d8394d5
+114	161	6812336532366709	E:/Works/Qt Course/Qt Quick/build-3-TextElement-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app3-TextElement_raw_qml_0.cpp	bfa518a72d8394d5
+118	356	6812336534226825	.rcc/qmlcache/app3-TextElement_main_qml.cpp	655b77ee41d16024
+118	356	6812336534226825	E:/Works/Qt Course/Qt Quick/build-3-TextElement-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app3-TextElement_main_qml.cpp	655b77ee41d16024
+360	502	6812336535763767	CMakeFiles/app3-TextElement.dir/.rcc/qrc_app3-TextElement_raw_qml_0.cpp.obj	e9f8c2c9dc0c9c71
+356	7787	6812336608615725	CMakeFiles/app3-TextElement.dir/.rcc/qmlcache/app3-TextElement_main_qml.cpp.obj	750475c2aa6769b6
+7788	8406	6812336614692843	app3-TextElement.exe	6afe79c7c0c75abc
+13	80	6812336775738959	.qt_plugins/Qt6_QmlPlugins_Imports_app3-TextElement.cmake	e8fa412995bcff3e
+13	80	6812336775738959	E:/Works/Qt Course/Qt Quick/build-3-TextElement-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app3-TextElement.cmake	e8fa412995bcff3e
+23	88	6812336775816896	3-TextElement/main.qml	b773ac8f9286f320
+23	88	6812336775816896	E:/Works/Qt Course/Qt Quick/build-3-TextElement-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-TextElement/main.qml	b773ac8f9286f320
+93	149	6812336776407426	.rcc/qrc_app3-TextElement_raw_qml_0.cpp	bfa518a72d8394d5
+93	149	6812336776407426	E:/Works/Qt Course/Qt Quick/build-3-TextElement-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app3-TextElement_raw_qml_0.cpp	bfa518a72d8394d5
+89	339	6812336778232772	.rcc/qmlcache/app3-TextElement_main_qml.cpp	655b77ee41d16024
+89	339	6812336778232772	E:/Works/Qt Course/Qt Quick/build-3-TextElement-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app3-TextElement_main_qml.cpp	655b77ee41d16024
+343	484	6812336779766777	CMakeFiles/app3-TextElement.dir/.rcc/qrc_app3-TextElement_raw_qml_0.cpp.obj	e9f8c2c9dc0c9c71
+339	7523	6812336850157812	CMakeFiles/app3-TextElement.dir/.rcc/qmlcache/app3-TextElement_main_qml.cpp.obj	750475c2aa6769b6
+7523	8113	6812336855966481	app3-TextElement.exe	6afe79c7c0c75abc

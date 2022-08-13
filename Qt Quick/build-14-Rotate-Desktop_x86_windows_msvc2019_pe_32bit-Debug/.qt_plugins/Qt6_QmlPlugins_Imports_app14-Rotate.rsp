@@ -1,0 +1,12 @@
+-rootPath
+E:/Works/Qt Course/Qt Quick/14-Rotate
+-cmake-output
+-output-file
+E:/Works/Qt Course/Qt Quick/build-14-Rotate-Desktop_x86_windows_msvc2019_pe_32bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app14-Rotate.cmake
+-importPath
+C:/Qt/6.3.1/msvc2019_64/./qml
+E:/Works/Qt Course/Qt Quick/build-14-Rotate-Desktop_x86_windows_msvc2019_pe_32bit-Debug/14-Rotate
+E:/Works/Qt Course/Qt Quick/build-14-Rotate-Desktop_x86_windows_msvc2019_pe_32bit-Debug
+-qrcFiles
+E:/Works/Qt Course/Qt Quick/build-14-Rotate-Desktop_x86_windows_msvc2019_pe_32bit-Debug/.rcc/qmake_14-Rotate.qrc
+E:/Works/Qt Course/Qt Quick/build-14-Rotate-Desktop_x86_windows_msvc2019_pe_32bit-Debug/.rcc/app14-Rotate_raw_qml_0.qrc

@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/12-KeyPressedElements/">
+    <file alias="main.qml">E:/Works/Qt Course/Qt Quick/12-KeyPressedElements/main.qml</file>
+  </qresource>
+</RCC>
+

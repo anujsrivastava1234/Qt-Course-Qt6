@@ -1,0 +1,4 @@
+module 11-AnchorsExample
+typeinfo app11-AnchorsExample.qmltypes
+prefer :/11-AnchorsExample/
+

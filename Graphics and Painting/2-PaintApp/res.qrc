@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>3px.png</file>
+        <file>5px.png</file>
+        <file>7px.png</file>
+        <file>9px.png</file>
+        <file>black.png</file>
+        <file>clear.png</file>
+        <file>green.png</file>
+        <file>images.png</file>
+        <file>red.png</file>
+        <file>white.png</file>
+        <file>yellow.png</file>
+    </qresource>
+</RCC>

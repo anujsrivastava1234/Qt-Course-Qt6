@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/2-QtButton/">
+    <file alias="main.qml">E:/Works/Qt Course/Qt Quick Controls/2-QtButton/main.qml</file>
+  </qresource>
+</RCC>
+

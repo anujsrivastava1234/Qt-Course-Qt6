@@ -1,0 +1,81 @@
+# ninja log v5
+12	226	6807175509288746	6-QLabelExampleShadows_autogen/timestamp	3a3409d29b93ed5b
+12	226	6807175509288746	6-QLabelExampleShadows_autogen/mocs_compilation.cpp	3a3409d29b93ed5b
+12	226	6807175509288746	E:/Works/Qt Course/Graphics and Painting/build-6-QLabelExampleShadows-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/6-QLabelExampleShadows_autogen/mocs_compilation.cpp	3a3409d29b93ed5b
+753	810	6807173697821280	E:/Works/Qt Course/Graphics and Painting/build-6-QLabelExampleShadows-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/6-QLabelExampleShadows_autogen/EWIEGA46WW/qrc_res.cpp	81f75f2b38f5451
+12	226	6807175509288746	E:/Works/Qt Course/Graphics and Painting/build-6-QLabelExampleShadows-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/6-QLabelExampleShadows_autogen/timestamp	3a3409d29b93ed5b
+753	810	6807173697821280	6-QLabelExampleShadows_autogen/EWIEGA46WW/qrc_res.cpp	81f75f2b38f5451
+1887	2102	6807175527997100	6-QLabelExampleShadows.exe	2e4897fc4c93c6d
+810	2918	6807173718929513	CMakeFiles/6-QLabelExampleShadows.dir/6-QLabelExampleShadows_autogen/mocs_compilation.cpp.obj	e72e1a5b7aa4e44
+813	1043	6807173700191131	CMakeFiles/6-QLabelExampleShadows.dir/6-QLabelExampleShadows_autogen/EWIEGA46WW/qrc_res.cpp.obj	24cb230b018338db
+816	3012	6807173719881386	CMakeFiles/6-QLabelExampleShadows.dir/main.cpp.obj	35f14895d64644c1
+235	1887	6807175525898020	CMakeFiles/6-QLabelExampleShadows.dir/widget.cpp.obj	d6082de4e8e62bcb
+8	1200	6807179829568871	6-QLabelExampleShadows_autogen/timestamp	3a3409d29b93ed5b
+8	1200	6807179829568871	6-QLabelExampleShadows_autogen/mocs_compilation.cpp	3a3409d29b93ed5b
+8	1200	6807179829568871	E:/Works/Qt Course/Graphics and Painting/build-6-QLabelExampleShadows-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/6-QLabelExampleShadows_autogen/timestamp	3a3409d29b93ed5b
+8	1200	6807179829568871	E:/Works/Qt Course/Graphics and Painting/build-6-QLabelExampleShadows-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/6-QLabelExampleShadows_autogen/mocs_compilation.cpp	3a3409d29b93ed5b
+1201	1279	6807179832364789	6-QLabelExampleShadows_autogen/EWIEGA46WW/qrc_res.cpp	81f75f2b38f5451
+1201	1279	6807179832364789	E:/Works/Qt Course/Graphics and Painting/build-6-QLabelExampleShadows-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/6-QLabelExampleShadows_autogen/EWIEGA46WW/qrc_res.cpp	81f75f2b38f5451
+1286	1652	6807179836049947	CMakeFiles/6-QLabelExampleShadows.dir/6-QLabelExampleShadows_autogen/EWIEGA46WW/qrc_res.cpp.obj	24cb230b018338db
+1279	4475	6807179864394504	CMakeFiles/6-QLabelExampleShadows.dir/6-QLabelExampleShadows_autogen/mocs_compilation.cpp.obj	e72e1a5b7aa4e44
+1289	4592	6807179865579498	CMakeFiles/6-QLabelExampleShadows.dir/main.cpp.obj	35f14895d64644c1
+1283	4711	6807179866759330	CMakeFiles/6-QLabelExampleShadows.dir/widget.cpp.obj	d6082de4e8e62bcb
+4711	4955	6807179869160450	6-QLabelExampleShadows.exe	2e4897fc4c93c6d
+16	269	6807181733214693	6-QLabelExampleShadows_autogen/timestamp	3a3409d29b93ed5b
+16	269	6807181733214693	6-QLabelExampleShadows_autogen/mocs_compilation.cpp	3a3409d29b93ed5b
+16	269	6807181733214693	E:/Works/Qt Course/Graphics and Painting/build-6-QLabelExampleShadows-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/6-QLabelExampleShadows_autogen/timestamp	3a3409d29b93ed5b
+16	269	6807181733214693	E:/Works/Qt Course/Graphics and Painting/build-6-QLabelExampleShadows-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/6-QLabelExampleShadows_autogen/mocs_compilation.cpp	3a3409d29b93ed5b
+286	2590	6807181756422351	CMakeFiles/6-QLabelExampleShadows.dir/widget.cpp.obj	d6082de4e8e62bcb
+2590	2827	6807181758751617	6-QLabelExampleShadows.exe	2e4897fc4c93c6d
+14	265	6807181852142341	6-QLabelExampleShadows_autogen/timestamp	3a3409d29b93ed5b
+14	265	6807181852142341	6-QLabelExampleShadows_autogen/mocs_compilation.cpp	3a3409d29b93ed5b
+14	265	6807181852142341	E:/Works/Qt Course/Graphics and Painting/build-6-QLabelExampleShadows-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/6-QLabelExampleShadows_autogen/timestamp	3a3409d29b93ed5b
+14	265	6807181852142341	E:/Works/Qt Course/Graphics and Painting/build-6-QLabelExampleShadows-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/6-QLabelExampleShadows_autogen/mocs_compilation.cpp	3a3409d29b93ed5b
+275	2577	6807181875283354	CMakeFiles/6-QLabelExampleShadows.dir/widget.cpp.obj	d6082de4e8e62bcb
+2577	2794	6807181877382851	6-QLabelExampleShadows.exe	2e4897fc4c93c6d
+14	254	6807181981343475	6-QLabelExampleShadows_autogen/timestamp	3a3409d29b93ed5b
+14	254	6807181981343475	6-QLabelExampleShadows_autogen/mocs_compilation.cpp	3a3409d29b93ed5b
+14	254	6807181981343475	E:/Works/Qt Course/Graphics and Painting/build-6-QLabelExampleShadows-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/6-QLabelExampleShadows_autogen/timestamp	3a3409d29b93ed5b
+14	254	6807181981343475	E:/Works/Qt Course/Graphics and Painting/build-6-QLabelExampleShadows-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/6-QLabelExampleShadows_autogen/mocs_compilation.cpp	3a3409d29b93ed5b
+269	2581	6807182004614221	CMakeFiles/6-QLabelExampleShadows.dir/widget.cpp.obj	d6082de4e8e62bcb
+2581	2845	6807182007218739	6-QLabelExampleShadows.exe	2e4897fc4c93c6d
+13	277	6807183707849973	6-QLabelExampleShadows_autogen/timestamp	3a3409d29b93ed5b
+13	277	6807183707849973	6-QLabelExampleShadows_autogen/mocs_compilation.cpp	3a3409d29b93ed5b
+13	277	6807183707849973	E:/Works/Qt Course/Graphics and Painting/build-6-QLabelExampleShadows-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/6-QLabelExampleShadows_autogen/timestamp	3a3409d29b93ed5b
+13	277	6807183707849973	E:/Works/Qt Course/Graphics and Painting/build-6-QLabelExampleShadows-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/6-QLabelExampleShadows_autogen/mocs_compilation.cpp	3a3409d29b93ed5b
+292	2498	6807183730052730	CMakeFiles/6-QLabelExampleShadows.dir/widget.cpp.obj	d6082de4e8e62bcb
+2498	2757	6807183732590544	6-QLabelExampleShadows.exe	2e4897fc4c93c6d
+15	256	6807184139228419	6-QLabelExampleShadows_autogen/timestamp	3a3409d29b93ed5b
+15	256	6807184139228419	6-QLabelExampleShadows_autogen/mocs_compilation.cpp	3a3409d29b93ed5b
+15	256	6807184139228419	E:/Works/Qt Course/Graphics and Painting/build-6-QLabelExampleShadows-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/6-QLabelExampleShadows_autogen/timestamp	3a3409d29b93ed5b
+15	256	6807184139228419	E:/Works/Qt Course/Graphics and Painting/build-6-QLabelExampleShadows-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/6-QLabelExampleShadows_autogen/mocs_compilation.cpp	3a3409d29b93ed5b
+270	2472	6807184161385839	CMakeFiles/6-QLabelExampleShadows.dir/widget.cpp.obj	d6082de4e8e62bcb
+2472	2694	6807184163558188	6-QLabelExampleShadows.exe	2e4897fc4c93c6d
+17	277	6807184291425629	6-QLabelExampleShadows_autogen/timestamp	3a3409d29b93ed5b
+17	277	6807184291425629	6-QLabelExampleShadows_autogen/mocs_compilation.cpp	3a3409d29b93ed5b
+17	277	6807184291425629	E:/Works/Qt Course/Graphics and Painting/build-6-QLabelExampleShadows-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/6-QLabelExampleShadows_autogen/timestamp	3a3409d29b93ed5b
+17	277	6807184291425629	E:/Works/Qt Course/Graphics and Painting/build-6-QLabelExampleShadows-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/6-QLabelExampleShadows_autogen/mocs_compilation.cpp	3a3409d29b93ed5b
+290	2438	6807184313040118	CMakeFiles/6-QLabelExampleShadows.dir/widget.cpp.obj	d6082de4e8e62bcb
+2438	2668	6807184315318399	6-QLabelExampleShadows.exe	2e4897fc4c93c6d
+18	302	6807185952355411	6-QLabelExampleShadows_autogen/timestamp	3a3409d29b93ed5b
+18	302	6807185952355411	6-QLabelExampleShadows_autogen/mocs_compilation.cpp	3a3409d29b93ed5b
+18	302	6807185952355411	E:/Works/Qt Course/Graphics and Painting/build-6-QLabelExampleShadows-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/6-QLabelExampleShadows_autogen/timestamp	3a3409d29b93ed5b
+18	302	6807185952355411	E:/Works/Qt Course/Graphics and Painting/build-6-QLabelExampleShadows-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/6-QLabelExampleShadows_autogen/mocs_compilation.cpp	3a3409d29b93ed5b
+12	251	6807186137620204	6-QLabelExampleShadows_autogen/timestamp	3a3409d29b93ed5b
+12	251	6807186137620204	6-QLabelExampleShadows_autogen/mocs_compilation.cpp	3a3409d29b93ed5b
+12	251	6807186137620204	E:/Works/Qt Course/Graphics and Painting/build-6-QLabelExampleShadows-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/6-QLabelExampleShadows_autogen/timestamp	3a3409d29b93ed5b
+12	251	6807186137620204	E:/Works/Qt Course/Graphics and Painting/build-6-QLabelExampleShadows-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/6-QLabelExampleShadows_autogen/mocs_compilation.cpp	3a3409d29b93ed5b
+263	2509	6807186160209440	CMakeFiles/6-QLabelExampleShadows.dir/widget.cpp.obj	d6082de4e8e62bcb
+2509	2733	6807186162407533	6-QLabelExampleShadows.exe	2e4897fc4c93c6d
+12	248	6807186345843461	6-QLabelExampleShadows_autogen/timestamp	3a3409d29b93ed5b
+12	248	6807186345843461	6-QLabelExampleShadows_autogen/mocs_compilation.cpp	3a3409d29b93ed5b
+12	248	6807186345843461	E:/Works/Qt Course/Graphics and Painting/build-6-QLabelExampleShadows-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/6-QLabelExampleShadows_autogen/timestamp	3a3409d29b93ed5b
+12	248	6807186345843461	E:/Works/Qt Course/Graphics and Painting/build-6-QLabelExampleShadows-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/6-QLabelExampleShadows_autogen/mocs_compilation.cpp	3a3409d29b93ed5b
+263	2477	6807186368141769	CMakeFiles/6-QLabelExampleShadows.dir/widget.cpp.obj	d6082de4e8e62bcb
+2477	2705	6807186370386136	6-QLabelExampleShadows.exe	2e4897fc4c93c6d
+27	637	6810760368326039	6-QLabelExampleShadows_autogen/timestamp	3a3409d29b93ed5b
+27	637	6810760368326039	6-QLabelExampleShadows_autogen/mocs_compilation.cpp	3a3409d29b93ed5b
+27	637	6810760368326039	E:/Works/Qt Course/Graphics and Painting/build-6-QLabelExampleShadows-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/6-QLabelExampleShadows_autogen/timestamp	3a3409d29b93ed5b
+27	637	6810760368326039	E:/Works/Qt Course/Graphics and Painting/build-6-QLabelExampleShadows-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/6-QLabelExampleShadows_autogen/mocs_compilation.cpp	3a3409d29b93ed5b
+661	6310	6810760425044229	CMakeFiles/6-QLabelExampleShadows.dir/widget.cpp.obj	d6082de4e8e62bcb
+6311	6867	6810760430358578	6-QLabelExampleShadows.exe	2e4897fc4c93c6d

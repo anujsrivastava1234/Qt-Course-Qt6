@@ -1,0 +1,92 @@
+# ninja log v5
+12	79	6817228325029751	2-QtButton/main.qml	f491b8fd90371f4f
+4	142	6817209292248601	E:/Works/Qt Course/Qt Quick Controls/build-2-QtButton-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app2-QtButton_qmlcache_loader.cpp	23f3b59f1b730c4a
+4	142	6817209292248601	.rcc/qmlcache/app2-QtButton_qmlcache_loader.cpp	23f3b59f1b730c4a
+20	656	6817228330810848	E:/Works/Qt Course/Qt Quick Controls/build-2-QtButton-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app2-QtButton.cmake	2518da76c20f415c
+12	79	6817228325029751	E:/Works/Qt Course/Qt Quick Controls/build-2-QtButton-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-QtButton/main.qml	f491b8fd90371f4f
+505	569	6817209296581197	meta_types/qt6app2-qtbutton_debug_metatypes.json	1b6bc839a8d1e456
+143	414	6817209293878278	app2-QtButton_autogen/timestamp	3e3d6da9d68a4685
+143	414	6817209293878278	E:/Works/Qt Course/Qt Quick Controls/build-2-QtButton-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app2-QtButton_autogen/mocs_compilation.cpp	3e3d6da9d68a4685
+657	715	6817228331405893	.rcc/qrc_app2-QtButton_raw_qml_0.cpp	405300c182f871e8
+143	414	6817209293878278	app2-QtButton_autogen/mocs_compilation.cpp	3e3d6da9d68a4685
+143	414	6817209293878278	E:/Works/Qt Course/Qt Quick Controls/build-2-QtButton-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app2-QtButton_autogen/timestamp	3e3d6da9d68a4685
+416	505	6817209295929458	meta_types/app2-QtButton_json_file_list.txt	24f59b63c608fe4d
+416	505	6817209295929458	meta_types/app2-QtButton_json_file_list.txt.timestamp	24f59b63c608fe4d
+416	505	6817209295929458	E:/Works/Qt Course/Qt Quick Controls/build-2-QtButton-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/app2-QtButton_json_file_list.txt	24f59b63c608fe4d
+416	505	6817209295929458	E:/Works/Qt Course/Qt Quick Controls/build-2-QtButton-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/app2-QtButton_json_file_list.txt.timestamp	24f59b63c608fe4d
+1091	1268	6817209303561284	CMakeFiles/app2-QtButton.dir/.rcc/qrc_qmake_2-QtButton.cpp.obj	a43c9235a7c4e43c
+505	569	6817209296581197	meta_types/qt6app2-qtbutton_debug_metatypes.json.gen	1b6bc839a8d1e456
+505	569	6817209296581197	E:/Works/Qt Course/Qt Quick Controls/build-2-QtButton-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6app2-qtbutton_debug_metatypes.json.gen	1b6bc839a8d1e456
+662	942	6817228333483988	E:/Works/Qt Course/Qt Quick Controls/build-2-QtButton-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app2-QtButton_main_qml.cpp	98c85255addf1d
+505	569	6817209296581197	E:/Works/Qt Course/Qt Quick Controls/build-2-QtButton-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6app2-qtbutton_debug_metatypes.json	1b6bc839a8d1e456
+569	786	6817209297717178	E:/Works/Qt Course/Qt Quick Controls/build-2-QtButton-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-QtButton/app2-QtButton.qmltypes	c11b5871600dbc6
+569	786	6817209297717178	app2-qtbutton_qmltyperegistrations.cpp	c11b5871600dbc6
+569	786	6817209297717178	2-QtButton/app2-QtButton.qmltypes	c11b5871600dbc6
+569	786	6817209297717178	E:/Works/Qt Course/Qt Quick Controls/build-2-QtButton-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app2-qtbutton_qmltyperegistrations.cpp	c11b5871600dbc6
+20	656	6817228330810848	.qt_plugins/Qt6_QmlPlugins_Imports_app2-QtButton.cmake	2518da76c20f415c
+797	883	6817209299699648	.rcc/qrc_qmake_2-QtButton.cpp	2f291f14f4667bbe
+1081	3429	6817209325166465	CMakeFiles/app2-QtButton.dir/app2-qtbutton_qmltyperegistrations.cpp.obj	440f6b89b0dec8fd
+797	883	6817209299699648	E:/Works/Qt Course/Qt Quick Controls/build-2-QtButton-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_qmake_2-QtButton.cpp	2f291f14f4667bbe
+657	715	6817228331405893	E:/Works/Qt Course/Qt Quick Controls/build-2-QtButton-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app2-QtButton_raw_qml_0.cpp	405300c182f871e8
+662	942	6817228333483988	.rcc/qmlcache/app2-QtButton_main_qml.cpp	98c85255addf1d
+1075	1248	6817209303363621	CMakeFiles/app2-QtButton.dir/app2-QtButton_autogen/mocs_compilation.cpp.obj	6fdf4c9e85003608
+948	1109	6817228335352985	CMakeFiles/app2-QtButton.dir/.rcc/qrc_app2-QtButton_raw_qml_0.cpp.obj	58da1f4f961d7650
+1071	3730	6817209328188632	CMakeFiles/app2-QtButton.dir/main.cpp.obj	c2b230aff456e712
+943	3040	6817228354687817	CMakeFiles/app2-QtButton.dir/.rcc/qmlcache/app2-QtButton_main_qml.cpp.obj	71e83d07d1791333
+1086	4110	6817209331938311	CMakeFiles/app2-QtButton.dir/.rcc/qmlcache/app2-QtButton_qmlcache_loader.cpp.obj	bade7c483c1f15a9
+3041	3425	6817228358486404	app2-QtButton.exe	689dee69de1f60b0
+21	78	6817228542249150	2-QtButton/main.qml	f491b8fd90371f4f
+21	78	6817228542249150	E:/Works/Qt Course/Qt Quick Controls/build-2-QtButton-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-QtButton/main.qml	f491b8fd90371f4f
+12	534	6817228546803340	.qt_plugins/Qt6_QmlPlugins_Imports_app2-QtButton.cmake	2518da76c20f415c
+12	534	6817228546803340	E:/Works/Qt Course/Qt Quick Controls/build-2-QtButton-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app2-QtButton.cmake	2518da76c20f415c
+539	592	6817228547366779	.rcc/qrc_app2-QtButton_raw_qml_0.cpp	405300c182f871e8
+539	592	6817228547366779	E:/Works/Qt Course/Qt Quick Controls/build-2-QtButton-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app2-QtButton_raw_qml_0.cpp	405300c182f871e8
+534	803	6817228549365461	.rcc/qmlcache/app2-QtButton_main_qml.cpp	98c85255addf1d
+534	803	6817228549365461	E:/Works/Qt Course/Qt Quick Controls/build-2-QtButton-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app2-QtButton_main_qml.cpp	98c85255addf1d
+808	936	6817228550811772	CMakeFiles/app2-QtButton.dir/.rcc/qrc_app2-QtButton_raw_qml_0.cpp.obj	58da1f4f961d7650
+804	2783	6817228569291437	CMakeFiles/app2-QtButton.dir/.rcc/qmlcache/app2-QtButton_main_qml.cpp.obj	71e83d07d1791333
+2783	3139	6817228572802541	app2-QtButton.exe	689dee69de1f60b0
+8	38	6817232954625074	2-QtButton/main.qml	f491b8fd90371f4f
+8	38	6817232954625074	E:/Works/Qt Course/Qt Quick Controls/build-2-QtButton-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-QtButton/main.qml	f491b8fd90371f4f
+5	388	6817232958108294	.qt_plugins/Qt6_QmlPlugins_Imports_app2-QtButton.cmake	2518da76c20f415c
+5	388	6817232958108294	E:/Works/Qt Course/Qt Quick Controls/build-2-QtButton-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app2-QtButton.cmake	2518da76c20f415c
+391	417	6817232958416091	.rcc/qrc_app2-QtButton_raw_qml_0.cpp	405300c182f871e8
+391	417	6817232958416091	E:/Works/Qt Course/Qt Quick Controls/build-2-QtButton-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app2-QtButton_raw_qml_0.cpp	405300c182f871e8
+388	534	6817232959504329	.rcc/qmlcache/app2-QtButton_main_qml.cpp	98c85255addf1d
+388	534	6817232959504329	E:/Works/Qt Course/Qt Quick Controls/build-2-QtButton-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app2-QtButton_main_qml.cpp	98c85255addf1d
+537	613	6817232960367799	CMakeFiles/app2-QtButton.dir/.rcc/qrc_app2-QtButton_raw_qml_0.cpp.obj	58da1f4f961d7650
+534	2217	6817232976401245	CMakeFiles/app2-QtButton.dir/.rcc/qmlcache/app2-QtButton_main_qml.cpp.obj	71e83d07d1791333
+2217	2454	6817232978756921	app2-QtButton.exe	689dee69de1f60b0
+5	34	6817237487290504	2-QtButton/main.qml	f491b8fd90371f4f
+5	34	6817237487290504	E:/Works/Qt Course/Qt Quick Controls/build-2-QtButton-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-QtButton/main.qml	f491b8fd90371f4f
+8	397	6817237490899232	.qt_plugins/Qt6_QmlPlugins_Imports_app2-QtButton.cmake	2518da76c20f415c
+8	397	6817237490899232	E:/Works/Qt Course/Qt Quick Controls/build-2-QtButton-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app2-QtButton.cmake	2518da76c20f415c
+397	425	6817237491198060	.rcc/qrc_app2-QtButton_raw_qml_0.cpp	405300c182f871e8
+397	425	6817237491198060	E:/Works/Qt Course/Qt Quick Controls/build-2-QtButton-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app2-QtButton_raw_qml_0.cpp	405300c182f871e8
+400	538	6817237492239373	.rcc/qmlcache/app2-QtButton_main_qml.cpp	98c85255addf1d
+400	538	6817237492239373	E:/Works/Qt Course/Qt Quick Controls/build-2-QtButton-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app2-QtButton_main_qml.cpp	98c85255addf1d
+541	608	6817237493041895	CMakeFiles/app2-QtButton.dir/.rcc/qrc_app2-QtButton_raw_qml_0.cpp.obj	58da1f4f961d7650
+538	2146	6817237508399077	CMakeFiles/app2-QtButton.dir/.rcc/qmlcache/app2-QtButton_main_qml.cpp.obj	71e83d07d1791333
+2146	2388	6817237510791210	app2-QtButton.exe	689dee69de1f60b0
+5	33	6817237906793070	2-QtButton/main.qml	f491b8fd90371f4f
+5	33	6817237906793070	E:/Works/Qt Course/Qt Quick Controls/build-2-QtButton-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-QtButton/main.qml	f491b8fd90371f4f
+8	380	6817237910244708	.qt_plugins/Qt6_QmlPlugins_Imports_app2-QtButton.cmake	2518da76c20f415c
+8	380	6817237910244708	E:/Works/Qt Course/Qt Quick Controls/build-2-QtButton-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app2-QtButton.cmake	2518da76c20f415c
+383	408	6817237910520730	.rcc/qrc_app2-QtButton_raw_qml_0.cpp	405300c182f871e8
+383	408	6817237910520730	E:/Works/Qt Course/Qt Quick Controls/build-2-QtButton-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app2-QtButton_raw_qml_0.cpp	405300c182f871e8
+380	520	6817237911591966	.rcc/qmlcache/app2-QtButton_main_qml.cpp	98c85255addf1d
+380	520	6817237911591966	E:/Works/Qt Course/Qt Quick Controls/build-2-QtButton-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app2-QtButton_main_qml.cpp	98c85255addf1d
+523	601	6817237912464759	CMakeFiles/app2-QtButton.dir/.rcc/qrc_app2-QtButton_raw_qml_0.cpp.obj	58da1f4f961d7650
+520	2127	6817237927721958	CMakeFiles/app2-QtButton.dir/.rcc/qmlcache/app2-QtButton_main_qml.cpp.obj	71e83d07d1791333
+2127	2362	6817237930035094	app2-QtButton.exe	689dee69de1f60b0
+5	35	6817238155020856	2-QtButton/main.qml	f491b8fd90371f4f
+5	35	6817238155020856	E:/Works/Qt Course/Qt Quick Controls/build-2-QtButton-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-QtButton/main.qml	f491b8fd90371f4f
+8	389	6817238158545519	.qt_plugins/Qt6_QmlPlugins_Imports_app2-QtButton.cmake	2518da76c20f415c
+8	389	6817238158545519	E:/Works/Qt Course/Qt Quick Controls/build-2-QtButton-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app2-QtButton.cmake	2518da76c20f415c
+393	422	6817238158875551	.rcc/qrc_app2-QtButton_raw_qml_0.cpp	405300c182f871e8
+393	422	6817238158875551	E:/Works/Qt Course/Qt Quick Controls/build-2-QtButton-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app2-QtButton_raw_qml_0.cpp	405300c182f871e8
+389	528	6817238159872637	.rcc/qmlcache/app2-QtButton_main_qml.cpp	98c85255addf1d
+389	528	6817238159872637	E:/Works/Qt Course/Qt Quick Controls/build-2-QtButton-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app2-QtButton_main_qml.cpp	98c85255addf1d
+531	600	6817238160673388	CMakeFiles/app2-QtButton.dir/.rcc/qrc_app2-QtButton_raw_qml_0.cpp.obj	58da1f4f961d7650
+528	2103	6817238175688290	CMakeFiles/app2-QtButton.dir/.rcc/qmlcache/app2-QtButton_main_qml.cpp.obj	71e83d07d1791333
+2104	2344	6817238178057341	app2-QtButton.exe	689dee69de1f60b0

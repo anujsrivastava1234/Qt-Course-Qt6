@@ -1,0 +1,27 @@
+{
+	"BUILD_DIR" : "E:/Works/Qt Course/Qt Contact List/build-1-CreatingGui-Desktop_Qt_6_3_1_MinGW_64_bit-Release/1-CreatingGui_autogen",
+	"CMAKE_BINARY_DIR" : "E:/Works/Qt Course/Qt Contact List/build-1-CreatingGui-Desktop_Qt_6_3_1_MinGW_64_bit-Release",
+	"CMAKE_CURRENT_BINARY_DIR" : "E:/Works/Qt Course/Qt Contact List/build-1-CreatingGui-Desktop_Qt_6_3_1_MinGW_64_bit-Release",
+	"CMAKE_CURRENT_SOURCE_DIR" : "E:/Works/Qt Course/Qt Contact List/1-CreatingGui",
+	"CMAKE_SOURCE_DIR" : "E:/Works/Qt Course/Qt Contact List/1-CreatingGui",
+	"INCLUDE_DIR" : "E:/Works/Qt Course/Qt Contact List/build-1-CreatingGui-Desktop_Qt_6_3_1_MinGW_64_bit-Release/1-CreatingGui_autogen/include",
+	"INPUTS" : 
+	[
+		"E:/Works/Qt Course/Qt Contact List/1-CreatingGui/save.png",
+		"E:/Works/Qt Course/Qt Contact List/1-CreatingGui/quit.png",
+		"E:/Works/Qt Course/Qt Contact List/1-CreatingGui/clear.png",
+		"E:/Works/Qt Course/Qt Contact List/1-CreatingGui/new.png",
+		"E:/Works/Qt Course/Qt Contact List/1-CreatingGui/contact.png",
+		"E:/Works/Qt Course/Qt Contact List/1-CreatingGui/about.png"
+	],
+	"LOCK_FILE" : "E:/Works/Qt Course/Qt Contact List/build-1-CreatingGui-Desktop_Qt_6_3_1_MinGW_64_bit-Release/CMakeFiles/1-CreatingGui_autogen.dir/AutoRcc_res_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "res" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_res.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.3.1/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "E:/Works/Qt Course/Qt Contact List/build-1-CreatingGui-Desktop_Qt_6_3_1_MinGW_64_bit-Release/CMakeFiles/1-CreatingGui_autogen.dir/AutoRcc_res_EWIEGA46WW_Used.txt",
+	"SOURCE" : "E:/Works/Qt Course/Qt Contact List/1-CreatingGui/res.qrc",
+	"VERBOSITY" : 0
+}

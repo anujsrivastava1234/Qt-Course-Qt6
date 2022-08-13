@@ -1,0 +1,4 @@
+module 10-PositioningElements
+typeinfo app10-PositioningElements.qmltypes
+prefer :/10-PositioningElements/
+

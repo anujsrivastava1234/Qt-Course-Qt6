@@ -1,0 +1,81 @@
+# ninja log v5
+4	42	6817251721981965	5-CheckBox/main.qml	6c93346b90cb7ec3
+4	42	6817251721981965	E:/Works/Qt Course/Qt Quick Controls/build-5-CheckBox-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/5-CheckBox/main.qml	6c93346b90cb7ec3
+1	45	6817251721971238	.rcc/qmlcache/app5-CheckBox_qmlcache_loader.cpp	ed8e0abee918c29d
+1	45	6817251721971238	E:/Works/Qt Course/Qt Quick Controls/build-5-CheckBox-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app5-CheckBox_qmlcache_loader.cpp	ed8e0abee918c29d
+45	232	6817251723200903	app5-CheckBox_autogen/timestamp	b251a0e3355fa6fd
+45	232	6817251723200903	app5-CheckBox_autogen/mocs_compilation.cpp	b251a0e3355fa6fd
+45	232	6817251723200903	E:/Works/Qt Course/Qt Quick Controls/build-5-CheckBox-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app5-CheckBox_autogen/timestamp	b251a0e3355fa6fd
+45	232	6817251723200903	E:/Works/Qt Course/Qt Quick Controls/build-5-CheckBox-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app5-CheckBox_autogen/mocs_compilation.cpp	b251a0e3355fa6fd
+234	262	6817251724189030	meta_types/app5-CheckBox_json_file_list.txt	f462ee8f889af592
+234	262	6817251724189030	meta_types/app5-CheckBox_json_file_list.txt.timestamp	f462ee8f889af592
+234	262	6817251724189030	E:/Works/Qt Course/Qt Quick Controls/build-5-CheckBox-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/app5-CheckBox_json_file_list.txt	f462ee8f889af592
+234	262	6817251724189030	E:/Works/Qt Course/Qt Quick Controls/build-5-CheckBox-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/app5-CheckBox_json_file_list.txt.timestamp	f462ee8f889af592
+263	298	6817251724557466	meta_types/qt6app5-checkbox_debug_metatypes.json.gen	76cb612c7aa34718
+263	298	6817251724557466	meta_types/qt6app5-checkbox_debug_metatypes.json	76cb612c7aa34718
+263	298	6817251724557466	E:/Works/Qt Course/Qt Quick Controls/build-5-CheckBox-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6app5-checkbox_debug_metatypes.json.gen	76cb612c7aa34718
+263	298	6817251724557466	E:/Works/Qt Course/Qt Quick Controls/build-5-CheckBox-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6app5-checkbox_debug_metatypes.json	76cb612c7aa34718
+7	407	6817251725631573	.qt_plugins/Qt6_QmlPlugins_Imports_app5-CheckBox.cmake	177a5769fb1b591
+7	407	6817251725631573	E:/Works/Qt Course/Qt Quick Controls/build-5-CheckBox-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app5-CheckBox.cmake	177a5769fb1b591
+299	414	6817251725083989	app5-checkbox_qmltyperegistrations.cpp	121343ae0e4e06f
+299	414	6817251725083989	5-CheckBox/app5-CheckBox.qmltypes	121343ae0e4e06f
+299	414	6817251725083989	E:/Works/Qt Course/Qt Quick Controls/build-5-CheckBox-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app5-checkbox_qmltyperegistrations.cpp	121343ae0e4e06f
+299	414	6817251725083989	E:/Works/Qt Course/Qt Quick Controls/build-5-CheckBox-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/5-CheckBox/app5-CheckBox.qmltypes	121343ae0e4e06f
+407	438	6817251725949557	.rcc/qrc_qmake_5-CheckBox.cpp	90bb990540b15df7
+407	438	6817251725949557	E:/Works/Qt Course/Qt Quick Controls/build-5-CheckBox-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_qmake_5-CheckBox.cpp	90bb990540b15df7
+410	443	6817251725995457	.rcc/qrc_app5-CheckBox_raw_qml_0.cpp	df35cbcdd2e51fc0
+410	443	6817251725995457	E:/Works/Qt Course/Qt Quick Controls/build-5-CheckBox-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app5-CheckBox_raw_qml_0.cpp	df35cbcdd2e51fc0
+414	549	6817251726971190	.rcc/qmlcache/app5-CheckBox_main_qml.cpp	353e7b2b4553cb7b
+414	549	6817251726971190	E:/Works/Qt Course/Qt Quick Controls/build-5-CheckBox-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app5-CheckBox_main_qml.cpp	353e7b2b4553cb7b
+550	648	6817251728045810	CMakeFiles/app5-CheckBox.dir/app5-CheckBox_autogen/mocs_compilation.cpp.obj	4bae2636dd318fc0
+564	697	6817251728525649	CMakeFiles/app5-CheckBox.dir/.rcc/qrc_qmake_5-CheckBox.cpp.obj	4f33bb3c6407523e
+566	710	6817251728595569	CMakeFiles/app5-CheckBox.dir/.rcc/qrc_app5-CheckBox_raw_qml_0.cpp.obj	b726d7f25e02f0aa
+552	2445	6817251746013870	CMakeFiles/app5-CheckBox.dir/app5-checkbox_qmltyperegistrations.cpp.obj	631786c80e537d7a
+555	2592	6817251747472101	CMakeFiles/app5-CheckBox.dir/main.cpp.obj	dc68bc921d0a798f
+561	2713	6817251748702021	CMakeFiles/app5-CheckBox.dir/.rcc/qmlcache/app5-CheckBox_main_qml.cpp.obj	6ac609f609a2aeaf
+558	2871	6817251750255109	CMakeFiles/app5-CheckBox.dir/.rcc/qmlcache/app5-CheckBox_qmlcache_loader.cpp.obj	3fcd4df9899f77b1
+2872	3103	6817251752551293	app5-CheckBox.exe	2faa35780b591edf
+17	50	6817254419315822	5-CheckBox/main.qml	6c93346b90cb7ec3
+17	50	6817254419315822	E:/Works/Qt Course/Qt Quick Controls/build-5-CheckBox-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/5-CheckBox/main.qml	6c93346b90cb7ec3
+21	361	6817254422393409	.qt_plugins/Qt6_QmlPlugins_Imports_app5-CheckBox.cmake	177a5769fb1b591
+21	361	6817254422393409	E:/Works/Qt Course/Qt Quick Controls/build-5-CheckBox-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app5-CheckBox.cmake	177a5769fb1b591
+364	393	6817254422733231	.rcc/qrc_app5-CheckBox_raw_qml_0.cpp	df35cbcdd2e51fc0
+364	393	6817254422733231	E:/Works/Qt Course/Qt Quick Controls/build-5-CheckBox-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app5-CheckBox_raw_qml_0.cpp	df35cbcdd2e51fc0
+361	500	6817254423701125	.rcc/qmlcache/app5-CheckBox_main_qml.cpp	353e7b2b4553cb7b
+361	500	6817254423701125	E:/Works/Qt Course/Qt Quick Controls/build-5-CheckBox-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app5-CheckBox_main_qml.cpp	353e7b2b4553cb7b
+503	577	6817254424588023	CMakeFiles/app5-CheckBox.dir/.rcc/qrc_app5-CheckBox_raw_qml_0.cpp.obj	b726d7f25e02f0aa
+501	2069	6817254439494866	CMakeFiles/app5-CheckBox.dir/.rcc/qmlcache/app5-CheckBox_main_qml.cpp.obj	6ac609f609a2aeaf
+2070	2287	6817254441631435	app5-CheckBox.exe	2faa35780b591edf
+7	39	6817254581565074	5-CheckBox/main.qml	6c93346b90cb7ec3
+7	39	6817254581565074	E:/Works/Qt Course/Qt Quick Controls/build-5-CheckBox-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/5-CheckBox/main.qml	6c93346b90cb7ec3
+10	353	6817254584686902	.qt_plugins/Qt6_QmlPlugins_Imports_app5-CheckBox.cmake	177a5769fb1b591
+10	353	6817254584686902	E:/Works/Qt Course/Qt Quick Controls/build-5-CheckBox-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app5-CheckBox.cmake	177a5769fb1b591
+357	385	6817254585021310	.rcc/qrc_app5-CheckBox_raw_qml_0.cpp	df35cbcdd2e51fc0
+357	385	6817254585021310	E:/Works/Qt Course/Qt Quick Controls/build-5-CheckBox-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app5-CheckBox_raw_qml_0.cpp	df35cbcdd2e51fc0
+353	489	6817254585984521	.rcc/qmlcache/app5-CheckBox_main_qml.cpp	353e7b2b4553cb7b
+353	489	6817254585984521	E:/Works/Qt Course/Qt Quick Controls/build-5-CheckBox-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app5-CheckBox_main_qml.cpp	353e7b2b4553cb7b
+492	561	6817254586792158	CMakeFiles/app5-CheckBox.dir/.rcc/qrc_app5-CheckBox_raw_qml_0.cpp.obj	b726d7f25e02f0aa
+490	2037	6817254601543391	CMakeFiles/app5-CheckBox.dir/.rcc/qmlcache/app5-CheckBox_main_qml.cpp.obj	6ac609f609a2aeaf
+2038	2255	6817254603698628	app5-CheckBox.exe	2faa35780b591edf
+10	42	6817255605510164	5-CheckBox/main.qml	6c93346b90cb7ec3
+10	42	6817255605510164	E:/Works/Qt Course/Qt Quick Controls/build-5-CheckBox-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/5-CheckBox/main.qml	6c93346b90cb7ec3
+6	337	6817255608459233	.qt_plugins/Qt6_QmlPlugins_Imports_app5-CheckBox.cmake	177a5769fb1b591
+6	337	6817255608459233	E:/Works/Qt Course/Qt Quick Controls/build-5-CheckBox-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app5-CheckBox.cmake	177a5769fb1b591
+340	368	6817255608766729	.rcc/qrc_app5-CheckBox_raw_qml_0.cpp	df35cbcdd2e51fc0
+340	368	6817255608766729	E:/Works/Qt Course/Qt Quick Controls/build-5-CheckBox-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app5-CheckBox_raw_qml_0.cpp	df35cbcdd2e51fc0
+337	477	6817255609794422	.rcc/qmlcache/app5-CheckBox_main_qml.cpp	353e7b2b4553cb7b
+337	477	6817255609794422	E:/Works/Qt Course/Qt Quick Controls/build-5-CheckBox-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app5-CheckBox_main_qml.cpp	353e7b2b4553cb7b
+479	551	6817255610610876	CMakeFiles/app5-CheckBox.dir/.rcc/qrc_app5-CheckBox_raw_qml_0.cpp.obj	b726d7f25e02f0aa
+477	2075	6817255625824402	CMakeFiles/app5-CheckBox.dir/.rcc/qmlcache/app5-CheckBox_main_qml.cpp.obj	6ac609f609a2aeaf
+2075	2299	6817255628053117	app5-CheckBox.exe	2faa35780b591edf
+9	41	6817256248622928	5-CheckBox/main.qml	6c93346b90cb7ec3
+9	41	6817256248622928	E:/Works/Qt Course/Qt Quick Controls/build-5-CheckBox-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/5-CheckBox/main.qml	6c93346b90cb7ec3
+6	362	6817256251828712	.qt_plugins/Qt6_QmlPlugins_Imports_app5-CheckBox.cmake	177a5769fb1b591
+6	362	6817256251828712	E:/Works/Qt Course/Qt Quick Controls/build-5-CheckBox-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app5-CheckBox.cmake	177a5769fb1b591
+362	391	6817256252128655	.rcc/qrc_app5-CheckBox_raw_qml_0.cpp	df35cbcdd2e51fc0
+362	391	6817256252128655	E:/Works/Qt Course/Qt Quick Controls/build-5-CheckBox-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app5-CheckBox_raw_qml_0.cpp	df35cbcdd2e51fc0
+365	501	6817256253143972	.rcc/qmlcache/app5-CheckBox_main_qml.cpp	353e7b2b4553cb7b
+365	501	6817256253143972	E:/Works/Qt Course/Qt Quick Controls/build-5-CheckBox-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app5-CheckBox_main_qml.cpp	353e7b2b4553cb7b
+504	572	6817256253968725	CMakeFiles/app5-CheckBox.dir/.rcc/qrc_app5-CheckBox_raw_qml_0.cpp.obj	b726d7f25e02f0aa
+501	2033	6817256268550763	CMakeFiles/app5-CheckBox.dir/.rcc/qmlcache/app5-CheckBox_main_qml.cpp.obj	6ac609f609a2aeaf
+2033	2251	6817256270689022	app5-CheckBox.exe	2faa35780b591edf

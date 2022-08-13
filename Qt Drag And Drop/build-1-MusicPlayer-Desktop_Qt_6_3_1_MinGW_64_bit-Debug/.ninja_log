@@ -1,0 +1,43 @@
+# ninja log v5
+1	771	6809630998557992	1-MusicPlayer_autogen/timestamp	9e72ab1fd3b6d44c
+1	771	6809630998557992	1-MusicPlayer_autogen/mocs_compilation.cpp	9e72ab1fd3b6d44c
+1	771	6809630998557992	E:/Works/Qt Course/Qt Drag And Drop/build-1-MusicPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/1-MusicPlayer_autogen/timestamp	9e72ab1fd3b6d44c
+1	771	6809630998557992	E:/Works/Qt Course/Qt Drag And Drop/build-1-MusicPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/1-MusicPlayer_autogen/mocs_compilation.cpp	9e72ab1fd3b6d44c
+771	816	6809631000235949	1-MusicPlayer_autogen/EWIEGA46WW/qrc_res.cpp	461ba40f892de1ba
+771	816	6809631000235949	E:/Works/Qt Course/Qt Drag And Drop/build-1-MusicPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/1-MusicPlayer_autogen/EWIEGA46WW/qrc_res.cpp	461ba40f892de1ba
+824	972	6809631001826709	CMakeFiles/1-MusicPlayer.dir/1-MusicPlayer_autogen/EWIEGA46WW/qrc_res.cpp.obj	4eae712fa420dbcc
+816	3114	6809631023240122	CMakeFiles/1-MusicPlayer.dir/1-MusicPlayer_autogen/mocs_compilation.cpp.obj	3ba877886ebf222f
+819	3153	6809631023632195	CMakeFiles/1-MusicPlayer.dir/main.cpp.obj	3dead6aadb1e560f
+13	692	6809632716537190	1-MusicPlayer_autogen/timestamp	9e72ab1fd3b6d44c
+13	692	6809632716537190	1-MusicPlayer_autogen/mocs_compilation.cpp	9e72ab1fd3b6d44c
+13	692	6809632716537190	E:/Works/Qt Course/Qt Drag And Drop/build-1-MusicPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/1-MusicPlayer_autogen/timestamp	9e72ab1fd3b6d44c
+13	692	6809632716537190	E:/Works/Qt Course/Qt Drag And Drop/build-1-MusicPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/1-MusicPlayer_autogen/mocs_compilation.cpp	9e72ab1fd3b6d44c
+695	2870	6809632739552498	CMakeFiles/1-MusicPlayer.dir/main.cpp.obj	3dead6aadb1e560f
+692	2915	6809632740000631	CMakeFiles/1-MusicPlayer.dir/1-MusicPlayer_autogen/mocs_compilation.cpp.obj	3ba877886ebf222f
+12	211	6809633053648615	1-MusicPlayer_autogen/timestamp	9e72ab1fd3b6d44c
+12	211	6809633053648615	1-MusicPlayer_autogen/mocs_compilation.cpp	9e72ab1fd3b6d44c
+12	211	6809633053648615	E:/Works/Qt Course/Qt Drag And Drop/build-1-MusicPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/1-MusicPlayer_autogen/timestamp	9e72ab1fd3b6d44c
+12	211	6809633053648615	E:/Works/Qt Course/Qt Drag And Drop/build-1-MusicPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/1-MusicPlayer_autogen/mocs_compilation.cpp	9e72ab1fd3b6d44c
+221	2283	6809633074377879	CMakeFiles/1-MusicPlayer.dir/mainwindow.cpp.obj	b42f1fa45c320441
+2284	2530	6809633076800149	1-MusicPlayer.exe	4d79452e85f13938
+14	746	6809634900170489	1-MusicPlayer_autogen/timestamp	9e72ab1fd3b6d44c
+14	746	6809634900170489	1-MusicPlayer_autogen/mocs_compilation.cpp	9e72ab1fd3b6d44c
+14	746	6809634900170489	E:/Works/Qt Course/Qt Drag And Drop/build-1-MusicPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/1-MusicPlayer_autogen/timestamp	9e72ab1fd3b6d44c
+14	746	6809634900170489	E:/Works/Qt Course/Qt Drag And Drop/build-1-MusicPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/1-MusicPlayer_autogen/mocs_compilation.cpp	9e72ab1fd3b6d44c
+749	3387	6809634927790303	CMakeFiles/1-MusicPlayer.dir/main.cpp.obj	3dead6aadb1e560f
+746	3525	6809634929165456	CMakeFiles/1-MusicPlayer.dir/1-MusicPlayer_autogen/mocs_compilation.cpp.obj	3ba877886ebf222f
+751	3691	6809634930831360	CMakeFiles/1-MusicPlayer.dir/mainwindow.cpp.obj	b42f1fa45c320441
+3691	3958	6809634933466155	1-MusicPlayer.exe	4d79452e85f13938
+7	202	6809636224567692	1-MusicPlayer_autogen/timestamp	9e72ab1fd3b6d44c
+7	202	6809636224567692	1-MusicPlayer_autogen/mocs_compilation.cpp	9e72ab1fd3b6d44c
+7	202	6809636224567692	E:/Works/Qt Course/Qt Drag And Drop/build-1-MusicPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/1-MusicPlayer_autogen/timestamp	9e72ab1fd3b6d44c
+7	202	6809636224567692	E:/Works/Qt Course/Qt Drag And Drop/build-1-MusicPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/1-MusicPlayer_autogen/mocs_compilation.cpp	9e72ab1fd3b6d44c
+215	2327	6809636245802585	CMakeFiles/1-MusicPlayer.dir/mainwindow.cpp.obj	b42f1fa45c320441
+2327	2568	6809636248173426	1-MusicPlayer.exe	4d79452e85f13938
+15	213	6809636619979690	1-MusicPlayer_autogen/timestamp	9e72ab1fd3b6d44c
+15	213	6809636619979690	1-MusicPlayer_autogen/mocs_compilation.cpp	9e72ab1fd3b6d44c
+15	213	6809636619979690	E:/Works/Qt Course/Qt Drag And Drop/build-1-MusicPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/1-MusicPlayer_autogen/timestamp	9e72ab1fd3b6d44c
+15	213	6809636619979690	E:/Works/Qt Course/Qt Drag And Drop/build-1-MusicPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/1-MusicPlayer_autogen/mocs_compilation.cpp	9e72ab1fd3b6d44c
+222	2220	6809636640048395	CMakeFiles/1-MusicPlayer.dir/mainwindow.cpp.obj	b42f1fa45c320441
+11	4748	6810756554908895	CMakeFiles/1-MusicPlayer.dir/1-MusicPlayer_autogen/mocs_compilation.cpp.obj	3ba877886ebf222f
+4749	5240	6810756559779914	1-MusicPlayer.exe	4d79452e85f13938

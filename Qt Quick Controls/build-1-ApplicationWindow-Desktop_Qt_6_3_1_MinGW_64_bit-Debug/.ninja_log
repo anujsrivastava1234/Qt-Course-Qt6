@@ -1,0 +1,81 @@
+# ninja log v5
+2	41	6814967306935562	.rcc/qmlcache/app1-ApplicationWindow_qmlcache_loader.cpp	f8bb812c939019df
+2	41	6814967306935562	E:/Works/Qt Course/Qt Quick Controls/build-1-ApplicationWindow-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app1-ApplicationWindow_qmlcache_loader.cpp	f8bb812c939019df
+5	45	6814967306963142	1-ApplicationWindow/main.qml	c7d2dfca57e16558
+5	45	6814967306963142	E:/Works/Qt Course/Qt Quick Controls/build-1-ApplicationWindow-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/1-ApplicationWindow/main.qml	c7d2dfca57e16558
+42	237	6814967308237453	app1-ApplicationWindow_autogen/timestamp	151886afab5fcba7
+42	237	6814967308237453	app1-ApplicationWindow_autogen/mocs_compilation.cpp	151886afab5fcba7
+42	237	6814967308237453	E:/Works/Qt Course/Qt Quick Controls/build-1-ApplicationWindow-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app1-ApplicationWindow_autogen/timestamp	151886afab5fcba7
+42	237	6814967308237453	E:/Works/Qt Course/Qt Quick Controls/build-1-ApplicationWindow-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app1-ApplicationWindow_autogen/mocs_compilation.cpp	151886afab5fcba7
+239	267	6814967309239700	meta_types/app1-ApplicationWindow_json_file_list.txt	7b23d66eed82e65f
+239	267	6814967309239700	meta_types/app1-ApplicationWindow_json_file_list.txt.timestamp	7b23d66eed82e65f
+239	267	6814967309239700	E:/Works/Qt Course/Qt Quick Controls/build-1-ApplicationWindow-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/app1-ApplicationWindow_json_file_list.txt	7b23d66eed82e65f
+239	267	6814967309239700	E:/Works/Qt Course/Qt Quick Controls/build-1-ApplicationWindow-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/app1-ApplicationWindow_json_file_list.txt.timestamp	7b23d66eed82e65f
+268	307	6814967309625645	meta_types/qt6app1-applicationwindow_debug_metatypes.json.gen	a33589b5709485d6
+268	307	6814967309625645	meta_types/qt6app1-applicationwindow_debug_metatypes.json	a33589b5709485d6
+268	307	6814967309625645	E:/Works/Qt Course/Qt Quick Controls/build-1-ApplicationWindow-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6app1-applicationwindow_debug_metatypes.json.gen	a33589b5709485d6
+268	307	6814967309625645	E:/Works/Qt Course/Qt Quick Controls/build-1-ApplicationWindow-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6app1-applicationwindow_debug_metatypes.json	a33589b5709485d6
+307	426	6814967310191525	app1-applicationwindow_qmltyperegistrations.cpp	1f56efb563af0d5e
+307	426	6814967310191525	1-ApplicationWindow/app1-ApplicationWindow.qmltypes	1f56efb563af0d5e
+307	426	6814967310191525	E:/Works/Qt Course/Qt Quick Controls/build-1-ApplicationWindow-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app1-applicationwindow_qmltyperegistrations.cpp	1f56efb563af0d5e
+307	426	6814967310191525	E:/Works/Qt Course/Qt Quick Controls/build-1-ApplicationWindow-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/1-ApplicationWindow/app1-ApplicationWindow.qmltypes	1f56efb563af0d5e
+8	517	6814967311727749	.qt_plugins/Qt6_QmlPlugins_Imports_app1-ApplicationWindow.cmake	a852ebb7304ee3b3
+8	517	6814967311727749	E:/Works/Qt Course/Qt Quick Controls/build-1-ApplicationWindow-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app1-ApplicationWindow.cmake	a852ebb7304ee3b3
+517	548	6814967312016641	.rcc/qrc_qmake_1-ApplicationWindow.cpp	978c7db1409a052b
+517	548	6814967312016641	E:/Works/Qt Course/Qt Quick Controls/build-1-ApplicationWindow-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_qmake_1-ApplicationWindow.cpp	978c7db1409a052b
+523	554	6814967312086733	.rcc/qrc_app1-ApplicationWindow_raw_qml_0.cpp	c8a9f1a1eb7c37e2
+523	554	6814967312086733	E:/Works/Qt Course/Qt Quick Controls/build-1-ApplicationWindow-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app1-ApplicationWindow_raw_qml_0.cpp	c8a9f1a1eb7c37e2
+520	667	6814967313160300	.rcc/qmlcache/app1-ApplicationWindow_main_qml.cpp	729de72319a0e787
+520	667	6814967313160300	E:/Works/Qt Course/Qt Quick Controls/build-1-ApplicationWindow-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app1-ApplicationWindow_main_qml.cpp	729de72319a0e787
+674	802	6814967314556854	CMakeFiles/app1-ApplicationWindow.dir/.rcc/qrc_qmake_1-ApplicationWindow.cpp.obj	2a88d19922458015
+667	808	6814967314615588	CMakeFiles/app1-ApplicationWindow.dir/app1-ApplicationWindow_autogen/mocs_compilation.cpp.obj	8c028d6f1f89a1ea
+683	836	6814967314863976	CMakeFiles/app1-ApplicationWindow.dir/.rcc/qrc_app1-ApplicationWindow_raw_qml_0.cpp.obj	e7100541dc92f88a
+669	2715	6814967333694364	CMakeFiles/app1-ApplicationWindow.dir/app1-applicationwindow_qmltyperegistrations.cpp.obj	89823bb39cf48573
+672	2908	6814967335636572	CMakeFiles/app1-ApplicationWindow.dir/main.cpp.obj	899ea23ac4372162
+680	3004	6814967336600364	CMakeFiles/app1-ApplicationWindow.dir/.rcc/qmlcache/app1-ApplicationWindow_main_qml.cpp.obj	51ad8bc3d5fcab75
+677	3291	6814967339460894	CMakeFiles/app1-ApplicationWindow.dir/.rcc/qmlcache/app1-ApplicationWindow_qmlcache_loader.cpp.obj	e4df0ae27f667098
+3292	3505	6814967341553904	app1-ApplicationWindow.exe	cb58430b5ca4dc24
+16	45	6814967470537017	1-ApplicationWindow/main.qml	c7d2dfca57e16558
+16	45	6814967470537017	E:/Works/Qt Course/Qt Quick Controls/build-1-ApplicationWindow-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/1-ApplicationWindow/main.qml	c7d2dfca57e16558
+20	449	6814967474567753	.qt_plugins/Qt6_QmlPlugins_Imports_app1-ApplicationWindow.cmake	a852ebb7304ee3b3
+20	449	6814967474567753	E:/Works/Qt Course/Qt Quick Controls/build-1-ApplicationWindow-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app1-ApplicationWindow.cmake	a852ebb7304ee3b3
+449	476	6814967474843884	.rcc/qrc_app1-ApplicationWindow_raw_qml_0.cpp	c8a9f1a1eb7c37e2
+449	476	6814967474843884	E:/Works/Qt Course/Qt Quick Controls/build-1-ApplicationWindow-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app1-ApplicationWindow_raw_qml_0.cpp	c8a9f1a1eb7c37e2
+452	591	6814967475917533	.rcc/qmlcache/app1-ApplicationWindow_main_qml.cpp	729de72319a0e787
+452	591	6814967475917533	E:/Works/Qt Course/Qt Quick Controls/build-1-ApplicationWindow-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app1-ApplicationWindow_main_qml.cpp	729de72319a0e787
+591	661	6814967476695787	CMakeFiles/app1-ApplicationWindow.dir/.rcc/qrc_app1-ApplicationWindow_raw_qml_0.cpp.obj	e7100541dc92f88a
+593	2120	6814967491283794	CMakeFiles/app1-ApplicationWindow.dir/.rcc/qmlcache/app1-ApplicationWindow_main_qml.cpp.obj	51ad8bc3d5fcab75
+2120	2325	6814967493292717	app1-ApplicationWindow.exe	cb58430b5ca4dc24
+8	37	6814968115377497	1-ApplicationWindow/main.qml	c7d2dfca57e16558
+8	37	6814968115377497	E:/Works/Qt Course/Qt Quick Controls/build-1-ApplicationWindow-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/1-ApplicationWindow/main.qml	c7d2dfca57e16558
+5	426	6814968119256737	.qt_plugins/Qt6_QmlPlugins_Imports_app1-ApplicationWindow.cmake	a852ebb7304ee3b3
+5	426	6814968119256737	E:/Works/Qt Course/Qt Quick Controls/build-1-ApplicationWindow-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app1-ApplicationWindow.cmake	a852ebb7304ee3b3
+427	455	6814968119547694	.rcc/qrc_app1-ApplicationWindow_raw_qml_0.cpp	c8a9f1a1eb7c37e2
+427	455	6814968119547694	E:/Works/Qt Course/Qt Quick Controls/build-1-ApplicationWindow-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app1-ApplicationWindow_raw_qml_0.cpp	c8a9f1a1eb7c37e2
+430	560	6814968120539688	.rcc/qmlcache/app1-ApplicationWindow_main_qml.cpp	729de72319a0e787
+430	560	6814968120539688	E:/Works/Qt Course/Qt Quick Controls/build-1-ApplicationWindow-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app1-ApplicationWindow_main_qml.cpp	729de72319a0e787
+564	633	6814968121341809	CMakeFiles/app1-ApplicationWindow.dir/.rcc/qrc_app1-ApplicationWindow_raw_qml_0.cpp.obj	e7100541dc92f88a
+561	2033	6814968135340158	CMakeFiles/app1-ApplicationWindow.dir/.rcc/qmlcache/app1-ApplicationWindow_main_qml.cpp.obj	51ad8bc3d5fcab75
+2034	2241	6814968137361736	app1-ApplicationWindow.exe	cb58430b5ca4dc24
+8	37	6814968398139426	1-ApplicationWindow/main.qml	c7d2dfca57e16558
+8	37	6814968398139426	E:/Works/Qt Course/Qt Quick Controls/build-1-ApplicationWindow-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/1-ApplicationWindow/main.qml	c7d2dfca57e16558
+5	430	6814968402061743	.qt_plugins/Qt6_QmlPlugins_Imports_app1-ApplicationWindow.cmake	a852ebb7304ee3b3
+5	430	6814968402061743	E:/Works/Qt Course/Qt Quick Controls/build-1-ApplicationWindow-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app1-ApplicationWindow.cmake	a852ebb7304ee3b3
+433	462	6814968402389702	.rcc/qrc_app1-ApplicationWindow_raw_qml_0.cpp	c8a9f1a1eb7c37e2
+433	462	6814968402389702	E:/Works/Qt Course/Qt Quick Controls/build-1-ApplicationWindow-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app1-ApplicationWindow_raw_qml_0.cpp	c8a9f1a1eb7c37e2
+431	568	6814968403345628	.rcc/qmlcache/app1-ApplicationWindow_main_qml.cpp	729de72319a0e787
+431	568	6814968403345628	E:/Works/Qt Course/Qt Quick Controls/build-1-ApplicationWindow-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app1-ApplicationWindow_main_qml.cpp	729de72319a0e787
+568	638	6814968404160319	CMakeFiles/app1-ApplicationWindow.dir/.rcc/qrc_app1-ApplicationWindow_raw_qml_0.cpp.obj	e7100541dc92f88a
+571	2091	6814968418679188	CMakeFiles/app1-ApplicationWindow.dir/.rcc/qmlcache/app1-ApplicationWindow_main_qml.cpp.obj	51ad8bc3d5fcab75
+2091	2298	6814968420708575	app1-ApplicationWindow.exe	cb58430b5ca4dc24
+9	44	6814990058477629	1-ApplicationWindow/main.qml	c7d2dfca57e16558
+9	44	6814990058477629	E:/Works/Qt Course/Qt Quick Controls/build-1-ApplicationWindow-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/1-ApplicationWindow/main.qml	c7d2dfca57e16558
+6	448	6814990062529155	.qt_plugins/Qt6_QmlPlugins_Imports_app1-ApplicationWindow.cmake	a852ebb7304ee3b3
+6	448	6814990062529155	E:/Works/Qt Course/Qt Quick Controls/build-1-ApplicationWindow-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app1-ApplicationWindow.cmake	a852ebb7304ee3b3
+451	484	6814990062880192	.rcc/qrc_app1-ApplicationWindow_raw_qml_0.cpp	c8a9f1a1eb7c37e2
+451	484	6814990062880192	E:/Works/Qt Course/Qt Quick Controls/build-1-ApplicationWindow-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app1-ApplicationWindow_raw_qml_0.cpp	c8a9f1a1eb7c37e2
+448	604	6814990064006312	.rcc/qmlcache/app1-ApplicationWindow_main_qml.cpp	729de72319a0e787
+448	604	6814990064006312	E:/Works/Qt Course/Qt Quick Controls/build-1-ApplicationWindow-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app1-ApplicationWindow_main_qml.cpp	729de72319a0e787
+607	689	6814990064949617	CMakeFiles/app1-ApplicationWindow.dir/.rcc/qrc_app1-ApplicationWindow_raw_qml_0.cpp.obj	e7100541dc92f88a
+604	2230	6814990080367239	CMakeFiles/app1-ApplicationWindow.dir/.rcc/qmlcache/app1-ApplicationWindow_main_qml.cpp.obj	51ad8bc3d5fcab75
+2231	2458	6814990082591761	app1-ApplicationWindow.exe	cb58430b5ca4dc24

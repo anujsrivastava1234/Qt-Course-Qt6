@@ -1,0 +1,9 @@
+# ninja log v5
+2	989	6805407014494806	22-QMessageBox_autogen/timestamp	6b0fe783b46cbbe4
+2	989	6805407014494806	22-QMessageBox_autogen/mocs_compilation.cpp	6b0fe783b46cbbe4
+2	989	6805407014494806	E:/Works/Qt Course/Qt Widgets/build-22-QMessageBox-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/22-QMessageBox_autogen/timestamp	6b0fe783b46cbbe4
+2	989	6805407014494806	E:/Works/Qt Course/Qt Widgets/build-22-QMessageBox-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/22-QMessageBox_autogen/mocs_compilation.cpp	6b0fe783b46cbbe4
+990	3326	6805407039605168	CMakeFiles/22-QMessageBox.dir/22-QMessageBox_autogen/mocs_compilation.cpp.obj	7dba66ca170117ea
+992	3338	6805407039725758	CMakeFiles/22-QMessageBox.dir/widget.cpp.obj	c51aecf1af0dbdd0
+995	3385	6805407040202925	CMakeFiles/22-QMessageBox.dir/main.cpp.obj	33349928bd402086
+3385	3583	6805407042140956	22-QMessageBox.exe	15f9bcf1cbadacad

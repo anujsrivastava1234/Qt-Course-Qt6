@@ -1,0 +1,81 @@
+# ninja log v5
+5	38	6813327787000625	12-TextInputElements/main.qml	e93b1fd3dcca72d
+5	38	6813327787000625	E:/Works/Qt Course/Qt Quick/build-12-TextInputElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/12-TextInputElements/main.qml	e93b1fd3dcca72d
+2	38	6813327786970605	.rcc/qmlcache/app12-TextInputElements_qmlcache_loader.cpp	f44013e1c3733d10
+2	38	6813327786970605	E:/Works/Qt Course/Qt Quick/build-12-TextInputElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app12-TextInputElements_qmlcache_loader.cpp	f44013e1c3733d10
+8	42	6813327787027886	.qt_plugins/Qt6_QmlPlugins_Imports_app12-TextInputElements.cmake	bbd11ffe853b2885
+8	42	6813327787027886	E:/Works/Qt Course/Qt Quick/build-12-TextInputElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app12-TextInputElements.cmake	bbd11ffe853b2885
+39	209	6813327788077996	app12-TextInputElements_autogen/timestamp	53c2bdad431f41e3
+39	209	6813327788077996	app12-TextInputElements_autogen/mocs_compilation.cpp	53c2bdad431f41e3
+39	209	6813327788077996	E:/Works/Qt Course/Qt Quick/build-12-TextInputElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app12-TextInputElements_autogen/timestamp	53c2bdad431f41e3
+39	209	6813327788077996	E:/Works/Qt Course/Qt Quick/build-12-TextInputElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app12-TextInputElements_autogen/mocs_compilation.cpp	53c2bdad431f41e3
+212	240	6813327789018043	.rcc/qrc_qmake_12-TextInputElements.cpp	fe2468db0ecd5ac3
+212	240	6813327789018043	E:/Works/Qt Course/Qt Quick/build-12-TextInputElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_qmake_12-TextInputElements.cpp	fe2468db0ecd5ac3
+210	240	6813327789025728	meta_types/app12-TextInputElements_json_file_list.txt	c41d4a92f60493bb
+210	240	6813327789025728	meta_types/app12-TextInputElements_json_file_list.txt.timestamp	c41d4a92f60493bb
+210	240	6813327789025728	E:/Works/Qt Course/Qt Quick/build-12-TextInputElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/app12-TextInputElements_json_file_list.txt	c41d4a92f60493bb
+210	240	6813327789025728	E:/Works/Qt Course/Qt Quick/build-12-TextInputElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/app12-TextInputElements_json_file_list.txt.timestamp	c41d4a92f60493bb
+215	243	6813327789042235	.rcc/qrc_app12-TextInputElements_raw_qml_0.cpp	a41f0bdc1c07d06a
+215	243	6813327789042235	E:/Works/Qt Course/Qt Quick/build-12-TextInputElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app12-TextInputElements_raw_qml_0.cpp	a41f0bdc1c07d06a
+240	275	6813327789377148	meta_types/qt6app12-textinputelements_debug_metatypes.json.gen	43c07152c14cd382
+240	275	6813327789377148	meta_types/qt6app12-textinputelements_debug_metatypes.json	43c07152c14cd382
+240	275	6813327789377148	E:/Works/Qt Course/Qt Quick/build-12-TextInputElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6app12-textinputelements_debug_metatypes.json.gen	43c07152c14cd382
+240	275	6813327789377148	E:/Works/Qt Course/Qt Quick/build-12-TextInputElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6app12-textinputelements_debug_metatypes.json	43c07152c14cd382
+275	372	6813327789838845	app12-textinputelements_qmltyperegistrations.cpp	9fbe78a98bc0713c
+275	372	6813327789838845	12-TextInputElements/app12-TextInputElements.qmltypes	9fbe78a98bc0713c
+275	372	6813327789838845	E:/Works/Qt Course/Qt Quick/build-12-TextInputElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app12-textinputelements_qmltyperegistrations.cpp	9fbe78a98bc0713c
+275	372	6813327789838845	E:/Works/Qt Course/Qt Quick/build-12-TextInputElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/12-TextInputElements/app12-TextInputElements.qmltypes	9fbe78a98bc0713c
+373	455	6813327791139380	.rcc/qmlcache/app12-TextInputElements_main_qml.cpp	75907319b713670b
+373	455	6813327791139380	E:/Works/Qt Course/Qt Quick/build-12-TextInputElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app12-TextInputElements_main_qml.cpp	75907319b713670b
+461	544	6813327792043687	CMakeFiles/app12-TextInputElements.dir/app12-TextInputElements_autogen/mocs_compilation.cpp.obj	94f6d4fddc5d6a91
+463	574	6813327792344121	CMakeFiles/app12-TextInputElements.dir/.rcc/qrc_qmake_12-TextInputElements.cpp.obj	3b18d15f9fad81f6
+469	574	6813327792370520	CMakeFiles/app12-TextInputElements.dir/.rcc/qrc_app12-TextInputElements_raw_qml_0.cpp.obj	a33a5f1847cf4d77
+456	1980	6813327806417795	CMakeFiles/app12-TextInputElements.dir/app12-textinputelements_qmltyperegistrations.cpp.obj	698e4b3cf569b58d
+458	2163	6813327808241877	CMakeFiles/app12-TextInputElements.dir/main.cpp.obj	870bab2567fe6b07
+472	2276	6813327809386268	CMakeFiles/app12-TextInputElements.dir/.rcc/qmlcache/app12-TextInputElements_main_qml.cpp.obj	54c39ea11679a87b
+466	2604	6813327812667518	CMakeFiles/app12-TextInputElements.dir/.rcc/qmlcache/app12-TextInputElements_qmlcache_loader.cpp.obj	1f69e4d28f77ccc5
+2605	2808	6813327814668152	app12-TextInputElements.exe	c551c2d5c4a07acf
+15	42	6813328044025320	12-TextInputElements/main.qml	e93b1fd3dcca72d
+15	42	6813328044025320	E:/Works/Qt Course/Qt Quick/build-12-TextInputElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/12-TextInputElements/main.qml	e93b1fd3dcca72d
+18	49	6813328044087008	.qt_plugins/Qt6_QmlPlugins_Imports_app12-TextInputElements.cmake	bbd11ffe853b2885
+18	49	6813328044087008	E:/Works/Qt Course/Qt Quick/build-12-TextInputElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app12-TextInputElements.cmake	bbd11ffe853b2885
+51	78	6813328044374240	.rcc/qrc_app12-TextInputElements_raw_qml_0.cpp	a41f0bdc1c07d06a
+51	78	6813328044374240	E:/Works/Qt Course/Qt Quick/build-12-TextInputElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app12-TextInputElements_raw_qml_0.cpp	a41f0bdc1c07d06a
+49	140	6813328044954116	.rcc/qmlcache/app12-TextInputElements_main_qml.cpp	75907319b713670b
+49	140	6813328044954116	E:/Works/Qt Course/Qt Quick/build-12-TextInputElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app12-TextInputElements_main_qml.cpp	75907319b713670b
+142	205	6813328045657632	CMakeFiles/app12-TextInputElements.dir/.rcc/qrc_app12-TextInputElements_raw_qml_0.cpp.obj	a33a5f1847cf4d77
+140	1584	6813328059446557	CMakeFiles/app12-TextInputElements.dir/.rcc/qmlcache/app12-TextInputElements_main_qml.cpp.obj	54c39ea11679a87b
+1585	1785	6813328061417062	app12-TextInputElements.exe	c551c2d5c4a07acf
+8	35	6813330191535557	12-TextInputElements/main.qml	e93b1fd3dcca72d
+8	35	6813330191535557	E:/Works/Qt Course/Qt Quick/build-12-TextInputElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/12-TextInputElements/main.qml	e93b1fd3dcca72d
+4	35	6813330191535557	.qt_plugins/Qt6_QmlPlugins_Imports_app12-TextInputElements.cmake	bbd11ffe853b2885
+4	35	6813330191535557	E:/Works/Qt Course/Qt Quick/build-12-TextInputElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app12-TextInputElements.cmake	bbd11ffe853b2885
+35	62	6813330191821142	.rcc/qrc_app12-TextInputElements_raw_qml_0.cpp	a41f0bdc1c07d06a
+35	62	6813330191821142	E:/Works/Qt Course/Qt Quick/build-12-TextInputElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app12-TextInputElements_raw_qml_0.cpp	a41f0bdc1c07d06a
+38	131	6813330192451264	.rcc/qmlcache/app12-TextInputElements_main_qml.cpp	75907319b713670b
+38	131	6813330192451264	E:/Works/Qt Course/Qt Quick/build-12-TextInputElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app12-TextInputElements_main_qml.cpp	75907319b713670b
+131	198	6813330193183637	CMakeFiles/app12-TextInputElements.dir/.rcc/qrc_app12-TextInputElements_raw_qml_0.cpp.obj	a33a5f1847cf4d77
+134	1591	6813330207108513	CMakeFiles/app12-TextInputElements.dir/.rcc/qmlcache/app12-TextInputElements_main_qml.cpp.obj	54c39ea11679a87b
+1592	1797	6813330209133532	app12-TextInputElements.exe	c551c2d5c4a07acf
+4	32	6813330340057633	12-TextInputElements/main.qml	e93b1fd3dcca72d
+4	32	6813330340057633	E:/Works/Qt Course/Qt Quick/build-12-TextInputElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/12-TextInputElements/main.qml	e93b1fd3dcca72d
+7	36	6813330340097834	.qt_plugins/Qt6_QmlPlugins_Imports_app12-TextInputElements.cmake	bbd11ffe853b2885
+7	36	6813330340097834	E:/Works/Qt Course/Qt Quick/build-12-TextInputElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app12-TextInputElements.cmake	bbd11ffe853b2885
+38	64	6813330340384179	.rcc/qrc_app12-TextInputElements_raw_qml_0.cpp	a41f0bdc1c07d06a
+38	64	6813330340384179	E:/Works/Qt Course/Qt Quick/build-12-TextInputElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app12-TextInputElements_raw_qml_0.cpp	a41f0bdc1c07d06a
+36	127	6813330340957966	.rcc/qmlcache/app12-TextInputElements_main_qml.cpp	75907319b713670b
+36	127	6813330340957966	E:/Works/Qt Course/Qt Quick/build-12-TextInputElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app12-TextInputElements_main_qml.cpp	75907319b713670b
+127	196	6813330341714527	CMakeFiles/app12-TextInputElements.dir/.rcc/qrc_app12-TextInputElements_raw_qml_0.cpp.obj	a33a5f1847cf4d77
+130	1583	6813330355564838	CMakeFiles/app12-TextInputElements.dir/.rcc/qmlcache/app12-TextInputElements_main_qml.cpp.obj	54c39ea11679a87b
+1583	1787	6813330357579217	app12-TextInputElements.exe	c551c2d5c4a07acf
+8	35	6813330478381939	12-TextInputElements/main.qml	e93b1fd3dcca72d
+8	35	6813330478381939	E:/Works/Qt Course/Qt Quick/build-12-TextInputElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/12-TextInputElements/main.qml	e93b1fd3dcca72d
+5	37	6813330478395549	.qt_plugins/Qt6_QmlPlugins_Imports_app12-TextInputElements.cmake	bbd11ffe853b2885
+5	37	6813330478395549	E:/Works/Qt Course/Qt Quick/build-12-TextInputElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app12-TextInputElements.cmake	bbd11ffe853b2885
+40	65	6813330478689167	.rcc/qrc_app12-TextInputElements_raw_qml_0.cpp	a41f0bdc1c07d06a
+40	65	6813330478689167	E:/Works/Qt Course/Qt Quick/build-12-TextInputElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app12-TextInputElements_raw_qml_0.cpp	a41f0bdc1c07d06a
+37	125	6813330479234249	.rcc/qmlcache/app12-TextInputElements_main_qml.cpp	75907319b713670b
+37	125	6813330479234249	E:/Works/Qt Course/Qt Quick/build-12-TextInputElements-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app12-TextInputElements_main_qml.cpp	75907319b713670b
+125	192	6813330479961751	CMakeFiles/app12-TextInputElements.dir/.rcc/qrc_app12-TextInputElements_raw_qml_0.cpp.obj	a33a5f1847cf4d77
+127	1561	6813330493651073	CMakeFiles/app12-TextInputElements.dir/.rcc/qmlcache/app12-TextInputElements_main_qml.cpp.obj	54c39ea11679a87b
+1561	1761	6813330495609260	app12-TextInputElements.exe	c551c2d5c4a07acf

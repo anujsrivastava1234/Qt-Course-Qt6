@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/8-QMl/">
+    <file alias="main.qml">E:/Works/Qt Course/Qt Quick/8-QMl/main.qml</file>
+  </qresource>
+</RCC>
+

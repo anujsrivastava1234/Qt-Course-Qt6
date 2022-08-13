@@ -1,0 +1,4 @@
+module 5-MouseAreaElement
+typeinfo app5-MouseAreaElement.qmltypes
+prefer :/5-MouseAreaElement/
+

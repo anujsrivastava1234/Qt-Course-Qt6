@@ -1,0 +1,54 @@
+# ninja log v5
+3	75	6812373012128586	.rcc/qmlcache/app6-textInput_qmlcache_loader.cpp	1454e405f6a45e2a
+3	75	6812373012128586	E:/Works/Qt Course/Qt Quick/build-6-textInput-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app6-textInput_qmlcache_loader.cpp	1454e405f6a45e2a
+8	80	6812373012144589	.qt_plugins/Qt6_QmlPlugins_Imports_app6-textInput.cmake	90aca3059ceaf1ec
+8	80	6812373012144589	E:/Works/Qt Course/Qt Quick/build-6-textInput-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app6-textInput.cmake	90aca3059ceaf1ec
+12	81	6812373012190634	6-textInput/main.qml	ef29f5d39e031821
+12	81	6812373012190634	E:/Works/Qt Course/Qt Quick/build-6-textInput-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/6-textInput/main.qml	ef29f5d39e031821
+76	423	6812373014285238	app6-textInput_autogen/timestamp	7ff7dfefadec58c7
+76	423	6812373014285238	app6-textInput_autogen/mocs_compilation.cpp	7ff7dfefadec58c7
+76	423	6812373014285238	E:/Works/Qt Course/Qt Quick/build-6-textInput-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app6-textInput_autogen/timestamp	7ff7dfefadec58c7
+76	423	6812373014285238	E:/Works/Qt Course/Qt Quick/build-6-textInput-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app6-textInput_autogen/mocs_compilation.cpp	7ff7dfefadec58c7
+427	471	6812373016165213	.rcc/qrc_qmake_6-textInput.cpp	81019ab5b996e553
+427	471	6812373016165213	E:/Works/Qt Course/Qt Quick/build-6-textInput-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_qmake_6-textInput.cpp	81019ab5b996e553
+423	473	6812373016165213	meta_types/app6-textInput_json_file_list.txt	5008de301cd21245
+423	473	6812373016165213	meta_types/app6-textInput_json_file_list.txt.timestamp	5008de301cd21245
+423	473	6812373016165213	E:/Works/Qt Course/Qt Quick/build-6-textInput-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/app6-textInput_json_file_list.txt	5008de301cd21245
+423	473	6812373016165213	E:/Works/Qt Course/Qt Quick/build-6-textInput-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/app6-textInput_json_file_list.txt.timestamp	5008de301cd21245
+431	487	6812373016254884	.rcc/qrc_app6-textInput_raw_qml_0.cpp	9d344a9ce398a901
+431	487	6812373016254884	E:/Works/Qt Course/Qt Quick/build-6-textInput-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app6-textInput_raw_qml_0.cpp	9d344a9ce398a901
+473	539	6812373016844439	meta_types/qt6app6-textinput_debug_metatypes.json.gen	ad6a59386f192e32
+473	539	6812373016844439	meta_types/qt6app6-textinput_debug_metatypes.json	ad6a59386f192e32
+473	539	6812373016844439	E:/Works/Qt Course/Qt Quick/build-6-textInput-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6app6-textinput_debug_metatypes.json.gen	ad6a59386f192e32
+473	539	6812373016844439	E:/Works/Qt Course/Qt Quick/build-6-textInput-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6app6-textinput_debug_metatypes.json	ad6a59386f192e32
+540	786	6812373017950904	app6-textinput_qmltyperegistrations.cpp	233eb28ac430ab1b
+540	786	6812373017950904	6-textInput/app6-textInput.qmltypes	233eb28ac430ab1b
+540	786	6812373017950904	E:/Works/Qt Course/Qt Quick/build-6-textInput-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app6-textinput_qmltyperegistrations.cpp	233eb28ac430ab1b
+540	786	6812373017950904	E:/Works/Qt Course/Qt Quick/build-6-textInput-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/6-textInput/app6-textInput.qmltypes	233eb28ac430ab1b
+22	80	6812373057857633	6-textInput/main.qml	ef29f5d39e031821
+22	80	6812373057857633	E:/Works/Qt Course/Qt Quick/build-6-textInput-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/6-textInput/main.qml	ef29f5d39e031821
+28	92	6812373057970363	.qt_plugins/Qt6_QmlPlugins_Imports_app6-textInput.cmake	90aca3059ceaf1ec
+28	92	6812373057970363	E:/Works/Qt Course/Qt Quick/build-6-textInput-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app6-textInput.cmake	90aca3059ceaf1ec
+96	152	6812373058560082	.rcc/qrc_app6-textInput_raw_qml_0.cpp	9d344a9ce398a901
+96	152	6812373058560082	E:/Works/Qt Course/Qt Quick/build-6-textInput-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app6-textInput_raw_qml_0.cpp	9d344a9ce398a901
+92	286	6812373059855535	.rcc/qmlcache/app6-textInput_main_qml.cpp	eda745fa02ca05ce
+92	286	6812373059855535	E:/Works/Qt Course/Qt Quick/build-6-textInput-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app6-textInput_main_qml.cpp	eda745fa02ca05ce
+286	513	6812373062235878	CMakeFiles/app6-textInput.dir/app6-textInput_autogen/mocs_compilation.cpp.obj	7e4ddb8503798f0c
+305	524	6812373062350966	CMakeFiles/app6-textInput.dir/.rcc/qrc_app6-textInput_raw_qml_0.cpp.obj	e3e01123425b299b
+302	606	6812373062781123	CMakeFiles/app6-textInput.dir/.rcc/qrc_qmake_6-textInput.cpp.obj	cc25dcd7a2a34705
+293	4590	6812373102869072	CMakeFiles/app6-textInput.dir/app6-textinput_qmltyperegistrations.cpp.obj	44ad1e908fe784a1
+290	4900	6812373106038607	CMakeFiles/app6-textInput.dir/main.cpp.obj	1cc3f8033ccb0d24
+296	5172	6812373108779335	CMakeFiles/app6-textInput.dir/.rcc/qmlcache/app6-textInput_main_qml.cpp.obj	72934b04dd19c746
+299	5584	6812373112926143	CMakeFiles/app6-textInput.dir/.rcc/qmlcache/app6-textInput_qmlcache_loader.cpp.obj	ec7d448722786ebf
+5585	6038	6812373117396892	app6-textInput.exe	710f1372f0ad1153
+12	74	6812373843492897	.qt_plugins/Qt6_QmlPlugins_Imports_app6-textInput.cmake	90aca3059ceaf1ec
+12	74	6812373843492897	E:/Works/Qt Course/Qt Quick/build-6-textInput-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app6-textInput.cmake	90aca3059ceaf1ec
+18	76	6812373843559224	6-textInput/main.qml	ef29f5d39e031821
+18	76	6812373843559224	E:/Works/Qt Course/Qt Quick/build-6-textInput-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/6-textInput/main.qml	ef29f5d39e031821
+80	137	6812373844123921	.rcc/qrc_app6-textInput_raw_qml_0.cpp	9d344a9ce398a901
+80	137	6812373844123921	E:/Works/Qt Course/Qt Quick/build-6-textInput-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app6-textInput_raw_qml_0.cpp	9d344a9ce398a901
+76	273	6812373845462338	.rcc/qmlcache/app6-textInput_main_qml.cpp	eda745fa02ca05ce
+76	273	6812373845462338	E:/Works/Qt Course/Qt Quick/build-6-textInput-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app6-textInput_main_qml.cpp	eda745fa02ca05ce
+278	410	6812373846922033	CMakeFiles/app6-textInput.dir/.rcc/qrc_app6-textInput_raw_qml_0.cpp.obj	e3e01123425b299b
+274	4715	6812373889960843	CMakeFiles/app6-textInput.dir/.rcc/qmlcache/app6-textInput_main_qml.cpp.obj	72934b04dd19c746
+4716	5144	6812373894193495	app6-textInput.exe	710f1372f0ad1153

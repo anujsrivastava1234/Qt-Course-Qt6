@@ -1,0 +1,38 @@
+# ninja log v5
+17	251	6805427960374444	2-SignalSlots_autogen/timestamp	a6faba2c857ce23b
+670	2463	6805424277584280	CMakeFiles/2-SignalSlots.dir/main.cpp.obj	db58c6414f6ac811
+1943	2133	6805427979166001	2-SignalSlots.exe	70c2f4ace180b82a
+17	251	6805427960374444	2-SignalSlots_autogen/mocs_compilation.cpp	a6faba2c857ce23b
+17	251	6805427960374444	E:/Works/Qt Course/Qt Widgets/build-2-SignalSlots-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-SignalSlots_autogen/timestamp	a6faba2c857ce23b
+17	251	6805427960374444	E:/Works/Qt Course/Qt Widgets/build-2-SignalSlots-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-SignalSlots_autogen/mocs_compilation.cpp	a6faba2c857ce23b
+667	2443	6805424277377256	CMakeFiles/2-SignalSlots.dir/2-SignalSlots_autogen/mocs_compilation.cpp.obj	8a51df28b99f2bcb
+263	1942	6805427977303400	CMakeFiles/2-SignalSlots.dir/widget.cpp.obj	4fa4ef4edb879961
+21	241	6805431392632785	2-SignalSlots_autogen/timestamp	a6faba2c857ce23b
+21	241	6805431392632785	2-SignalSlots_autogen/mocs_compilation.cpp	a6faba2c857ce23b
+21	241	6805431392632785	E:/Works/Qt Course/Qt Widgets/build-2-SignalSlots-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-SignalSlots_autogen/timestamp	a6faba2c857ce23b
+21	241	6805431392632785	E:/Works/Qt Course/Qt Widgets/build-2-SignalSlots-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-SignalSlots_autogen/mocs_compilation.cpp	a6faba2c857ce23b
+250	301	6805431393204384	2-SignalSlots_autogen/EWIEGA46WW/qrc_res.cpp	4a5a8736ff189242
+250	301	6805431393204384	E:/Works/Qt Course/Qt Widgets/build-2-SignalSlots-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-SignalSlots_autogen/EWIEGA46WW/qrc_res.cpp	4a5a8736ff189242
+302	383	6805431394076289	CMakeFiles/2-SignalSlots.dir/2-SignalSlots_autogen/EWIEGA46WW/qrc_res.cpp.obj	f30091c08f36f3f7
+305	1930	6805431409541643	CMakeFiles/2-SignalSlots.dir/widget.cpp.obj	4fa4ef4edb879961
+1931	2130	6805431411501057	2-SignalSlots.exe	6f5bda641257a1c
+11	211	6805431681348459	2-SignalSlots_autogen/timestamp	a6faba2c857ce23b
+11	211	6805431681348459	2-SignalSlots_autogen/mocs_compilation.cpp	a6faba2c857ce23b
+11	211	6805431681348459	E:/Works/Qt Course/Qt Widgets/build-2-SignalSlots-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-SignalSlots_autogen/timestamp	a6faba2c857ce23b
+11	211	6805431681348459	E:/Works/Qt Course/Qt Widgets/build-2-SignalSlots-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-SignalSlots_autogen/mocs_compilation.cpp	a6faba2c857ce23b
+220	1718	6805431696419454	CMakeFiles/2-SignalSlots.dir/widget.cpp.obj	4fa4ef4edb879961
+1719	1907	6805431698284293	2-SignalSlots.exe	6f5bda641257a1c
+11	235	6805441175815075	2-SignalSlots_autogen/timestamp	a6faba2c857ce23b
+11	235	6805441175815075	2-SignalSlots_autogen/mocs_compilation.cpp	a6faba2c857ce23b
+11	235	6805441175815075	E:/Works/Qt Course/Qt Widgets/build-2-SignalSlots-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-SignalSlots_autogen/timestamp	a6faba2c857ce23b
+11	235	6805441175815075	E:/Works/Qt Course/Qt Widgets/build-2-SignalSlots-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-SignalSlots_autogen/mocs_compilation.cpp	a6faba2c857ce23b
+243	1898	6805441192446943	CMakeFiles/2-SignalSlots.dir/widget.cpp.obj	4fa4ef4edb879961
+1898	2095	6805441194369943	2-SignalSlots.exe	6f5bda641257a1c
+28	1091	6805445420777619	2-SignalSlots_autogen/timestamp	a6faba2c857ce23b
+28	1091	6805445420777619	2-SignalSlots_autogen/mocs_compilation.cpp	a6faba2c857ce23b
+28	1091	6805445420777619	E:/Works/Qt Course/Qt Widgets/build-2-SignalSlots-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-SignalSlots_autogen/timestamp	a6faba2c857ce23b
+28	1091	6805445420777619	E:/Works/Qt Course/Qt Widgets/build-2-SignalSlots-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-SignalSlots_autogen/mocs_compilation.cpp	a6faba2c857ce23b
+1092	4217	6805445453964531	CMakeFiles/2-SignalSlots.dir/2-SignalSlots_autogen/mocs_compilation.cpp.obj	8a51df28b99f2bcb
+1100	4315	6805445455055758	CMakeFiles/2-SignalSlots.dir/main.cpp.obj	db58c6414f6ac811
+1096	4441	6805445456309946	CMakeFiles/2-SignalSlots.dir/widget.cpp.obj	4fa4ef4edb879961
+4441	4758	6805445459441455	2-SignalSlots.exe	6f5bda641257a1c

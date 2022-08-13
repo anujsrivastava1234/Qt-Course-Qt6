@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>ww.png</file>
+        <file>ww.gif</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,12 @@
+# ninja log v5
+1	651	6808995811587567	2-SecondExample_autogen/timestamp	8f99d2d1fdbeee
+1	651	6808995811587567	2-SecondExample_autogen/mocs_compilation.cpp	8f99d2d1fdbeee
+1	651	6808995811587567	E:/Works/Qt Course/Qt Drag And Drop/build-2-SecondExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-SecondExample_autogen/timestamp	8f99d2d1fdbeee
+1	651	6808995811587567	E:/Works/Qt Course/Qt Drag And Drop/build-2-SecondExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-SecondExample_autogen/mocs_compilation.cpp	8f99d2d1fdbeee
+652	703	6808995813132942	2-SecondExample_autogen/EWIEGA46WW/qrc_res.cpp	8dcb9d2958af521c
+652	703	6808995813132942	E:/Works/Qt Course/Qt Drag And Drop/build-2-SecondExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-SecondExample_autogen/EWIEGA46WW/qrc_res.cpp	8dcb9d2958af521c
+705	808	6808995814244583	CMakeFiles/2-SecondExample.dir/2-SecondExample_autogen/EWIEGA46WW/qrc_res.cpp.obj	97d255d6dc9cbf73
+703	2508	6808995831223294	CMakeFiles/2-SecondExample.dir/2-SecondExample_autogen/mocs_compilation.cpp.obj	5d95bbbffc5f2b22
+710	2524	6808995831387462	CMakeFiles/2-SecondExample.dir/main.cpp.obj	789f9e2413875194
+708	2772	6808995833858147	CMakeFiles/2-SecondExample.dir/dialog.cpp.obj	f6c86db8372f46d5
+2772	2977	6808995835879557	2-SecondExample.exe	fc6f79c0a3bd5922

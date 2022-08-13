@@ -1,0 +1,43 @@
+# ninja log v5
+2	1763	6804696052365032	14-QSliderBox_autogen/timestamp	2a17ac254c74bddc
+2	1763	6804696052365032	14-QSliderBox_autogen/mocs_compilation.cpp	2a17ac254c74bddc
+2	1763	6804696052365032	E:/Works/Qt Course/Qt Widgets/build-14-QSliderBox-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/14-QSliderBox_autogen/timestamp	2a17ac254c74bddc
+2	1763	6804696052365032	E:/Works/Qt Course/Qt Widgets/build-14-QSliderBox-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/14-QSliderBox_autogen/mocs_compilation.cpp	2a17ac254c74bddc
+1772	5330	6804696090710886	CMakeFiles/14-QSliderBox.dir/widget.cpp.obj	a1f4112efa6886b2
+1767	5452	6804696091924177	CMakeFiles/14-QSliderBox.dir/main.cpp.obj	33850711f2652fcb
+1763	5594	6804696093361068	CMakeFiles/14-QSliderBox.dir/14-QSliderBox_autogen/mocs_compilation.cpp.obj	557dbfd686970d77
+5596	5833	6804696095698945	14-QSliderBox.exe	55c402dad6114d3
+16	846	6804701039142313	14-QSliderBox_autogen/timestamp	2a17ac254c74bddc
+16	846	6804701039142313	14-QSliderBox_autogen/mocs_compilation.cpp	2a17ac254c74bddc
+16	846	6804701039142313	E:/Works/Qt Course/Qt Widgets/build-14-QSliderBox-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/14-QSliderBox_autogen/timestamp	2a17ac254c74bddc
+16	846	6804701039142313	E:/Works/Qt Course/Qt Widgets/build-14-QSliderBox-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/14-QSliderBox_autogen/mocs_compilation.cpp	2a17ac254c74bddc
+849	3514	6804701067371863	CMakeFiles/14-QSliderBox.dir/main.cpp.obj	33850711f2652fcb
+852	3521	6804701067476779	CMakeFiles/14-QSliderBox.dir/widget.cpp.obj	a1f4112efa6886b2
+846	3610	6804701068370634	CMakeFiles/14-QSliderBox.dir/14-QSliderBox_autogen/mocs_compilation.cpp.obj	557dbfd686970d77
+3610	3845	6804701070660930	14-QSliderBox.exe	55c402dad6114d3
+12	257	6804704758603601	14-QSliderBox_autogen/timestamp	2a17ac254c74bddc
+12	257	6804704758603601	14-QSliderBox_autogen/mocs_compilation.cpp	2a17ac254c74bddc
+12	257	6804704758603601	E:/Works/Qt Course/Qt Widgets/build-14-QSliderBox-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/14-QSliderBox_autogen/timestamp	2a17ac254c74bddc
+12	257	6804704758603601	E:/Works/Qt Course/Qt Widgets/build-14-QSliderBox-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/14-QSliderBox_autogen/mocs_compilation.cpp	2a17ac254c74bddc
+269	2070	6804704776730875	CMakeFiles/14-QSliderBox.dir/widget.cpp.obj	a1f4112efa6886b2
+2070	2269	6804704778694369	14-QSliderBox.exe	55c402dad6114d3
+16	279	6804705086563327	14-QSliderBox_autogen/timestamp	2a17ac254c74bddc
+16	279	6804705086563327	14-QSliderBox_autogen/mocs_compilation.cpp	2a17ac254c74bddc
+16	279	6804705086563327	E:/Works/Qt Course/Qt Widgets/build-14-QSliderBox-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/14-QSliderBox_autogen/timestamp	2a17ac254c74bddc
+16	279	6804705086563327	E:/Works/Qt Course/Qt Widgets/build-14-QSliderBox-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/14-QSliderBox_autogen/mocs_compilation.cpp	2a17ac254c74bddc
+294	2305	6804705106847526	CMakeFiles/14-QSliderBox.dir/widget.cpp.obj	a1f4112efa6886b2
+2306	2509	6804705108843945	14-QSliderBox.exe	55c402dad6114d3
+18	276	6804707384807834	14-QSliderBox_autogen/timestamp	2a17ac254c74bddc
+18	276	6804707384807834	14-QSliderBox_autogen/mocs_compilation.cpp	2a17ac254c74bddc
+18	276	6804707384807834	E:/Works/Qt Course/Qt Widgets/build-14-QSliderBox-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/14-QSliderBox_autogen/timestamp	2a17ac254c74bddc
+18	276	6804707384807834	E:/Works/Qt Course/Qt Widgets/build-14-QSliderBox-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/14-QSliderBox_autogen/mocs_compilation.cpp	2a17ac254c74bddc
+291	2175	6804707403816563	CMakeFiles/14-QSliderBox.dir/widget.cpp.obj	a1f4112efa6886b2
+2176	2372	6804707405743428	14-QSliderBox.exe	55c402dad6114d3
+14	886	6804708154518942	14-QSliderBox_autogen/timestamp	2a17ac254c74bddc
+14	886	6804708154518942	14-QSliderBox_autogen/mocs_compilation.cpp	2a17ac254c74bddc
+14	886	6804708154518942	E:/Works/Qt Course/Qt Widgets/build-14-QSliderBox-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/14-QSliderBox_autogen/timestamp	2a17ac254c74bddc
+14	886	6804708154518942	E:/Works/Qt Course/Qt Widgets/build-14-QSliderBox-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/14-QSliderBox_autogen/mocs_compilation.cpp	2a17ac254c74bddc
+893	3152	6804708178842936	CMakeFiles/14-QSliderBox.dir/widget.cpp.obj	a1f4112efa6886b2
+890	3260	6804708179925208	CMakeFiles/14-QSliderBox.dir/main.cpp.obj	33850711f2652fcb
+887	3310	6804708180424003	CMakeFiles/14-QSliderBox.dir/14-QSliderBox_autogen/mocs_compilation.cpp.obj	557dbfd686970d77
+3310	3508	6804708182359552	14-QSliderBox.exe	55c402dad6114d3

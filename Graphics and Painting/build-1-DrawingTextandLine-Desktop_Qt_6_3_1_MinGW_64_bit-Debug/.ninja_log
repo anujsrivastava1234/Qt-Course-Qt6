@@ -1,0 +1,35 @@
+# ninja log v5
+2	950	6806338038952830	1-DrawingTextandLine_autogen/timestamp	28c2c66eb3a73ffd
+2	950	6806338038952830	1-DrawingTextandLine_autogen/mocs_compilation.cpp	28c2c66eb3a73ffd
+2	950	6806338038952830	E:/Works/Qt Course/Graphics and Painting/build-1-DrawingTextandLine-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/1-DrawingTextandLine_autogen/timestamp	28c2c66eb3a73ffd
+2	950	6806338038952830	E:/Works/Qt Course/Graphics and Painting/build-1-DrawingTextandLine-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/1-DrawingTextandLine_autogen/mocs_compilation.cpp	28c2c66eb3a73ffd
+950	3422	6806338065484894	CMakeFiles/1-DrawingTextandLine.dir/1-DrawingTextandLine_autogen/mocs_compilation.cpp.obj	df12f6a4461696b5
+956	3459	6806338065866772	CMakeFiles/1-DrawingTextandLine.dir/main.cpp.obj	c67338ca14cf8ec3
+953	3561	6806338066878565	CMakeFiles/1-DrawingTextandLine.dir/widget.cpp.obj	44b3a9eca0ac803f
+3561	3795	6806338069183984	1-DrawingTextandLine.exe	18dd768a0547ec3e
+12	919	6806339481636618	1-DrawingTextandLine_autogen/timestamp	28c2c66eb3a73ffd
+12	919	6806339481636618	1-DrawingTextandLine_autogen/mocs_compilation.cpp	28c2c66eb3a73ffd
+12	919	6806339481636618	E:/Works/Qt Course/Graphics and Painting/build-1-DrawingTextandLine-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/1-DrawingTextandLine_autogen/timestamp	28c2c66eb3a73ffd
+12	919	6806339481636618	E:/Works/Qt Course/Graphics and Painting/build-1-DrawingTextandLine-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/1-DrawingTextandLine_autogen/mocs_compilation.cpp	28c2c66eb3a73ffd
+926	3336	6806339507491312	CMakeFiles/1-DrawingTextandLine.dir/main.cpp.obj	c67338ca14cf8ec3
+920	3398	6806339508107376	CMakeFiles/1-DrawingTextandLine.dir/1-DrawingTextandLine_autogen/mocs_compilation.cpp.obj	df12f6a4461696b5
+923	3470	6806339508842948	CMakeFiles/1-DrawingTextandLine.dir/widget.cpp.obj	44b3a9eca0ac803f
+3471	3706	6806339511155618	1-DrawingTextandLine.exe	18dd768a0547ec3e
+16	255	6806339803177342	1-DrawingTextandLine_autogen/timestamp	28c2c66eb3a73ffd
+16	255	6806339803177342	1-DrawingTextandLine_autogen/mocs_compilation.cpp	28c2c66eb3a73ffd
+16	255	6806339803177342	E:/Works/Qt Course/Graphics and Painting/build-1-DrawingTextandLine-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/1-DrawingTextandLine_autogen/timestamp	28c2c66eb3a73ffd
+16	255	6806339803177342	E:/Works/Qt Course/Graphics and Painting/build-1-DrawingTextandLine-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/1-DrawingTextandLine_autogen/mocs_compilation.cpp	28c2c66eb3a73ffd
+268	2460	6806339825245208	CMakeFiles/1-DrawingTextandLine.dir/widget.cpp.obj	44b3a9eca0ac803f
+2460	2677	6806339827350912	1-DrawingTextandLine.exe	18dd768a0547ec3e
+17	273	6806340207726943	1-DrawingTextandLine_autogen/timestamp	28c2c66eb3a73ffd
+17	273	6806340207726943	1-DrawingTextandLine_autogen/mocs_compilation.cpp	28c2c66eb3a73ffd
+17	273	6806340207726943	E:/Works/Qt Course/Graphics and Painting/build-1-DrawingTextandLine-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/1-DrawingTextandLine_autogen/timestamp	28c2c66eb3a73ffd
+17	273	6806340207726943	E:/Works/Qt Course/Graphics and Painting/build-1-DrawingTextandLine-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/1-DrawingTextandLine_autogen/mocs_compilation.cpp	28c2c66eb3a73ffd
+285	2515	6806340230149095	CMakeFiles/1-DrawingTextandLine.dir/widget.cpp.obj	44b3a9eca0ac803f
+2515	2734	6806340232309379	1-DrawingTextandLine.exe	18dd768a0547ec3e
+12	261	6806340319113781	1-DrawingTextandLine_autogen/timestamp	28c2c66eb3a73ffd
+12	261	6806340319113781	1-DrawingTextandLine_autogen/mocs_compilation.cpp	28c2c66eb3a73ffd
+12	261	6806340319113781	E:/Works/Qt Course/Graphics and Painting/build-1-DrawingTextandLine-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/1-DrawingTextandLine_autogen/timestamp	28c2c66eb3a73ffd
+12	261	6806340319113781	E:/Works/Qt Course/Graphics and Painting/build-1-DrawingTextandLine-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/1-DrawingTextandLine_autogen/mocs_compilation.cpp	28c2c66eb3a73ffd
+275	2458	6806340341088994	CMakeFiles/1-DrawingTextandLine.dir/widget.cpp.obj	44b3a9eca0ac803f
+2458	2679	6806340343283678	1-DrawingTextandLine.exe	18dd768a0547ec3e

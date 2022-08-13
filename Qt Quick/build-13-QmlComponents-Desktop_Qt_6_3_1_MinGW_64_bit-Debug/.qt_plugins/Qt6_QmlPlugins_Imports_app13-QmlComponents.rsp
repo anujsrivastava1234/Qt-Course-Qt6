@@ -1,0 +1,12 @@
+-rootPath
+E:/Works/Qt Course/Qt Quick/13-QmlComponents
+-cmake-output
+-output-file
+E:/Works/Qt Course/Qt Quick/build-13-QmlComponents-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app13-QmlComponents.cmake
+-importPath
+C:/Qt/6.3.1/mingw_64/./qml
+E:/Works/Qt Course/Qt Quick/build-13-QmlComponents-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/13-QmlComponents
+E:/Works/Qt Course/Qt Quick/build-13-QmlComponents-Desktop_Qt_6_3_1_MinGW_64_bit-Debug
+-qrcFiles
+E:/Works/Qt Course/Qt Quick/build-13-QmlComponents-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmake_13-QmlComponents.qrc
+E:/Works/Qt Course/Qt Quick/build-13-QmlComponents-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/app13-QmlComponents_raw_qml_0.qrc
