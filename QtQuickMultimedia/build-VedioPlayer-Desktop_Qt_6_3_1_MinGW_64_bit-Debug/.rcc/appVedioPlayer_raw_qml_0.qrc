@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/VedioPlayer/">
+    <file alias="main.qml">E:/Works/Qt Course/QtQuickMultimedia/VedioPlayer/main.qml</file>
+  </qresource>
+</RCC>
+

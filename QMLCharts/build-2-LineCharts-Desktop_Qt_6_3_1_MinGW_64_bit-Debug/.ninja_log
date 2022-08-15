@@ -1,0 +1,58 @@
+# ninja log v5
+7	58	6822472516200319	2-LineCharts/main.qml	6e7cffc28200bb3c
+7	58	6822472516200319	E:/Works/Qt Course/QMLCharts/build-2-LineCharts-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-LineCharts/main.qml	6e7cffc28200bb3c
+2	68	6822472516302278	.rcc/qmlcache/app2-LineCharts_qmlcache_loader.cpp	2de8682e53f3d90f
+2	68	6822472516302278	E:/Works/Qt Course/QMLCharts/build-2-LineCharts-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app2-LineCharts_qmlcache_loader.cpp	2de8682e53f3d90f
+69	357	6822472518276502	app2-LineCharts_autogen/timestamp	203a2729710fb034
+69	357	6822472518276502	app2-LineCharts_autogen/mocs_compilation.cpp	203a2729710fb034
+69	357	6822472518276502	E:/Works/Qt Course/QMLCharts/build-2-LineCharts-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app2-LineCharts_autogen/timestamp	203a2729710fb034
+69	357	6822472518276502	E:/Works/Qt Course/QMLCharts/build-2-LineCharts-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app2-LineCharts_autogen/mocs_compilation.cpp	203a2729710fb034
+357	409	6822472519746145	meta_types/app2-LineCharts_json_file_list.txt	8b3e67a097a7fe5b
+357	409	6822472519746145	meta_types/app2-LineCharts_json_file_list.txt.timestamp	8b3e67a097a7fe5b
+357	409	6822472519746145	E:/Works/Qt Course/QMLCharts/build-2-LineCharts-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/app2-LineCharts_json_file_list.txt	8b3e67a097a7fe5b
+357	409	6822472519746145	E:/Works/Qt Course/QMLCharts/build-2-LineCharts-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/app2-LineCharts_json_file_list.txt.timestamp	8b3e67a097a7fe5b
+410	466	6822472520305959	meta_types/qt6app2-linecharts_debug_metatypes.json.gen	3098a911f8644cfd
+410	466	6822472520305959	meta_types/qt6app2-linecharts_debug_metatypes.json	3098a911f8644cfd
+410	466	6822472520305959	E:/Works/Qt Course/QMLCharts/build-2-LineCharts-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6app2-linecharts_debug_metatypes.json.gen	3098a911f8644cfd
+410	466	6822472520305959	E:/Works/Qt Course/QMLCharts/build-2-LineCharts-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6app2-linecharts_debug_metatypes.json	3098a911f8644cfd
+11	568	6822472521311245	.qt_plugins/Qt6_QmlPlugins_Imports_app2-LineCharts.cmake	d6691f9413c758a6
+11	568	6822472521311245	E:/Works/Qt Course/QMLCharts/build-2-LineCharts-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app2-LineCharts.cmake	d6691f9413c758a6
+574	618	6822472521807415	.rcc/qrc_qmake_2-LineCharts.cpp	d4d055b0ee741fc0
+574	618	6822472521807415	E:/Works/Qt Course/QMLCharts/build-2-LineCharts-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_qmake_2-LineCharts.cpp	d4d055b0ee741fc0
+568	626	6822472521894282	.rcc/qrc_app2-LineCharts_raw_qml_0.cpp	fc57add203e9d081
+568	626	6822472521894282	E:/Works/Qt Course/QMLCharts/build-2-LineCharts-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app2-LineCharts_raw_qml_0.cpp	fc57add203e9d081
+467	663	6822472521171882	app2-linecharts_qmltyperegistrations.cpp	32062495c102252b
+467	663	6822472521171882	2-LineCharts/app2-LineCharts.qmltypes	32062495c102252b
+467	663	6822472521171882	E:/Works/Qt Course/QMLCharts/build-2-LineCharts-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app2-linecharts_qmltyperegistrations.cpp	32062495c102252b
+467	663	6822472521171882	E:/Works/Qt Course/QMLCharts/build-2-LineCharts-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-LineCharts/app2-LineCharts.qmltypes	32062495c102252b
+664	860	6822472524034246	.rcc/qmlcache/app2-LineCharts_main_qml.cpp	e73f2dcec41ecf6a
+664	860	6822472524034246	E:/Works/Qt Course/QMLCharts/build-2-LineCharts-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app2-LineCharts_main_qml.cpp	e73f2dcec41ecf6a
+893	1118	6822472526808097	CMakeFiles/app2-LineCharts.dir/.rcc/qrc_app2-LineCharts_raw_qml_0.cpp.obj	65619f42510298d
+861	1134	6822472526880171	CMakeFiles/app2-LineCharts.dir/.rcc/qrc_qmake_2-LineCharts.cpp.obj	d731227d42a46960
+879	1147	6822472527113875	CMakeFiles/app2-LineCharts.dir/app2-LineCharts_autogen/mocs_compilation.cpp.obj	3f68b5dbd956d983
+867	3441	6822472550049722	CMakeFiles/app2-LineCharts.dir/app2-linecharts_qmltyperegistrations.cpp.obj	eeaecc8ccf89f26d
+888	3748	6822472553125295	CMakeFiles/app2-LineCharts.dir/.rcc/qmlcache/app2-LineCharts_main_qml.cpp.obj	2a240694c4b8374b
+873	3863	6822472554278120	CMakeFiles/app2-LineCharts.dir/main.cpp.obj	6f549c6b2b189631
+897	4075	6822472556378396	CMakeFiles/app2-LineCharts.dir/.rcc/qmlcache/app2-LineCharts_qmlcache_loader.cpp.obj	459027af66fa8433
+4076	4535	6822472560856497	app2-LineCharts.exe	472ef22a5b8ae796
+43	218	6822472775710628	app2-LineCharts_autogen/timestamp	203a2729710fb034
+43	218	6822472775710628	app2-LineCharts_autogen/mocs_compilation.cpp	203a2729710fb034
+43	218	6822472775710628	E:/Works/Qt Course/QMLCharts/build-2-LineCharts-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app2-LineCharts_autogen/timestamp	203a2729710fb034
+43	218	6822472775710628	E:/Works/Qt Course/QMLCharts/build-2-LineCharts-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app2-LineCharts_autogen/mocs_compilation.cpp	203a2729710fb034
+222	260	6822472774868567	meta_types/app2-LineCharts_json_file_list.txt	8b3e67a097a7fe5b
+222	260	6822472774868567	meta_types/app2-LineCharts_json_file_list.txt.timestamp	8b3e67a097a7fe5b
+222	260	6822472774868567	E:/Works/Qt Course/QMLCharts/build-2-LineCharts-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/app2-LineCharts_json_file_list.txt	8b3e67a097a7fe5b
+222	260	6822472774868567	E:/Works/Qt Course/QMLCharts/build-2-LineCharts-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/app2-LineCharts_json_file_list.txt.timestamp	8b3e67a097a7fe5b
+261	2840	6822472801954154	CMakeFiles/app2-LineCharts.dir/main.cpp.obj	6f549c6b2b189631
+2841	3260	6822472806094091	app2-LineCharts.exe	472ef22a5b8ae796
+36	93	6822473870054792	2-LineCharts/main.qml	6e7cffc28200bb3c
+36	93	6822473870054792	E:/Works/Qt Course/QMLCharts/build-2-LineCharts-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-LineCharts/main.qml	6e7cffc28200bb3c
+44	615	6822473875293115	.qt_plugins/Qt6_QmlPlugins_Imports_app2-LineCharts.cmake	d6691f9413c758a6
+44	615	6822473875293115	E:/Works/Qt Course/QMLCharts/build-2-LineCharts-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app2-LineCharts.cmake	d6691f9413c758a6
+616	666	6822473875764450	.rcc/qrc_app2-LineCharts_raw_qml_0.cpp	fc57add203e9d081
+616	666	6822473875764450	E:/Works/Qt Course/QMLCharts/build-2-LineCharts-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app2-LineCharts_raw_qml_0.cpp	fc57add203e9d081
+619	888	6822473877798499	.rcc/qmlcache/app2-LineCharts_main_qml.cpp	e73f2dcec41ecf6a
+619	888	6822473877798499	E:/Works/Qt Course/QMLCharts/build-2-LineCharts-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app2-LineCharts_main_qml.cpp	e73f2dcec41ecf6a
+888	1089	6822473880022892	CMakeFiles/app2-LineCharts.dir/.rcc/qrc_app2-LineCharts_raw_qml_0.cpp.obj	65619f42510298d
+896	3114	6822473900270928	CMakeFiles/app2-LineCharts.dir/.rcc/qmlcache/app2-LineCharts_main_qml.cpp.obj	2a240694c4b8374b
+3114	3548	6822473904539860	app2-LineCharts.exe	472ef22a5b8ae796

@@ -1,0 +1,4 @@
+module SwipeViewExample
+typeinfo appSwipeViewExample.qmltypes
+prefer :/SwipeViewExample/
+

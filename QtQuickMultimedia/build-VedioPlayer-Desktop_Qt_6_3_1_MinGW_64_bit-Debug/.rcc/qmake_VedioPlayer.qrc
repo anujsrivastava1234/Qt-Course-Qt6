@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/VedioPlayer">
+    <file alias="qmldir">E:/Works/Qt Course/QtQuickMultimedia/build-VedioPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/VedioPlayer/qmldir</file>
+  </qresource>
+</RCC>
+

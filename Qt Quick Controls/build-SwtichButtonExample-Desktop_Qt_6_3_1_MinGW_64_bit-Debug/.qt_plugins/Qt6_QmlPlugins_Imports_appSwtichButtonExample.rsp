@@ -1,0 +1,12 @@
+-rootPath
+E:/Works/Qt Course/Qt Quick Controls/SwtichButtonExample
+-cmake-output
+-output-file
+E:/Works/Qt Course/Qt Quick Controls/build-SwtichButtonExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appSwtichButtonExample.cmake
+-importPath
+C:/Qt/6.3.1/mingw_64/./qml
+E:/Works/Qt Course/Qt Quick Controls/build-SwtichButtonExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/SwtichButtonExample
+E:/Works/Qt Course/Qt Quick Controls/build-SwtichButtonExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug
+-qrcFiles
+E:/Works/Qt Course/Qt Quick Controls/build-SwtichButtonExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmake_SwtichButtonExample.qrc
+E:/Works/Qt Course/Qt Quick Controls/build-SwtichButtonExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/appSwtichButtonExample_raw_qml_0.qrc

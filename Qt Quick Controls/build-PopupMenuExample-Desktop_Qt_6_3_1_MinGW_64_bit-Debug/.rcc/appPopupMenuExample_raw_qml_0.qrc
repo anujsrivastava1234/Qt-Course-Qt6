@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/PopupMenuExample/">
+    <file alias="main.qml">E:/Works/Qt Course/Qt Quick Controls/PopupMenuExample/main.qml</file>
+  </qresource>
+</RCC>
+

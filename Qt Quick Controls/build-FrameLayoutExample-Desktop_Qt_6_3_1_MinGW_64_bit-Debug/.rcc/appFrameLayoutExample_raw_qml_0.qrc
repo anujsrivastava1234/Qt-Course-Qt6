@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/FrameLayoutExample/">
+    <file alias="main.qml">E:/Works/Qt Course/Qt Quick Controls/FrameLayoutExample/main.qml</file>
+  </qresource>
+</RCC>
+

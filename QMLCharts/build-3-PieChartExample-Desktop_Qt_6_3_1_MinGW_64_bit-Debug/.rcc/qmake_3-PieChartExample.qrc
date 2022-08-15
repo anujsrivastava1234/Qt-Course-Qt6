@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/3-PieChartExample">
+    <file alias="qmldir">E:/Works/Qt Course/QMLCharts/build-3-PieChartExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-PieChartExample/qmldir</file>
+  </qresource>
+</RCC>
+

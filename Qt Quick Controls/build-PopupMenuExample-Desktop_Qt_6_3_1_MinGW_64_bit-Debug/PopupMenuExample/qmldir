@@ -1,0 +1,4 @@
+module PopupMenuExample
+typeinfo appPopupMenuExample.qmltypes
+prefer :/PopupMenuExample/
+

@@ -1,0 +1,4 @@
+module VedioPlayer
+typeinfo appVedioPlayer.qmltypes
+prefer :/VedioPlayer/
+

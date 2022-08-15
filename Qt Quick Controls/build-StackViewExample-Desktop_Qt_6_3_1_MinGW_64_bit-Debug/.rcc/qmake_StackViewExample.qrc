@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/StackViewExample">
+    <file alias="qmldir">E:/Works/Qt Course/Qt Quick Controls/build-StackViewExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/StackViewExample/qmldir</file>
+  </qresource>
+</RCC>
+

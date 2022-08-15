@@ -1,0 +1,4 @@
+module 5-StackBarExample
+typeinfo app5-StackBarExample.qmltypes
+prefer :/5-StackBarExample/
+

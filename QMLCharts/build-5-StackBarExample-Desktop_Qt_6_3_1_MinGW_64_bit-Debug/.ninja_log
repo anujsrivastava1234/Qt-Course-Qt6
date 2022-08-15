@@ -1,0 +1,37 @@
+# ninja log v5
+16	90	6822491393979340	5-StackBarExample/main.qml	59a81d80b6c43c7
+16	90	6822491393979340	E:/Works/Qt Course/QMLCharts/build-5-StackBarExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/5-StackBarExample/main.qml	59a81d80b6c43c7
+7	91	6822491393943344	.rcc/qmlcache/app5-StackBarExample_qmlcache_loader.cpp	a7a8eb0e83897784
+7	91	6822491393943344	E:/Works/Qt Course/QMLCharts/build-5-StackBarExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app5-StackBarExample_qmlcache_loader.cpp	a7a8eb0e83897784
+91	390	6822491396075094	app5-StackBarExample_autogen/timestamp	b42543d5417dd1b8
+91	390	6822491396075094	app5-StackBarExample_autogen/mocs_compilation.cpp	b42543d5417dd1b8
+91	390	6822491396075094	E:/Works/Qt Course/QMLCharts/build-5-StackBarExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app5-StackBarExample_autogen/timestamp	b42543d5417dd1b8
+91	390	6822491396075094	E:/Works/Qt Course/QMLCharts/build-5-StackBarExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app5-StackBarExample_autogen/mocs_compilation.cpp	b42543d5417dd1b8
+391	448	6822491397618912	meta_types/app5-StackBarExample_json_file_list.txt	797d4cd46983f336
+391	448	6822491397618912	meta_types/app5-StackBarExample_json_file_list.txt.timestamp	797d4cd46983f336
+391	448	6822491397618912	E:/Works/Qt Course/QMLCharts/build-5-StackBarExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/app5-StackBarExample_json_file_list.txt	797d4cd46983f336
+391	448	6822491397618912	E:/Works/Qt Course/QMLCharts/build-5-StackBarExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/app5-StackBarExample_json_file_list.txt.timestamp	797d4cd46983f336
+449	507	6822491398205271	meta_types/qt6app5-stackbarexample_debug_metatypes.json.gen	63f9bdcaff2818c9
+449	507	6822491398205271	meta_types/qt6app5-stackbarexample_debug_metatypes.json	63f9bdcaff2818c9
+449	507	6822491398205271	E:/Works/Qt Course/QMLCharts/build-5-StackBarExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6app5-stackbarexample_debug_metatypes.json.gen	63f9bdcaff2818c9
+449	507	6822491398205271	E:/Works/Qt Course/QMLCharts/build-5-StackBarExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6app5-stackbarexample_debug_metatypes.json	63f9bdcaff2818c9
+24	628	6822491399383849	.qt_plugins/Qt6_QmlPlugins_Imports_app5-StackBarExample.cmake	fffbf8113baca3cb
+24	628	6822491399383849	E:/Works/Qt Course/QMLCharts/build-5-StackBarExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app5-StackBarExample.cmake	fffbf8113baca3cb
+628	677	6822491399889679	.rcc/qrc_app5-StackBarExample_raw_qml_0.cpp	deb830e9e8c43b3c
+628	677	6822491399889679	E:/Works/Qt Course/QMLCharts/build-5-StackBarExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app5-StackBarExample_raw_qml_0.cpp	deb830e9e8c43b3c
+633	679	6822491399909173	.rcc/qrc_qmake_5-StackBarExample.cpp	a922234a4880f4c9
+633	679	6822491399909173	E:/Works/Qt Course/QMLCharts/build-5-StackBarExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_qmake_5-StackBarExample.cpp	a922234a4880f4c9
+508	693	6822491399051508	app5-stackbarexample_qmltyperegistrations.cpp	a4539fcebdce3ff3
+508	693	6822491399051508	5-StackBarExample/app5-StackBarExample.qmltypes	a4539fcebdce3ff3
+508	693	6822491399051508	E:/Works/Qt Course/QMLCharts/build-5-StackBarExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app5-stackbarexample_qmltyperegistrations.cpp	a4539fcebdce3ff3
+508	693	6822491399051508	E:/Works/Qt Course/QMLCharts/build-5-StackBarExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/5-StackBarExample/app5-StackBarExample.qmltypes	a4539fcebdce3ff3
+694	873	6822491401709939	.rcc/qmlcache/app5-StackBarExample_main_qml.cpp	f2ece170f217b3a4
+694	873	6822491401709939	E:/Works/Qt Course/QMLCharts/build-5-StackBarExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app5-StackBarExample_main_qml.cpp	f2ece170f217b3a4
+882	1045	6822491403491520	CMakeFiles/app5-StackBarExample.dir/app5-StackBarExample_autogen/mocs_compilation.cpp.obj	13ed1d7512ba2f2
+886	1068	6822491403747232	CMakeFiles/app5-StackBarExample.dir/.rcc/qrc_qmake_5-StackBarExample.cpp.obj	1dff886c7efc2f11
+902	1096	6822491404094434	CMakeFiles/app5-StackBarExample.dir/.rcc/qrc_app5-StackBarExample_raw_qml_0.cpp.obj	7f4d68a7966dbcc5
+879	3647	6822491429587319	CMakeFiles/app5-StackBarExample.dir/app5-stackbarexample_qmltyperegistrations.cpp.obj	33f4bf2f66f25741
+873	4013	6822491433249061	CMakeFiles/app5-StackBarExample.dir/main.cpp.obj	cfdf22c03ab77e74
+898	4054	6822491433668961	CMakeFiles/app5-StackBarExample.dir/.rcc/qmlcache/app5-StackBarExample_main_qml.cpp.obj	9ee15cfbfb5ed668
+890	4212	6822491435203527	CMakeFiles/app5-StackBarExample.dir/.rcc/qmlcache/app5-StackBarExample_qmlcache_loader.cpp.obj	45f829eb829a05f5
+4213	4726	6822491440265800	app5-StackBarExample.exe	9259260900bbeae2

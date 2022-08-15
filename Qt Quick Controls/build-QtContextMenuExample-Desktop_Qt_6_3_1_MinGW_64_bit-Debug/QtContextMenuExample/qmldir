@@ -1,0 +1,4 @@
+module QtContextMenuExample
+typeinfo appQtContextMenuExample.qmltypes
+prefer :/QtContextMenuExample/
+

@@ -1,0 +1,4 @@
+module 2-LineCharts
+typeinfo app2-LineCharts.qmltypes
+prefer :/2-LineCharts/
+

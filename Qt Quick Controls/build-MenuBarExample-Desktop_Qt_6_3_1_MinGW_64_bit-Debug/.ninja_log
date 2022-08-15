@@ -1,0 +1,70 @@
+# ninja log v5
+9	40	6821681166067838	MenuBarExample/main.qml	c7bc418eb483de3a
+9	40	6821681166067838	E:/Works/Qt Course/Qt Quick Controls/build-MenuBarExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/MenuBarExample/main.qml	c7bc418eb483de3a
+2	45	6821681166078526	.rcc/qmlcache/appMenuBarExample_qmlcache_loader.cpp	389a9244544142e6
+2	45	6821681166078526	E:/Works/Qt Course/Qt Quick Controls/build-MenuBarExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/appMenuBarExample_qmlcache_loader.cpp	389a9244544142e6
+45	253	6821681167492856	appMenuBarExample_autogen/timestamp	1d393fd95ce27b95
+45	253	6821681167492856	appMenuBarExample_autogen/mocs_compilation.cpp	1d393fd95ce27b95
+45	253	6821681167492856	E:/Works/Qt Course/Qt Quick Controls/build-MenuBarExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/appMenuBarExample_autogen/timestamp	1d393fd95ce27b95
+45	253	6821681167492856	E:/Works/Qt Course/Qt Quick Controls/build-MenuBarExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/appMenuBarExample_autogen/mocs_compilation.cpp	1d393fd95ce27b95
+254	285	6821681168536925	meta_types/appMenuBarExample_json_file_list.txt	d806818bd35c3d8a
+254	285	6821681168536925	meta_types/appMenuBarExample_json_file_list.txt.timestamp	d806818bd35c3d8a
+254	285	6821681168536925	E:/Works/Qt Course/Qt Quick Controls/build-MenuBarExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/appMenuBarExample_json_file_list.txt	d806818bd35c3d8a
+254	285	6821681168536925	E:/Works/Qt Course/Qt Quick Controls/build-MenuBarExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/appMenuBarExample_json_file_list.txt.timestamp	d806818bd35c3d8a
+285	323	6821681168926936	meta_types/qt6appmenubarexample_debug_metatypes.json.gen	d7e93598bfa87f6a
+285	323	6821681168926936	meta_types/qt6appmenubarexample_debug_metatypes.json	d7e93598bfa87f6a
+285	323	6821681168926936	E:/Works/Qt Course/Qt Quick Controls/build-MenuBarExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6appmenubarexample_debug_metatypes.json.gen	d7e93598bfa87f6a
+285	323	6821681168926936	E:/Works/Qt Course/Qt Quick Controls/build-MenuBarExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6appmenubarexample_debug_metatypes.json	d7e93598bfa87f6a
+6	427	6821681169960652	.qt_plugins/Qt6_QmlPlugins_Imports_appMenuBarExample.cmake	ab3d0e40ba75c76e
+6	427	6821681169960652	E:/Works/Qt Course/Qt Quick Controls/build-MenuBarExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appMenuBarExample.cmake	ab3d0e40ba75c76e
+323	435	6821681169400149	appmenubarexample_qmltyperegistrations.cpp	f4160307febd527e
+323	435	6821681169400149	MenuBarExample/appMenuBarExample.qmltypes	f4160307febd527e
+323	435	6821681169400149	E:/Works/Qt Course/Qt Quick Controls/build-MenuBarExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/appmenubarexample_qmltyperegistrations.cpp	f4160307febd527e
+323	435	6821681169400149	E:/Works/Qt Course/Qt Quick Controls/build-MenuBarExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/MenuBarExample/appMenuBarExample.qmltypes	f4160307febd527e
+427	460	6821681170281201	.rcc/qrc_qmake_MenuBarExample.cpp	a4c0498d8f62a84e
+427	460	6821681170281201	E:/Works/Qt Course/Qt Quick Controls/build-MenuBarExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_qmake_MenuBarExample.cpp	a4c0498d8f62a84e
+430	463	6821681170319769	.rcc/qrc_appMenuBarExample_raw_qml_0.cpp	98ddc2844983e28a
+430	463	6821681170319769	E:/Works/Qt Course/Qt Quick Controls/build-MenuBarExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_appMenuBarExample_raw_qml_0.cpp	98ddc2844983e28a
+436	603	6821681171626050	.rcc/qmlcache/appMenuBarExample_main_qml.cpp	5d707224e128829c
+436	603	6821681171626050	E:/Works/Qt Course/Qt Quick Controls/build-MenuBarExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/appMenuBarExample_main_qml.cpp	5d707224e128829c
+609	734	6821681172856964	CMakeFiles/appMenuBarExample.dir/appMenuBarExample_autogen/mocs_compilation.cpp.obj	bfad2e343aa9b4d2
+625	751	6821681173199824	CMakeFiles/appMenuBarExample.dir/.rcc/qrc_appMenuBarExample_raw_qml_0.cpp.obj	7cf965e658ec87b6
+616	765	6821681173335381	CMakeFiles/appMenuBarExample.dir/.rcc/qrc_qmake_MenuBarExample.cpp.obj	815ac7c156ee3e9d
+606	2580	6821681191473832	CMakeFiles/appMenuBarExample.dir/appmenubarexample_qmltyperegistrations.cpp.obj	a93011efc9719e48
+603	2722	6821681192917796	CMakeFiles/appMenuBarExample.dir/main.cpp.obj	c12379da75390a33
+619	2831	6821681194000148	CMakeFiles/appMenuBarExample.dir/.rcc/qmlcache/appMenuBarExample_main_qml.cpp.obj	fd7d1cdffeff0384
+612	2981	6821681195498095	CMakeFiles/appMenuBarExample.dir/.rcc/qmlcache/appMenuBarExample_qmlcache_loader.cpp.obj	4913c7070d26c367
+2981	3190	6821681197543121	appMenuBarExample.exe	1a56f2c05d49c51a
+24	54	6821681479976362	MenuBarExample/main.qml	c7bc418eb483de3a
+24	54	6821681479976362	E:/Works/Qt Course/Qt Quick Controls/build-MenuBarExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/MenuBarExample/main.qml	c7bc418eb483de3a
+27	343	6821681482862477	.qt_plugins/Qt6_QmlPlugins_Imports_appMenuBarExample.cmake	ab3d0e40ba75c76e
+27	343	6821681482862477	E:/Works/Qt Course/Qt Quick Controls/build-MenuBarExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appMenuBarExample.cmake	ab3d0e40ba75c76e
+343	370	6821681483137430	.rcc/qrc_appMenuBarExample_raw_qml_0.cpp	98ddc2844983e28a
+343	370	6821681483137430	E:/Works/Qt Course/Qt Quick Controls/build-MenuBarExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_appMenuBarExample_raw_qml_0.cpp	98ddc2844983e28a
+346	501	6821681484385987	.rcc/qmlcache/appMenuBarExample_main_qml.cpp	5d707224e128829c
+346	501	6821681484385987	E:/Works/Qt Course/Qt Quick Controls/build-MenuBarExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/appMenuBarExample_main_qml.cpp	5d707224e128829c
+504	578	6821681485224679	CMakeFiles/appMenuBarExample.dir/.rcc/qrc_appMenuBarExample_raw_qml_0.cpp.obj	7cf965e658ec87b6
+502	2182	6821681501257000	CMakeFiles/appMenuBarExample.dir/.rcc/qmlcache/appMenuBarExample_main_qml.cpp.obj	fd7d1cdffeff0384
+2182	2390	6821681503294791	appMenuBarExample.exe	1a56f2c05d49c51a
+9	41	6821681656976459	MenuBarExample/main.qml	c7bc418eb483de3a
+9	41	6821681656976459	E:/Works/Qt Course/Qt Quick Controls/build-MenuBarExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/MenuBarExample/main.qml	c7bc418eb483de3a
+6	358	6821681660147409	.qt_plugins/Qt6_QmlPlugins_Imports_appMenuBarExample.cmake	ab3d0e40ba75c76e
+6	358	6821681660147409	E:/Works/Qt Course/Qt Quick Controls/build-MenuBarExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appMenuBarExample.cmake	ab3d0e40ba75c76e
+361	388	6821681660453142	.rcc/qrc_appMenuBarExample_raw_qml_0.cpp	98ddc2844983e28a
+361	388	6821681660453142	E:/Works/Qt Course/Qt Quick Controls/build-MenuBarExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_appMenuBarExample_raw_qml_0.cpp	98ddc2844983e28a
+358	518	6821681661683103	.rcc/qmlcache/appMenuBarExample_main_qml.cpp	5d707224e128829c
+358	518	6821681661683103	E:/Works/Qt Course/Qt Quick Controls/build-MenuBarExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/appMenuBarExample_main_qml.cpp	5d707224e128829c
+522	605	6821681662632900	CMakeFiles/appMenuBarExample.dir/.rcc/qrc_appMenuBarExample_raw_qml_0.cpp.obj	7cf965e658ec87b6
+519	2168	6821681678238396	CMakeFiles/appMenuBarExample.dir/.rcc/qmlcache/appMenuBarExample_main_qml.cpp.obj	fd7d1cdffeff0384
+2168	2406	6821681680601831	appMenuBarExample.exe	1a56f2c05d49c51a
+6	36	6821681763271610	MenuBarExample/main.qml	c7bc418eb483de3a
+6	36	6821681763271610	E:/Works/Qt Course/Qt Quick Controls/build-MenuBarExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/MenuBarExample/main.qml	c7bc418eb483de3a
+9	339	6821681766297255	.qt_plugins/Qt6_QmlPlugins_Imports_appMenuBarExample.cmake	ab3d0e40ba75c76e
+9	339	6821681766297255	E:/Works/Qt Course/Qt Quick Controls/build-MenuBarExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appMenuBarExample.cmake	ab3d0e40ba75c76e
+341	371	6821681766603095	.rcc/qrc_appMenuBarExample_raw_qml_0.cpp	98ddc2844983e28a
+341	371	6821681766603095	E:/Works/Qt Course/Qt Quick Controls/build-MenuBarExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_appMenuBarExample_raw_qml_0.cpp	98ddc2844983e28a
+339	500	6821681767819990	.rcc/qmlcache/appMenuBarExample_main_qml.cpp	5d707224e128829c
+339	500	6821681767819990	E:/Works/Qt Course/Qt Quick Controls/build-MenuBarExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/appMenuBarExample_main_qml.cpp	5d707224e128829c
+503	577	6821681768688082	CMakeFiles/appMenuBarExample.dir/.rcc/qrc_appMenuBarExample_raw_qml_0.cpp.obj	7cf965e658ec87b6
+500	2116	6821681784081205	CMakeFiles/appMenuBarExample.dir/.rcc/qmlcache/appMenuBarExample_main_qml.cpp.obj	fd7d1cdffeff0384
+2117	2336	6821681786236289	appMenuBarExample.exe	1a56f2c05d49c51a

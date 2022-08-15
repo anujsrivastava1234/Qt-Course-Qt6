@@ -1,0 +1,12 @@
+-rootPath
+E:/Works/Qt Course/QMLCharts/3-PieChartExample
+-cmake-output
+-output-file
+E:/Works/Qt Course/QMLCharts/build-3-PieChartExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app3-PieChartExample.cmake
+-importPath
+C:/Qt/6.3.1/mingw_64/./qml
+E:/Works/Qt Course/QMLCharts/build-3-PieChartExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-PieChartExample
+E:/Works/Qt Course/QMLCharts/build-3-PieChartExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug
+-qrcFiles
+E:/Works/Qt Course/QMLCharts/build-3-PieChartExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmake_3-PieChartExample.qrc
+E:/Works/Qt Course/QMLCharts/build-3-PieChartExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/app3-PieChartExample_raw_qml_0.qrc

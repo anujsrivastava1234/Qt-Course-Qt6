@@ -1,0 +1,142 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-b8b93fc41dc2eefdacb8.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "SwtichButtonExample",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-569cace900099c264585.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-9d75816c0b790bb8953c.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSwtichButtonExample::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSwtichButtonExample-Debug-298a48f253aee45ea6f9.json",
+					"name" : "appSwtichButtonExample",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSwtichButtonExample_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSwtichButtonExample_autogen-Debug-d9abd93eb475ac6bc7b2.json",
+					"name" : "appSwtichButtonExample_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSwtichButtonExample_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSwtichButtonExample_autogen_timestamp_deps-Debug-bcb72e99858276aabd54.json",
+					"name" : "appSwtichButtonExample_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSwtichButtonExample_other_files::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSwtichButtonExample_other_files-Debug-2fe48af1027b56af3287.json",
+					"name" : "appSwtichButtonExample_other_files",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSwtichButtonExample_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSwtichButtonExample_qmlimportscan-Debug-11f9a7816fddf7ec8952.json",
+					"name" : "appSwtichButtonExample_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSwtichButtonExample_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSwtichButtonExample_qmllint-Debug-ab7690c0c75e292c1662.json",
+					"name" : "appSwtichButtonExample_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSwtichButtonExample_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSwtichButtonExample_qmltyperegistration-Debug-2112d692db5abf72db89.json",
+					"name" : "appSwtichButtonExample_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSwtichButtonExample_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSwtichButtonExample_tooling-Debug-a1d4256d98c9584a9b03.json",
+					"name" : "appSwtichButtonExample_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/Works/Qt Course/Qt Quick Controls/build-SwtichButtonExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
+		"source" : "E:/Works/Qt Course/Qt Quick Controls/SwtichButtonExample"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

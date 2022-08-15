@@ -1,0 +1,81 @@
+# ninja log v5
+8	59	6821694747972965	ToolTipExample/main.qml	c2d7f0c1b261d61a
+8	59	6821694747972965	E:/Works/Qt Course/Qt Quick Controls/build-ToolTipExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/ToolTipExample/main.qml	c2d7f0c1b261d61a
+3	67	6821694748042415	.rcc/qmlcache/appToolTipExample_qmlcache_loader.cpp	cf96587412189e3c
+3	67	6821694748042415	E:/Works/Qt Course/Qt Quick Controls/build-ToolTipExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/appToolTipExample_qmlcache_loader.cpp	cf96587412189e3c
+68	366	6821694749982130	appToolTipExample_autogen/timestamp	26ec80fb9b0aeabe
+68	366	6821694749982130	appToolTipExample_autogen/mocs_compilation.cpp	26ec80fb9b0aeabe
+68	366	6821694749982130	E:/Works/Qt Course/Qt Quick Controls/build-ToolTipExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/appToolTipExample_autogen/timestamp	26ec80fb9b0aeabe
+68	366	6821694749982130	E:/Works/Qt Course/Qt Quick Controls/build-ToolTipExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/appToolTipExample_autogen/mocs_compilation.cpp	26ec80fb9b0aeabe
+366	422	6821694751632713	meta_types/appToolTipExample_json_file_list.txt	3c5769cce9fceeb2
+366	422	6821694751632713	meta_types/appToolTipExample_json_file_list.txt.timestamp	3c5769cce9fceeb2
+366	422	6821694751632713	E:/Works/Qt Course/Qt Quick Controls/build-ToolTipExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/appToolTipExample_json_file_list.txt	3c5769cce9fceeb2
+366	422	6821694751632713	E:/Works/Qt Course/Qt Quick Controls/build-ToolTipExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/appToolTipExample_json_file_list.txt.timestamp	3c5769cce9fceeb2
+422	481	6821694752221437	meta_types/qt6apptooltipexample_debug_metatypes.json.gen	42b9e1dde5c05179
+422	481	6821694752221437	meta_types/qt6apptooltipexample_debug_metatypes.json	42b9e1dde5c05179
+422	481	6821694752221437	E:/Works/Qt Course/Qt Quick Controls/build-ToolTipExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6apptooltipexample_debug_metatypes.json.gen	42b9e1dde5c05179
+422	481	6821694752221437	E:/Works/Qt Course/Qt Quick Controls/build-ToolTipExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6apptooltipexample_debug_metatypes.json	42b9e1dde5c05179
+13	567	6821694753078931	.qt_plugins/Qt6_QmlPlugins_Imports_appToolTipExample.cmake	6ef77a7fe72dfa73
+13	567	6821694753078931	E:/Works/Qt Course/Qt Quick Controls/build-ToolTipExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appToolTipExample.cmake	6ef77a7fe72dfa73
+568	617	6821694753549860	.rcc/qrc_qmake_ToolTipExample.cpp	c3d134ca481946f3
+568	617	6821694753549860	E:/Works/Qt Course/Qt Quick Controls/build-ToolTipExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_qmake_ToolTipExample.cpp	c3d134ca481946f3
+572	621	6821694753604070	.rcc/qrc_appToolTipExample_raw_qml_0.cpp	af34bb1756e7da4f
+572	621	6821694753604070	E:/Works/Qt Course/Qt Quick Controls/build-ToolTipExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_appToolTipExample_raw_qml_0.cpp	af34bb1756e7da4f
+481	662	6821694752975936	apptooltipexample_qmltyperegistrations.cpp	b5e6e16772985842
+481	662	6821694752975936	ToolTipExample/appToolTipExample.qmltypes	b5e6e16772985842
+481	662	6821694752975936	E:/Works/Qt Course/Qt Quick Controls/build-ToolTipExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/apptooltipexample_qmltyperegistrations.cpp	b5e6e16772985842
+481	662	6821694752975936	E:/Works/Qt Course/Qt Quick Controls/build-ToolTipExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/ToolTipExample/appToolTipExample.qmltypes	b5e6e16772985842
+663	983	6821694757132925	.rcc/qmlcache/appToolTipExample_main_qml.cpp	3648bd5c144f6b69
+663	983	6821694757132925	E:/Works/Qt Course/Qt Quick Controls/build-ToolTipExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/appToolTipExample_main_qml.cpp	3648bd5c144f6b69
+988	1211	6821694759446942	CMakeFiles/appToolTipExample.dir/appToolTipExample_autogen/mocs_compilation.cpp.obj	8ccc9d67146b5dfc
+1000	1226	6821694759665524	CMakeFiles/appToolTipExample.dir/.rcc/qrc_qmake_ToolTipExample.cpp.obj	36c718ad2a52c5fc
+1009	1248	6821694759883626	CMakeFiles/appToolTipExample.dir/.rcc/qrc_appToolTipExample_raw_qml_0.cpp.obj	f1a093693d563198
+993	3889	6821694786273902	CMakeFiles/appToolTipExample.dir/apptooltipexample_qmltyperegistrations.cpp.obj	52dcd996bf3fc7e3
+983	4204	6821694789443486	CMakeFiles/appToolTipExample.dir/main.cpp.obj	c6bba0b47c7527cf
+1004	4356	6821694790949430	CMakeFiles/appToolTipExample.dir/.rcc/qmlcache/appToolTipExample_main_qml.cpp.obj	512c68c4bfeff0fa
+996	4507	6821694792456310	CMakeFiles/appToolTipExample.dir/.rcc/qmlcache/appToolTipExample_qmlcache_loader.cpp.obj	f62b1e36d7c35f08
+4508	4965	6821694796937516	appToolTipExample.exe	75790226f2342bcd
+61	130	6821694990933324	ToolTipExample/main.qml	c2d7f0c1b261d61a
+61	130	6821694990933324	E:/Works/Qt Course/Qt Quick Controls/build-ToolTipExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/ToolTipExample/main.qml	c2d7f0c1b261d61a
+69	840	6821694998048522	.qt_plugins/Qt6_QmlPlugins_Imports_appToolTipExample.cmake	6ef77a7fe72dfa73
+69	840	6821694998048522	E:/Works/Qt Course/Qt Quick Controls/build-ToolTipExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appToolTipExample.cmake	6ef77a7fe72dfa73
+845	897	6821694998626225	.rcc/qrc_appToolTipExample_raw_qml_0.cpp	af34bb1756e7da4f
+845	897	6821694998626225	E:/Works/Qt Course/Qt Quick Controls/build-ToolTipExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_appToolTipExample_raw_qml_0.cpp	af34bb1756e7da4f
+841	1085	6821695000378352	.rcc/qmlcache/appToolTipExample_main_qml.cpp	3648bd5c144f6b69
+841	1085	6821695000378352	E:/Works/Qt Course/Qt Quick Controls/build-ToolTipExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/appToolTipExample_main_qml.cpp	3648bd5c144f6b69
+1091	1217	6821695001838261	CMakeFiles/appToolTipExample.dir/.rcc/qrc_appToolTipExample_raw_qml_0.cpp.obj	f1a093693d563198
+1085	4887	6821695038528111	CMakeFiles/appToolTipExample.dir/.rcc/qmlcache/appToolTipExample_main_qml.cpp.obj	512c68c4bfeff0fa
+4887	5335	6821695042910676	appToolTipExample.exe	75790226f2342bcd
+23	77	6821695444381591	ToolTipExample/main.qml	c2d7f0c1b261d61a
+23	77	6821695444381591	E:/Works/Qt Course/Qt Quick Controls/build-ToolTipExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/ToolTipExample/main.qml	c2d7f0c1b261d61a
+15	804	6821695451625639	.qt_plugins/Qt6_QmlPlugins_Imports_appToolTipExample.cmake	6ef77a7fe72dfa73
+15	804	6821695451625639	E:/Works/Qt Course/Qt Quick Controls/build-ToolTipExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appToolTipExample.cmake	6ef77a7fe72dfa73
+811	862	6821695452210210	.rcc/qrc_appToolTipExample_raw_qml_0.cpp	af34bb1756e7da4f
+811	862	6821695452210210	E:/Works/Qt Course/Qt Quick Controls/build-ToolTipExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_appToolTipExample_raw_qml_0.cpp	af34bb1756e7da4f
+804	1096	6821695454361470	.rcc/qmlcache/appToolTipExample_main_qml.cpp	3648bd5c144f6b69
+804	1096	6821695454361470	E:/Works/Qt Course/Qt Quick Controls/build-ToolTipExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/appToolTipExample_main_qml.cpp	3648bd5c144f6b69
+1101	1210	6821695455725471	CMakeFiles/appToolTipExample.dir/.rcc/qrc_appToolTipExample_raw_qml_0.cpp.obj	f1a093693d563198
+1096	4013	6821695483720347	CMakeFiles/appToolTipExample.dir/.rcc/qmlcache/appToolTipExample_main_qml.cpp.obj	512c68c4bfeff0fa
+4014	4431	6821695487841597	appToolTipExample.exe	75790226f2342bcd
+13	56	6821696369415156	ToolTipExample/main.qml	c2d7f0c1b261d61a
+13	56	6821696369415156	E:/Works/Qt Course/Qt Quick Controls/build-ToolTipExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/ToolTipExample/main.qml	c2d7f0c1b261d61a
+9	789	6821696376712788	.qt_plugins/Qt6_QmlPlugins_Imports_appToolTipExample.cmake	6ef77a7fe72dfa73
+9	789	6821696376712788	E:/Works/Qt Course/Qt Quick Controls/build-ToolTipExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appToolTipExample.cmake	6ef77a7fe72dfa73
+798	854	6821696377401452	.rcc/qrc_appToolTipExample_raw_qml_0.cpp	af34bb1756e7da4f
+798	854	6821696377401452	E:/Works/Qt Course/Qt Quick Controls/build-ToolTipExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_appToolTipExample_raw_qml_0.cpp	af34bb1756e7da4f
+789	1052	6821696379277575	.rcc/qmlcache/appToolTipExample_main_qml.cpp	3648bd5c144f6b69
+789	1052	6821696379277575	E:/Works/Qt Course/Qt Quick Controls/build-ToolTipExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/appToolTipExample_main_qml.cpp	3648bd5c144f6b69
+1057	1169	6821696380557356	CMakeFiles/appToolTipExample.dir/.rcc/qrc_appToolTipExample_raw_qml_0.cpp.obj	f1a093693d563198
+1053	4286	6821696411702914	CMakeFiles/appToolTipExample.dir/.rcc/qmlcache/appToolTipExample_main_qml.cpp.obj	512c68c4bfeff0fa
+4287	4696	6821696415719195	appToolTipExample.exe	75790226f2342bcd
+19	72	6821696508274909	ToolTipExample/main.qml	c2d7f0c1b261d61a
+19	72	6821696508274909	E:/Works/Qt Course/Qt Quick Controls/build-ToolTipExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/ToolTipExample/main.qml	c2d7f0c1b261d61a
+28	655	6821696514096524	.qt_plugins/Qt6_QmlPlugins_Imports_appToolTipExample.cmake	6ef77a7fe72dfa73
+28	655	6821696514096524	E:/Works/Qt Course/Qt Quick Controls/build-ToolTipExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appToolTipExample.cmake	6ef77a7fe72dfa73
+661	703	6821696514576043	.rcc/qrc_appToolTipExample_raw_qml_0.cpp	af34bb1756e7da4f
+661	703	6821696514576043	E:/Works/Qt Course/Qt Quick Controls/build-ToolTipExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_appToolTipExample_raw_qml_0.cpp	af34bb1756e7da4f
+655	971	6821696517100875	.rcc/qmlcache/appToolTipExample_main_qml.cpp	3648bd5c144f6b69
+655	971	6821696517100875	E:/Works/Qt Course/Qt Quick Controls/build-ToolTipExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/appToolTipExample_main_qml.cpp	3648bd5c144f6b69
+976	1087	6821696518438536	CMakeFiles/appToolTipExample.dir/.rcc/qrc_appToolTipExample_raw_qml_0.cpp.obj	f1a093693d563198
+971	4310	6821696550636887	CMakeFiles/appToolTipExample.dir/.rcc/qmlcache/appToolTipExample_main_qml.cpp.obj	512c68c4bfeff0fa
+4311	4792	6821696555422528	appToolTipExample.exe	75790226f2342bcd

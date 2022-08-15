@@ -1,0 +1,37 @@
+# ninja log v5
+5	38	6821675198249753	PopupMenuExample/main.qml	85c3132b9a63f2b
+5	38	6821675198249753	E:/Works/Qt Course/Qt Quick Controls/build-PopupMenuExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/PopupMenuExample/main.qml	85c3132b9a63f2b
+2	44	6821675198280672	.rcc/qmlcache/appPopupMenuExample_qmlcache_loader.cpp	64bd853929b8bc27
+2	44	6821675198280672	E:/Works/Qt Course/Qt Quick Controls/build-PopupMenuExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/appPopupMenuExample_qmlcache_loader.cpp	64bd853929b8bc27
+44	250	6821675199669022	appPopupMenuExample_autogen/timestamp	989d6dd2d6f99847
+44	250	6821675199669022	appPopupMenuExample_autogen/mocs_compilation.cpp	989d6dd2d6f99847
+44	250	6821675199669022	E:/Works/Qt Course/Qt Quick Controls/build-PopupMenuExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/appPopupMenuExample_autogen/timestamp	989d6dd2d6f99847
+44	250	6821675199669022	E:/Works/Qt Course/Qt Quick Controls/build-PopupMenuExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/appPopupMenuExample_autogen/mocs_compilation.cpp	989d6dd2d6f99847
+250	280	6821675200683309	meta_types/appPopupMenuExample_json_file_list.txt	d32ef0cfafc453f6
+250	280	6821675200683309	meta_types/appPopupMenuExample_json_file_list.txt.timestamp	d32ef0cfafc453f6
+250	280	6821675200683309	E:/Works/Qt Course/Qt Quick Controls/build-PopupMenuExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/appPopupMenuExample_json_file_list.txt	d32ef0cfafc453f6
+250	280	6821675200683309	E:/Works/Qt Course/Qt Quick Controls/build-PopupMenuExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/appPopupMenuExample_json_file_list.txt.timestamp	d32ef0cfafc453f6
+280	319	6821675201071734	meta_types/qt6apppopupmenuexample_debug_metatypes.json.gen	fa44a11aec54eec6
+280	319	6821675201071734	meta_types/qt6apppopupmenuexample_debug_metatypes.json	fa44a11aec54eec6
+280	319	6821675201071734	E:/Works/Qt Course/Qt Quick Controls/build-PopupMenuExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6apppopupmenuexample_debug_metatypes.json.gen	fa44a11aec54eec6
+280	319	6821675201071734	E:/Works/Qt Course/Qt Quick Controls/build-PopupMenuExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6apppopupmenuexample_debug_metatypes.json	fa44a11aec54eec6
+8	400	6821675201859041	.qt_plugins/Qt6_QmlPlugins_Imports_appPopupMenuExample.cmake	5aeadaab882dcf0f
+8	400	6821675201859041	E:/Works/Qt Course/Qt Quick Controls/build-PopupMenuExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appPopupMenuExample.cmake	5aeadaab882dcf0f
+403	432	6821675202187353	.rcc/qrc_appPopupMenuExample_raw_qml_0.cpp	3bc5723eecd81c26
+403	432	6821675202187353	E:/Works/Qt Course/Qt Quick Controls/build-PopupMenuExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_appPopupMenuExample_raw_qml_0.cpp	3bc5723eecd81c26
+400	432	6821675202176899	.rcc/qrc_qmake_PopupMenuExample.cpp	fab1ffd5fec32708
+400	432	6821675202176899	E:/Works/Qt Course/Qt Quick Controls/build-PopupMenuExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_qmake_PopupMenuExample.cpp	fab1ffd5fec32708
+319	443	6821675201636199	apppopupmenuexample_qmltyperegistrations.cpp	1ef4a2932fa6d2d7
+319	443	6821675201636199	PopupMenuExample/appPopupMenuExample.qmltypes	1ef4a2932fa6d2d7
+319	443	6821675201636199	E:/Works/Qt Course/Qt Quick Controls/build-PopupMenuExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/apppopupmenuexample_qmltyperegistrations.cpp	1ef4a2932fa6d2d7
+319	443	6821675201636199	E:/Works/Qt Course/Qt Quick Controls/build-PopupMenuExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/PopupMenuExample/appPopupMenuExample.qmltypes	1ef4a2932fa6d2d7
+443	594	6821675203750101	.rcc/qmlcache/appPopupMenuExample_main_qml.cpp	f1aabd03099cfd0e
+443	594	6821675203750101	E:/Works/Qt Course/Qt Quick Controls/build-PopupMenuExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/appPopupMenuExample_main_qml.cpp	f1aabd03099cfd0e
+612	711	6821675204929717	CMakeFiles/appPopupMenuExample.dir/.rcc/qrc_appPopupMenuExample_raw_qml_0.cpp.obj	6929d3d914061e60
+599	729	6821675205157179	CMakeFiles/appPopupMenuExample.dir/appPopupMenuExample_autogen/mocs_compilation.cpp.obj	53b6047d1d744e11
+609	739	6821675205233845	CMakeFiles/appPopupMenuExample.dir/.rcc/qrc_qmake_PopupMenuExample.cpp.obj	ab47a056e50fd09a
+597	2600	6821675223867736	CMakeFiles/appPopupMenuExample.dir/apppopupmenuexample_qmltyperegistrations.cpp.obj	ffc2292a1f9c5648
+594	2795	6821675225825962	CMakeFiles/appPopupMenuExample.dir/main.cpp.obj	1ef1bfa93b8eb08b
+602	2912	6821675227003628	CMakeFiles/appPopupMenuExample.dir/.rcc/qmlcache/appPopupMenuExample_main_qml.cpp.obj	f79fe75a8dd599ed
+605	3174	6821675229613905	CMakeFiles/appPopupMenuExample.dir/.rcc/qmlcache/appPopupMenuExample_qmlcache_loader.cpp.obj	7104cfe905572cdd
+3174	3378	6821675231623833	appPopupMenuExample.exe	a6066121bff0e3a4

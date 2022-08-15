@@ -1,0 +1,4 @@
+module ScrollViewExample
+typeinfo appScrollViewExample.qmltypes
+prefer :/ScrollViewExample/
+

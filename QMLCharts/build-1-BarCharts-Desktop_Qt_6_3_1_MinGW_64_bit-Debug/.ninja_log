@@ -1,0 +1,66 @@
+# ninja log v5
+5	1097	6822465891047496	build.ninja	c607972237e66bf2
+6	54	6822463803505502	.rcc/qmlcache/app1-BarCharts_qmlcache_loader.cpp	f26cb653e7a930b6
+703	836	6822463811343702	CMakeFiles/app1-BarCharts.dir/app1-BarCharts_autogen/mocs_compilation.cpp.obj	2fc26988697d4ee5
+6	54	6822463803505502	E:/Works/Qt Course/QMLCharts/build-1-BarCharts-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app1-BarCharts_qmlcache_loader.cpp	f26cb653e7a930b6
+2	60	6822463803582204	1-BarCharts/main.qml	88e54e7ee700ba65
+2	60	6822463803582204	E:/Works/Qt Course/QMLCharts/build-1-BarCharts-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/1-BarCharts/main.qml	88e54e7ee700ba65
+54	260	6822463804945547	app1-BarCharts_autogen/timestamp	c0146a63098a7b25
+54	260	6822463804945547	app1-BarCharts_autogen/mocs_compilation.cpp	c0146a63098a7b25
+455	498	6822463807965294	E:/Works/Qt Course/QMLCharts/build-1-BarCharts-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app1-BarCharts_raw_qml_0.cpp	3838f20130e212f3
+692	850	6822463811481940	CMakeFiles/app1-BarCharts.dir/.rcc/qrc_app1-BarCharts_raw_qml_0.cpp.obj	a9220d7b20662b08
+54	260	6822463804945547	E:/Works/Qt Course/QMLCharts/build-1-BarCharts-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app1-BarCharts_autogen/timestamp	c0146a63098a7b25
+54	260	6822463804945547	E:/Works/Qt Course/QMLCharts/build-1-BarCharts-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app1-BarCharts_autogen/mocs_compilation.cpp	c0146a63098a7b25
+260	322	6822463806230887	meta_types/app1-BarCharts_json_file_list.txt	7fb15185ca542ad4
+260	322	6822463806230887	meta_types/app1-BarCharts_json_file_list.txt.timestamp	7fb15185ca542ad4
+9	455	6822463807545859	E:/Works/Qt Course/QMLCharts/build-1-BarCharts-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app1-BarCharts.cmake	7761b2631dd2615c
+260	322	6822463806230887	E:/Works/Qt Course/QMLCharts/build-1-BarCharts-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/app1-BarCharts_json_file_list.txt	7fb15185ca542ad4
+260	322	6822463806230887	E:/Works/Qt Course/QMLCharts/build-1-BarCharts-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/app1-BarCharts_json_file_list.txt.timestamp	7fb15185ca542ad4
+322	368	6822463806669214	meta_types/qt6app1-barcharts_debug_metatypes.json.gen	672f81772e6669f0
+698	3692	6822463839709771	CMakeFiles/app1-BarCharts.dir/app1-barcharts_qmltyperegistrations.cpp.obj	fb891238231871df
+322	368	6822463806669214	meta_types/qt6app1-barcharts_debug_metatypes.json	672f81772e6669f0
+322	368	6822463806669214	E:/Works/Qt Course/QMLCharts/build-1-BarCharts-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6app1-barcharts_debug_metatypes.json.gen	672f81772e6669f0
+322	368	6822463806669214	E:/Works/Qt Course/QMLCharts/build-1-BarCharts-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6app1-barcharts_debug_metatypes.json	672f81772e6669f0
+9	455	6822463807545859	.qt_plugins/Qt6_QmlPlugins_Imports_app1-BarCharts.cmake	7761b2631dd2615c
+458	492	6822463807913206	.rcc/qrc_qmake_1-BarCharts.cpp	21aa9839b5ed4da7
+458	492	6822463807913206	E:/Works/Qt Course/QMLCharts/build-1-BarCharts-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_qmake_1-BarCharts.cpp	21aa9839b5ed4da7
+368	537	6822463807606249	E:/Works/Qt Course/QMLCharts/build-1-BarCharts-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app1-barcharts_qmltyperegistrations.cpp	51d1e2c44e7cc69e
+708	852	6822463811507362	CMakeFiles/app1-BarCharts.dir/.rcc/qrc_qmake_1-BarCharts.cpp.obj	f2d3ef94b52ad46d
+455	498	6822463807965294	.rcc/qrc_app1-BarCharts_raw_qml_0.cpp	3838f20130e212f3
+368	537	6822463807606249	app1-barcharts_qmltyperegistrations.cpp	51d1e2c44e7cc69e
+368	537	6822463807606249	1-BarCharts/app1-BarCharts.qmltypes	51d1e2c44e7cc69e
+368	537	6822463807606249	E:/Works/Qt Course/QMLCharts/build-1-BarCharts-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/1-BarCharts/app1-BarCharts.qmltypes	51d1e2c44e7cc69e
+538	689	6822463809832811	.rcc/qmlcache/app1-BarCharts_main_qml.cpp	f82e17e5995bfd92
+538	689	6822463809832811	E:/Works/Qt Course/QMLCharts/build-1-BarCharts-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app1-BarCharts_main_qml.cpp	f82e17e5995bfd92
+689	4136	6822463844302997	CMakeFiles/app1-BarCharts.dir/.rcc/qmlcache/app1-BarCharts_main_qml.cpp.obj	c8e643de180ead0
+706	4206	6822463845026797	CMakeFiles/app1-BarCharts.dir/main.cpp.obj	131fd91b31d09dd3
+695	4369	6822463846673064	CMakeFiles/app1-BarCharts.dir/.rcc/qmlcache/app1-BarCharts_qmlcache_loader.cpp.obj	c2e0b4f89d029d7b
+4371	4772	6822463850635900	app1-BarCharts.exe	1282f27de0cebc7d
+12	49	6822466555138981	1-BarCharts/main.qml	88e54e7ee700ba65
+12	49	6822466555138981	E:/Works/Qt Course/QMLCharts/build-1-BarCharts-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/1-BarCharts/main.qml	88e54e7ee700ba65
+5	236	6822466557007014	app1-BarCharts_autogen/timestamp	c0146a63098a7b25
+5	236	6822466557007014	app1-BarCharts_autogen/mocs_compilation.cpp	c0146a63098a7b25
+5	236	6822466557007014	E:/Works/Qt Course/QMLCharts/build-1-BarCharts-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app1-BarCharts_autogen/timestamp	c0146a63098a7b25
+5	236	6822466557007014	E:/Works/Qt Course/QMLCharts/build-1-BarCharts-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app1-BarCharts_autogen/mocs_compilation.cpp	c0146a63098a7b25
+236	263	6822466556222537	meta_types/app1-BarCharts_json_file_list.txt	7fb15185ca542ad4
+236	263	6822466556222537	meta_types/app1-BarCharts_json_file_list.txt.timestamp	7fb15185ca542ad4
+236	263	6822466556222537	E:/Works/Qt Course/QMLCharts/build-1-BarCharts-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/app1-BarCharts_json_file_list.txt	7fb15185ca542ad4
+236	263	6822466556222537	E:/Works/Qt Course/QMLCharts/build-1-BarCharts-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/app1-BarCharts_json_file_list.txt.timestamp	7fb15185ca542ad4
+264	383	6822466557945642	app1-barcharts_qmltyperegistrations.cpp	51d1e2c44e7cc69e
+264	383	6822466557945642	1-BarCharts/app1-BarCharts.qmltypes	51d1e2c44e7cc69e
+264	383	6822466557945642	E:/Works/Qt Course/QMLCharts/build-1-BarCharts-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app1-barcharts_qmltyperegistrations.cpp	51d1e2c44e7cc69e
+264	383	6822466557945642	E:/Works/Qt Course/QMLCharts/build-1-BarCharts-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/1-BarCharts/app1-BarCharts.qmltypes	51d1e2c44e7cc69e
+9	406	6822466558720226	.qt_plugins/Qt6_QmlPlugins_Imports_app1-BarCharts.cmake	7761b2631dd2615c
+9	406	6822466558720226	E:/Works/Qt Course/QMLCharts/build-1-BarCharts-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app1-BarCharts.cmake	7761b2631dd2615c
+406	435	6822466559014199	.rcc/qrc_app1-BarCharts_raw_qml_0.cpp	3838f20130e212f3
+406	435	6822466559014199	E:/Works/Qt Course/QMLCharts/build-1-BarCharts-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app1-BarCharts_raw_qml_0.cpp	3838f20130e212f3
+409	561	6822466560168684	.rcc/qmlcache/app1-BarCharts_main_qml.cpp	f82e17e5995bfd92
+409	561	6822466560168684	E:/Works/Qt Course/QMLCharts/build-1-BarCharts-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app1-BarCharts_main_qml.cpp	f82e17e5995bfd92
+563	656	6822466561208280	CMakeFiles/app1-BarCharts.dir/app1-BarCharts_autogen/mocs_compilation.cpp.obj	2fc26988697d4ee5
+578	674	6822466561346720	CMakeFiles/app1-BarCharts.dir/.rcc/qrc_app1-BarCharts_raw_qml_0.cpp.obj	a9220d7b20662b08
+571	687	6822466561512140	CMakeFiles/app1-BarCharts.dir/.rcc/qrc_qmake_1-BarCharts.cpp.obj	f2d3ef94b52ad46d
+561	2535	6822466579996277	CMakeFiles/app1-BarCharts.dir/app1-barcharts_qmltyperegistrations.cpp.obj	fb891238231871df
+567	2717	6822466581816726	CMakeFiles/app1-BarCharts.dir/main.cpp.obj	131fd91b31d09dd3
+574	2824	6822466582887398	CMakeFiles/app1-BarCharts.dir/.rcc/qmlcache/app1-BarCharts_main_qml.cpp.obj	c8e643de180ead0
+569	2910	6822466583748537	CMakeFiles/app1-BarCharts.dir/.rcc/qmlcache/app1-BarCharts_qmlcache_loader.cpp.obj	c2e0b4f89d029d7b
+2910	3134	6822466585948408	app1-BarCharts.exe	1282f27de0cebc7d

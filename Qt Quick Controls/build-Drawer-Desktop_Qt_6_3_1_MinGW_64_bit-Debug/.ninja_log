@@ -35,3 +35,14 @@
 507	2396	6821032152965324	CMakeFiles/appDrawer.dir/appdrawer_qmltyperegistrations.cpp.obj	1da39d9d9179fb82
 480	2082	6821043936827255	CMakeFiles/appDrawer.dir/.rcc/qmlcache/appDrawer_main_qml.cpp.obj	10173a526ac7828a
 516	2824	6821032157243211	CMakeFiles/appDrawer.dir/.rcc/qmlcache/appDrawer_qmlcache_loader.cpp.obj	ab2530f59c07ddad
+26	59	6821085010410921	Drawer/main.qml	cdcd6b56e927b91b
+26	59	6821085010410921	E:/Works/Qt Course/Qt Quick Controls/build-Drawer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/Drawer/main.qml	cdcd6b56e927b91b
+24	3713	6821085046969244	.qt_plugins/Qt6_QmlPlugins_Imports_appDrawer.cmake	bed3c24e735087dd
+24	3713	6821085046969244	E:/Works/Qt Course/Qt Quick Controls/build-Drawer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appDrawer.cmake	bed3c24e735087dd
+3713	3762	6821085047475950	.rcc/qrc_appDrawer_raw_qml_0.cpp	ac65a43498b09131
+3713	3762	6821085047475950	E:/Works/Qt Course/Qt Quick Controls/build-Drawer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_appDrawer_raw_qml_0.cpp	ac65a43498b09131
+3716	4215	6821085051937071	.rcc/qmlcache/appDrawer_main_qml.cpp	a04f17dadc89f909
+3716	4215	6821085051937071	E:/Works/Qt Course/Qt Quick Controls/build-Drawer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/appDrawer_main_qml.cpp	a04f17dadc89f909
+4216	5104	6821085060888374	CMakeFiles/appDrawer.dir/.rcc/qrc_appDrawer_raw_qml_0.cpp.obj	25dbc2e974ff2fbd
+4238	9330	6821085103141961	CMakeFiles/appDrawer.dir/.rcc/qmlcache/appDrawer_main_qml.cpp.obj	10173a526ac7828a
+9330	10083	6821085110625478	appDrawer.exe	63f8572d68934506

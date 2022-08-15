@@ -22,7 +22,7 @@ Window {
         }
 
         Label{
-            text: "Welocome to Qt6 Creator"
+            text: "Welcome to Qt6 Creator"
             anchors.centerIn:parent
             font.pixelSize: 20
 

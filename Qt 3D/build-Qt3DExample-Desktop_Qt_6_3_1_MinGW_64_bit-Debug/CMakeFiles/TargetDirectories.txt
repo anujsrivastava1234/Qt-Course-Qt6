@@ -1,0 +1,16 @@
+E:/Works/Qt Course/Qt 3D/build-Qt3DExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/appQt3DExample.dir
+E:/Works/Qt Course/Qt 3D/build-Qt3DExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/appQt3DExample_qmltyperegistration.dir
+E:/Works/Qt Course/Qt 3D/build-Qt3DExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/all_qmltyperegistrations.dir
+E:/Works/Qt Course/Qt 3D/build-Qt3DExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/appQt3DExample_other_files.dir
+E:/Works/Qt Course/Qt 3D/build-Qt3DExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/appQt3DExample_qmllint.dir
+E:/Works/Qt Course/Qt 3D/build-Qt3DExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/all_qmllint.dir
+E:/Works/Qt Course/Qt 3D/build-Qt3DExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/appQt3DExample_tooling.dir
+E:/Works/Qt Course/Qt 3D/build-Qt3DExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/appQt3DExample_qmlimportscan.dir
+E:/Works/Qt Course/Qt 3D/build-Qt3DExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+E:/Works/Qt Course/Qt 3D/build-Qt3DExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+E:/Works/Qt Course/Qt 3D/build-Qt3DExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+E:/Works/Qt Course/Qt 3D/build-Qt3DExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/install.dir
+E:/Works/Qt Course/Qt 3D/build-Qt3DExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+E:/Works/Qt Course/Qt 3D/build-Qt3DExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+E:/Works/Qt Course/Qt 3D/build-Qt3DExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/appQt3DExample_autogen_timestamp_deps.dir
+E:/Works/Qt Course/Qt 3D/build-Qt3DExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/appQt3DExample_autogen.dir

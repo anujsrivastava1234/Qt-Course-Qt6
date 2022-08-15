@@ -1,0 +1,4 @@
+module Qt3DExample
+typeinfo appQt3DExample.qmltypes
+prefer :/Qt3DExample/
+

@@ -1,0 +1,12 @@
+-rootPath
+E:/Works/Qt Course/Qt Quick Controls/ToolTipExample
+-cmake-output
+-output-file
+E:/Works/Qt Course/Qt Quick Controls/build-ToolTipExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appToolTipExample.cmake
+-importPath
+C:/Qt/6.3.1/mingw_64/./qml
+E:/Works/Qt Course/Qt Quick Controls/build-ToolTipExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/ToolTipExample
+E:/Works/Qt Course/Qt Quick Controls/build-ToolTipExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug
+-qrcFiles
+E:/Works/Qt Course/Qt Quick Controls/build-ToolTipExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmake_ToolTipExample.qrc
+E:/Works/Qt Course/Qt Quick Controls/build-ToolTipExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/appToolTipExample_raw_qml_0.qrc

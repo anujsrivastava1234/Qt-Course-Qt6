@@ -1,0 +1,37 @@
+# ninja log v5
+9	63	6821509964832308	SwipeViewExample/main.qml	384b57b1a3413f16
+9	63	6821509964832308	E:/Works/Qt Course/Qt Quick Controls/build-SwipeViewExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/SwipeViewExample/main.qml	384b57b1a3413f16
+3	124	6821509965412689	.rcc/qmlcache/appSwipeViewExample_qmlcache_loader.cpp	6e4922f4b365d0b8
+3	124	6821509965412689	E:/Works/Qt Course/Qt Quick Controls/build-SwipeViewExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/appSwipeViewExample_qmlcache_loader.cpp	6e4922f4b365d0b8
+125	597	6821509968729547	appSwipeViewExample_autogen/timestamp	fc19dc22faf9d1d
+125	597	6821509968729547	appSwipeViewExample_autogen/mocs_compilation.cpp	fc19dc22faf9d1d
+125	597	6821509968729547	E:/Works/Qt Course/Qt Quick Controls/build-SwipeViewExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/appSwipeViewExample_autogen/timestamp	fc19dc22faf9d1d
+125	597	6821509968729547	E:/Works/Qt Course/Qt Quick Controls/build-SwipeViewExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/appSwipeViewExample_autogen/mocs_compilation.cpp	fc19dc22faf9d1d
+598	723	6821509971429377	meta_types/appSwipeViewExample_json_file_list.txt	c9542800abe7e23d
+598	723	6821509971429377	meta_types/appSwipeViewExample_json_file_list.txt.timestamp	c9542800abe7e23d
+598	723	6821509971429377	E:/Works/Qt Course/Qt Quick Controls/build-SwipeViewExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/appSwipeViewExample_json_file_list.txt	c9542800abe7e23d
+598	723	6821509971429377	E:/Works/Qt Course/Qt Quick Controls/build-SwipeViewExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/appSwipeViewExample_json_file_list.txt.timestamp	c9542800abe7e23d
+723	853	6821509972725539	meta_types/qt6appswipeviewexample_debug_metatypes.json.gen	280f8e6009a22c0c
+723	853	6821509972725539	meta_types/qt6appswipeviewexample_debug_metatypes.json	280f8e6009a22c0c
+723	853	6821509972725539	E:/Works/Qt Course/Qt Quick Controls/build-SwipeViewExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6appswipeviewexample_debug_metatypes.json.gen	280f8e6009a22c0c
+723	853	6821509972725539	E:/Works/Qt Course/Qt Quick Controls/build-SwipeViewExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6appswipeviewexample_debug_metatypes.json	280f8e6009a22c0c
+14	1019	6821509974359843	.qt_plugins/Qt6_QmlPlugins_Imports_appSwipeViewExample.cmake	3d09e1390dbbd892
+14	1019	6821509974359843	E:/Works/Qt Course/Qt Quick Controls/build-SwipeViewExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appSwipeViewExample.cmake	3d09e1390dbbd892
+1019	1141	6821509975597268	.rcc/qrc_qmake_SwipeViewExample.cpp	c409a64543fe9aaa
+1019	1141	6821509975597268	E:/Works/Qt Course/Qt Quick Controls/build-SwipeViewExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_qmake_SwipeViewExample.cpp	c409a64543fe9aaa
+1025	1142	6821509975597268	.rcc/qrc_appSwipeViewExample_raw_qml_0.cpp	979b68fe82215f18
+1025	1142	6821509975597268	E:/Works/Qt Course/Qt Quick Controls/build-SwipeViewExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_appSwipeViewExample_raw_qml_0.cpp	979b68fe82215f18
+854	1154	6821509974401722	appswipeviewexample_qmltyperegistrations.cpp	5c60b38fb419df3d
+854	1154	6821509974401722	SwipeViewExample/appSwipeViewExample.qmltypes	5c60b38fb419df3d
+854	1154	6821509974401722	E:/Works/Qt Course/Qt Quick Controls/build-SwipeViewExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/appswipeviewexample_qmltyperegistrations.cpp	5c60b38fb419df3d
+854	1154	6821509974401722	E:/Works/Qt Course/Qt Quick Controls/build-SwipeViewExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/SwipeViewExample/appSwipeViewExample.qmltypes	5c60b38fb419df3d
+1155	1511	6821509979213720	.rcc/qmlcache/appSwipeViewExample_main_qml.cpp	7f01db92391f688
+1155	1511	6821509979213720	E:/Works/Qt Course/Qt Quick Controls/build-SwipeViewExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/appSwipeViewExample_main_qml.cpp	7f01db92391f688
+1540	2219	6821509986316617	CMakeFiles/appSwipeViewExample.dir/.rcc/qrc_appSwipeViewExample_raw_qml_0.cpp.obj	fd11c0a15c8fb023
+1520	2225	6821509986281566	CMakeFiles/appSwipeViewExample.dir/appSwipeViewExample_autogen/mocs_compilation.cpp.obj	8b49f19deac08906
+1533	2284	6821509987018079	CMakeFiles/appSwipeViewExample.dir/.rcc/qrc_qmake_SwipeViewExample.cpp.obj	cfc791ac2a5c45eb
+1516	5799	6821510022171153	CMakeFiles/appSwipeViewExample.dir/appswipeviewexample_qmltyperegistrations.cpp.obj	f13cbbaafcffe4d9
+1511	6262	6821510026784625	CMakeFiles/appSwipeViewExample.dir/main.cpp.obj	250e888e146ec9b0
+1524	6634	6821510030501191	CMakeFiles/appSwipeViewExample.dir/.rcc/qmlcache/appSwipeViewExample_main_qml.cpp.obj	305e34ffa2474053
+1529	7450	6821510038681042	CMakeFiles/appSwipeViewExample.dir/.rcc/qmlcache/appSwipeViewExample_qmlcache_loader.cpp.obj	175577c537210eb9
+7451	8272	6821510046846189	appSwipeViewExample.exe	8614f6dbd6c0898e

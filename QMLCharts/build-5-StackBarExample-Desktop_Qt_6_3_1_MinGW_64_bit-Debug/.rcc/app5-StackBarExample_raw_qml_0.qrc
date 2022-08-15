@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/5-StackBarExample/">
+    <file alias="main.qml">E:/Works/Qt Course/QMLCharts/5-StackBarExample/main.qml</file>
+  </qresource>
+</RCC>
+

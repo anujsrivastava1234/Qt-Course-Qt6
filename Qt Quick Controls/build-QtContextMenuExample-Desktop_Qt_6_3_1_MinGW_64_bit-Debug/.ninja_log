@@ -1,0 +1,59 @@
+# ninja log v5
+3	65	6821670715988636	.rcc/qmlcache/appQtContextMenuExample_qmlcache_loader.cpp	1e8bddc7d1364e06
+3	65	6821670715988636	E:/Works/Qt Course/Qt Quick Controls/build-QtContextMenuExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/appQtContextMenuExample_qmlcache_loader.cpp	1e8bddc7d1364e06
+16	71	6821670716012703	QtContextMenuExample/main.qml	9b7dc153a36b5d1c
+16	71	6821670716012703	E:/Works/Qt Course/Qt Quick Controls/build-QtContextMenuExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/QtContextMenuExample/main.qml	9b7dc153a36b5d1c
+66	354	6821670717844240	appQtContextMenuExample_autogen/timestamp	d2eb0f1304eb6ddf
+66	354	6821670717844240	appQtContextMenuExample_autogen/mocs_compilation.cpp	d2eb0f1304eb6ddf
+66	354	6821670717844240	E:/Works/Qt Course/Qt Quick Controls/build-QtContextMenuExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/appQtContextMenuExample_autogen/timestamp	d2eb0f1304eb6ddf
+66	354	6821670717844240	E:/Works/Qt Course/Qt Quick Controls/build-QtContextMenuExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/appQtContextMenuExample_autogen/mocs_compilation.cpp	d2eb0f1304eb6ddf
+354	405	6821670719429978	meta_types/appQtContextMenuExample_json_file_list.txt	c522d0c7c00b32d3
+354	405	6821670719429978	meta_types/appQtContextMenuExample_json_file_list.txt.timestamp	c522d0c7c00b32d3
+354	405	6821670719429978	E:/Works/Qt Course/Qt Quick Controls/build-QtContextMenuExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/appQtContextMenuExample_json_file_list.txt	c522d0c7c00b32d3
+354	405	6821670719429978	E:/Works/Qt Course/Qt Quick Controls/build-QtContextMenuExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/appQtContextMenuExample_json_file_list.txt.timestamp	c522d0c7c00b32d3
+406	467	6821670720042243	meta_types/qt6appqtcontextmenuexample_debug_metatypes.json.gen	e396d0e416c005ba
+406	467	6821670720042243	meta_types/qt6appqtcontextmenuexample_debug_metatypes.json	e396d0e416c005ba
+406	467	6821670720042243	E:/Works/Qt Course/Qt Quick Controls/build-QtContextMenuExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6appqtcontextmenuexample_debug_metatypes.json.gen	e396d0e416c005ba
+406	467	6821670720042243	E:/Works/Qt Course/Qt Quick Controls/build-QtContextMenuExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6appqtcontextmenuexample_debug_metatypes.json	e396d0e416c005ba
+10	569	6821670721040277	.qt_plugins/Qt6_QmlPlugins_Imports_appQtContextMenuExample.cmake	98de4623589270b5
+10	569	6821670721040277	E:/Works/Qt Course/Qt Quick Controls/build-QtContextMenuExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appQtContextMenuExample.cmake	98de4623589270b5
+569	611	6821670721470996	.rcc/qrc_qmake_QtContextMenuExample.cpp	2d9a3497f26b46f4
+569	611	6821670721470996	E:/Works/Qt Course/Qt Quick Controls/build-QtContextMenuExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_qmake_QtContextMenuExample.cpp	2d9a3497f26b46f4
+574	617	6821670721513314	.rcc/qrc_appQtContextMenuExample_raw_qml_0.cpp	462d69ff99e77f9b
+574	617	6821670721513314	E:/Works/Qt Course/Qt Quick Controls/build-QtContextMenuExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_appQtContextMenuExample_raw_qml_0.cpp	462d69ff99e77f9b
+468	639	6821670720762189	appqtcontextmenuexample_qmltyperegistrations.cpp	68ee457f997b6fa7
+468	639	6821670720762189	QtContextMenuExample/appQtContextMenuExample.qmltypes	68ee457f997b6fa7
+468	639	6821670720762189	E:/Works/Qt Course/Qt Quick Controls/build-QtContextMenuExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/appqtcontextmenuexample_qmltyperegistrations.cpp	68ee457f997b6fa7
+468	639	6821670720762189	E:/Works/Qt Course/Qt Quick Controls/build-QtContextMenuExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/QtContextMenuExample/appQtContextMenuExample.qmltypes	68ee457f997b6fa7
+640	922	6821670724443534	.rcc/qmlcache/appQtContextMenuExample_main_qml.cpp	2f49ce737963eec9
+640	922	6821670724443534	E:/Works/Qt Course/Qt Quick Controls/build-QtContextMenuExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/appQtContextMenuExample_main_qml.cpp	2f49ce737963eec9
+927	1087	6821670726169291	CMakeFiles/appQtContextMenuExample.dir/appQtContextMenuExample_autogen/mocs_compilation.cpp.obj	576c6f56a572f90
+956	1156	6821670726855018	CMakeFiles/appQtContextMenuExample.dir/.rcc/qrc_appQtContextMenuExample_raw_qml_0.cpp.obj	d65460caa66a7c3
+943	1182	6821670727174389	CMakeFiles/appQtContextMenuExample.dir/.rcc/qrc_qmake_QtContextMenuExample.cpp.obj	3fa2cfbaf387b6a2
+935	3593	6821670751300305	CMakeFiles/appQtContextMenuExample.dir/appqtcontextmenuexample_qmltyperegistrations.cpp.obj	97a83f3f05fde7ce
+932	3786	6821670753219000	CMakeFiles/appQtContextMenuExample.dir/main.cpp.obj	34b13d15d66d5288
+922	3892	6821670754290740	CMakeFiles/appQtContextMenuExample.dir/.rcc/qmlcache/appQtContextMenuExample_main_qml.cpp.obj	4a72d887ff9fbbd5
+939	4389	6821670759245280	CMakeFiles/appQtContextMenuExample.dir/.rcc/qmlcache/appQtContextMenuExample_qmlcache_loader.cpp.obj	5f2682e67d8751f9
+4390	4793	6821670763238857	appQtContextMenuExample.exe	1b45be22e7637487
+48	115	6821670813960769	QtContextMenuExample/main.qml	9b7dc153a36b5d1c
+48	115	6821670813960769	E:/Works/Qt Course/Qt Quick Controls/build-QtContextMenuExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/QtContextMenuExample/main.qml	9b7dc153a36b5d1c
+57	757	6821670820374860	.qt_plugins/Qt6_QmlPlugins_Imports_appQtContextMenuExample.cmake	98de4623589270b5
+57	757	6821670820374860	E:/Works/Qt Course/Qt Quick Controls/build-QtContextMenuExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appQtContextMenuExample.cmake	98de4623589270b5
+757	804	6821670820843627	.rcc/qrc_appQtContextMenuExample_raw_qml_0.cpp	462d69ff99e77f9b
+757	804	6821670820843627	E:/Works/Qt Course/Qt Quick Controls/build-QtContextMenuExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_appQtContextMenuExample_raw_qml_0.cpp	462d69ff99e77f9b
+760	1011	6821670822868289	.rcc/qmlcache/appQtContextMenuExample_main_qml.cpp	2f49ce737963eec9
+760	1011	6821670822868289	E:/Works/Qt Course/Qt Quick Controls/build-QtContextMenuExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/appQtContextMenuExample_main_qml.cpp	2f49ce737963eec9
+1015	1137	6821670824196618	CMakeFiles/appQtContextMenuExample.dir/.rcc/qrc_appQtContextMenuExample_raw_qml_0.cpp.obj	d65460caa66a7c3
+1012	3566	6821670848455579	CMakeFiles/appQtContextMenuExample.dir/.rcc/qmlcache/appQtContextMenuExample_main_qml.cpp.obj	4a72d887ff9fbbd5
+3567	4058	6821670853331183	appQtContextMenuExample.exe	1b45be22e7637487
+30	101	6821671013254028	QtContextMenuExample/main.qml	9b7dc153a36b5d1c
+30	101	6821671013254028	E:/Works/Qt Course/Qt Quick Controls/build-QtContextMenuExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/QtContextMenuExample/main.qml	9b7dc153a36b5d1c
+22	773	6821671020002328	.qt_plugins/Qt6_QmlPlugins_Imports_appQtContextMenuExample.cmake	98de4623589270b5
+22	773	6821671020002328	E:/Works/Qt Course/Qt Quick Controls/build-QtContextMenuExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appQtContextMenuExample.cmake	98de4623589270b5
+778	825	6821671020512161	.rcc/qrc_appQtContextMenuExample_raw_qml_0.cpp	462d69ff99e77f9b
+778	825	6821671020512161	E:/Works/Qt Course/Qt Quick Controls/build-QtContextMenuExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_appQtContextMenuExample_raw_qml_0.cpp	462d69ff99e77f9b
+773	1025	6821671022386190	.rcc/qmlcache/appQtContextMenuExample_main_qml.cpp	2f49ce737963eec9
+773	1025	6821671022386190	E:/Works/Qt Course/Qt Quick Controls/build-QtContextMenuExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/appQtContextMenuExample_main_qml.cpp	2f49ce737963eec9
+1033	1167	6821671023953820	CMakeFiles/appQtContextMenuExample.dir/.rcc/qrc_appQtContextMenuExample_raw_qml_0.cpp.obj	d65460caa66a7c3
+1026	3551	6821671047798932	CMakeFiles/appQtContextMenuExample.dir/.rcc/qmlcache/appQtContextMenuExample_main_qml.cpp.obj	4a72d887ff9fbbd5
+3552	3999	6821671052196336	appQtContextMenuExample.exe	1b45be22e7637487

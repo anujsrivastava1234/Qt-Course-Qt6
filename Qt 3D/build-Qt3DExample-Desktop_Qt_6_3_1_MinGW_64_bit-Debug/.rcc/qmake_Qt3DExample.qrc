@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/Qt3DExample">
+    <file alias="qmldir">E:/Works/Qt Course/Qt 3D/build-Qt3DExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/Qt3DExample/qmldir</file>
+  </qresource>
+</RCC>
+

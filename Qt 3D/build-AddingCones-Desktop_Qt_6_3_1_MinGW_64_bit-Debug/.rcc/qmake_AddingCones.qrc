@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/AddingCones">
+    <file alias="qmldir">E:/Works/Qt Course/Qt 3D/build-AddingCones-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/AddingCones/qmldir</file>
+  </qresource>
+</RCC>
+

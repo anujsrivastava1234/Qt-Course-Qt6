@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/AddingCones/">
+    <file alias="main.qml">E:/Works/Qt Course/Qt 3D/AddingCones/main.qml</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,16 @@
+E:/Works/Qt Course/QtQuickMultimedia/build-MusicPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/appMusicPlayer.dir
+E:/Works/Qt Course/QtQuickMultimedia/build-MusicPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/appMusicPlayer_qmltyperegistration.dir
+E:/Works/Qt Course/QtQuickMultimedia/build-MusicPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/all_qmltyperegistrations.dir
+E:/Works/Qt Course/QtQuickMultimedia/build-MusicPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/appMusicPlayer_other_files.dir
+E:/Works/Qt Course/QtQuickMultimedia/build-MusicPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/appMusicPlayer_qmllint.dir
+E:/Works/Qt Course/QtQuickMultimedia/build-MusicPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/all_qmllint.dir
+E:/Works/Qt Course/QtQuickMultimedia/build-MusicPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/appMusicPlayer_tooling.dir
+E:/Works/Qt Course/QtQuickMultimedia/build-MusicPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/appMusicPlayer_qmlimportscan.dir
+E:/Works/Qt Course/QtQuickMultimedia/build-MusicPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+E:/Works/Qt Course/QtQuickMultimedia/build-MusicPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+E:/Works/Qt Course/QtQuickMultimedia/build-MusicPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+E:/Works/Qt Course/QtQuickMultimedia/build-MusicPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/install.dir
+E:/Works/Qt Course/QtQuickMultimedia/build-MusicPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+E:/Works/Qt Course/QtQuickMultimedia/build-MusicPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+E:/Works/Qt Course/QtQuickMultimedia/build-MusicPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/appMusicPlayer_autogen_timestamp_deps.dir
+E:/Works/Qt Course/QtQuickMultimedia/build-MusicPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/appMusicPlayer_autogen.dir

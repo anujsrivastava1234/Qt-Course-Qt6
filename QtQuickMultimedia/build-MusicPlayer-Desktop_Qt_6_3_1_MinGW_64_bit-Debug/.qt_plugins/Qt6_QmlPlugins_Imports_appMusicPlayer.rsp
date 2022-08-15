@@ -1,0 +1,12 @@
+-rootPath
+E:/Works/Qt Course/QtQuickMultimedia/MusicPlayer
+-cmake-output
+-output-file
+E:/Works/Qt Course/QtQuickMultimedia/build-MusicPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appMusicPlayer.cmake
+-importPath
+C:/Qt/6.3.1/mingw_64/./qml
+E:/Works/Qt Course/QtQuickMultimedia/build-MusicPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/MusicPlayer
+E:/Works/Qt Course/QtQuickMultimedia/build-MusicPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug
+-qrcFiles
+E:/Works/Qt Course/QtQuickMultimedia/build-MusicPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmake_MusicPlayer.qrc
+E:/Works/Qt Course/QtQuickMultimedia/build-MusicPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/appMusicPlayer_raw_qml_0.qrc

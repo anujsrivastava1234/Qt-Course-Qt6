@@ -1,0 +1,142 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-86e70ce326e301cd0119.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "2-LineCharts",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-7b00cd952f3cea3869be.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-f5a7bcd5c46f164a415d.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app2-LineCharts::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app2-LineCharts-Debug-7d1d6275c325086002a5.json",
+					"name" : "app2-LineCharts",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app2-LineCharts_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app2-LineCharts_autogen-Debug-d5e03e6de7b0f76085b0.json",
+					"name" : "app2-LineCharts_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app2-LineCharts_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app2-LineCharts_autogen_timestamp_deps-Debug-37e4b218af6259b2216d.json",
+					"name" : "app2-LineCharts_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app2-LineCharts_other_files::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app2-LineCharts_other_files-Debug-68e50a5c7dd73f9a2a67.json",
+					"name" : "app2-LineCharts_other_files",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app2-LineCharts_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app2-LineCharts_qmlimportscan-Debug-ecb50efa48e861febe3b.json",
+					"name" : "app2-LineCharts_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app2-LineCharts_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app2-LineCharts_qmllint-Debug-746746caebc6540a8981.json",
+					"name" : "app2-LineCharts_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app2-LineCharts_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app2-LineCharts_qmltyperegistration-Debug-9c157d1f45647a80b6e8.json",
+					"name" : "app2-LineCharts_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app2-LineCharts_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app2-LineCharts_tooling-Debug-e9cae79bf3f2d06fb47f.json",
+					"name" : "app2-LineCharts_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/Works/Qt Course/QMLCharts/build-2-LineCharts-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
+		"source" : "E:/Works/Qt Course/QMLCharts/2-LineCharts"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

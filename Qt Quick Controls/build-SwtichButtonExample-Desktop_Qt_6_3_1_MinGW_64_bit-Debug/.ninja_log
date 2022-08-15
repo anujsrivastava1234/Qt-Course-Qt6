@@ -1,0 +1,81 @@
+# ninja log v5
+23	97	6821642240716739	SwtichButtonExample/main.qml	21b77fd57fbfcc92
+23	97	6821642240716739	E:/Works/Qt Course/Qt Quick Controls/build-SwtichButtonExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/SwtichButtonExample/main.qml	21b77fd57fbfcc92
+6	156	6821642241269721	.rcc/qmlcache/appSwtichButtonExample_qmlcache_loader.cpp	1da70523e5818bdb
+6	156	6821642241269721	E:/Works/Qt Course/Qt Quick Controls/build-SwtichButtonExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/appSwtichButtonExample_qmlcache_loader.cpp	1da70523e5818bdb
+156	466	6821642243311975	appSwtichButtonExample_autogen/timestamp	a3354eff6169e9aa
+156	466	6821642243311975	appSwtichButtonExample_autogen/mocs_compilation.cpp	a3354eff6169e9aa
+156	466	6821642243311975	E:/Works/Qt Course/Qt Quick Controls/build-SwtichButtonExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/appSwtichButtonExample_autogen/timestamp	a3354eff6169e9aa
+156	466	6821642243311975	E:/Works/Qt Course/Qt Quick Controls/build-SwtichButtonExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/appSwtichButtonExample_autogen/mocs_compilation.cpp	a3354eff6169e9aa
+467	573	6821642245480571	meta_types/appSwtichButtonExample_json_file_list.txt	f007120444757d70
+467	573	6821642245480571	meta_types/appSwtichButtonExample_json_file_list.txt.timestamp	f007120444757d70
+467	573	6821642245480571	E:/Works/Qt Course/Qt Quick Controls/build-SwtichButtonExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/appSwtichButtonExample_json_file_list.txt	f007120444757d70
+467	573	6821642245480571	E:/Works/Qt Course/Qt Quick Controls/build-SwtichButtonExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/appSwtichButtonExample_json_file_list.txt.timestamp	f007120444757d70
+573	643	6821642246192957	meta_types/qt6appswtichbuttonexample_debug_metatypes.json.gen	e96781738c92c0b1
+573	643	6821642246192957	meta_types/qt6appswtichbuttonexample_debug_metatypes.json	e96781738c92c0b1
+573	643	6821642246192957	E:/Works/Qt Course/Qt Quick Controls/build-SwtichButtonExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6appswtichbuttonexample_debug_metatypes.json.gen	e96781738c92c0b1
+573	643	6821642246192957	E:/Works/Qt Course/Qt Quick Controls/build-SwtichButtonExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6appswtichbuttonexample_debug_metatypes.json	e96781738c92c0b1
+643	876	6821642247452344	appswtichbuttonexample_qmltyperegistrations.cpp	39374c7b8618c330
+643	876	6821642247452344	SwtichButtonExample/appSwtichButtonExample.qmltypes	39374c7b8618c330
+643	876	6821642247452344	E:/Works/Qt Course/Qt Quick Controls/build-SwtichButtonExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/appswtichbuttonexample_qmltyperegistrations.cpp	39374c7b8618c330
+643	876	6821642247452344	E:/Works/Qt Course/Qt Quick Controls/build-SwtichButtonExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/SwtichButtonExample/appSwtichButtonExample.qmltypes	39374c7b8618c330
+14	5316	6821642292904151	.qt_plugins/Qt6_QmlPlugins_Imports_appSwtichButtonExample.cmake	bb79d3a0c3fc8782
+14	5316	6821642292904151	E:/Works/Qt Course/Qt Quick Controls/build-SwtichButtonExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appSwtichButtonExample.cmake	bb79d3a0c3fc8782
+5324	5431	6821642294019633	.rcc/qrc_appSwtichButtonExample_raw_qml_0.cpp	c1dadc25fedc5017
+5324	5431	6821642294019633	E:/Works/Qt Course/Qt Quick Controls/build-SwtichButtonExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_appSwtichButtonExample_raw_qml_0.cpp	c1dadc25fedc5017
+5317	5432	6821642294019633	.rcc/qrc_qmake_SwtichButtonExample.cpp	af4b89ff4e92de75
+5317	5432	6821642294019633	E:/Works/Qt Course/Qt Quick Controls/build-SwtichButtonExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_qmake_SwtichButtonExample.cpp	af4b89ff4e92de75
+5329	5771	6821642297332263	.rcc/qmlcache/appSwtichButtonExample_main_qml.cpp	6d28c73bb17fe642
+5329	5771	6821642297332263	E:/Works/Qt Course/Qt Quick Controls/build-SwtichButtonExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/appSwtichButtonExample_main_qml.cpp	6d28c73bb17fe642
+5785	5947	6821642299204663	CMakeFiles/appSwtichButtonExample.dir/appSwtichButtonExample_autogen/mocs_compilation.cpp.obj	5aab7022c373f188
+5803	5972	6821642299479564	CMakeFiles/appSwtichButtonExample.dir/.rcc/qrc_appSwtichButtonExample_raw_qml_0.cpp.obj	e0bfdbf726602de
+5790	5973	6821642299494706	CMakeFiles/appSwtichButtonExample.dir/.rcc/qrc_qmake_SwtichButtonExample.cpp.obj	409c3f208c5f9e4c
+5772	8501	6821642324766477	CMakeFiles/appSwtichButtonExample.dir/appswtichbuttonexample_qmltyperegistrations.cpp.obj	a562259fdc6af3aa
+5780	8739	6821642327152124	CMakeFiles/appSwtichButtonExample.dir/main.cpp.obj	43e8d16b903a1bff
+5776	9159	6821642331327265	CMakeFiles/appSwtichButtonExample.dir/.rcc/qmlcache/appSwtichButtonExample_main_qml.cpp.obj	50795eb263a3f250
+5795	9994	6821642339694053	CMakeFiles/appSwtichButtonExample.dir/.rcc/qmlcache/appSwtichButtonExample_qmlcache_loader.cpp.obj	5d0953c8ae58777e
+9994	10568	6821642345366355	appSwtichButtonExample.exe	37748303e55e61df
+95	150	6821644045347316	SwtichButtonExample/main.qml	21b77fd57fbfcc92
+95	150	6821644045347316	E:/Works/Qt Course/Qt Quick Controls/build-SwtichButtonExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/SwtichButtonExample/main.qml	21b77fd57fbfcc92
+104	760	6821644051413096	.qt_plugins/Qt6_QmlPlugins_Imports_appSwtichButtonExample.cmake	bb79d3a0c3fc8782
+104	760	6821644051413096	E:/Works/Qt Course/Qt Quick Controls/build-SwtichButtonExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appSwtichButtonExample.cmake	bb79d3a0c3fc8782
+768	819	6821644052016369	.rcc/qrc_appSwtichButtonExample_raw_qml_0.cpp	c1dadc25fedc5017
+768	819	6821644052016369	E:/Works/Qt Course/Qt Quick Controls/build-SwtichButtonExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_appSwtichButtonExample_raw_qml_0.cpp	c1dadc25fedc5017
+761	1018	6821644053861328	.rcc/qmlcache/appSwtichButtonExample_main_qml.cpp	6d28c73bb17fe642
+761	1018	6821644053861328	E:/Works/Qt Course/Qt Quick Controls/build-SwtichButtonExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/appSwtichButtonExample_main_qml.cpp	6d28c73bb17fe642
+1023	1167	6821644055520929	CMakeFiles/appSwtichButtonExample.dir/.rcc/qrc_appSwtichButtonExample_raw_qml_0.cpp.obj	e0bfdbf726602de
+1018	3891	6821644082712797	CMakeFiles/appSwtichButtonExample.dir/.rcc/qmlcache/appSwtichButtonExample_main_qml.cpp.obj	50795eb263a3f250
+3892	4353	6821644087300082	appSwtichButtonExample.exe	37748303e55e61df
+8	42	6821653650370903	SwtichButtonExample/main.qml	21b77fd57fbfcc92
+8	42	6821653650370903	E:/Works/Qt Course/Qt Quick Controls/build-SwtichButtonExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/SwtichButtonExample/main.qml	21b77fd57fbfcc92
+5	344	6821653653376702	.qt_plugins/Qt6_QmlPlugins_Imports_appSwtichButtonExample.cmake	bb79d3a0c3fc8782
+5	344	6821653653376702	E:/Works/Qt Course/Qt Quick Controls/build-SwtichButtonExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appSwtichButtonExample.cmake	bb79d3a0c3fc8782
+344	375	6821653653696901	.rcc/qrc_appSwtichButtonExample_raw_qml_0.cpp	c1dadc25fedc5017
+344	375	6821653653696901	E:/Works/Qt Course/Qt Quick Controls/build-SwtichButtonExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_appSwtichButtonExample_raw_qml_0.cpp	c1dadc25fedc5017
+348	499	6821653654873547	.rcc/qmlcache/appSwtichButtonExample_main_qml.cpp	6d28c73bb17fe642
+348	499	6821653654873547	E:/Works/Qt Course/Qt Quick Controls/build-SwtichButtonExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/appSwtichButtonExample_main_qml.cpp	6d28c73bb17fe642
+502	597	6821653655923134	CMakeFiles/appSwtichButtonExample.dir/.rcc/qrc_appSwtichButtonExample_raw_qml_0.cpp.obj	e0bfdbf726602de
+499	2215	6821653672082815	CMakeFiles/appSwtichButtonExample.dir/.rcc/qmlcache/appSwtichButtonExample_main_qml.cpp.obj	50795eb263a3f250
+2215	2436	6821653674269184	appSwtichButtonExample.exe	37748303e55e61df
+13	44	6821654601148022	SwtichButtonExample/main.qml	21b77fd57fbfcc92
+13	44	6821654601148022	E:/Works/Qt Course/Qt Quick Controls/build-SwtichButtonExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/SwtichButtonExample/main.qml	21b77fd57fbfcc92
+8	353	6821654604257856	.qt_plugins/Qt6_QmlPlugins_Imports_appSwtichButtonExample.cmake	bb79d3a0c3fc8782
+8	353	6821654604257856	E:/Works/Qt Course/Qt Quick Controls/build-SwtichButtonExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appSwtichButtonExample.cmake	bb79d3a0c3fc8782
+356	385	6821654604575898	.rcc/qrc_appSwtichButtonExample_raw_qml_0.cpp	c1dadc25fedc5017
+356	385	6821654604575898	E:/Works/Qt Course/Qt Quick Controls/build-SwtichButtonExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_appSwtichButtonExample_raw_qml_0.cpp	c1dadc25fedc5017
+353	507	6821654605733980	.rcc/qmlcache/appSwtichButtonExample_main_qml.cpp	6d28c73bb17fe642
+353	507	6821654605733980	E:/Works/Qt Course/Qt Quick Controls/build-SwtichButtonExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/appSwtichButtonExample_main_qml.cpp	6d28c73bb17fe642
+510	588	6821654606618227	CMakeFiles/appSwtichButtonExample.dir/.rcc/qrc_appSwtichButtonExample_raw_qml_0.cpp.obj	e0bfdbf726602de
+508	2223	6821654622961227	CMakeFiles/appSwtichButtonExample.dir/.rcc/qmlcache/appSwtichButtonExample_main_qml.cpp.obj	50795eb263a3f250
+2224	2437	6821654625049330	appSwtichButtonExample.exe	37748303e55e61df
+5	38	6821654799643004	SwtichButtonExample/main.qml	21b77fd57fbfcc92
+5	38	6821654799643004	E:/Works/Qt Course/Qt Quick Controls/build-SwtichButtonExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/SwtichButtonExample/main.qml	21b77fd57fbfcc92
+8	344	6821654802714720	.qt_plugins/Qt6_QmlPlugins_Imports_appSwtichButtonExample.cmake	bb79d3a0c3fc8782
+8	344	6821654802714720	E:/Works/Qt Course/Qt Quick Controls/build-SwtichButtonExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appSwtichButtonExample.cmake	bb79d3a0c3fc8782
+345	375	6821654803022158	.rcc/qrc_appSwtichButtonExample_raw_qml_0.cpp	c1dadc25fedc5017
+345	375	6821654803022158	E:/Works/Qt Course/Qt Quick Controls/build-SwtichButtonExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_appSwtichButtonExample_raw_qml_0.cpp	c1dadc25fedc5017
+348	499	6821654804191258	.rcc/qmlcache/appSwtichButtonExample_main_qml.cpp	6d28c73bb17fe642
+348	499	6821654804191258	E:/Works/Qt Course/Qt Quick Controls/build-SwtichButtonExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/appSwtichButtonExample_main_qml.cpp	6d28c73bb17fe642
+503	579	6821654805074555	CMakeFiles/appSwtichButtonExample.dir/.rcc/qrc_appSwtichButtonExample_raw_qml_0.cpp.obj	e0bfdbf726602de
+500	2205	6821654821317246	CMakeFiles/appSwtichButtonExample.dir/.rcc/qmlcache/appSwtichButtonExample_main_qml.cpp.obj	50795eb263a3f250
+2205	2456	6821654823775065	appSwtichButtonExample.exe	37748303e55e61df

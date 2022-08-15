@@ -1,0 +1,37 @@
+# ninja log v5
+16	64	6822531565479570	Qt3DExample/main.qml	1acaf6bb9ad2b12a
+16	64	6822531565479570	E:/Works/Qt Course/Qt 3D/build-Qt3DExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/Qt3DExample/main.qml	1acaf6bb9ad2b12a
+5	74	6822531565539870	.rcc/qmlcache/appQt3DExample_qmlcache_loader.cpp	35855c2526baf693
+5	74	6822531565539870	E:/Works/Qt Course/Qt 3D/build-Qt3DExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/appQt3DExample_qmlcache_loader.cpp	35855c2526baf693
+12	88	6822531565711478	.qt_plugins/Qt6_QmlPlugins_Imports_appQt3DExample.cmake	a678b4c9cc6bca1b
+12	88	6822531565711478	E:/Works/Qt Course/Qt 3D/build-Qt3DExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appQt3DExample.cmake	a678b4c9cc6bca1b
+74	477	6822531567657305	appQt3DExample_autogen/timestamp	cbf38f84f1ed785e
+74	477	6822531567657305	appQt3DExample_autogen/mocs_compilation.cpp	cbf38f84f1ed785e
+74	477	6822531567657305	E:/Works/Qt Course/Qt 3D/build-Qt3DExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/appQt3DExample_autogen/timestamp	cbf38f84f1ed785e
+74	477	6822531567657305	E:/Works/Qt Course/Qt 3D/build-Qt3DExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/appQt3DExample_autogen/mocs_compilation.cpp	cbf38f84f1ed785e
+491	550	6822531570319373	.rcc/qrc_appQt3DExample_raw_qml_0.cpp	2e1d7afad07baf67
+491	550	6822531570319373	E:/Works/Qt Course/Qt 3D/build-Qt3DExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_appQt3DExample_raw_qml_0.cpp	2e1d7afad07baf67
+478	555	6822531570396459	meta_types/appQt3DExample_json_file_list.txt	db1597e60a4c2390
+478	555	6822531570396459	meta_types/appQt3DExample_json_file_list.txt.timestamp	db1597e60a4c2390
+478	555	6822531570396459	E:/Works/Qt Course/Qt 3D/build-Qt3DExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/appQt3DExample_json_file_list.txt	db1597e60a4c2390
+478	555	6822531570396459	E:/Works/Qt Course/Qt 3D/build-Qt3DExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/appQt3DExample_json_file_list.txt.timestamp	db1597e60a4c2390
+484	559	6822531570408987	.rcc/qrc_qmake_Qt3DExample.cpp	a949218d7f00912e
+484	559	6822531570408987	E:/Works/Qt Course/Qt 3D/build-Qt3DExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_qmake_Qt3DExample.cpp	a949218d7f00912e
+556	612	6822531570951392	meta_types/qt6appqt3dexample_debug_metatypes.json.gen	be1a34c1cf207415
+556	612	6822531570951392	meta_types/qt6appqt3dexample_debug_metatypes.json	be1a34c1cf207415
+556	612	6822531570951392	E:/Works/Qt Course/Qt 3D/build-Qt3DExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6appqt3dexample_debug_metatypes.json.gen	be1a34c1cf207415
+556	612	6822531570951392	E:/Works/Qt Course/Qt 3D/build-Qt3DExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6appqt3dexample_debug_metatypes.json	be1a34c1cf207415
+612	799	6822531571769408	appqt3dexample_qmltyperegistrations.cpp	f2374f45353ae466
+612	799	6822531571769408	Qt3DExample/appQt3DExample.qmltypes	f2374f45353ae466
+612	799	6822531571769408	E:/Works/Qt Course/Qt 3D/build-Qt3DExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/appqt3dexample_qmltyperegistrations.cpp	f2374f45353ae466
+612	799	6822531571769408	E:/Works/Qt Course/Qt 3D/build-Qt3DExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/Qt3DExample/appQt3DExample.qmltypes	f2374f45353ae466
+799	989	6822531574600295	.rcc/qmlcache/appQt3DExample_main_qml.cpp	a4fbb7f044b6ddd1
+799	989	6822531574600295	E:/Works/Qt Course/Qt 3D/build-Qt3DExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/appQt3DExample_main_qml.cpp	a4fbb7f044b6ddd1
+1002	1198	6822531576690308	CMakeFiles/appQt3DExample.dir/appQt3DExample_autogen/mocs_compilation.cpp.obj	148ba86f34bf9c65
+1015	1201	6822531576835797	CMakeFiles/appQt3DExample.dir/.rcc/qrc_qmake_Qt3DExample.cpp.obj	f469d1206d90c56b
+1020	1217	6822531576935088	CMakeFiles/appQt3DExample.dir/.rcc/qrc_appQt3DExample_raw_qml_0.cpp.obj	c6e218d2d0b9b7e0
+996	3489	6822531599728643	CMakeFiles/appQt3DExample.dir/appqt3dexample_qmltyperegistrations.cpp.obj	3e80e013a96c9131
+989	3676	6822531601598109	CMakeFiles/appQt3DExample.dir/main.cpp.obj	b9028d2f0b260a73
+1011	3890	6822531603741397	CMakeFiles/appQt3DExample.dir/.rcc/qmlcache/appQt3DExample_main_qml.cpp.obj	1b75fff40589fe69
+1006	4111	6822531605934476	CMakeFiles/appQt3DExample.dir/.rcc/qmlcache/appQt3DExample_qmlcache_loader.cpp.obj	2a780a793b76aa01
+4112	4538	6822531610135932	appQt3DExample.exe	5a6b769fb7dac4a6

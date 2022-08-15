@@ -1,0 +1,4 @@
+module 1-BarCharts
+typeinfo app1-BarCharts.qmltypes
+prefer :/1-BarCharts/
+

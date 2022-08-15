@@ -1,0 +1,49 @@
+# ninja log v5
+14	80	6821738839544607	MusicPlayer/main.qml	e839c470aa12117d
+351	647	6821734561191325	appMusicPlayer_autogen/mocs_compilation.cpp	88b6ecb15627ae90
+14	80	6821738839544607	E:/Works/Qt Course/QtQuickMultimedia/build-MusicPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/MusicPlayer/main.qml	e839c470aa12117d
+750	1041	6821738848975692	.rcc/qmlcache/appMusicPlayer_main_qml.cpp	7a09b4fccddf8f2
+7454	7580	6821734631362071	E:/Works/Qt Course/QtQuickMultimedia/build-MusicPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_qmake_MusicPlayer.cpp	8205225c47fd2855
+4	351	6821734559056118	.rcc/qmlcache/appMusicPlayer_qmlcache_loader.cpp	14868b7b031f55e8
+4	351	6821734559056118	E:/Works/Qt Course/QtQuickMultimedia/build-MusicPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/appMusicPlayer_qmlcache_loader.cpp	14868b7b031f55e8
+351	647	6821734561191325	E:/Works/Qt Course/QtQuickMultimedia/build-MusicPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/appMusicPlayer_autogen/timestamp	88b6ecb15627ae90
+351	647	6821734561191325	E:/Works/Qt Course/QtQuickMultimedia/build-MusicPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/appMusicPlayer_autogen/mocs_compilation.cpp	88b6ecb15627ae90
+351	647	6821734561191325	appMusicPlayer_autogen/timestamp	88b6ecb15627ae90
+648	753	6821734563100745	meta_types/appMusicPlayer_json_file_list.txt	d247da17c2cca78d
+648	753	6821734563100745	meta_types/appMusicPlayer_json_file_list.txt.timestamp	d247da17c2cca78d
+757	820	6821738846926803	E:/Works/Qt Course/QtQuickMultimedia/build-MusicPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_appMusicPlayer_raw_qml_0.cpp	cda379926a8846
+648	753	6821734563100745	E:/Works/Qt Course/QtQuickMultimedia/build-MusicPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/appMusicPlayer_json_file_list.txt	d247da17c2cca78d
+648	753	6821734563100745	E:/Works/Qt Course/QtQuickMultimedia/build-MusicPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/appMusicPlayer_json_file_list.txt.timestamp	d247da17c2cca78d
+754	839	6821734563900720	meta_types/qt6appmusicplayer_debug_metatypes.json.gen	30e46b7b676ab75b
+754	839	6821734563900720	meta_types/qt6appmusicplayer_debug_metatypes.json	30e46b7b676ab75b
+757	820	6821738846926803	.rcc/qrc_appMusicPlayer_raw_qml_0.cpp	cda379926a8846
+754	839	6821734563900720	E:/Works/Qt Course/QtQuickMultimedia/build-MusicPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6appmusicplayer_debug_metatypes.json.gen	30e46b7b676ab75b
+754	839	6821734563900720	E:/Works/Qt Course/QtQuickMultimedia/build-MusicPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6appmusicplayer_debug_metatypes.json	30e46b7b676ab75b
+840	1080	6821734565459558	appmusicplayer_qmltyperegistrations.cpp	c484f34a78d0347d
+840	1080	6821734565459558	MusicPlayer/appMusicPlayer.qmltypes	c484f34a78d0347d
+840	1080	6821734565459558	E:/Works/Qt Course/QtQuickMultimedia/build-MusicPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/appmusicplayer_qmltyperegistrations.cpp	c484f34a78d0347d
+840	1080	6821734565459558	E:/Works/Qt Course/QtQuickMultimedia/build-MusicPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/MusicPlayer/appMusicPlayer.qmltypes	c484f34a78d0347d
+24	749	6821738846183399	.qt_plugins/Qt6_QmlPlugins_Imports_appMusicPlayer.cmake	3cd641d14367c647
+24	749	6821738846183399	E:/Works/Qt Course/QtQuickMultimedia/build-MusicPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appMusicPlayer.cmake	3cd641d14367c647
+7844	10533	6821734660893387	CMakeFiles/appMusicPlayer.dir/main.cpp.obj	b54c507581d51d63
+7454	7580	6821734631362071	.rcc/qrc_qmake_MusicPlayer.cpp	8205225c47fd2855
+750	1041	6821738848975692	E:/Works/Qt Course/QtQuickMultimedia/build-MusicPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/appMusicPlayer_main_qml.cpp	7a09b4fccddf8f2
+1047	1156	6821738850304846	CMakeFiles/appMusicPlayer.dir/.rcc/qrc_appMusicPlayer_raw_qml_0.cpp.obj	b8b85688f48aee4c
+7837	8073	6821734636201135	CMakeFiles/appMusicPlayer.dir/.rcc/qrc_qmake_MusicPlayer.cpp.obj	f844ee51817754d0
+7829	8103	6821734636574012	CMakeFiles/appMusicPlayer.dir/appMusicPlayer_autogen/mocs_compilation.cpp.obj	75f9d041c5a51d1
+7824	10318	6821734658736009	CMakeFiles/appMusicPlayer.dir/appmusicplayer_qmltyperegistrations.cpp.obj	403facb430306ec7
+1042	3563	6821738874332666	CMakeFiles/appMusicPlayer.dir/.rcc/qmlcache/appMusicPlayer_main_qml.cpp.obj	b932fd522d0f68e1
+7851	11616	6821734671722010	CMakeFiles/appMusicPlayer.dir/.rcc/qmlcache/appMusicPlayer_qmlcache_loader.cpp.obj	c2f5072210b958f3
+3564	4113	6821738879759334	appMusicPlayer.exe	1412cd028c32141c
+8	197	6821739180636350	appMusicPlayer_autogen/timestamp	88b6ecb15627ae90
+8	197	6821739180636350	appMusicPlayer_autogen/mocs_compilation.cpp	88b6ecb15627ae90
+8	197	6821739180636350	E:/Works/Qt Course/QtQuickMultimedia/build-MusicPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/appMusicPlayer_autogen/timestamp	88b6ecb15627ae90
+8	197	6821739180636350	E:/Works/Qt Course/QtQuickMultimedia/build-MusicPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/appMusicPlayer_autogen/mocs_compilation.cpp	88b6ecb15627ae90
+204	248	6821739179722436	meta_types/appMusicPlayer_json_file_list.txt	d247da17c2cca78d
+204	248	6821739179722436	meta_types/appMusicPlayer_json_file_list.txt.timestamp	d247da17c2cca78d
+204	248	6821739179722436	E:/Works/Qt Course/QtQuickMultimedia/build-MusicPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/appMusicPlayer_json_file_list.txt	d247da17c2cca78d
+204	248	6821739179722436	E:/Works/Qt Course/QtQuickMultimedia/build-MusicPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/appMusicPlayer_json_file_list.txt.timestamp	d247da17c2cca78d
+209	471	6821739183316760	appMusicPlayer_autogen/EWIEGA46WW/qrc_res.cpp	fede66229dd92b9a
+209	471	6821739183316760	E:/Works/Qt Course/QtQuickMultimedia/build-MusicPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/appMusicPlayer_autogen/EWIEGA46WW/qrc_res.cpp	fede66229dd92b9a
+471	6477	6821739243447282	CMakeFiles/appMusicPlayer.dir/appMusicPlayer_autogen/EWIEGA46WW/qrc_res.cpp.obj	266fdab8101691e7
+6478	6977	6821739248391780	appMusicPlayer.exe	95eddc0edb188688

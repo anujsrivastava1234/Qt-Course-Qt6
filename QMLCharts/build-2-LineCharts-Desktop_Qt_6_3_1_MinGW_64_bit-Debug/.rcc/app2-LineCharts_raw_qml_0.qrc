@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/2-LineCharts/">
+    <file alias="main.qml">E:/Works/Qt Course/QMLCharts/2-LineCharts/main.qml</file>
+  </qresource>
+</RCC>
+

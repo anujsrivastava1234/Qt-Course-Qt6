@@ -1,0 +1,12 @@
+-rootPath
+E:/Works/Qt Course/Qt Quick Controls/QtContextMenuExample
+-cmake-output
+-output-file
+E:/Works/Qt Course/Qt Quick Controls/build-QtContextMenuExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appQtContextMenuExample.cmake
+-importPath
+C:/Qt/6.3.1/mingw_64/./qml
+E:/Works/Qt Course/Qt Quick Controls/build-QtContextMenuExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/QtContextMenuExample
+E:/Works/Qt Course/Qt Quick Controls/build-QtContextMenuExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug
+-qrcFiles
+E:/Works/Qt Course/Qt Quick Controls/build-QtContextMenuExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmake_QtContextMenuExample.qrc
+E:/Works/Qt Course/Qt Quick Controls/build-QtContextMenuExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/appQtContextMenuExample_raw_qml_0.qrc

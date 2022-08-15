@@ -1,0 +1,92 @@
+# ninja log v5
+19	92	6821511413017965	StackViewExample/main.qml	90c90adf93220f45
+19	92	6821511413017965	E:/Works/Qt Course/Qt Quick Controls/build-StackViewExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/StackViewExample/main.qml	90c90adf93220f45
+4	107	6821511413187640	.rcc/qmlcache/appStackViewExample_qmlcache_loader.cpp	844291f20b0fce6b
+4	107	6821511413187640	E:/Works/Qt Course/Qt Quick Controls/build-StackViewExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/appStackViewExample_qmlcache_loader.cpp	844291f20b0fce6b
+108	590	6821511416017352	appStackViewExample_autogen/timestamp	678c3e3a77d314be
+108	590	6821511416017352	appStackViewExample_autogen/mocs_compilation.cpp	678c3e3a77d314be
+108	590	6821511416017352	E:/Works/Qt Course/Qt Quick Controls/build-StackViewExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/appStackViewExample_autogen/timestamp	678c3e3a77d314be
+108	590	6821511416017352	E:/Works/Qt Course/Qt Quick Controls/build-StackViewExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/appStackViewExample_autogen/mocs_compilation.cpp	678c3e3a77d314be
+591	665	6821511418778764	meta_types/appStackViewExample_json_file_list.txt	1f53fa831aa3fbb0
+591	665	6821511418778764	meta_types/appStackViewExample_json_file_list.txt.timestamp	1f53fa831aa3fbb0
+591	665	6821511418778764	E:/Works/Qt Course/Qt Quick Controls/build-StackViewExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/appStackViewExample_json_file_list.txt	1f53fa831aa3fbb0
+591	665	6821511418778764	E:/Works/Qt Course/Qt Quick Controls/build-StackViewExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/appStackViewExample_json_file_list.txt.timestamp	1f53fa831aa3fbb0
+666	761	6821511419743847	meta_types/qt6appstackviewexample_debug_metatypes.json.gen	96b4c8d7d74f3b7c
+666	761	6821511419743847	meta_types/qt6appstackviewexample_debug_metatypes.json	96b4c8d7d74f3b7c
+666	761	6821511419743847	E:/Works/Qt Course/Qt Quick Controls/build-StackViewExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6appstackviewexample_debug_metatypes.json.gen	96b4c8d7d74f3b7c
+666	761	6821511419743847	E:/Works/Qt Course/Qt Quick Controls/build-StackViewExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6appstackviewexample_debug_metatypes.json	96b4c8d7d74f3b7c
+761	1064	6821511421172987	appstackviewexample_qmltyperegistrations.cpp	202c00fa8478ac2c
+761	1064	6821511421172987	StackViewExample/appStackViewExample.qmltypes	202c00fa8478ac2c
+761	1064	6821511421172987	E:/Works/Qt Course/Qt Quick Controls/build-StackViewExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/appstackviewexample_qmltyperegistrations.cpp	202c00fa8478ac2c
+761	1064	6821511421172987	E:/Works/Qt Course/Qt Quick Controls/build-StackViewExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/StackViewExample/appStackViewExample.qmltypes	202c00fa8478ac2c
+12	1118	6821511423331158	.qt_plugins/Qt6_QmlPlugins_Imports_appStackViewExample.cmake	79a84883f8683387
+12	1118	6821511423331158	E:/Works/Qt Course/Qt Quick Controls/build-StackViewExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appStackViewExample.cmake	79a84883f8683387
+1128	1197	6821511424104523	.rcc/qrc_appStackViewExample_raw_qml_0.cpp	296aaaba8ed6a50
+1128	1197	6821511424104523	E:/Works/Qt Course/Qt Quick Controls/build-StackViewExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_appStackViewExample_raw_qml_0.cpp	296aaaba8ed6a50
+1119	1210	6821511424259390	.rcc/qrc_qmake_StackViewExample.cpp	7319b735f8b1fbaa
+1119	1210	6821511424259390	E:/Works/Qt Course/Qt Quick Controls/build-StackViewExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_qmake_StackViewExample.cpp	7319b735f8b1fbaa
+1124	1431	6821511426368286	.rcc/qmlcache/appStackViewExample_main_qml.cpp	662df0356fdd49e9
+1124	1431	6821511426368286	E:/Works/Qt Course/Qt Quick Controls/build-StackViewExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/appStackViewExample_main_qml.cpp	662df0356fdd49e9
+1436	1701	6821511429179565	CMakeFiles/appStackViewExample.dir/appStackViewExample_autogen/mocs_compilation.cpp.obj	b083e843ca3d9539
+1460	1714	6821511429200425	CMakeFiles/appStackViewExample.dir/.rcc/qrc_appStackViewExample_raw_qml_0.cpp.obj	83ab06f42301224a
+1447	1720	6821511429236737	CMakeFiles/appStackViewExample.dir/.rcc/qrc_qmake_StackViewExample.cpp.obj	868f214b5155dba
+1432	6484	6821511476897852	CMakeFiles/appStackViewExample.dir/appstackviewexample_qmltyperegistrations.cpp.obj	dd03de2bd8da54e9
+1441	7040	6821511482540776	CMakeFiles/appStackViewExample.dir/main.cpp.obj	7bfe184ee14c3b53
+1452	7324	6821511485398201	CMakeFiles/appStackViewExample.dir/.rcc/qmlcache/appStackViewExample_main_qml.cpp.obj	8187c1686188a9aa
+1456	8075	6821511492899554	CMakeFiles/appStackViewExample.dir/.rcc/qmlcache/appStackViewExample_qmlcache_loader.cpp.obj	6a9e24ba67bc82b2
+8076	8670	6821511498784920	appStackViewExample.exe	cd9e75ba524668f0
+65	123	6821512861247233	StackViewExample/main.qml	90c90adf93220f45
+65	123	6821512861247233	E:/Works/Qt Course/Qt Quick Controls/build-StackViewExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/StackViewExample/main.qml	90c90adf93220f45
+70	682	6821512866816984	.qt_plugins/Qt6_QmlPlugins_Imports_appStackViewExample.cmake	79a84883f8683387
+70	682	6821512866816984	E:/Works/Qt Course/Qt Quick Controls/build-StackViewExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appStackViewExample.cmake	79a84883f8683387
+683	754	6821512867517811	.rcc/qrc_appStackViewExample_raw_qml_0.cpp	296aaaba8ed6a50
+683	754	6821512867517811	E:/Works/Qt Course/Qt Quick Controls/build-StackViewExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_appStackViewExample_raw_qml_0.cpp	296aaaba8ed6a50
+687	951	6821512869425935	.rcc/qmlcache/appStackViewExample_main_qml.cpp	662df0356fdd49e9
+687	951	6821512869425935	E:/Works/Qt Course/Qt Quick Controls/build-StackViewExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/appStackViewExample_main_qml.cpp	662df0356fdd49e9
+957	1087	6821512870881554	CMakeFiles/appStackViewExample.dir/.rcc/qrc_appStackViewExample_raw_qml_0.cpp.obj	83ab06f42301224a
+951	3422	6821512894219313	CMakeFiles/appStackViewExample.dir/.rcc/qmlcache/appStackViewExample_main_qml.cpp.obj	8187c1686188a9aa
+3422	3766	6821512897599033	appStackViewExample.exe	cd9e75ba524668f0
+15	78	6821513216493407	StackViewExample/main.qml	90c90adf93220f45
+15	78	6821513216493407	E:/Works/Qt Course/Qt Quick Controls/build-StackViewExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/StackViewExample/main.qml	90c90adf93220f45
+10	575	6821513221460395	.qt_plugins/Qt6_QmlPlugins_Imports_appStackViewExample.cmake	79a84883f8683387
+10	575	6821513221460395	E:/Works/Qt Course/Qt Quick Controls/build-StackViewExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appStackViewExample.cmake	79a84883f8683387
+579	624	6821513221960887	.rcc/qrc_appStackViewExample_raw_qml_0.cpp	296aaaba8ed6a50
+579	624	6821513221960887	E:/Works/Qt Course/Qt Quick Controls/build-StackViewExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_appStackViewExample_raw_qml_0.cpp	296aaaba8ed6a50
+575	829	6821513223878902	.rcc/qmlcache/appStackViewExample_main_qml.cpp	662df0356fdd49e9
+575	829	6821513223878902	E:/Works/Qt Course/Qt Quick Controls/build-StackViewExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/appStackViewExample_main_qml.cpp	662df0356fdd49e9
+835	956	6821513225267706	CMakeFiles/appStackViewExample.dir/.rcc/qrc_appStackViewExample_raw_qml_0.cpp.obj	83ab06f42301224a
+830	3739	6821513253098227	CMakeFiles/appStackViewExample.dir/.rcc/qmlcache/appStackViewExample_main_qml.cpp.obj	8187c1686188a9aa
+3739	4182	6821513257481392	appStackViewExample.exe	cd9e75ba524668f0
+8	79	6821513567524938	StackViewExample/main.qml	90c90adf93220f45
+8	79	6821513567524938	E:/Works/Qt Course/Qt Quick Controls/build-StackViewExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/StackViewExample/main.qml	90c90adf93220f45
+15	820	6821513574920710	.qt_plugins/Qt6_QmlPlugins_Imports_appStackViewExample.cmake	79a84883f8683387
+15	820	6821513574920710	E:/Works/Qt Course/Qt Quick Controls/build-StackViewExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appStackViewExample.cmake	79a84883f8683387
+820	888	6821513575616208	.rcc/qrc_appStackViewExample_raw_qml_0.cpp	296aaaba8ed6a50
+820	888	6821513575616208	E:/Works/Qt Course/Qt Quick Controls/build-StackViewExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_appStackViewExample_raw_qml_0.cpp	296aaaba8ed6a50
+825	1189	6821513578492835	.rcc/qmlcache/appStackViewExample_main_qml.cpp	662df0356fdd49e9
+825	1189	6821513578492835	E:/Works/Qt Course/Qt Quick Controls/build-StackViewExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/appStackViewExample_main_qml.cpp	662df0356fdd49e9
+1195	1374	6821513580483683	CMakeFiles/appStackViewExample.dir/.rcc/qrc_appStackViewExample_raw_qml_0.cpp.obj	83ab06f42301224a
+1189	4360	6821513610348236	CMakeFiles/appStackViewExample.dir/.rcc/qmlcache/appStackViewExample_main_qml.cpp.obj	8187c1686188a9aa
+4361	4792	6821513614603006	appStackViewExample.exe	cd9e75ba524668f0
+14	86	6821514387289562	StackViewExample/main.qml	90c90adf93220f45
+14	86	6821514387289562	E:/Works/Qt Course/Qt Quick Controls/build-StackViewExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/StackViewExample/main.qml	90c90adf93220f45
+19	1012	6821514396554698	.qt_plugins/Qt6_QmlPlugins_Imports_appStackViewExample.cmake	79a84883f8683387
+19	1012	6821514396554698	E:/Works/Qt Course/Qt Quick Controls/build-StackViewExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appStackViewExample.cmake	79a84883f8683387
+1018	1092	6821514397339460	.rcc/qrc_appStackViewExample_raw_qml_0.cpp	296aaaba8ed6a50
+1018	1092	6821514397339460	E:/Works/Qt Course/Qt Quick Controls/build-StackViewExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_appStackViewExample_raw_qml_0.cpp	296aaaba8ed6a50
+1013	1487	6821514401015198	.rcc/qmlcache/appStackViewExample_main_qml.cpp	662df0356fdd49e9
+1013	1487	6821514401015198	E:/Works/Qt Course/Qt Quick Controls/build-StackViewExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/appStackViewExample_main_qml.cpp	662df0356fdd49e9
+1496	1776	6821514404229642	CMakeFiles/appStackViewExample.dir/.rcc/qrc_appStackViewExample_raw_qml_0.cpp.obj	83ab06f42301224a
+1488	7284	6821514459259328	CMakeFiles/appStackViewExample.dir/.rcc/qmlcache/appStackViewExample_main_qml.cpp.obj	8187c1686188a9aa
+7285	7930	6821514465665315	appStackViewExample.exe	cd9e75ba524668f0
+31	227	6821515165596930	StackViewExample/main.qml	90c90adf93220f45
+31	227	6821515165596930	E:/Works/Qt Course/Qt Quick Controls/build-StackViewExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/StackViewExample/main.qml	90c90adf93220f45
+41	1296	6821515176590712	.qt_plugins/Qt6_QmlPlugins_Imports_appStackViewExample.cmake	79a84883f8683387
+41	1296	6821515176590712	E:/Works/Qt Course/Qt Quick Controls/build-StackViewExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appStackViewExample.cmake	79a84883f8683387
+1302	1403	6821515177639676	.rcc/qrc_appStackViewExample_raw_qml_0.cpp	296aaaba8ed6a50
+1302	1403	6821515177639676	E:/Works/Qt Course/Qt Quick Controls/build-StackViewExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_appStackViewExample_raw_qml_0.cpp	296aaaba8ed6a50
+1296	2136	6821515180853838	.rcc/qmlcache/appStackViewExample_main_qml.cpp	662df0356fdd49e9
+1296	2136	6821515180853838	E:/Works/Qt Course/Qt Quick Controls/build-StackViewExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/appStackViewExample_main_qml.cpp	662df0356fdd49e9
+2142	2626	6821515189917036	CMakeFiles/appStackViewExample.dir/.rcc/qrc_appStackViewExample_raw_qml_0.cpp.obj	83ab06f42301224a
+2136	7613	6821515239756114	CMakeFiles/appStackViewExample.dir/.rcc/qmlcache/appStackViewExample_main_qml.cpp.obj	8187c1686188a9aa
+7613	8368	6821515247205820	appStackViewExample.exe	cd9e75ba524668f0

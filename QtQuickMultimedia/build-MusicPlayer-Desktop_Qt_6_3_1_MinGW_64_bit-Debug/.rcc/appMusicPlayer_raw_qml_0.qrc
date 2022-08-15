@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/MusicPlayer/">
+    <file alias="main.qml">E:/Works/Qt Course/QtQuickMultimedia/MusicPlayer/main.qml</file>
+  </qresource>
+</RCC>
+

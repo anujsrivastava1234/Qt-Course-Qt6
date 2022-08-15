@@ -1,0 +1,4 @@
+module MenuBarExample
+typeinfo appMenuBarExample.qmltypes
+prefer :/MenuBarExample/
+

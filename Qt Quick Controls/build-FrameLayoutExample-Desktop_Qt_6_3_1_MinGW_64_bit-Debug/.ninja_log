@@ -1,0 +1,114 @@
+# ninja log v5
+7	40	6821662942084003	FrameLayoutExample/main.qml	972821f4f340fae0
+7	40	6821662942084003	E:/Works/Qt Course/Qt Quick Controls/build-FrameLayoutExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/FrameLayoutExample/main.qml	972821f4f340fae0
+3	42	6821662942108696	.rcc/qmlcache/appFrameLayoutExample_qmlcache_loader.cpp	9505e23eeab9c6e4
+3	42	6821662942108696	E:/Works/Qt Course/Qt Quick Controls/build-FrameLayoutExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/appFrameLayoutExample_qmlcache_loader.cpp	9505e23eeab9c6e4
+42	252	6821662943436844	appFrameLayoutExample_autogen/timestamp	860eed7a02a76096
+42	252	6821662943436844	appFrameLayoutExample_autogen/mocs_compilation.cpp	860eed7a02a76096
+42	252	6821662943436844	E:/Works/Qt Course/Qt Quick Controls/build-FrameLayoutExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/appFrameLayoutExample_autogen/timestamp	860eed7a02a76096
+42	252	6821662943436844	E:/Works/Qt Course/Qt Quick Controls/build-FrameLayoutExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/appFrameLayoutExample_autogen/mocs_compilation.cpp	860eed7a02a76096
+252	284	6821662944565297	meta_types/appFrameLayoutExample_json_file_list.txt	46a7dcf969cfd412
+252	284	6821662944565297	meta_types/appFrameLayoutExample_json_file_list.txt.timestamp	46a7dcf969cfd412
+252	284	6821662944565297	E:/Works/Qt Course/Qt Quick Controls/build-FrameLayoutExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/appFrameLayoutExample_json_file_list.txt	46a7dcf969cfd412
+252	284	6821662944565297	E:/Works/Qt Course/Qt Quick Controls/build-FrameLayoutExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/appFrameLayoutExample_json_file_list.txt.timestamp	46a7dcf969cfd412
+284	324	6821662944948075	meta_types/qt6appframelayoutexample_debug_metatypes.json.gen	73231ac678dcc654
+284	324	6821662944948075	meta_types/qt6appframelayoutexample_debug_metatypes.json	73231ac678dcc654
+284	324	6821662944948075	E:/Works/Qt Course/Qt Quick Controls/build-FrameLayoutExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6appframelayoutexample_debug_metatypes.json.gen	73231ac678dcc654
+284	324	6821662944948075	E:/Works/Qt Course/Qt Quick Controls/build-FrameLayoutExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6appframelayoutexample_debug_metatypes.json	73231ac678dcc654
+9	398	6821662945693951	.qt_plugins/Qt6_QmlPlugins_Imports_appFrameLayoutExample.cmake	f96a658d125e0924
+9	398	6821662945693951	E:/Works/Qt Course/Qt Quick Controls/build-FrameLayoutExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appFrameLayoutExample.cmake	f96a658d125e0924
+398	433	6821662946019419	.rcc/qrc_qmake_FrameLayoutExample.cpp	c74c25c74cdbedc7
+398	433	6821662946019419	E:/Works/Qt Course/Qt Quick Controls/build-FrameLayoutExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_qmake_FrameLayoutExample.cpp	c74c25c74cdbedc7
+402	434	6821662946042353	.rcc/qrc_appFrameLayoutExample_raw_qml_0.cpp	41e9e94dda903c24
+402	434	6821662946042353	E:/Works/Qt Course/Qt Quick Controls/build-FrameLayoutExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_appFrameLayoutExample_raw_qml_0.cpp	41e9e94dda903c24
+324	449	6821662945505229	appframelayoutexample_qmltyperegistrations.cpp	cd594c00977b7bbf
+324	449	6821662945505229	FrameLayoutExample/appFrameLayoutExample.qmltypes	cd594c00977b7bbf
+324	449	6821662945505229	E:/Works/Qt Course/Qt Quick Controls/build-FrameLayoutExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/appframelayoutexample_qmltyperegistrations.cpp	cd594c00977b7bbf
+324	449	6821662945505229	E:/Works/Qt Course/Qt Quick Controls/build-FrameLayoutExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/FrameLayoutExample/appFrameLayoutExample.qmltypes	cd594c00977b7bbf
+449	588	6821662947548585	.rcc/qmlcache/appFrameLayoutExample_main_qml.cpp	ab723edd1d6e82aa
+449	588	6821662947548585	E:/Works/Qt Course/Qt Quick Controls/build-FrameLayoutExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/appFrameLayoutExample_main_qml.cpp	ab723edd1d6e82aa
+589	723	6821662948839896	CMakeFiles/appFrameLayoutExample.dir/appFrameLayoutExample_autogen/mocs_compilation.cpp.obj	5b61593e59fb62c5
+605	747	6821662949164953	CMakeFiles/appFrameLayoutExample.dir/.rcc/qrc_appFrameLayoutExample_raw_qml_0.cpp.obj	3ffe7857c33b2dda
+599	748	6821662949164953	CMakeFiles/appFrameLayoutExample.dir/.rcc/qrc_qmake_FrameLayoutExample.cpp.obj	c62fe4480c86fd04
+591	2639	6821662968091331	CMakeFiles/appFrameLayoutExample.dir/appframelayoutexample_qmltyperegistrations.cpp.obj	bcc0fd906d6d5d75
+594	2716	6821662968859253	CMakeFiles/appFrameLayoutExample.dir/main.cpp.obj	b48a10f52660ae2
+597	2862	6821662970333366	CMakeFiles/appFrameLayoutExample.dir/.rcc/qmlcache/appFrameLayoutExample_main_qml.cpp.obj	c60f0a5200863f74
+602	3182	6821662973516168	CMakeFiles/appFrameLayoutExample.dir/.rcc/qmlcache/appFrameLayoutExample_qmlcache_loader.cpp.obj	64a815612f79b977
+3182	3383	6821662975499037	appFrameLayoutExample.exe	d071adaffb7899c6
+16	47	6821663269800923	FrameLayoutExample/main.qml	972821f4f340fae0
+16	47	6821663269800923	E:/Works/Qt Course/Qt Quick Controls/build-FrameLayoutExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/FrameLayoutExample/main.qml	972821f4f340fae0
+21	350	6821663272825731	.qt_plugins/Qt6_QmlPlugins_Imports_appFrameLayoutExample.cmake	f96a658d125e0924
+21	350	6821663272825731	E:/Works/Qt Course/Qt Quick Controls/build-FrameLayoutExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appFrameLayoutExample.cmake	f96a658d125e0924
+350	378	6821663273112332	.rcc/qrc_appFrameLayoutExample_raw_qml_0.cpp	41e9e94dda903c24
+350	378	6821663273112332	E:/Works/Qt Course/Qt Quick Controls/build-FrameLayoutExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_appFrameLayoutExample_raw_qml_0.cpp	41e9e94dda903c24
+353	491	6821663274164693	.rcc/qmlcache/appFrameLayoutExample_main_qml.cpp	ab723edd1d6e82aa
+353	491	6821663274164693	E:/Works/Qt Course/Qt Quick Controls/build-FrameLayoutExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/appFrameLayoutExample_main_qml.cpp	ab723edd1d6e82aa
+496	577	6821663275110421	CMakeFiles/appFrameLayoutExample.dir/.rcc/qrc_appFrameLayoutExample_raw_qml_0.cpp.obj	3ffe7857c33b2dda
+492	2170	6821663291037476	CMakeFiles/appFrameLayoutExample.dir/.rcc/qmlcache/appFrameLayoutExample_main_qml.cpp.obj	c60f0a5200863f74
+2171	2402	6821663293309780	appFrameLayoutExample.exe	d071adaffb7899c6
+10	43	6821663507841303	FrameLayoutExample/main.qml	972821f4f340fae0
+10	43	6821663507841303	E:/Works/Qt Course/Qt Quick Controls/build-FrameLayoutExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/FrameLayoutExample/main.qml	972821f4f340fae0
+6	325	6821663510673258	.qt_plugins/Qt6_QmlPlugins_Imports_appFrameLayoutExample.cmake	f96a658d125e0924
+6	325	6821663510673258	E:/Works/Qt Course/Qt Quick Controls/build-FrameLayoutExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appFrameLayoutExample.cmake	f96a658d125e0924
+325	354	6821663510964168	.rcc/qrc_appFrameLayoutExample_raw_qml_0.cpp	41e9e94dda903c24
+325	354	6821663510964168	E:/Works/Qt Course/Qt Quick Controls/build-FrameLayoutExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_appFrameLayoutExample_raw_qml_0.cpp	41e9e94dda903c24
+328	470	6821663512055070	.rcc/qmlcache/appFrameLayoutExample_main_qml.cpp	ab723edd1d6e82aa
+328	470	6821663512055070	E:/Works/Qt Course/Qt Quick Controls/build-FrameLayoutExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/appFrameLayoutExample_main_qml.cpp	ab723edd1d6e82aa
+474	549	6821663512911032	CMakeFiles/appFrameLayoutExample.dir/.rcc/qrc_appFrameLayoutExample_raw_qml_0.cpp.obj	3ffe7857c33b2dda
+471	2059	6821663528023244	CMakeFiles/appFrameLayoutExample.dir/.rcc/qmlcache/appFrameLayoutExample_main_qml.cpp.obj	c60f0a5200863f74
+2060	2238	6821663529768647	appFrameLayoutExample.exe	d071adaffb7899c6
+9	39	6821664269352615	FrameLayoutExample/main.qml	972821f4f340fae0
+9	39	6821664269352615	E:/Works/Qt Course/Qt Quick Controls/build-FrameLayoutExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/FrameLayoutExample/main.qml	972821f4f340fae0
+5	316	6821664272107952	.qt_plugins/Qt6_QmlPlugins_Imports_appFrameLayoutExample.cmake	f96a658d125e0924
+5	316	6821664272107952	E:/Works/Qt Course/Qt Quick Controls/build-FrameLayoutExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appFrameLayoutExample.cmake	f96a658d125e0924
+317	342	6821664272385320	.rcc/qrc_appFrameLayoutExample_raw_qml_0.cpp	41e9e94dda903c24
+317	342	6821664272385320	E:/Works/Qt Course/Qt Quick Controls/build-FrameLayoutExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_appFrameLayoutExample_raw_qml_0.cpp	41e9e94dda903c24
+319	451	6821664273373797	.rcc/qmlcache/appFrameLayoutExample_main_qml.cpp	ab723edd1d6e82aa
+319	451	6821664273373797	E:/Works/Qt Course/Qt Quick Controls/build-FrameLayoutExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/appFrameLayoutExample_main_qml.cpp	ab723edd1d6e82aa
+454	499	6821664273959209	CMakeFiles/appFrameLayoutExample.dir/.rcc/qrc_appFrameLayoutExample_raw_qml_0.cpp.obj	3ffe7857c33b2dda
+451	2071	6821664289675105	CMakeFiles/appFrameLayoutExample.dir/.rcc/qmlcache/appFrameLayoutExample_main_qml.cpp.obj	c60f0a5200863f74
+2071	2296	6821664291899119	appFrameLayoutExample.exe	d071adaffb7899c6
+8	39	6821664405105205	FrameLayoutExample/main.qml	972821f4f340fae0
+8	39	6821664405105205	E:/Works/Qt Course/Qt Quick Controls/build-FrameLayoutExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/FrameLayoutExample/main.qml	972821f4f340fae0
+5	329	6821664408011348	.qt_plugins/Qt6_QmlPlugins_Imports_appFrameLayoutExample.cmake	f96a658d125e0924
+5	329	6821664408011348	E:/Works/Qt Course/Qt Quick Controls/build-FrameLayoutExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appFrameLayoutExample.cmake	f96a658d125e0924
+329	358	6821664408297056	.rcc/qrc_appFrameLayoutExample_raw_qml_0.cpp	41e9e94dda903c24
+329	358	6821664408297056	E:/Works/Qt Course/Qt Quick Controls/build-FrameLayoutExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_appFrameLayoutExample_raw_qml_0.cpp	41e9e94dda903c24
+333	482	6821664409454051	.rcc/qmlcache/appFrameLayoutExample_main_qml.cpp	ab723edd1d6e82aa
+333	482	6821664409454051	E:/Works/Qt Course/Qt Quick Controls/build-FrameLayoutExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/appFrameLayoutExample_main_qml.cpp	ab723edd1d6e82aa
+486	565	6821664410377202	CMakeFiles/appFrameLayoutExample.dir/.rcc/qrc_appFrameLayoutExample_raw_qml_0.cpp.obj	3ffe7857c33b2dda
+483	2108	6821664425804421	CMakeFiles/appFrameLayoutExample.dir/.rcc/qmlcache/appFrameLayoutExample_main_qml.cpp.obj	c60f0a5200863f74
+2108	2287	6821664427524035	appFrameLayoutExample.exe	d071adaffb7899c6
+8	42	6821664564861361	FrameLayoutExample/main.qml	972821f4f340fae0
+8	42	6821664564861361	E:/Works/Qt Course/Qt Quick Controls/build-FrameLayoutExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/FrameLayoutExample/main.qml	972821f4f340fae0
+12	333	6821664567779437	.qt_plugins/Qt6_QmlPlugins_Imports_appFrameLayoutExample.cmake	f96a658d125e0924
+12	333	6821664567779437	E:/Works/Qt Course/Qt Quick Controls/build-FrameLayoutExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appFrameLayoutExample.cmake	f96a658d125e0924
+336	364	6821664568094888	.rcc/qrc_appFrameLayoutExample_raw_qml_0.cpp	41e9e94dda903c24
+336	364	6821664568094888	E:/Works/Qt Course/Qt Quick Controls/build-FrameLayoutExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_appFrameLayoutExample_raw_qml_0.cpp	41e9e94dda903c24
+333	478	6821664569157657	.rcc/qmlcache/appFrameLayoutExample_main_qml.cpp	ab723edd1d6e82aa
+333	478	6821664569157657	E:/Works/Qt Course/Qt Quick Controls/build-FrameLayoutExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/appFrameLayoutExample_main_qml.cpp	ab723edd1d6e82aa
+482	558	6821664570039558	CMakeFiles/appFrameLayoutExample.dir/.rcc/qrc_appFrameLayoutExample_raw_qml_0.cpp.obj	3ffe7857c33b2dda
+478	2065	6821664585104770	CMakeFiles/appFrameLayoutExample.dir/.rcc/qmlcache/appFrameLayoutExample_main_qml.cpp.obj	c60f0a5200863f74
+2065	2265	6821664587073089	appFrameLayoutExample.exe	d071adaffb7899c6
+11	44	6821664810675128	FrameLayoutExample/main.qml	972821f4f340fae0
+11	44	6821664810675128	E:/Works/Qt Course/Qt Quick Controls/build-FrameLayoutExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/FrameLayoutExample/main.qml	972821f4f340fae0
+7	332	6821664813543894	.qt_plugins/Qt6_QmlPlugins_Imports_appFrameLayoutExample.cmake	f96a658d125e0924
+7	332	6821664813543894	E:/Works/Qt Course/Qt Quick Controls/build-FrameLayoutExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appFrameLayoutExample.cmake	f96a658d125e0924
+332	361	6821664813847706	.rcc/qrc_appFrameLayoutExample_raw_qml_0.cpp	41e9e94dda903c24
+332	361	6821664813847706	E:/Works/Qt Course/Qt Quick Controls/build-FrameLayoutExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_appFrameLayoutExample_raw_qml_0.cpp	41e9e94dda903c24
+335	486	6821664815024311	.rcc/qmlcache/appFrameLayoutExample_main_qml.cpp	ab723edd1d6e82aa
+335	486	6821664815024311	E:/Works/Qt Course/Qt Quick Controls/build-FrameLayoutExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/appFrameLayoutExample_main_qml.cpp	ab723edd1d6e82aa
+488	572	6821664815962756	CMakeFiles/appFrameLayoutExample.dir/.rcc/qrc_appFrameLayoutExample_raw_qml_0.cpp.obj	3ffe7857c33b2dda
+486	2138	6821664831626059	CMakeFiles/appFrameLayoutExample.dir/.rcc/qmlcache/appFrameLayoutExample_main_qml.cpp.obj	c60f0a5200863f74
+2138	2358	6821664833787221	appFrameLayoutExample.exe	d071adaffb7899c6
+6	38	6821664945192826	FrameLayoutExample/main.qml	972821f4f340fae0
+6	38	6821664945192826	E:/Works/Qt Course/Qt Quick Controls/build-FrameLayoutExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/FrameLayoutExample/main.qml	972821f4f340fae0
+10	366	6821664948462006	.qt_plugins/Qt6_QmlPlugins_Imports_appFrameLayoutExample.cmake	f96a658d125e0924
+10	366	6821664948462006	E:/Works/Qt Course/Qt Quick Controls/build-FrameLayoutExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appFrameLayoutExample.cmake	f96a658d125e0924
+366	393	6821664948759315	.rcc/qrc_appFrameLayoutExample_raw_qml_0.cpp	41e9e94dda903c24
+366	393	6821664948759315	E:/Works/Qt Course/Qt Quick Controls/build-FrameLayoutExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_appFrameLayoutExample_raw_qml_0.cpp	41e9e94dda903c24
+369	527	6821664950013748	.rcc/qmlcache/appFrameLayoutExample_main_qml.cpp	ab723edd1d6e82aa
+369	527	6821664950013748	E:/Works/Qt Course/Qt Quick Controls/build-FrameLayoutExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/appFrameLayoutExample_main_qml.cpp	ab723edd1d6e82aa
+530	616	6821664950989287	CMakeFiles/appFrameLayoutExample.dir/.rcc/qrc_appFrameLayoutExample_raw_qml_0.cpp.obj	3ffe7857c33b2dda
+527	2201	6821664966832603	CMakeFiles/appFrameLayoutExample.dir/.rcc/qmlcache/appFrameLayoutExample_main_qml.cpp.obj	c60f0a5200863f74
+2202	2396	6821664968751905	appFrameLayoutExample.exe	d071adaffb7899c6

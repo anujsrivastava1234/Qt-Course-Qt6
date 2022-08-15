@@ -1,0 +1,12 @@
+-rootPath
+E:/Works/Qt Course/Qt 3D/Qt3DExample
+-cmake-output
+-output-file
+E:/Works/Qt Course/Qt 3D/build-Qt3DExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appQt3DExample.cmake
+-importPath
+C:/Qt/6.3.1/mingw_64/./qml
+E:/Works/Qt Course/Qt 3D/build-Qt3DExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/Qt3DExample
+E:/Works/Qt Course/Qt 3D/build-Qt3DExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug
+-qrcFiles
+E:/Works/Qt Course/Qt 3D/build-Qt3DExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmake_Qt3DExample.qrc
+E:/Works/Qt Course/Qt 3D/build-Qt3DExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/appQt3DExample_raw_qml_0.qrc

@@ -1,0 +1,142 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-cd47b46b21de5d1fac14.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "VedioPlayer",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-6266944ebf424f0f4db2.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-0f0db7753edb59862883.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appVedioPlayer::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appVedioPlayer-Debug-5aa5f9582a91bb725948.json",
+					"name" : "appVedioPlayer",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appVedioPlayer_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appVedioPlayer_autogen-Debug-56019a42a4bc5cb1a7bd.json",
+					"name" : "appVedioPlayer_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appVedioPlayer_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appVedioPlayer_autogen_timestamp_deps-Debug-fc10d41b0450434818d0.json",
+					"name" : "appVedioPlayer_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appVedioPlayer_other_files::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appVedioPlayer_other_files-Debug-5b3e793db9e4cc4cb514.json",
+					"name" : "appVedioPlayer_other_files",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appVedioPlayer_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appVedioPlayer_qmlimportscan-Debug-69d280046a20e50a6bdf.json",
+					"name" : "appVedioPlayer_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appVedioPlayer_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appVedioPlayer_qmllint-Debug-3355c8e1164662f3c868.json",
+					"name" : "appVedioPlayer_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appVedioPlayer_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appVedioPlayer_qmltyperegistration-Debug-6a827b67fa892ea341c3.json",
+					"name" : "appVedioPlayer_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appVedioPlayer_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appVedioPlayer_tooling-Debug-c7abcfba38bccfdcd5d2.json",
+					"name" : "appVedioPlayer_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/Works/Qt Course/QtQuickMultimedia/build-VedioPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
+		"source" : "E:/Works/Qt Course/QtQuickMultimedia/VedioPlayer"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

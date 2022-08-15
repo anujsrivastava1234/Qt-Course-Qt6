@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>song.mp3</file>
+    </qresource>
+</RCC>

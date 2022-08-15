@@ -1,0 +1,4 @@
+module 4-ScatterChart
+typeinfo app4-ScatterChart.qmltypes
+prefer :/4-ScatterChart/
+

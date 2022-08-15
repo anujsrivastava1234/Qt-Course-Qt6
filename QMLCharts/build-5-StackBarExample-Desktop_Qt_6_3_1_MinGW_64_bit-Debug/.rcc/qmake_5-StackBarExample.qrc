@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/5-StackBarExample">
+    <file alias="qmldir">E:/Works/Qt Course/QMLCharts/build-5-StackBarExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/5-StackBarExample/qmldir</file>
+  </qresource>
+</RCC>
+

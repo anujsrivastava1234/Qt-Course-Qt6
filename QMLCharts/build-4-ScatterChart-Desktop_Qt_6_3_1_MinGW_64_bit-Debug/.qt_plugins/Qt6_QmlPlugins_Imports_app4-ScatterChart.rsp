@@ -1,0 +1,12 @@
+-rootPath
+E:/Works/Qt Course/QMLCharts/4-ScatterChart
+-cmake-output
+-output-file
+E:/Works/Qt Course/QMLCharts/build-4-ScatterChart-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app4-ScatterChart.cmake
+-importPath
+C:/Qt/6.3.1/mingw_64/./qml
+E:/Works/Qt Course/QMLCharts/build-4-ScatterChart-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/4-ScatterChart
+E:/Works/Qt Course/QMLCharts/build-4-ScatterChart-Desktop_Qt_6_3_1_MinGW_64_bit-Debug
+-qrcFiles
+E:/Works/Qt Course/QMLCharts/build-4-ScatterChart-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmake_4-ScatterChart.qrc
+E:/Works/Qt Course/QMLCharts/build-4-ScatterChart-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/app4-ScatterChart_raw_qml_0.qrc

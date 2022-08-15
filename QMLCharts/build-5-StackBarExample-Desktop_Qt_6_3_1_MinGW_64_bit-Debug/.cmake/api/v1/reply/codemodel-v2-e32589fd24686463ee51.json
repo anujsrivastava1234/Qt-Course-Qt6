@@ -1,0 +1,142 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-a7edd356001d4b931819.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "5-StackBarExample",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-14c81861530abb8a1862.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-f43c2a21198e8cadc3b2.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app5-StackBarExample::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app5-StackBarExample-Debug-added815878638f6baa2.json",
+					"name" : "app5-StackBarExample",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app5-StackBarExample_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app5-StackBarExample_autogen-Debug-8f5f7ebaca1e1fc0c9ba.json",
+					"name" : "app5-StackBarExample_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app5-StackBarExample_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app5-StackBarExample_autogen_timestamp_deps-Debug-24f6d50af92f0d13fb83.json",
+					"name" : "app5-StackBarExample_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app5-StackBarExample_other_files::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app5-StackBarExample_other_files-Debug-c2bf9bfb6c012adfd468.json",
+					"name" : "app5-StackBarExample_other_files",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app5-StackBarExample_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app5-StackBarExample_qmlimportscan-Debug-a658ff839779ecaebac5.json",
+					"name" : "app5-StackBarExample_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app5-StackBarExample_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app5-StackBarExample_qmllint-Debug-377f2c718503c4c828e7.json",
+					"name" : "app5-StackBarExample_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app5-StackBarExample_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app5-StackBarExample_qmltyperegistration-Debug-ae9f78cf3b58d0afd84a.json",
+					"name" : "app5-StackBarExample_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app5-StackBarExample_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app5-StackBarExample_tooling-Debug-a993048b297a6e76fc56.json",
+					"name" : "app5-StackBarExample_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/Works/Qt Course/QMLCharts/build-5-StackBarExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
+		"source" : "E:/Works/Qt Course/QMLCharts/5-StackBarExample"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

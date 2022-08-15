@@ -1,0 +1,106 @@
+# ninja log v5
+5	77	6821742960489424	.rcc/qmlcache/appVedioPlayer_qmlcache_loader.cpp	ca2ae2b26be0216d
+5	77	6821742960489424	E:/Works/Qt Course/QtQuickMultimedia/build-VedioPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/appVedioPlayer_qmlcache_loader.cpp	ca2ae2b26be0216d
+10	45	6821827552544340	VedioPlayer/main.qml	e4a320136e9a58d7
+78	331	6821742962196522	E:/Works/Qt Course/QtQuickMultimedia/build-VedioPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/appVedioPlayer_autogen/mocs_compilation.cpp	6168ee6aa1071123
+78	331	6821742962196522	appVedioPlayer_autogen/timestamp	6168ee6aa1071123
+358	388	6821827555980844	E:/Works/Qt Course/QtQuickMultimedia/build-VedioPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_appVedioPlayer_raw_qml_0.cpp	843d5b16e05b2a07
+10	45	6821827552544340	E:/Works/Qt Course/QtQuickMultimedia/build-VedioPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/VedioPlayer/main.qml	e4a320136e9a58d7
+333	383	6821742963617936	meta_types/appVedioPlayer_json_file_list.txt.timestamp	8cc8d264d59727ad
+78	331	6821742962196522	appVedioPlayer_autogen/mocs_compilation.cpp	6168ee6aa1071123
+78	331	6821742962196522	E:/Works/Qt Course/QtQuickMultimedia/build-VedioPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/appVedioPlayer_autogen/timestamp	6168ee6aa1071123
+7	358	6821827555668822	.qt_plugins/Qt6_QmlPlugins_Imports_appVedioPlayer.cmake	3489f959d5bce58c
+431	577	6821742964794074	E:/Works/Qt Course/QtQuickMultimedia/build-VedioPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/appvedioplayer_qmltyperegistrations.cpp	4d6de1685f6ef9c3
+333	383	6821742963617936	meta_types/appVedioPlayer_json_file_list.txt	8cc8d264d59727ad
+606	2333	6821742982882313	E:/Works/Qt Course/QtQuickMultimedia/build-VedioPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/appVedioPlayer_autogen/EWIEGA46WW/qrc_res.cpp	f6b047393034a417
+333	383	6821742963617936	E:/Works/Qt Course/QtQuickMultimedia/build-VedioPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/appVedioPlayer_json_file_list.txt	8cc8d264d59727ad
+333	383	6821742963617936	E:/Works/Qt Course/QtQuickMultimedia/build-VedioPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/appVedioPlayer_json_file_list.txt.timestamp	8cc8d264d59727ad
+383	431	6821742964096939	meta_types/qt6appvedioplayer_debug_metatypes.json.gen	9da1af7423d6613a
+383	431	6821742964096939	meta_types/qt6appvedioplayer_debug_metatypes.json	9da1af7423d6613a
+361	526	6821827557291164	.rcc/qmlcache/appVedioPlayer_main_qml.cpp	289308aeab290196
+383	431	6821742964096939	E:/Works/Qt Course/QtQuickMultimedia/build-VedioPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6appvedioplayer_debug_metatypes.json.gen	9da1af7423d6613a
+361	526	6821827557291164	E:/Works/Qt Course/QtQuickMultimedia/build-VedioPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/appVedioPlayer_main_qml.cpp	289308aeab290196
+383	431	6821742964096939	E:/Works/Qt Course/QtQuickMultimedia/build-VedioPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6appvedioplayer_debug_metatypes.json	9da1af7423d6613a
+431	577	6821742964794074	appvedioplayer_qmltyperegistrations.cpp	4d6de1685f6ef9c3
+431	577	6821742964794074	VedioPlayer/appVedioPlayer.qmltypes	4d6de1685f6ef9c3
+431	577	6821742964794074	E:/Works/Qt Course/QtQuickMultimedia/build-VedioPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/VedioPlayer/appVedioPlayer.qmltypes	4d6de1685f6ef9c3
+7	358	6821827555668822	E:/Works/Qt Course/QtQuickMultimedia/build-VedioPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appVedioPlayer.cmake	3489f959d5bce58c
+358	388	6821827555980844	.rcc/qrc_appVedioPlayer_raw_qml_0.cpp	843d5b16e05b2a07
+595	651	6821742966217890	.rcc/qrc_qmake_VedioPlayer.cpp	15902f8596a0cb4a
+2359	6247	6821743022228216	CMakeFiles/appVedioPlayer.dir/.rcc/qmlcache/appVedioPlayer_qmlcache_loader.cpp.obj	820ea7b98a4b8ed6
+528	611	6821827558220271	CMakeFiles/appVedioPlayer.dir/.rcc/qrc_appVedioPlayer_raw_qml_0.cpp.obj	4ae90ed12289baca
+595	651	6821742966217890	E:/Works/Qt Course/QtQuickMultimedia/build-VedioPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_qmake_VedioPlayer.cpp	15902f8596a0cb4a
+606	2333	6821742982882313	appVedioPlayer_autogen/EWIEGA46WW/qrc_res.cpp	f6b047393034a417
+2333	2533	6821742984987246	CMakeFiles/appVedioPlayer.dir/appVedioPlayer_autogen/mocs_compilation.cpp.obj	d9b5a328f65bfef7
+2349	2549	6821742985001221	CMakeFiles/appVedioPlayer.dir/.rcc/qrc_qmake_VedioPlayer.cpp.obj	c73e67c5d8128f3e
+2338	5540	6821743015174845	CMakeFiles/appVedioPlayer.dir/appvedioplayer_qmltyperegistrations.cpp.obj	6804f0bbe40367a9
+2344	5972	6821743019511202	CMakeFiles/appVedioPlayer.dir/main.cpp.obj	69c4895936a5a033
+526	2587	6821827577966490	CMakeFiles/appVedioPlayer.dir/.rcc/qmlcache/appVedioPlayer_main_qml.cpp.obj	628c003d015b0ec2
+2366	66119	6821743620726536	CMakeFiles/appVedioPlayer.dir/appVedioPlayer_autogen/EWIEGA46WW/qrc_res.cpp.obj	9d5eaed478765928
+2587	3194	6821827584005539	appVedioPlayer.exe	b944e29b6c2bfa1
+5	35	6821828649894495	VedioPlayer/main.qml	e4a320136e9a58d7
+5	35	6821828649894495	E:/Works/Qt Course/QtQuickMultimedia/build-VedioPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/VedioPlayer/main.qml	e4a320136e9a58d7
+8	371	6821828653248795	.qt_plugins/Qt6_QmlPlugins_Imports_appVedioPlayer.cmake	3489f959d5bce58c
+8	371	6821828653248795	E:/Works/Qt Course/QtQuickMultimedia/build-VedioPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appVedioPlayer.cmake	3489f959d5bce58c
+374	403	6821828653573968	.rcc/qrc_appVedioPlayer_raw_qml_0.cpp	843d5b16e05b2a07
+374	403	6821828653573968	E:/Works/Qt Course/QtQuickMultimedia/build-VedioPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_appVedioPlayer_raw_qml_0.cpp	843d5b16e05b2a07
+371	545	6821828654932126	.rcc/qmlcache/appVedioPlayer_main_qml.cpp	289308aeab290196
+371	545	6821828654932126	E:/Works/Qt Course/QtQuickMultimedia/build-VedioPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/appVedioPlayer_main_qml.cpp	289308aeab290196
+549	645	6821828656013133	CMakeFiles/appVedioPlayer.dir/.rcc/qrc_appVedioPlayer_raw_qml_0.cpp.obj	4ae90ed12289baca
+545	2555	6821828675098013	CMakeFiles/appVedioPlayer.dir/.rcc/qmlcache/appVedioPlayer_main_qml.cpp.obj	628c003d015b0ec2
+2556	3133	6821828680826721	appVedioPlayer.exe	b944e29b6c2bfa1
+9	38	6821828789141433	VedioPlayer/main.qml	e4a320136e9a58d7
+9	38	6821828789141433	E:/Works/Qt Course/QtQuickMultimedia/build-VedioPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/VedioPlayer/main.qml	e4a320136e9a58d7
+5	331	6821828792071285	.qt_plugins/Qt6_QmlPlugins_Imports_appVedioPlayer.cmake	3489f959d5bce58c
+5	331	6821828792071285	E:/Works/Qt Course/QtQuickMultimedia/build-VedioPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appVedioPlayer.cmake	3489f959d5bce58c
+331	360	6821828792374080	.rcc/qrc_appVedioPlayer_raw_qml_0.cpp	843d5b16e05b2a07
+331	360	6821828792374080	E:/Works/Qt Course/QtQuickMultimedia/build-VedioPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_appVedioPlayer_raw_qml_0.cpp	843d5b16e05b2a07
+335	509	6821828793784197	.rcc/qmlcache/appVedioPlayer_main_qml.cpp	289308aeab290196
+335	509	6821828793784197	E:/Works/Qt Course/QtQuickMultimedia/build-VedioPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/appVedioPlayer_main_qml.cpp	289308aeab290196
+512	572	6821828794487588	CMakeFiles/appVedioPlayer.dir/.rcc/qrc_appVedioPlayer_raw_qml_0.cpp.obj	4ae90ed12289baca
+509	2449	6821828813257049	CMakeFiles/appVedioPlayer.dir/.rcc/qmlcache/appVedioPlayer_main_qml.cpp.obj	628c003d015b0ec2
+2450	3116	6821828819880570	appVedioPlayer.exe	b944e29b6c2bfa1
+8	43	6821828935033121	VedioPlayer/main.qml	e4a320136e9a58d7
+8	43	6821828935033121	E:/Works/Qt Course/QtQuickMultimedia/build-VedioPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/VedioPlayer/main.qml	e4a320136e9a58d7
+5	349	6821828938075821	.qt_plugins/Qt6_QmlPlugins_Imports_appVedioPlayer.cmake	3489f959d5bce58c
+5	349	6821828938075821	E:/Works/Qt Course/QtQuickMultimedia/build-VedioPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appVedioPlayer.cmake	3489f959d5bce58c
+353	382	6821828938409714	.rcc/qrc_appVedioPlayer_raw_qml_0.cpp	843d5b16e05b2a07
+353	382	6821828938409714	E:/Works/Qt Course/QtQuickMultimedia/build-VedioPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_appVedioPlayer_raw_qml_0.cpp	843d5b16e05b2a07
+349	513	6821828939655908	.rcc/qmlcache/appVedioPlayer_main_qml.cpp	289308aeab290196
+349	513	6821828939655908	E:/Works/Qt Course/QtQuickMultimedia/build-VedioPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/appVedioPlayer_main_qml.cpp	289308aeab290196
+516	600	6821828940601530	CMakeFiles/appVedioPlayer.dir/.rcc/qrc_appVedioPlayer_raw_qml_0.cpp.obj	4ae90ed12289baca
+513	2484	6821828959415709	CMakeFiles/appVedioPlayer.dir/.rcc/qmlcache/appVedioPlayer_main_qml.cpp.obj	628c003d015b0ec2
+2484	3130	6821828965841026	appVedioPlayer.exe	b944e29b6c2bfa1
+11	43	6821830914660843	VedioPlayer/main.qml	e4a320136e9a58d7
+11	43	6821830914660843	E:/Works/Qt Course/QtQuickMultimedia/build-VedioPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/VedioPlayer/main.qml	e4a320136e9a58d7
+7	367	6821830917900493	.qt_plugins/Qt6_QmlPlugins_Imports_appVedioPlayer.cmake	3489f959d5bce58c
+7	367	6821830917900493	E:/Works/Qt Course/QtQuickMultimedia/build-VedioPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appVedioPlayer.cmake	3489f959d5bce58c
+367	397	6821830918207836	.rcc/qrc_appVedioPlayer_raw_qml_0.cpp	843d5b16e05b2a07
+367	397	6821830918207836	E:/Works/Qt Course/QtQuickMultimedia/build-VedioPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_appVedioPlayer_raw_qml_0.cpp	843d5b16e05b2a07
+370	528	6821830919454883	.rcc/qmlcache/appVedioPlayer_main_qml.cpp	289308aeab290196
+370	528	6821830919454883	E:/Works/Qt Course/QtQuickMultimedia/build-VedioPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/appVedioPlayer_main_qml.cpp	289308aeab290196
+530	621	6821830920451688	CMakeFiles/appVedioPlayer.dir/.rcc/qrc_appVedioPlayer_raw_qml_0.cpp.obj	4ae90ed12289baca
+528	2463	6821830938872928	CMakeFiles/appVedioPlayer.dir/.rcc/qmlcache/appVedioPlayer_main_qml.cpp.obj	628c003d015b0ec2
+2464	3021	6821830944400790	appVedioPlayer.exe	b944e29b6c2bfa1
+5	41	6822403605656326	VedioPlayer/main.qml	e4a320136e9a58d7
+5	41	6822403605656326	E:/Works/Qt Course/QtQuickMultimedia/build-VedioPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/VedioPlayer/main.qml	e4a320136e9a58d7
+9	345	6822403608713221	.qt_plugins/Qt6_QmlPlugins_Imports_appVedioPlayer.cmake	3489f959d5bce58c
+9	345	6822403608713221	E:/Works/Qt Course/QtQuickMultimedia/build-VedioPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appVedioPlayer.cmake	3489f959d5bce58c
+345	400	6822403609252879	.rcc/qrc_appVedioPlayer_raw_qml_0.cpp	843d5b16e05b2a07
+345	400	6822403609252879	E:/Works/Qt Course/QtQuickMultimedia/build-VedioPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_appVedioPlayer_raw_qml_0.cpp	843d5b16e05b2a07
+348	566	6822403610841743	.rcc/qmlcache/appVedioPlayer_main_qml.cpp	289308aeab290196
+348	566	6822403610841743	E:/Works/Qt Course/QtQuickMultimedia/build-VedioPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/appVedioPlayer_main_qml.cpp	289308aeab290196
+569	1221	6822403617483485	CMakeFiles/appVedioPlayer.dir/.rcc/qrc_appVedioPlayer_raw_qml_0.cpp.obj	4ae90ed12289baca
+566	2412	6822403629373573	CMakeFiles/appVedioPlayer.dir/.rcc/qmlcache/appVedioPlayer_main_qml.cpp.obj	628c003d015b0ec2
+2412	3583	6822403641049900	appVedioPlayer.exe	b944e29b6c2bfa1
+6	38	6822404128234069	VedioPlayer/main.qml	e4a320136e9a58d7
+6	38	6822404128234069	E:/Works/Qt Course/QtQuickMultimedia/build-VedioPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/VedioPlayer/main.qml	e4a320136e9a58d7
+9	321	6822404131065240	.qt_plugins/Qt6_QmlPlugins_Imports_appVedioPlayer.cmake	3489f959d5bce58c
+9	321	6822404131065240	E:/Works/Qt Course/QtQuickMultimedia/build-VedioPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appVedioPlayer.cmake	3489f959d5bce58c
+325	354	6822404131388333	.rcc/qrc_appVedioPlayer_raw_qml_0.cpp	843d5b16e05b2a07
+325	354	6822404131388333	E:/Works/Qt Course/QtQuickMultimedia/build-VedioPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_appVedioPlayer_raw_qml_0.cpp	843d5b16e05b2a07
+322	478	6822404132575487	.rcc/qmlcache/appVedioPlayer_main_qml.cpp	289308aeab290196
+322	478	6822404132575487	E:/Works/Qt Course/QtQuickMultimedia/build-VedioPlayer-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/appVedioPlayer_main_qml.cpp	289308aeab290196
+481	565	6822404133520475	CMakeFiles/appVedioPlayer.dir/.rcc/qrc_appVedioPlayer_raw_qml_0.cpp.obj	4ae90ed12289baca
+479	2203	6822404149879889	CMakeFiles/appVedioPlayer.dir/.rcc/qmlcache/appVedioPlayer_main_qml.cpp.obj	628c003d015b0ec2
+2203	2780	6822404155622771	appVedioPlayer.exe	b944e29b6c2bfa1

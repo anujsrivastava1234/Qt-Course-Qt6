@@ -1,0 +1,142 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-2141f0f9befe23bd0706.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "3-PieChartExample",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-ba58b9cc82e08bc9b734.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-45879bfafea492636735.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app3-PieChartExample::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app3-PieChartExample-Debug-370aaddc95d4e3c56375.json",
+					"name" : "app3-PieChartExample",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app3-PieChartExample_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app3-PieChartExample_autogen-Debug-3f71fea29d54e413051c.json",
+					"name" : "app3-PieChartExample_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app3-PieChartExample_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app3-PieChartExample_autogen_timestamp_deps-Debug-f0228fc1d34f98ad3d61.json",
+					"name" : "app3-PieChartExample_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app3-PieChartExample_other_files::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app3-PieChartExample_other_files-Debug-b1c2797d16397d3292bc.json",
+					"name" : "app3-PieChartExample_other_files",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app3-PieChartExample_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app3-PieChartExample_qmlimportscan-Debug-4672c2ad325d8cb48543.json",
+					"name" : "app3-PieChartExample_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app3-PieChartExample_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app3-PieChartExample_qmllint-Debug-0d966b21a51864224610.json",
+					"name" : "app3-PieChartExample_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app3-PieChartExample_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app3-PieChartExample_qmltyperegistration-Debug-8a6d9aa435ece6ffca38.json",
+					"name" : "app3-PieChartExample_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app3-PieChartExample_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app3-PieChartExample_tooling-Debug-f2eceab4297970076808.json",
+					"name" : "app3-PieChartExample_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/Works/Qt Course/QMLCharts/build-3-PieChartExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
+		"source" : "E:/Works/Qt Course/QMLCharts/3-PieChartExample"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

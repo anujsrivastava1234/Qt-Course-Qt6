@@ -1,0 +1,4 @@
+module MusicPlayer
+typeinfo appMusicPlayer.qmltypes
+prefer :/MusicPlayer/
+

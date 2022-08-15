@@ -1,0 +1,4 @@
+module ToolTipExample
+typeinfo appToolTipExample.qmltypes
+prefer :/ToolTipExample/
+

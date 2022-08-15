@@ -1,0 +1,4 @@
+module StackViewExample
+typeinfo appStackViewExample.qmltypes
+prefer :/StackViewExample/
+

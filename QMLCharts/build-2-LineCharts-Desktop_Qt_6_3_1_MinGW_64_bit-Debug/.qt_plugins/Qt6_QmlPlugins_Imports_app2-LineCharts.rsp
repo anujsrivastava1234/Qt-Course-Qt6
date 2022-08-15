@@ -1,0 +1,12 @@
+-rootPath
+E:/Works/Qt Course/QMLCharts/2-LineCharts
+-cmake-output
+-output-file
+E:/Works/Qt Course/QMLCharts/build-2-LineCharts-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app2-LineCharts.cmake
+-importPath
+C:/Qt/6.3.1/mingw_64/./qml
+E:/Works/Qt Course/QMLCharts/build-2-LineCharts-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-LineCharts
+E:/Works/Qt Course/QMLCharts/build-2-LineCharts-Desktop_Qt_6_3_1_MinGW_64_bit-Debug
+-qrcFiles
+E:/Works/Qt Course/QMLCharts/build-2-LineCharts-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmake_2-LineCharts.qrc
+E:/Works/Qt Course/QMLCharts/build-2-LineCharts-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/app2-LineCharts_raw_qml_0.qrc

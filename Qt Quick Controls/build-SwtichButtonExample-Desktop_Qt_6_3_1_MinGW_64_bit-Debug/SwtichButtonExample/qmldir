@@ -1,0 +1,4 @@
+module SwtichButtonExample
+typeinfo appSwtichButtonExample.qmltypes
+prefer :/SwtichButtonExample/
+

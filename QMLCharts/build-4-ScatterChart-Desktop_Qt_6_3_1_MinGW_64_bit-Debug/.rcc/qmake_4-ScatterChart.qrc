@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/4-ScatterChart">
+    <file alias="qmldir">E:/Works/Qt Course/QMLCharts/build-4-ScatterChart-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/4-ScatterChart/qmldir</file>
+  </qresource>
+</RCC>
+

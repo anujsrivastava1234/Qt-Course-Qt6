@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/2-LineCharts">
+    <file alias="qmldir">E:/Works/Qt Course/QMLCharts/build-2-LineCharts-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/2-LineCharts/qmldir</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,4 @@
+module 3-PieChartExample
+typeinfo app3-PieChartExample.qmltypes
+prefer :/3-PieChartExample/
+

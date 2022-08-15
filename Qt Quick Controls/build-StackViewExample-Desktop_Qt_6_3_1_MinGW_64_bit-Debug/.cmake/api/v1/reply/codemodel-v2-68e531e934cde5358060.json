@@ -1,0 +1,142 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-ecdacc83811b0ed0fe22.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "StackViewExample",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-ec557676fa5e9a12de75.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-d17e09c51eb186909859.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appStackViewExample::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appStackViewExample-Debug-f92501c823eee13e6957.json",
+					"name" : "appStackViewExample",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appStackViewExample_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appStackViewExample_autogen-Debug-4dfb4f524821605c017c.json",
+					"name" : "appStackViewExample_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appStackViewExample_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appStackViewExample_autogen_timestamp_deps-Debug-6e6b451a131322e7a5ad.json",
+					"name" : "appStackViewExample_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appStackViewExample_other_files::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appStackViewExample_other_files-Debug-2fbc1659e4dbc47495ca.json",
+					"name" : "appStackViewExample_other_files",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appStackViewExample_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appStackViewExample_qmlimportscan-Debug-b435709d21243f0972b8.json",
+					"name" : "appStackViewExample_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appStackViewExample_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appStackViewExample_qmllint-Debug-293acc3335df81023e11.json",
+					"name" : "appStackViewExample_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appStackViewExample_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appStackViewExample_qmltyperegistration-Debug-09d8d307554cea6ba016.json",
+					"name" : "appStackViewExample_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appStackViewExample_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appStackViewExample_tooling-Debug-f53fd53acffbef21fec8.json",
+					"name" : "appStackViewExample_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/Works/Qt Course/Qt Quick Controls/build-StackViewExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
+		"source" : "E:/Works/Qt Course/Qt Quick Controls/StackViewExample"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

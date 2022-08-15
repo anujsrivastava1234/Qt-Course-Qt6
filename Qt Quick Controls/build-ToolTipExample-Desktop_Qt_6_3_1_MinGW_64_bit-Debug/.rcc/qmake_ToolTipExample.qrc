@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/ToolTipExample">
+    <file alias="qmldir">E:/Works/Qt Course/Qt Quick Controls/build-ToolTipExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/ToolTipExample/qmldir</file>
+  </qresource>
+</RCC>
+

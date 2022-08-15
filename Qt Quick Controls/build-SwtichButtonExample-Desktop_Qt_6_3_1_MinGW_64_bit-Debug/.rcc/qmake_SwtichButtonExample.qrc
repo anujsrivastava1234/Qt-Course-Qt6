@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/SwtichButtonExample">
+    <file alias="qmldir">E:/Works/Qt Course/Qt Quick Controls/build-SwtichButtonExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/SwtichButtonExample/qmldir</file>
+  </qresource>
+</RCC>
+

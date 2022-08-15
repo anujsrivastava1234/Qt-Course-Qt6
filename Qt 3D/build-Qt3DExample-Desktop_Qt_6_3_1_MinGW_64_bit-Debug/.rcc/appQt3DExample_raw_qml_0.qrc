@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/Qt3DExample/">
+    <file alias="main.qml">E:/Works/Qt Course/Qt 3D/Qt3DExample/main.qml</file>
+  </qresource>
+</RCC>
+

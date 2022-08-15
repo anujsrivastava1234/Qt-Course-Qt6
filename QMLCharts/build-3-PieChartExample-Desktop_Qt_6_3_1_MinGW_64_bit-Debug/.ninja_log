@@ -1,0 +1,70 @@
+# ninja log v5
+4	65	6822480953638206	.rcc/qmlcache/app3-PieChartExample_qmlcache_loader.cpp	888455b38b64021e
+4	65	6822480953638206	E:/Works/Qt Course/QMLCharts/build-3-PieChartExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app3-PieChartExample_qmlcache_loader.cpp	888455b38b64021e
+12	70	6822480953682175	3-PieChartExample/main.qml	6e2ca62d6c5b2474
+12	70	6822480953682175	E:/Works/Qt Course/QMLCharts/build-3-PieChartExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-PieChartExample/main.qml	6e2ca62d6c5b2474
+65	364	6822480955727422	app3-PieChartExample_autogen/timestamp	d2ae1d647a036c41
+65	364	6822480955727422	app3-PieChartExample_autogen/mocs_compilation.cpp	d2ae1d647a036c41
+65	364	6822480955727422	E:/Works/Qt Course/QMLCharts/build-3-PieChartExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app3-PieChartExample_autogen/timestamp	d2ae1d647a036c41
+65	364	6822480955727422	E:/Works/Qt Course/QMLCharts/build-3-PieChartExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app3-PieChartExample_autogen/mocs_compilation.cpp	d2ae1d647a036c41
+367	418	6822480957238061	meta_types/app3-PieChartExample_json_file_list.txt	4918fe23ead83d22
+367	418	6822480957238061	meta_types/app3-PieChartExample_json_file_list.txt.timestamp	4918fe23ead83d22
+367	418	6822480957238061	E:/Works/Qt Course/QMLCharts/build-3-PieChartExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/app3-PieChartExample_json_file_list.txt	4918fe23ead83d22
+367	418	6822480957238061	E:/Works/Qt Course/QMLCharts/build-3-PieChartExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/app3-PieChartExample_json_file_list.txt.timestamp	4918fe23ead83d22
+418	478	6822480957830928	meta_types/qt6app3-piechartexample_debug_metatypes.json.gen	8019c67818999f66
+418	478	6822480957830928	meta_types/qt6app3-piechartexample_debug_metatypes.json	8019c67818999f66
+418	478	6822480957830928	E:/Works/Qt Course/QMLCharts/build-3-PieChartExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6app3-piechartexample_debug_metatypes.json.gen	8019c67818999f66
+418	478	6822480957830928	E:/Works/Qt Course/QMLCharts/build-3-PieChartExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6app3-piechartexample_debug_metatypes.json	8019c67818999f66
+17	659	6822480959645190	.qt_plugins/Qt6_QmlPlugins_Imports_app3-PieChartExample.cmake	6b67bda1c9bd411f
+17	659	6822480959645190	E:/Works/Qt Course/QMLCharts/build-3-PieChartExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app3-PieChartExample.cmake	6b67bda1c9bd411f
+478	685	6822480958857912	app3-piechartexample_qmltyperegistrations.cpp	bd5300501b8e2dbf
+478	685	6822480958857912	3-PieChartExample/app3-PieChartExample.qmltypes	bd5300501b8e2dbf
+478	685	6822480958857912	E:/Works/Qt Course/QMLCharts/build-3-PieChartExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/app3-piechartexample_qmltyperegistrations.cpp	bd5300501b8e2dbf
+478	685	6822480958857912	E:/Works/Qt Course/QMLCharts/build-3-PieChartExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-PieChartExample/app3-PieChartExample.qmltypes	bd5300501b8e2dbf
+664	715	6822480960165658	.rcc/qrc_qmake_3-PieChartExample.cpp	6f64f87ba84241ef
+664	715	6822480960165658	E:/Works/Qt Course/QMLCharts/build-3-PieChartExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_qmake_3-PieChartExample.cpp	6f64f87ba84241ef
+660	723	6822480960278463	.rcc/qrc_app3-PieChartExample_raw_qml_0.cpp	38fb1ea7dd2653cb
+660	723	6822480960278463	E:/Works/Qt Course/QMLCharts/build-3-PieChartExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app3-PieChartExample_raw_qml_0.cpp	38fb1ea7dd2653cb
+685	881	6822480961758642	.rcc/qmlcache/app3-PieChartExample_main_qml.cpp	7fbdd31920047f73
+685	881	6822480961758642	E:/Works/Qt Course/QMLCharts/build-3-PieChartExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app3-PieChartExample_main_qml.cpp	7fbdd31920047f73
+882	1071	6822480963789976	CMakeFiles/app3-PieChartExample.dir/app3-PieChartExample_autogen/mocs_compilation.cpp.obj	1d278e316dac3165
+904	1141	6822480964266239	CMakeFiles/app3-PieChartExample.dir/.rcc/qrc_qmake_3-PieChartExample.cpp.obj	8f03e6a57c99289d
+912	1175	6822480964722697	CMakeFiles/app3-PieChartExample.dir/.rcc/qrc_app3-PieChartExample_raw_qml_0.cpp.obj	3ad7538e5cd3d126
+890	3863	6822480991700141	CMakeFiles/app3-PieChartExample.dir/app3-piechartexample_qmltyperegistrations.cpp.obj	69aac266f80c43b5
+885	4293	6822480996000025	CMakeFiles/app3-PieChartExample.dir/main.cpp.obj	eab40371e023d8b3
+893	4354	6822480996582944	CMakeFiles/app3-PieChartExample.dir/.rcc/qmlcache/app3-PieChartExample_main_qml.cpp.obj	8b88fa3e5b133659
+898	4537	6822480998387325	CMakeFiles/app3-PieChartExample.dir/.rcc/qmlcache/app3-PieChartExample_qmlcache_loader.cpp.obj	f7d5f3db8be589ff
+4538	5051	6822481003526784	app3-PieChartExample.exe	4b6cffee6a47fb0d
+54	102	6822481274849704	3-PieChartExample/main.qml	6e2ca62d6c5b2474
+54	102	6822481274849704	E:/Works/Qt Course/QMLCharts/build-3-PieChartExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-PieChartExample/main.qml	6e2ca62d6c5b2474
+61	676	6822481280534757	.qt_plugins/Qt6_QmlPlugins_Imports_app3-PieChartExample.cmake	6b67bda1c9bd411f
+61	676	6822481280534757	E:/Works/Qt Course/QMLCharts/build-3-PieChartExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app3-PieChartExample.cmake	6b67bda1c9bd411f
+676	736	6822481281186269	.rcc/qrc_app3-PieChartExample_raw_qml_0.cpp	38fb1ea7dd2653cb
+676	736	6822481281186269	E:/Works/Qt Course/QMLCharts/build-3-PieChartExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app3-PieChartExample_raw_qml_0.cpp	38fb1ea7dd2653cb
+684	967	6822481283352426	.rcc/qmlcache/app3-PieChartExample_main_qml.cpp	7fbdd31920047f73
+684	967	6822481283352426	E:/Works/Qt Course/QMLCharts/build-3-PieChartExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app3-PieChartExample_main_qml.cpp	7fbdd31920047f73
+973	1101	6822481284851336	CMakeFiles/app3-PieChartExample.dir/.rcc/qrc_app3-PieChartExample_raw_qml_0.cpp.obj	3ad7538e5cd3d126
+968	3956	6822481313352979	CMakeFiles/app3-PieChartExample.dir/.rcc/qmlcache/app3-PieChartExample_main_qml.cpp.obj	8b88fa3e5b133659
+3957	4347	6822481317180992	app3-PieChartExample.exe	4b6cffee6a47fb0d
+16	87	6822481491664628	3-PieChartExample/main.qml	6e2ca62d6c5b2474
+16	87	6822481491664628	E:/Works/Qt Course/QMLCharts/build-3-PieChartExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-PieChartExample/main.qml	6e2ca62d6c5b2474
+24	726	6822481498006896	.qt_plugins/Qt6_QmlPlugins_Imports_app3-PieChartExample.cmake	6b67bda1c9bd411f
+24	726	6822481498006896	E:/Works/Qt Course/QMLCharts/build-3-PieChartExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app3-PieChartExample.cmake	6b67bda1c9bd411f
+732	780	6822481498615075	.rcc/qrc_app3-PieChartExample_raw_qml_0.cpp	38fb1ea7dd2653cb
+732	780	6822481498615075	E:/Works/Qt Course/QMLCharts/build-3-PieChartExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app3-PieChartExample_raw_qml_0.cpp	38fb1ea7dd2653cb
+726	944	6822481500080621	.rcc/qmlcache/app3-PieChartExample_main_qml.cpp	7fbdd31920047f73
+726	944	6822481500080621	E:/Works/Qt Course/QMLCharts/build-3-PieChartExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app3-PieChartExample_main_qml.cpp	7fbdd31920047f73
+951	1083	6822481501658521	CMakeFiles/app3-PieChartExample.dir/.rcc/qrc_app3-PieChartExample_raw_qml_0.cpp.obj	3ad7538e5cd3d126
+945	3473	6822481525535515	CMakeFiles/app3-PieChartExample.dir/.rcc/qmlcache/app3-PieChartExample_main_qml.cpp.obj	8b88fa3e5b133659
+3473	3899	6822481529739491	app3-PieChartExample.exe	4b6cffee6a47fb0d
+24	83	6822482373856285	3-PieChartExample/main.qml	6e2ca62d6c5b2474
+24	83	6822482373856285	E:/Works/Qt Course/QMLCharts/build-3-PieChartExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/3-PieChartExample/main.qml	6e2ca62d6c5b2474
+16	588	6822482378904069	.qt_plugins/Qt6_QmlPlugins_Imports_app3-PieChartExample.cmake	6b67bda1c9bd411f
+16	588	6822482378904069	E:/Works/Qt Course/QMLCharts/build-3-PieChartExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app3-PieChartExample.cmake	6b67bda1c9bd411f
+594	635	6822482379399991	.rcc/qrc_app3-PieChartExample_raw_qml_0.cpp	38fb1ea7dd2653cb
+594	635	6822482379399991	E:/Works/Qt Course/QMLCharts/build-3-PieChartExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_app3-PieChartExample_raw_qml_0.cpp	38fb1ea7dd2653cb
+588	828	6822482381219240	.rcc/qmlcache/app3-PieChartExample_main_qml.cpp	7fbdd31920047f73
+588	828	6822482381219240	E:/Works/Qt Course/QMLCharts/build-3-PieChartExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/app3-PieChartExample_main_qml.cpp	7fbdd31920047f73
+833	958	6822482382662336	CMakeFiles/app3-PieChartExample.dir/.rcc/qrc_app3-PieChartExample_raw_qml_0.cpp.obj	3ad7538e5cd3d126
+828	3679	6822482409810485	CMakeFiles/app3-PieChartExample.dir/.rcc/qmlcache/app3-PieChartExample_main_qml.cpp.obj	8b88fa3e5b133659
+3679	4184	6822482414819720	app3-PieChartExample.exe	4b6cffee6a47fb0d

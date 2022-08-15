@@ -1,0 +1,4 @@
+module FrameLayoutExample
+typeinfo appFrameLayoutExample.qmltypes
+prefer :/FrameLayoutExample/
+

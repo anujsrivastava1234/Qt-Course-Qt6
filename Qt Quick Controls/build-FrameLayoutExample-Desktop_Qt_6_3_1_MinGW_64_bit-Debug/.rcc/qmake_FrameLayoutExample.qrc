@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/FrameLayoutExample">
+    <file alias="qmldir">E:/Works/Qt Course/Qt Quick Controls/build-FrameLayoutExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/FrameLayoutExample/qmldir</file>
+  </qresource>
+</RCC>
+

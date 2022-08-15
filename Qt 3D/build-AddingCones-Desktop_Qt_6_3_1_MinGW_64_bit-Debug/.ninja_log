@@ -1,0 +1,92 @@
+# ninja log v5
+113	156	6822552820112746	E:/Works/Qt Course/Qt 3D/build-AddingCones-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_appAddingCones_raw_qml_0.cpp	7b56563ec00ee585
+81	425	6822547785896874	appAddingCones_autogen/mocs_compilation.cpp	1230f2bb377a41f7
+5	81	6822547783892480	E:/Works/Qt Course/Qt 3D/build-AddingCones-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/appAddingCones_qmlcache_loader.cpp	cdf5d0272a43c0ca
+5	81	6822547783892480	.rcc/qmlcache/appAddingCones_qmlcache_loader.cpp	cdf5d0272a43c0ca
+81	425	6822547785896874	appAddingCones_autogen/timestamp	1230f2bb377a41f7
+23	106	6822552819583848	E:/Works/Qt Course/Qt 3D/build-AddingCones-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appAddingCones.cmake	81a74086759b75c6
+15	87	6822552819398991	AddingCones/main.qml	5b7fc1ec3ab3109
+15	87	6822552819398991	E:/Works/Qt Course/Qt 3D/build-AddingCones-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/AddingCones/main.qml	5b7fc1ec3ab3109
+626	789	6822547790102616	AddingCones/appAddingCones.qmltypes	4938b5eeaf1f6fb
+425	558	6822547788254974	meta_types/appAddingCones_json_file_list.txt.timestamp	31c1471803e90ff1
+23	106	6822552819583848	.qt_plugins/Qt6_QmlPlugins_Imports_appAddingCones.cmake	81a74086759b75c6
+81	425	6822547785896874	E:/Works/Qt Course/Qt 3D/build-AddingCones-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/appAddingCones_autogen/timestamp	1230f2bb377a41f7
+107	269	6822552821167406	.rcc/qmlcache/appAddingCones_main_qml.cpp	8c93e3a0a95dd3ba
+81	425	6822547785896874	E:/Works/Qt Course/Qt 3D/build-AddingCones-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/appAddingCones_autogen/mocs_compilation.cpp	1230f2bb377a41f7
+425	558	6822547788254974	E:/Works/Qt Course/Qt 3D/build-AddingCones-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/appAddingCones_json_file_list.txt.timestamp	31c1471803e90ff1
+425	558	6822547788254974	meta_types/appAddingCones_json_file_list.txt	31c1471803e90ff1
+425	558	6822547788254974	E:/Works/Qt Course/Qt 3D/build-AddingCones-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/appAddingCones_json_file_list.txt	31c1471803e90ff1
+430	565	6822547788385601	.rcc/qrc_qmake_AddingCones.cpp	d3a09fd7cae24805
+430	565	6822547788385601	E:/Works/Qt Course/Qt 3D/build-AddingCones-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_qmake_AddingCones.cpp	d3a09fd7cae24805
+113	156	6822552820112746	.rcc/qrc_appAddingCones_raw_qml_0.cpp	7b56563ec00ee585
+559	625	6822547789374641	meta_types/qt6appaddingcones_debug_metatypes.json.gen	a129067d16b02d7a
+559	625	6822547789374641	meta_types/qt6appaddingcones_debug_metatypes.json	a129067d16b02d7a
+559	625	6822547789374641	E:/Works/Qt Course/Qt 3D/build-AddingCones-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6appaddingcones_debug_metatypes.json.gen	a129067d16b02d7a
+559	625	6822547789374641	E:/Works/Qt Course/Qt 3D/build-AddingCones-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/meta_types/qt6appaddingcones_debug_metatypes.json	a129067d16b02d7a
+626	789	6822547790102616	appaddingcones_qmltyperegistrations.cpp	4938b5eeaf1f6fb
+626	789	6822547790102616	E:/Works/Qt Course/Qt 3D/build-AddingCones-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/appaddingcones_qmltyperegistrations.cpp	4938b5eeaf1f6fb
+1001	1211	6822547795135583	CMakeFiles/appAddingCones.dir/appAddingCones_autogen/mocs_compilation.cpp.obj	a54f095851a35bd1
+626	789	6822547790102616	E:/Works/Qt Course/Qt 3D/build-AddingCones-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/AddingCones/appAddingCones.qmltypes	4938b5eeaf1f6fb
+107	269	6822552821167406	E:/Works/Qt Course/Qt 3D/build-AddingCones-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/appAddingCones_main_qml.cpp	8c93e3a0a95dd3ba
+276	387	6822552822445566	CMakeFiles/appAddingCones.dir/.rcc/qrc_appAddingCones_raw_qml_0.cpp.obj	ef4cf64f2053e344
+1022	1226	6822547795316714	CMakeFiles/appAddingCones.dir/.rcc/qrc_qmake_AddingCones.cpp.obj	baa39abdcc5c80a9
+1007	3777	6822547820894814	CMakeFiles/appAddingCones.dir/appaddingcones_qmltyperegistrations.cpp.obj	23da85588cc733fe
+1014	4039	6822547823503503	CMakeFiles/appAddingCones.dir/main.cpp.obj	2998d414f1292c22
+270	2932	6822552847839278	CMakeFiles/appAddingCones.dir/.rcc/qmlcache/appAddingCones_main_qml.cpp.obj	bba5de8b7eaa8157
+1018	4504	6822547828101334	CMakeFiles/appAddingCones.dir/.rcc/qmlcache/appAddingCones_qmlcache_loader.cpp.obj	269428a57c72315c
+2933	3525	6822552853680086	appAddingCones.exe	3e3a767b81571748
+27	93	6822552926538147	AddingCones/main.qml	5b7fc1ec3ab3109
+27	93	6822552926538147	E:/Works/Qt Course/Qt 3D/build-AddingCones-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/AddingCones/main.qml	5b7fc1ec3ab3109
+18	95	6822552926568148	.qt_plugins/Qt6_QmlPlugins_Imports_appAddingCones.cmake	81a74086759b75c6
+18	95	6822552926568148	E:/Works/Qt Course/Qt 3D/build-AddingCones-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appAddingCones.cmake	81a74086759b75c6
+96	135	6822552926967830	.rcc/qrc_appAddingCones_raw_qml_0.cpp	7b56563ec00ee585
+96	135	6822552926967830	E:/Works/Qt Course/Qt 3D/build-AddingCones-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_appAddingCones_raw_qml_0.cpp	7b56563ec00ee585
+100	240	6822552927957318	.rcc/qmlcache/appAddingCones_main_qml.cpp	8c93e3a0a95dd3ba
+100	240	6822552927957318	E:/Works/Qt Course/Qt 3D/build-AddingCones-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/appAddingCones_main_qml.cpp	8c93e3a0a95dd3ba
+244	377	6822552929411101	CMakeFiles/appAddingCones.dir/.rcc/qrc_appAddingCones_raw_qml_0.cpp.obj	ef4cf64f2053e344
+240	3136	6822552956947122	CMakeFiles/appAddingCones.dir/.rcc/qmlcache/appAddingCones_main_qml.cpp.obj	bba5de8b7eaa8157
+3137	3691	6822552962491953	appAddingCones.exe	3e3a767b81571748
+15	59	6822553021901296	AddingCones/main.qml	5b7fc1ec3ab3109
+15	59	6822553021901296	E:/Works/Qt Course/Qt 3D/build-AddingCones-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/AddingCones/main.qml	5b7fc1ec3ab3109
+9	63	6822553021931715	.qt_plugins/Qt6_QmlPlugins_Imports_appAddingCones.cmake	81a74086759b75c6
+9	63	6822553021931715	E:/Works/Qt Course/Qt 3D/build-AddingCones-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appAddingCones.cmake	81a74086759b75c6
+68	106	6822553022377856	.rcc/qrc_appAddingCones_raw_qml_0.cpp	7b56563ec00ee585
+68	106	6822553022377856	E:/Works/Qt Course/Qt 3D/build-AddingCones-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_appAddingCones_raw_qml_0.cpp	7b56563ec00ee585
+63	241	6822553023576051	.rcc/qmlcache/appAddingCones_main_qml.cpp	8c93e3a0a95dd3ba
+63	241	6822553023576051	E:/Works/Qt Course/Qt 3D/build-AddingCones-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/appAddingCones_main_qml.cpp	8c93e3a0a95dd3ba
+246	379	6822553025118101	CMakeFiles/appAddingCones.dir/.rcc/qrc_appAddingCones_raw_qml_0.cpp.obj	ef4cf64f2053e344
+242	3257	6822553053874785	CMakeFiles/appAddingCones.dir/.rcc/qmlcache/appAddingCones_main_qml.cpp.obj	bba5de8b7eaa8157
+3257	3826	6822553059494771	appAddingCones.exe	3e3a767b81571748
+18	85	6822553389342175	AddingCones/main.qml	5b7fc1ec3ab3109
+18	85	6822553389342175	E:/Works/Qt Course/Qt 3D/build-AddingCones-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/AddingCones/main.qml	5b7fc1ec3ab3109
+29	98	6822553389477604	.qt_plugins/Qt6_QmlPlugins_Imports_appAddingCones.cmake	81a74086759b75c6
+29	98	6822553389477604	E:/Works/Qt Course/Qt 3D/build-AddingCones-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appAddingCones.cmake	81a74086759b75c6
+104	145	6822553389957196	.rcc/qrc_appAddingCones_raw_qml_0.cpp	7b56563ec00ee585
+104	145	6822553389957196	E:/Works/Qt Course/Qt 3D/build-AddingCones-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_appAddingCones_raw_qml_0.cpp	7b56563ec00ee585
+98	265	6822553391079121	.rcc/qmlcache/appAddingCones_main_qml.cpp	8c93e3a0a95dd3ba
+98	265	6822553391079121	E:/Works/Qt Course/Qt 3D/build-AddingCones-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/appAddingCones_main_qml.cpp	8c93e3a0a95dd3ba
+269	394	6822553392459919	CMakeFiles/appAddingCones.dir/.rcc/qrc_appAddingCones_raw_qml_0.cpp.obj	ef4cf64f2053e344
+265	3127	6822553419750703	CMakeFiles/appAddingCones.dir/.rcc/qmlcache/appAddingCones_main_qml.cpp.obj	bba5de8b7eaa8157
+3128	3623	6822553424674243	appAddingCones.exe	3e3a767b81571748
+16	84	6822553686390473	AddingCones/main.qml	5b7fc1ec3ab3109
+16	84	6822553686390473	E:/Works/Qt Course/Qt 3D/build-AddingCones-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/AddingCones/main.qml	5b7fc1ec3ab3109
+25	96	6822553686516369	.qt_plugins/Qt6_QmlPlugins_Imports_appAddingCones.cmake	81a74086759b75c6
+25	96	6822553686516369	E:/Works/Qt Course/Qt 3D/build-AddingCones-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appAddingCones.cmake	81a74086759b75c6
+101	140	6822553686983758	.rcc/qrc_appAddingCones_raw_qml_0.cpp	7b56563ec00ee585
+101	140	6822553686983758	E:/Works/Qt Course/Qt 3D/build-AddingCones-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_appAddingCones_raw_qml_0.cpp	7b56563ec00ee585
+96	282	6822553688267144	.rcc/qmlcache/appAddingCones_main_qml.cpp	8c93e3a0a95dd3ba
+96	282	6822553688267144	E:/Works/Qt Course/Qt 3D/build-AddingCones-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/appAddingCones_main_qml.cpp	8c93e3a0a95dd3ba
+289	438	6822553689967715	CMakeFiles/appAddingCones.dir/.rcc/qrc_appAddingCones_raw_qml_0.cpp.obj	ef4cf64f2053e344
+283	3376	6822553719330061	CMakeFiles/appAddingCones.dir/.rcc/qmlcache/appAddingCones_main_qml.cpp.obj	bba5de8b7eaa8157
+3376	3908	6822553724544411	appAddingCones.exe	3e3a767b81571748
+6	40	6822557018363357	AddingCones/main.qml	5b7fc1ec3ab3109
+6	40	6822557018363357	E:/Works/Qt Course/Qt 3D/build-AddingCones-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/AddingCones/main.qml	5b7fc1ec3ab3109
+9	47	6822557018426138	.qt_plugins/Qt6_QmlPlugins_Imports_appAddingCones.cmake	81a74086759b75c6
+9	47	6822557018426138	E:/Works/Qt Course/Qt 3D/build-AddingCones-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appAddingCones.cmake	81a74086759b75c6
+47	77	6822557018730964	.rcc/qrc_appAddingCones_raw_qml_0.cpp	7b56563ec00ee585
+47	77	6822557018730964	E:/Works/Qt Course/Qt 3D/build-AddingCones-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qrc_appAddingCones_raw_qml_0.cpp	7b56563ec00ee585
+51	167	6822557019586677	.rcc/qmlcache/appAddingCones_main_qml.cpp	8c93e3a0a95dd3ba
+51	167	6822557019586677	E:/Works/Qt Course/Qt 3D/build-AddingCones-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmlcache/appAddingCones_main_qml.cpp	8c93e3a0a95dd3ba
+171	258	6822557020536126	CMakeFiles/appAddingCones.dir/.rcc/qrc_appAddingCones_raw_qml_0.cpp.obj	ef4cf64f2053e344
+168	1904	6822557036995475	CMakeFiles/appAddingCones.dir/.rcc/qmlcache/appAddingCones_main_qml.cpp.obj	bba5de8b7eaa8157
+1904	2132	6822557039229424	appAddingCones.exe	3e3a767b81571748

@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/MenuBarExample/">
+    <file alias="main.qml">E:/Works/Qt Course/Qt Quick Controls/MenuBarExample/main.qml</file>
+  </qresource>
+</RCC>
+

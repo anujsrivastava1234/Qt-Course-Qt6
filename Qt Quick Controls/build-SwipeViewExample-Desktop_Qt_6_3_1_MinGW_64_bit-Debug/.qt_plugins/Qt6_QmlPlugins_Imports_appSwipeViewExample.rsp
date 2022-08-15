@@ -1,0 +1,12 @@
+-rootPath
+E:/Works/Qt Course/Qt Quick Controls/SwipeViewExample
+-cmake-output
+-output-file
+E:/Works/Qt Course/Qt Quick Controls/build-SwipeViewExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appSwipeViewExample.cmake
+-importPath
+C:/Qt/6.3.1/mingw_64/./qml
+E:/Works/Qt Course/Qt Quick Controls/build-SwipeViewExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/SwipeViewExample
+E:/Works/Qt Course/Qt Quick Controls/build-SwipeViewExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug
+-qrcFiles
+E:/Works/Qt Course/Qt Quick Controls/build-SwipeViewExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/qmake_SwipeViewExample.qrc
+E:/Works/Qt Course/Qt Quick Controls/build-SwipeViewExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.rcc/appSwipeViewExample_raw_qml_0.qrc
